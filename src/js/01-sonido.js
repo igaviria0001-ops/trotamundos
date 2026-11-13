@@ -45,6 +45,7 @@ const Sonido = {
       case 'genial': [523, 659, 784, 1047].forEach((f, i) => this.tono(f, t + i * .08, .6, { vol: .17 })); this.tono(2093, t + .34, .7, { tipo: 'sine', vol: .05 }); break;
       case 'medio': [587, 740].forEach((f, i) => this.tono(f, t + i * .1, .35, { vol: .15 })); break;
       case 'lejos': [440, 370].forEach((f, i) => this.tono(f, t + i * .13, .4, { tipo: 'sine', vol: .16 })); break;
+      case 'raspa': this.ruido(t, .07, { vol: .06, desde: 2600, hasta: 4200, q: .9 }); break;
       case 'pop': this.tono(560, t, .08, { tipo: 'sine', vol: .14, f2: 1100 }); break;
       case 'cuenta': this.tono(1200 + Math.random() * 200, t, .04, { tipo: 'square', vol: .02 }); break;
       case 'fin': [523, 659, 784, 1047, 1319].forEach((f, i) => this.tono(f, t + i * .11, .9, { vol: .16 })); break;

@@ -43,7 +43,7 @@ Pantallas.tiquete = (modoId) => {
             grupoChips('nivel', [1, 2, 3].map(k => ({ v: String(k), n: NIVELES[k].n, d: NIVELES[k].d }))
               .concat([{ v: 'mezcla', n: 'Mezcla', d: 'Un poco de todo' }]), '.rejilla')),
           h('div.campo', h('span.lbl', 'Escalas'),
-            grupoChips('rondas', [5, 10, 15].map(k => ({ v: k, n: `${k} postales` }))))),
+            grupoChips('rondas', [5, 10, 15].map(k => ({ v: k, n: `${k} ${modoId === 'postal' ? 'postales' : 'rondas'}` }))))),
         h('div.corte'),
         h('div.talon', h('div.talon-info', h('small', 'Lugares en este viaje'), cuenta), h('div.codigo', { html: codigoBarras() })))),
     h('div.pie-fijo', boton));
