@@ -1,10 +1,11 @@
-// Arma el juego: docs/index.html (todo el codigo, estilos, letras y datos) + docs/datos + docs/fotos
-// Uso: node build.js            -> docs/
+// Arma el juego en la raiz del repositorio (GitHub Pages: rama main, carpeta / (root)):
+//   index.html (todo el codigo, estilos, letras y datos) + datos/ ; las fotos ya viven en fotos/
+// Uso: node build.js
 const fs = require('fs');
 const path = require('path');
 const R = (...p) => path.join(__dirname, ...p);
 const read = p => fs.readFileSync(R(p), 'utf8');
-const OUT = R('docs');
+const OUT = R('.');
 
 function fonts() {
   const list = [
@@ -63,8 +64,9 @@ function build() {
   fs.writeFileSync(path.join(OUT, 'index.html'), html);
   fs.writeFileSync(path.join(OUT, 'datos', 'mapa-hi.json'), read('data/mapa-hi.json'));
   fs.writeFileSync(path.join(OUT, 'datos', 'banderas.json'), JSON.stringify(flags()));
-  const nf = copyDir(R('fotos'), path.join(OUT, 'fotos'), n => n.endsWith('.webp'));
-  console.log('docs/index.html', (html.length / 1024).toFixed(0) + ' KB', '| fotos', nf, '| lugares', data.embed.lugares.length);
+  fs.writeFileSync(path.join(OUT, '.nojekyll'), '');
+  const nf = fs.readdirSync(R('fotos')).filter(n => n.endsWith('.webp')).length;
+  console.log('index.html', (html.length / 1024).toFixed(0) + ' KB', '| fotos', nf, '| lugares', data.embed.lugares.length);
 }
 
 build();
