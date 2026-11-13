@@ -1,0 +1,190 @@
+{
+ "id": "gardensbay",
+ "enwiki": "Gardens by the Bay",
+ "endesc": "Nature park in Singapore",
+ "qid": "Q630135",
+ "coord": [
+  1.283319,
+  103.86527
+ ],
+ "label_es": "Jardines de la Bahía",
+ "desc_es": "parque urbano en Singapur",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+2012-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q22746"
+ ],
+ "p17": [
+  "Q334"
+ ],
+ "unesco": false,
+ "eswiki": "Jardines de la Bahía",
+ "extracto_es": "Los Jardines de la Bahía (Taman di Pesisiran en malayo, Gardens by the Bay en inglés, 滨海湾花园 en chino y வளைகுடா தோட்டம் en tamil) es un parque de Singapur de 105 ha (260 acres) levantadas en tierras ganadas al mar en la región de Singapur Central,​ adyacente a la reserva marítima.\nEstá formado por tres márgenes ajardinados: Central, Este y Sur siendo este último el más extenso con 54 ha (130 acres).\nEl parque forma parte de las políticas de Gobierno por hacer de Singapur una \"ciudad dentro de un jardín\" con el objetivo inicial de \"mejorar la calidad de vida junto a la flora y fauna\" de la ciudad.\nEn enero de 2006 dio comienzo un concurso internacional para entregar proyectos. En total se presentaron 170 firmas de veinticuatro países, entre las que se encuentran Grant Associates y Gustafson Porter, los cuales diseñaron la Bahía Sur y Este respectivamente.​\nEl parque gozó de tal popularidad que ante la alta demanda de visitantes, solo se pueden organizar tres eventos a la semana.​",
+ "candidatas": [
+  {
+   "file": "File:Singapore Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg",
+   "w": 5379,
+   "h": 3586,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg/330px-Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "CEphoto, Uwe Aranas",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "Taken on 20 February",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Cloud Forest, Gardens by the Bay, Singapore.jpg",
+   "w": 4095,
+   "h": 4095,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg/330px-Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cloud_Forest,_Gardens_by_the_Bay,_Singapore.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Basile Morin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-06 13:05:30",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Supertree Grove, Gardens by the Bay, Singapore - 20120712-02.jpg",
+   "w": 5760,
+   "h": 3840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg/330px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore_-_20120712-02.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Shiny Things.",
+   "credito": "Flickr: Supertree Forest.",
+   "nonfree": "",
+   "fecha": "2012-07-12 16:08:38",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Singapore (SG), Gardens By The Bay -- 2019 -- 4755.jpg",
+   "w": 6701,
+   "h": 4467,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Singapore_%28SG%29%2C_Gardens_By_The_Bay_--_2019_--_4755.jpg/330px-Singapore_%28SG%29%2C_Gardens_By_The_Bay_--_2019_--_4755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Singapore_%28SG%29%2C_Gardens_By_The_Bay_--_2019_--_4755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Gardens_By_The_Bay_--_2019_--_4755.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dietmar Rabich",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 6 November ",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gardens by the Bay nature park, Singapore (Ank Kumar, Infosys Limited) 05.jpg",
+   "w": 5485,
+   "h": 3657,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Gardens_by_the_Bay_nature_park%2C_Singapore_%28Ank_Kumar%2C_Infosys_Limited%29_05.jpg/330px-Gardens_by_the_Bay_nature_park%2C_Singapore_%28Ank_Kumar%2C_Infosys_Limited%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Gardens_by_the_Bay_nature_park%2C_Singapore_%28Ank_Kumar%2C_Infosys_Limited%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gardens_by_the_Bay_nature_park,_Singapore_(Ank_Kumar,_Infosys_Limited)_05.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ank Kumar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-08 15:29:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Gardens by the Bay nature park, Singapore (Ank Kumar, Infosys Limited) 03.jpg",
+   "w": 5602,
+   "h": 3734,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Gardens_by_the_Bay_nature_park%2C_Singapore_%28Ank_Kumar%2C_Infosys_Limited%29_03.jpg/330px-Gardens_by_the_Bay_nature_park%2C_Singapore_%28Ank_Kumar%2C_Infosys_Limited%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Gardens_by_the_Bay_nature_park%2C_Singapore_%28Ank_Kumar%2C_Infosys_Limited%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gardens_by_the_Bay_nature_park,_Singapore_(Ank_Kumar,_Infosys_Limited)_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ank Kumar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-08 15:26:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Flower Dome and Cloud Forest Singapore (36712606096).jpg",
+   "w": 3876,
+   "h": 2177,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Flower_Dome_and_Cloud_Forest_Singapore_%2836712606096%29.jpg/330px-Flower_Dome_and_Cloud_Forest_Singapore_%2836712606096%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flower_Dome_and_Cloud_Forest_Singapore_%2836712606096%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Flower_Dome_and_Cloud_Forest_Singapore_(36712606096).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "dronepicr",
+   "credito": "Flower Dome and Cloud Forest Singapore",
+   "nonfree": "",
+   "fecha": "Taken on 21 July 201",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Singapore (29213264567).jpg",
+   "w": 4608,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Singapore_%2829213264567%29.jpg/330px-Singapore_%2829213264567%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Singapore_%2829213264567%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Singapore_(29213264567).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Fabio Achilli from Milano, Italy",
+   "credito": "Singapore",
+   "nonfree": "",
+   "fecha": "2018-08-16 09:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

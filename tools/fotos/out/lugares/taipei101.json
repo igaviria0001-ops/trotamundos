@@ -1,0 +1,203 @@
+{
+ "id": "taipei101",
+ "enwiki": "Taipei 101",
+ "endesc": "Skyscraper in Taiwan",
+ "qid": "Q83101",
+ "coord": [
+  25.03361111111111,
+  121.56472222222222
+ ],
+ "label_es": "Taipei 101",
+ "desc_es": "rascacielos en Taipéi",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+2005-12-31T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+2005-11-14T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 508.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 2.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 412500.0,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q11303"
+ ],
+ "p17": [
+  "Q865"
+ ],
+ "unesco": false,
+ "eswiki": "Taipei 101",
+ "extracto_es": "El Taipei 101 es un rascacielos ubicado en Taipéi, Taiwán, que cuenta con 106 plantas (101 por encima del nivel del suelo y 5 subterráneas).​ Fue el edificio más alto del mundo entre 2003 y 2009.​ La aguja que corona sus 508 metros de altura lo convierte en el undécimo rascacielos más alto del mundo.​ También es uno de los rascacielos ecológicos más altos del mundo.​​\nEl edificio fue diseñado por el estudio de arquitectura C.Y. Lee & Partners Architects. La construcción principal fue realizada por KTRT Joint Venture, un consorcio liderado por la empresa japonesa Kumagai Gumi. Samsung C&T de Corea del Sur se encargó de los trabajos de interiorismo.​\nEl Taipei 101 comenzó a tomar forma en 1999, siendo terminado en 2004. Su coste total ha sido estimado en aproximadamente 1760 millones de dólares.​ Los muros cortina de vidrio azul verdoso, característicos de Taipei 101, tienen doble acristalamiento para proporcionar protección contra el calor y la radiación ultravioleta. Así, los paneles de vidrio pueden bloquear el calor externo en un 50 por ciento.​\nEl diseño del edificio está inspirado en elementos chinos, siendo construido de acuerdo con las enseñanzas del feng shui para proteger a sus inquilinos de las malas influencias.​ Al igual que otros edificios emblemáticos, al Taipei 101 le cambian a menudo su iluminación para festejar diferentes eventos.​ Su diseño conjuga motivos antiguos e ideas con técnicas y materiales modernos. Sus símbolos implican imágenes de optimismo y abundancia.",
+ "candidatas": [
+  {
+   "file": "File:Taipei 101 Firework 2021 - 50785077473.jpg",
+   "w": 5400,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Taipei_101_Firework_2021_-_50785077473.jpg/330px-Taipei_101_Firework_2021_-_50785077473.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Taipei_101_Firework_2021_-_50785077473.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taipei_101_Firework_2021_-_50785077473.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Artemas Liu",
+   "credito": "https://www.flickr.com/photos/north_blue/50785077473/",
+   "nonfree": "",
+   "fecha": "2021-01-01 00:02:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Taipei 101 20230401.jpg",
+   "w": 5760,
+   "h": 3840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Taipei_101_20230401.jpg/330px-Taipei_101_20230401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Taipei_101_20230401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taipei_101_20230401.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Xiaoanan1207",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-01-01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Taipei 101 91F Outdoor Observatory 2019.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Taipei_101_91F_Outdoor_Observatory_2019.jpg/330px-Taipei_101_91F_Outdoor_Observatory_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Taipei_101_91F_Outdoor_Observatory_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taipei_101_91F_Outdoor_Observatory_2019.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Wpcpey",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Taipei 101 Observatory 89F 2019.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Taipei_101_Observatory_89F_2019.jpg/330px-Taipei_101_Observatory_89F_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Taipei_101_Observatory_89F_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taipei_101_Observatory_89F_2019.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Wpcpey",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Taipei 101 Tuned Mass Damper 2010.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Taipei_101_Tuned_Mass_Damper_2010.jpg/330px-Taipei_101_Tuned_Mass_Damper_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Taipei_101_Tuned_Mass_Damper_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taipei_101_Tuned_Mass_Damper_2010.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Armand du Plessis",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-06-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Taipei 101 Firework 2022.jpg",
+   "w": 3840,
+   "h": 2160,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Taipei_101_Firework_2022.jpg/330px-Taipei_101_Firework_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Taipei_101_Firework_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taipei_101_Firework_2022.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sinsyuan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-01-01 00:05:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Taipei 101 Mall view 2019.jpg",
+   "w": 2272,
+   "h": 1704,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Taipei_101_Mall_view_2019.jpg/330px-Taipei_101_Mall_view_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Taipei_101_Mall_view_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taipei_101_Mall_view_2019.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Wpcpey",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:101 Tower (Taipei), 2005.jpg",
+   "w": 2560,
+   "h": 1920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/101_Tower_%28Taipei%29%2C_2005.jpg/330px-101_Tower_%28Taipei%29%2C_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/101_Tower_%28Taipei%29%2C_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:101_Tower_(Taipei),_2005.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Unknown authorUnknown author",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2005-04-21 09:07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  }
+ ]
+}

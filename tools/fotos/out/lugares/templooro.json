@@ -1,0 +1,199 @@
+{
+ "id": "templooro",
+ "enwiki": "Golden Temple",
+ "endesc": "Sikh religious site in Punjab, India",
+ "qid": "Q180422",
+ "coord": [
+  31.62,
+  74.876667
+ ],
+ "label_es": "Templo Dorado",
+ "desc_es": "lugar más sagrado para el sijismo",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1589-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q337986"
+ ],
+ "p17": [
+  "Q668"
+ ],
+ "unesco": false,
+ "eswiki": "Templo Dorado",
+ "extracto_es": "El Templo Dorado, conocido en la India como Harmandir Sahib, es un templo  ubicado en la localidad india de Amritsar, cerca de la frontera pakistaní (en el estado de Punjab). La mayoría de los sij lo visita por lo menos una vez en su vida, especialmente durante ocasiones especiales como alumbramiento, cumpleaños y matrimonio. \nLa piscina artificial en el sitio del templo fue completada por el cuarto gurú sij, Guru Ram Das, en 1577.​​ En 1604, Guru Arjan colocó una copia del Adi Granth en Harmandir Sahib.​​ El Gurdwara fue reconstruido repetidamente por los sijs después de que se convirtió en un objetivo de su persecución y fue destruido en 1746 por el Imperio mogol y en 1762 y 1764 por el Imperio durrani.​​​ El Maharaja Ranjit Singh, después de fundar el Imperio Sikh en 1799, lo reconstruyó en mármol y cobre en 1809, y revistió el santuario con pan de oro en 1830. Esto ha llevado al nombre de Templo Dorado.​​​\nEl Templo Dorado es espiritualmente el santuario más importante del sijismo. Se convirtió en un centro del Movimiento Singh Sabha entre 1883 y 1920, y el Movimiento Punjabi Suba entre 1947 y 1966. A principios de la década de 1980, la Gurdwara se convirtió en un centro de conflicto entre el gobierno indio y un movimiento liderado por Jarnail Singh Bhindranwale.​ En 1984, la primera ministra Indira Gandhi envió al Ejército indio como parte de la Operación Blue Star, lo que provocó la muerte de más de 1000 soldados y civiles, además de causar mucho daño en la Gurdwara y la destrucción del Akal Takht. El complejo fue reconstruido nuevamente después de los daños de 1984.​\nEl Templo Dorado es una casa de culto abierta para todas las personas, de todos los ámbitos de la vida y las religiones.​ Tiene una planta cuadrada con cuatro entradas y un camino de circunvalación alrededor de la piscina. Las cuatro entradas al gurudwara simbolizan la creencia sij en la igualdad y la visión sij de que todas las personas son bienvenidas a su lugar sagrado.​ El complejo es una colección de edificios alrededor del santuario y la piscina.​ Uno de ellos es Akal Takht, el principal centro de autoridad religiosa del sijismo.​ Los edificios adicionales incluyen una torre de reloj, las oficinas del Comité Gurdwara, un museo y un langar, una cocina gratuita administrada por la comunidad sij que ofrece una comida vegetariana a todos los visitantes sin discriminación.​ Más de 150 000 personas visitan el santuario sagrado todos los días para el culto.​ El 5 de enero de 2004 el «Sri",
+ "candidatas": [
+  {
+   "file": "File:Hamandir Sahib (Golden Temple).jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Hamandir_Sahib_%28Golden_Temple%29.jpg/330px-Hamandir_Sahib_%28Golden_Temple%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hamandir_Sahib_%28Golden_Temple%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hamandir_Sahib_(Golden_Temple).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-06-28",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 24,
+   "origen": "P18"
+  },
+  {
+   "file": "File:The Golden Temple of Amrithsar 7.jpg",
+   "w": 4176,
+   "h": 2784,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/330px-The_Golden_Temple_of_Amrithsar_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Golden_Temple_of_Amrithsar_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Golden_Temple_of_Amrithsar_7.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Shagil Kannur",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "05/10/2019 (accordin",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Sikh pilgrim at the Golden Temple (Harmandir Sahib) in Amritsar, India.jpg",
+   "w": 3008,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg/330px-Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sikh_pilgrim_at_the_Golden_Temple_(Harmandir_Sahib)_in_Amritsar,_India.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Paulrudd",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-03-16",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Golden Temple nighttime.jpg",
+   "w": 4377,
+   "h": 2918,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Golden_Temple_nighttime.jpg/330px-Golden_Temple_nighttime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Golden_Temple_nighttime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Temple_nighttime.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marsmux",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-03-23 21:10:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Atta Mandi Deori, Amritsar 02.jpg",
+   "w": 4661,
+   "h": 3107,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Atta_Mandi_Deori%2C_Amritsar_02.jpg/330px-Atta_Mandi_Deori%2C_Amritsar_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Atta_Mandi_Deori%2C_Amritsar_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Atta_Mandi_Deori,_Amritsar_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-05-05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Golden Temple, Amritsar 03.jpg",
+   "w": 4327,
+   "h": 2885,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Golden_Temple%2C_Amritsar_03.jpg/330px-Golden_Temple%2C_Amritsar_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Golden_Temple%2C_Amritsar_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-05-04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Golden Temple night view - IMG 6323-2.jpg",
+   "w": 5163,
+   "h": 2501,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Golden_Temple_night_view_-_IMG_6323-2.jpg/330px-Golden_Temple_night_view_-_IMG_6323-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Golden_Temple_night_view_-_IMG_6323-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Temple_night_view_-_IMG_6323-2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bijay Chaurasia",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-08-08 23:53:56",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:A final look at main shrine now before we depart (27161013349).jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/A_final_look_at_main_shrine_now_before_we_depart_%2827161013349%29.jpg/330px-A_final_look_at_main_shrine_now_before_we_depart_%2827161013349%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/A_final_look_at_main_shrine_now_before_we_depart_%2827161013349%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_final_look_at_main_shrine_now_before_we_depart_(27161013349).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "shankar s. from Dubai, united arab emirates",
+   "credito": "A final look at main shrine now before we depart",
+   "nonfree": "",
+   "fecha": "2017-12-01 00:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  }
+ ]
+}

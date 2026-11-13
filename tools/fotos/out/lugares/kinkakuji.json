@@ -1,0 +1,198 @@
+{
+ "id": "kinkakuji",
+ "enwiki": "Kinkaku-ji",
+ "endesc": "Zen Buddhist temple in Kyoto, Japan",
+ "qid": "Q270983",
+ "coord": [
+  35.0395,
+  135.7285
+ ],
+ "label_es": "Kinkaku-ji",
+ "desc_es": "templo budista de Japón",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1397-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 9.3,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q15835",
+  "Q5393308"
+ ],
+ "p17": [
+  "Q17"
+ ],
+ "unesco": false,
+ "eswiki": "Kinkaku-ji",
+ "extracto_es": "Kinkaku-ji (金閣寺, Kinkaku-ji?   lit. Templo del Pabellón de Oro) es el nombre informal del Rokuon-ji (鹿苑寺, Templo del jardín de los ciervos) en Kioto, Japón. Fue construido originalmente en 1397 como villa de descanso del shōgun Ashikaga Yoshimitsu, llamada Kitayama.​ Tras su muerte su hijo transformó el edificio en un templo Zen de la secta Rinzai. El templo se quemó varias veces durante la guerra Ōnin (siglo XV) y en 1950, cuando el novicio Hayashi Yoken prendió fuego al edificio. El edificio actual es una reconstrucción. \nForma parte del conjunto de Monumentos históricos de la antigua Kioto (ciudades de Kioto, Uji y Otsu) declarados Patrimonio de la Humanidad por la Unesco en el año 1994.",
+ "candidatas": [
+  {
+   "file": "File:Water reflection of Kinkaku-ji Temple a sunny day, Kyoto, Japan.jpg",
+   "w": 5928,
+   "h": 3335,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg/330px-Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Basile Morin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 13 June 201",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Golden Pavilion Kinkaku-ji water mirror 2024.jpg",
+   "w": 4000,
+   "h": 6000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg/330px-Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nacaru",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-02-24 02:59:21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 12,
+   "origen": "en"
+  },
+  {
+   "file": "File:Golden Pavilion Kinkaku-ji 2024.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Golden_Pavilion_Kinkaku-ji_2024.jpg/330px-Golden_Pavilion_Kinkaku-ji_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Golden_Pavilion_Kinkaku-ji_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Pavilion_Kinkaku-ji_2024.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nacaru",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-02-24 02:54:13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kinkaku-ji the Golden Temple in Kyoto overlooking the lake - high rez.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG/330px-Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jaycangel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-11-28 03:51:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Kinkaku3402CBcropped.jpg",
+   "w": 2125,
+   "h": 1489,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kinkaku3402CBcropped.jpg/330px-Kinkaku3402CBcropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kinkaku3402CBcropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kinkaku3402CBcropped.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Fg2",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Kyoto Rokuon-ji Kinkaku-ji d126.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kyoto_Rokuon-ji_Kinkaku-ji_d126.jpg/330px-Kyoto_Rokuon-ji_Kinkaku-ji_d126.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Kyoto_Rokuon-ji_Kinkaku-ji_d126.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kyoto_Rokuon-ji_Kinkaku-ji_d126.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hyppolyte de Saint-Rambert",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-03 04:39:38",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kyoto Rokuon-ji Kinkaku-ji b15.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Kyoto_Rokuon-ji_Kinkaku-ji_b15.jpg/330px-Kyoto_Rokuon-ji_Kinkaku-ji_b15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Kyoto_Rokuon-ji_Kinkaku-ji_b15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kyoto_Rokuon-ji_Kinkaku-ji_b15.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hyppolyte de Saint-Rambert",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-02-09 03:07:18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Golden Pavillion 2010 03 29 32.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Golden_Pavillion_2010_03_29_32.jpg/330px-Golden_Pavillion_2010_03_29_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Golden_Pavillion_2010_03_29_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Pavillion_2010_03_29_32.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "AllyUnion",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-03-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

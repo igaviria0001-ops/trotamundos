@@ -1,0 +1,209 @@
+{
+ "id": "granpalacio",
+ "enwiki": "Grand Palace",
+ "endesc": "Royal residence in Bangkok, Thailand",
+ "qid": "Q873769",
+ "coord": [
+  13.750138888889,
+  100.49202777778
+ ],
+ "label_es": "Gran Palacio de Bangkok",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1782-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1782-06-10T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "area": [
+  {
+   "v": 244000.0,
+   "u": "Q25343"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 22064968.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q53536964",
+  "Q839954",
+  "Q111286333",
+  "Q2087181"
+ ],
+ "p17": [
+  "Q869"
+ ],
+ "unesco": false,
+ "eswiki": "Gran Palacio de Bangkok",
+ "extracto_es": "El Gran Palacio Real (en tailandés: พระบรมมหาราชวัง, Phra Borom Maha Ratcha Wang) es un complejo de edificios en Bangkok, Tailandia, que sirvió como residencia oficial del rey de Tailandia desde el siglo XVIII hasta mediados del siglo XX. Con la muerte del rey Ananda Mahidol (1925–1946) en el Palacio de Baromphiman, el rey Bhumibol Adulyadej trasladó la residencia oficial al Palacio Chitralada.\nLa construcción del conjunto del complejo palaciego se inició en 1792, durante el reinado de Rama I. Se encuentra situado al este del río Chao Phraya, protegido por el mismo. El resto del complejo se encuentra defendido por una valla de 1.900 metros de longitud que agrupa un área de 218.400 metros cuadrados. Más allá de la cerca se encuentra un canal, creado también con propósitos defensivos. Así la zona asemeja una isla, conocida como Rattanakosin. Los lugares más destacadas son el templo Wat Phra Kaew, que contiene al Buda de Esmeralda, y el edificio de estilo renacentista italiano Chakri Mahaprasad Hall.",
+ "candidatas": [
+  {
+   "file": "File:Grand Kremlin Palace in summer sunset light 2025-8.jpg",
+   "w": 6256,
+   "h": 4480,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Grand_Kremlin_Palace_in_summer_sunset_light_2025-8.jpg/330px-Grand_Kremlin_Palace_in_summer_sunset_light_2025-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Grand_Kremlin_Palace_in_summer_sunset_light_2025-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_Kremlin_Palace_in_summer_sunset_light_2025-8.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Юрий Д.К.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 15 August 2",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:0005574 - Wat Phra Kaew 006.jpg",
+   "w": 4256,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/0005574_-_Wat_Phra_Kaew_006.jpg/330px-0005574_-_Wat_Phra_Kaew_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/0005574_-_Wat_Phra_Kaew_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:0005574_-_Wat_Phra_Kaew_006.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Preecha.MJ",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-04-29 05:35:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Phra Thinang Dusit Maha Prasat photo Don Ramey Logan.jpg",
+   "w": 4800,
+   "h": 3200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Phra_Thinang_Dusit_Maha_Prasat_photo_Don_Ramey_Logan.jpg/330px-Phra_Thinang_Dusit_Maha_Prasat_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Phra_Thinang_Dusit_Maha_Prasat_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Phra_Thinang_Dusit_Maha_Prasat_photo_Don_Ramey_Logan.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Don Ramey Logan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-03-02 23:18:51",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:0005574-พระบรมมหาราชวังและวัดพระศรีรัตนราศดาราม.jpg",
+   "w": 4256,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/0005574-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1.jpg/330px-0005574-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/0005574-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:0005574-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Preecha.MJ",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-01-13 06:31:19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Grand Palace Bangkok, Thailand.jpg",
+   "w": 6158,
+   "h": 3464,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Grand_Palace_Bangkok%2C_Thailand.jpg/330px-Grand_Palace_Bangkok%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Grand_Palace_Bangkok%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_Palace_Bangkok,_Thailand.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Andy Marchand",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-04-10 03:21:33",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:A roof of a building at the Grand Palace, Bangkok, sunrise, 2017.jpg",
+   "w": 5813,
+   "h": 3865,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/330px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_roof_of_a_building_at_the_Grand_Palace,_Bangkok,_sunrise,_2017.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bjørn Erik Pedersen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-01-26 02:09:18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Phra Thinang Chakri Maha Prasat (II) BKK.jpg",
+   "w": 4700,
+   "h": 2644,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Phra_Thinang_Chakri_Maha_Prasat_%28II%29_BKK.jpg/330px-Phra_Thinang_Chakri_Maha_Prasat_%28II%29_BKK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Phra_Thinang_Chakri_Maha_Prasat_%28II%29_BKK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Phra_Thinang_Chakri_Maha_Prasat_(II)_BKK.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-04-08 09:22:06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Chief Residence of the Grand Palace.jpg",
+   "w": 2052,
+   "h": 1161,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Chief_Residence_of_the_Grand_Palace.jpg/330px-Chief_Residence_of_the_Grand_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Chief_Residence_of_the_Grand_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chief_Residence_of_the_Grand_Palace.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Gisling",
+   "credito": "This image has been extracted from another file",
+   "nonfree": "",
+   "fecha": "2017-09-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  }
+ ]
+}

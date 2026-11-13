@@ -1,0 +1,209 @@
+{
+ "id": "marinabay",
+ "enwiki": "Marina Bay Sands",
+ "endesc": "Integrated resort in Singapore",
+ "qid": "Q548679",
+ "coord": [
+  1.2825,
+  103.86
+ ],
+ "label_es": "Marina Bay Sands",
+ "desc_es": "complejo turístico y hotelero de Singapur",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+2010-06-23T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+2010-06-23T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "p31": [
+  "Q27686",
+  "Q6043159",
+  "Q18142"
+ ],
+ "p17": [
+  "Q334"
+ ],
+ "unesco": false,
+ "eswiki": "Marina Bay Sands",
+ "extracto_es": "El Marina Bay Sands es un complejo de edificios de Singapur, localizado frente a Marina Bay y desarrollado por Las Vegas Sands que está considerado como el casino independiente más costoso del mundo (valorado en US$ 5.700 millones, incluido el coste del solar).​​\nEl conjunto cuenta con tres torres hoteleras con 2.560 habitaciones, un centro de convenciones y exposiciones de 120.000 m², un centro comercial, un museo de Arte y Ciencia, dos teatros Arenas, seis restaurantes de cocineros de prestigio (celebrity chef), dos pabellones flotantes y un casino con 500 mesas y 1.600 máquinas tragamonedas. Las 20 hectáreas del complejo fueron diseñadas por Moshe Safdie Arquitectos y la ingeniería corrió a cargo de Arup y Parsons Brinkerhoff (MEP). Safdie también diseñó una ruta artística dentro del complejo, incorporando siete instalaciones de cinco artistas como Sol Lewitt, Antony Gormley y Zheng Chongbin, cuyas piezas incluyen efectos ambientales de luz, agua y viento, integrando el arte con la arquitectura.​\nEl núcleo del complejo está formado por tres torres independientes de 206,9 metros de altura y 57 plantas destinadas a hotel,​​ coronadas por una única plataforma apoyada sobre ellas a modo de terraza abierta —de 340 m de largo y más de una hectárea de superficie— y que finaliza en uno de los lados en la mayor plataforma pública en voladizo del mundo, sobrevolando la torre norte unos 67 m.​​\nLa plataforma elevada se destina a un parque al aire libre, Sands Sky Park, que cuenta con la piscina elevada más larga del mundo, con un borde invisible de 150 m y situado a 200 m sobre el suelo, que tiene una capacidad de 3.900 personas. La piscina está construida con 181,6 toneladas de acero inoxidable y tiene una capacidad de 1440 m³ de agua. El Skypark también cuenta con restaurantes en la azotea, discotecas, jardines cientos de árboles y plantas y un observatorio público con vistas de 360 grados del skyline de Singapur.\nEl museo de Arte y Ciencia se construye junto a los tres bloques y tiene la forma de una flor de loto. Su techo será retráctil, proporcionando una cascada a través del techo del agua de lluvia recogida cuando esté cerrado por el día y con juegos de luces láser cuando se abra por la noche. \nOriginalmente programado para abrir en 2009, Las Vegas Sands enfrentó retrasos causados por la escalada de costes de los materiales y la escasez de mano de obra desde el principio. La grave crisis financiera mundial también presionó a la compañía a retrasar sus proye",
+ "candidatas": [
+  {
+   "file": "File:Puente Helix, museo ArtScience y hotel Marina Bay Sands, Marina Bay, Singapur, 2023-08-17, DD 67-69 HDR.jpg",
+   "w": 7533,
+   "h": 4279,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Puente_Helix%2C_museo_ArtScience_y_hotel_Marina_Bay_Sands%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_67-69_HDR.jpg/330px-Puente_Helix%2C_museo_ArtScience_y_hotel_Marina_Bay_Sands%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_67-69_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Puente_Helix%2C_museo_ArtScience_y_hotel_Marina_Bay_Sands%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_67-69_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puente_Helix,_museo_ArtScience_y_hotel_Marina_Bay_Sands,_Marina_Bay,_Singapur,_2023-08-17,_DD_67-69_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-08-17 13:48:58",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Puente Helix, Marina Bay, Singapur, 2023-08-16, DD 144-146 HDR.jpg",
+   "w": 8291,
+   "h": 4868,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Puente_Helix%2C_Marina_Bay%2C_Singapur%2C_2023-08-16%2C_DD_144-146_HDR.jpg/330px-Puente_Helix%2C_Marina_Bay%2C_Singapur%2C_2023-08-16%2C_DD_144-146_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Puente_Helix%2C_Marina_Bay%2C_Singapur%2C_2023-08-16%2C_DD_144-146_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puente_Helix,_Marina_Bay,_Singapur,_2023-08-16,_DD_144-146_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-08-16 16:48:05",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Apple Marina Bay Sands, Marina Bay, Singapur, 2023-08-16, DD 105-107 HDR.jpg",
+   "w": 8125,
+   "h": 4426,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Apple_Marina_Bay_Sands%2C_Marina_Bay%2C_Singapur%2C_2023-08-16%2C_DD_105-107_HDR.jpg/330px-Apple_Marina_Bay_Sands%2C_Marina_Bay%2C_Singapur%2C_2023-08-16%2C_DD_105-107_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Apple_Marina_Bay_Sands%2C_Marina_Bay%2C_Singapur%2C_2023-08-16%2C_DD_105-107_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Apple_Marina_Bay_Sands,_Marina_Bay,_Singapur,_2023-08-16,_DD_105-107_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-08-16 15:22:22",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Interior of The Shoppes at Marina Bay Sands, Singapore.jpg",
+   "w": 6720,
+   "h": 4480,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Interior_of_The_Shoppes_at_Marina_Bay_Sands%2C_Singapore.jpg/330px-Interior_of_The_Shoppes_at_Marina_Bay_Sands%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Interior_of_The_Shoppes_at_Marina_Bay_Sands%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Interior_of_The_Shoppes_at_Marina_Bay_Sands,_Singapore.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Basile Morin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-05 17:50:56",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Marina Bay Sands (I).jpg",
+   "w": 6366,
+   "h": 4244,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Marina_Bay_Sands_%28I%29.jpg/330px-Marina_Bay_Sands_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Marina_Bay_Sands_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_(I).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-18 17:30:07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Merlión, Marina Bay, Singapur, 2023-08-18, DD 45-47 HDR.jpg",
+   "w": 6513,
+   "h": 5325,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Merli%C3%B3n%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_45-47_HDR.jpg/330px-Merli%C3%B3n%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_45-47_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Merli%C3%B3n%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_45-47_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Merli%C3%B3n,_Marina_Bay,_Singapur,_2023-08-18,_DD_45-47_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-08-18 13:47:40",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lighted polyhedral building Louis Vuitton in Singapore.jpg",
+   "w": 6510,
+   "h": 2604,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Lighted_polyhedral_building_Louis_Vuitton_in_Singapore.jpg/330px-Lighted_polyhedral_building_Louis_Vuitton_in_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Lighted_polyhedral_building_Louis_Vuitton_in_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lighted_polyhedral_building_Louis_Vuitton_in_Singapore.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Basile Morin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-05 18:16:21",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Marina Bay Sands Hotel 3 (31345110894).jpg",
+   "w": 4536,
+   "h": 2816,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Marina_Bay_Sands_Hotel_3_%2831345110894%29.jpg/330px-Marina_Bay_Sands_Hotel_3_%2831345110894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Marina_Bay_Sands_Hotel_3_%2831345110894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_Hotel_3_(31345110894).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Tony Hisgett from Birmingham, UK",
+   "credito": "Marina Bay Sands Hotel 3",
+   "nonfree": "",
+   "fecha": "2016-12-12 18:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  }
+ ]
+}

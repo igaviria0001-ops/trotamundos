@@ -1,0 +1,202 @@
+{
+ "id": "skytree",
+ "enwiki": "Tokyo Skytree",
+ "endesc": "Broadcasting and observation tower in Japan",
+ "qid": "Q57965",
+ "coord": [
+  35.710055555555556,
+  139.8107222222222
+ ],
+ "label_es": "Tokyo Skytree",
+ "desc_es": "rascacielos de Tokio, Japón",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+2012-05-22T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+2012-05-22T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 634.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q1440300",
+  "Q11166728",
+  "Q1068623",
+  "Q1798641"
+ ],
+ "p17": [
+  "Q17"
+ ],
+ "unesco": false,
+ "eswiki": "Tokyo Skytree",
+ "extracto_es": "Tokyo Skytree (東京 スカイ ツリー, Tōkyō Sukai Tsurī?),​ antes conocida como la Nueva Torre de Tokio, es una torre de radiodifusión, restaurante y mirador construida en Sumida, Tokio, Japón. Es la estructura artificial más alta en Japón desde 2010. Con una altura de 634 m, fue completada el 29 de febrero de 2012 e inaugurada el 22 de mayo de ese año.\nEl proyecto fue liderado por Tobu Railway y un grupo de seis emisoras terrestres (encabezada por la cadena pública NHK). La estructura completa es el punto culminante de un desarrollo comercial masivo, ya que se encuentra equidistante entre las estaciones de Narihirabashi y Oshiage.\nUno de los propósitos principales de la Tokyo Skytree es ser una torre de televisión y radiodifusión. La torre de radiodifusión actual de Tokio, la Torre de Tokio, tenía una altura original de 333 m, aunque perdió su antena analógica el 14 de julio de 2012, quedándose en 315 m de altura, y ya no es lo suficientemente alta como para dar cobertura digital completa, ya que está rodeada de muchos edificios de gran altura.\nLa Tokyo Skytree es la torre más alta del mundo, no considerando así a los edificios, superando a la Torre de televisión de Cantón (600 m, 1969 pies), la estructura más alta en una isla, más alta que el Taipei 101 y la tercera estructura más alta del mundo después del Burj Khalifa, y el Merdeka 118",
+ "candidatas": [
+  {
+   "file": "File:Worm's-eye view of Tokyo Skytree with vertical symmetry impression, a sunny day, in Japan.jpg",
+   "w": 6241,
+   "h": 4161,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg/330px-Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression,_a_sunny_day,_in_Japan.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Basile Morin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-14 07:55:07",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Tokyo Skytree 2014 Ⅲ.jpg",
+   "w": 1632,
+   "h": 2500,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tokyo_Skytree_2014_%E2%85%A2.jpg/330px-Tokyo_Skytree_2014_%E2%85%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tokyo_Skytree_2014_%E2%85%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_2014_%E2%85%A2.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Kakidai",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 26 December",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "en"
+  },
+  {
+   "file": "File:Tokyo Skytree 20170208.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tokyo_Skytree_20170208.jpg/330px-Tokyo_Skytree_20170208.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tokyo_Skytree_20170208.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_20170208.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Suicasmo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 8 February ",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Tokyo Skytree above Sumida.jpg",
+   "w": 5784,
+   "h": 3931,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Tokyo_Skytree_above_Sumida.jpg/330px-Tokyo_Skytree_above_Sumida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tokyo_Skytree_above_Sumida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_above_Sumida.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Sashimi-b",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-07-02 11:29:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2012年隅田川花火大会.jpg",
+   "w": 4800,
+   "h": 3200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/2012%E5%B9%B4%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg/330px-2012%E5%B9%B4%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2012%E5%B9%B4%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2012%E5%B9%B4%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg",
+   "licencia": "CC BY 2.1 jp",
+   "licurl": "cc-by-2.1-jp",
+   "autor": "てんどん",
+   "credito": "http://photozou.jp/photo/show/141110/145311514",
+   "nonfree": "",
+   "fecha": "Taken on 28 July 201",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Aerial view of tokyo skytree.jpg",
+   "w": 4471,
+   "h": 2981,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Aerial_view_of_tokyo_skytree.jpg/330px-Aerial_view_of_tokyo_skytree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Aerial_view_of_tokyo_skytree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_tokyo_skytree.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ian G Shingler",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-10-05 07:12:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Tokyo , 東京 - Flickr - Melvin Loi (1).jpg",
+   "w": 7728,
+   "h": 5152,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Tokyo_%2C_%E6%9D%B1%E4%BA%AC_-_Flickr_-_Melvin_Loi_%281%29.jpg/330px-Tokyo_%2C_%E6%9D%B1%E4%BA%AC_-_Flickr_-_Melvin_Loi_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tokyo_%2C_%E6%9D%B1%E4%BA%AC_-_Flickr_-_Melvin_Loi_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tokyo_,_%E6%9D%B1%E4%BA%AC_-_Flickr_-_Melvin_Loi_(1).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Melvin Loi from Macau, Macau",
+   "credito": "Tokyo | 東京",
+   "nonfree": "",
+   "fecha": "4 February 2026, 17:",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Tokyo Sky Tree under construction.20090428.jpg",
+   "w": 1200,
+   "h": 900,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Tokyo_Sky_Tree_under_construction.20090428.jpg/330px-Tokyo_Sky_Tree_under_construction.20090428.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Tokyo_Sky_Tree_under_construction.20090428.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Sky_Tree_under_construction.20090428.jpg",
+   "licencia": "Attribution",
+   "licurl": "",
+   "autor": "国土地理院",
+   "credito": "国土情報ウェブマッピングシステム",
+   "nonfree": "",
+   "fecha": "2009-04-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P8592"
+  }
+ ]
+}

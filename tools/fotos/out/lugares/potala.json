@@ -1,0 +1,206 @@
+{
+ "id": "potala",
+ "enwiki": "Potala Palace",
+ "endesc": "Fortress in Lhasa, Tibet",
+ "qid": "Q71229",
+ "coord": [
+  29.657777777777778,
+  91.11694444444444
+ ],
+ "label_es": "Potala",
+ "desc_es": "palacio budista en Lasha, antigua residencia del Dalai Lama",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0637-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 117.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 13.0,
+   "u": "Q35852"
+  }
+ ],
+ "largo": [
+  {
+   "v": 400.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q16560",
+  "Q5393308",
+  "Q4588528",
+  "Q6838244"
+ ],
+ "p17": [
+  "Q2444884",
+  "Q148"
+ ],
+ "unesco": false,
+ "eswiki": "Potala",
+ "extracto_es": "El Potala o templo de Lhasa es la máxima expresión de la arquitectura tibetana y residencia de los dalái lama desde que Lozang Gyatso lo fundó en 1648 en Lhasa, la capital del Tíbet. Fue la residencia de los máximos representantes del budismo hasta 1959, cuando el decimocuarto dalái lama Tenzin Gyatso se exilió a Dharamsala (India) debido a la revuelta popular contra China.​\nEl monumento se sitúa sobre la llamada Colina Roja, a una altitud de 3650 metros sobre el nivel del mar,​​ y alcanza 400 m en su eje este-oeste y 350 en el norte-sur. Sus muros de piedra inclinados tienen un grosor medio de tres metros (de cinco en la base); sobre sus cimientos se vierte cobre para proteger la estructura contra los terremotos.​ Potala cuenta con edificios de trece pisos, con más de mil habitaciones, diez mil santuarios y unas doscientas mil estatuas, que se elevan 117 m sobre la colina.​\nFue clasificado como Patrimonio de la Humanidad por la Unesco, en el año 1994.​ Esta declaración se amplió en los años 2000 y 2001, para abarcar a los monumentos vecinos del palacio Norbulingka y el templo de Jokhang.​ En 2017 recibió más de 1,45 millones de visitantes, un 5,8 % más que el período anterior; ante la masificación turística las autoridades locales decidieron limitar el acceso diario a un máximo de cinco mil personas durante la temporada alta.​",
+ "candidatas": [
+  {
+   "file": "File:Potala.jpg",
+   "w": 2592,
+   "h": 1728,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Potala.jpg/330px-Potala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Potala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Potala.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Ondřej Žváček",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-05-23",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 13,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Potala palace24.jpg",
+   "w": 3540,
+   "h": 2104,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Potala_palace24.jpg/330px-Potala_palace24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Potala_palace24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Potala_palace24.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Antoine Taveneaux",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Potala Palace HQ.jpg",
+   "w": 1920,
+   "h": 1080,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Potala_Palace_HQ.jpg/330px-Potala_Palace_HQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Potala_Palace_HQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Potala_Palace_HQ.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lhasa Government",
+   "credito": "http://www.lasa.gov.cn/lasa/sybg/201909/c6c621e59ea14af69090b6aaa9f6b6bc/images/5ecb779a68ba4dea978122034ff52410.jpg",
+   "nonfree": "",
+   "fecha": "2020-10-13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Potala Palace (23651397662).jpg",
+   "w": 4414,
+   "h": 3319,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Potala_Palace_%2823651397662%29.jpg/330px-Potala_Palace_%2823651397662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Potala_Palace_%2823651397662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Potala_Palace_(23651397662).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Laika ac from UK",
+   "credito": "Potala Palace",
+   "nonfree": "",
+   "fecha": "2015-09-28 10:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Inside the Potala Palace in Lhasa, Tibet.jpg",
+   "w": 2794,
+   "h": 1868,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Inside_the_Potala_Palace_in_Lhasa%2C_Tibet.jpg/330px-Inside_the_Potala_Palace_in_Lhasa%2C_Tibet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Inside_the_Potala_Palace_in_Lhasa%2C_Tibet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Inside_the_Potala_Palace_in_Lhasa,_Tibet.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jan Kranendonk (https://www.jankranendonk.nl)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1987",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Courtyard of the Potala Palace in Lhasa, Tibet.jpg",
+   "w": 2831,
+   "h": 1899,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Courtyard_of_the_Potala_Palace_in_Lhasa%2C_Tibet.jpg/330px-Courtyard_of_the_Potala_Palace_in_Lhasa%2C_Tibet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Courtyard_of_the_Potala_Palace_in_Lhasa%2C_Tibet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Courtyard_of_the_Potala_Palace_in_Lhasa,_Tibet.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jan Kranendonk (https://www.jankranendonk.nl)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1987",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Potala Palace, August 2009.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Potala_Palace%2C_August_2009.jpg/330px-Potala_Palace%2C_August_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Potala_Palace%2C_August_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Potala_Palace,_August_2009.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Antoine Taveneaux",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:048 Potala (3).JPG",
+   "w": 2272,
+   "h": 1704,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/048_Potala_%283%29.JPG/330px-048_Potala_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/048_Potala_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:048_Potala_(3).JPG",
+   "licencia": "GFDL",
+   "licurl": "",
+   "autor": "Ljuba brank at Slovenian Wikipedia",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-05-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  }
+ ]
+}

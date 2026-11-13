@@ -1,0 +1,207 @@
+{
+ "id": "tanahlot",
+ "enwiki": "Tanah Lot",
+ "endesc": "Rock formation off the coast of Bali, Indonesia",
+ "qid": "Q515253",
+ "coord": [
+  -8.62113889,
+  115.08675
+ ],
+ "label_es": "Templo de Tanah Lot",
+ "desc_es": null,
+ "inicio": [],
+ "visitantes": [
+  {
+   "v": 3123205.0,
+   "u": "1"
+  },
+  {
+   "v": 3179617.0,
+   "u": "1"
+  },
+  {
+   "v": 3524335.0,
+   "u": "1"
+  },
+  {
+   "v": 3497825.0,
+   "u": "1"
+  },
+  {
+   "v": 3335822.0,
+   "u": "1"
+  },
+  {
+   "v": 2797126.0,
+   "u": "1"
+  },
+  {
+   "v": 587565.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q3124902",
+  "Q842402"
+ ],
+ "p17": [
+  "Q252"
+ ],
+ "unesco": false,
+ "eswiki": "Templo de Tanah Lot",
+ "extracto_es": "El templo de Tanahs Lot (en indonesio: pura Luhur Tanah Lot; lit. ‘templo de la Tierra en Medio del Mar’) es uno de los más importantes templos del mar en Bali, Indonesia, \nTanah Lot es una formación rocosa junto a la costa sur de la isla de Bali. La roca es conocida por el pura (templo hindú balinés) allí existente, llamado Pura Tanah Lot (literalmente Templo de Tanah Lot), un lugar de peregrinación que también es muy popular entre los turistas y una de las imágenes icónicas de Bali.​",
+ "candidatas": [
+  {
+   "file": "File:TanahLot 2014.JPG",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/TanahLot_2014.JPG/330px-TanahLot_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/TanahLot_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:TanahLot_2014.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Grayswoodsurrey",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-07-10 04:16:45",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Bali - Pura Tanah Lot, 20220827 1005 1141.jpg",
+   "w": 3090,
+   "h": 2063,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Bali_-_Pura_Tanah_Lot%2C_20220827_1005_1141.jpg/330px-Bali_-_Pura_Tanah_Lot%2C_20220827_1005_1141.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bali_-_Pura_Tanah_Lot%2C_20220827_1005_1141.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bali_-_Pura_Tanah_Lot,_20220827_1005_1141.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-08-27 10:05:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Tanah Lot rays.jpg",
+   "w": 5763,
+   "h": 3842,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Tanah_Lot_rays.jpg/330px-Tanah_Lot_rays.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tanah_Lot_rays.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tanah_Lot_rays.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Zexsen Xie",
+   "credito": "https://www.flickr.com/photos/zexsenxiephotography/14404037782/",
+   "nonfree": "",
+   "fecha": "2013-04-09 17:24:29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Tanah Lot beautiful sunset.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tanah_Lot_beautiful_sunset.jpg/330px-Tanah_Lot_beautiful_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tanah_Lot_beautiful_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tanah_Lot_beautiful_sunset.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Pinterpandai",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-10-20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:031 Makara, The Tanah Lot Area, Tabanan, Bali, photograph by Anandajoti Bhikkhu.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/031_Makara%2C_The_Tanah_Lot_Area%2C_Tabanan%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg/330px-031_Makara%2C_The_Tanah_Lot_Area%2C_Tabanan%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/031_Makara%2C_The_Tanah_Lot_Area%2C_Tabanan%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:031_Makara,_The_Tanah_Lot_Area,_Tabanan,_Bali,_photograph_by_Anandajoti_Bhikkhu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Anandajoti",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-14 09:37:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:032 Guardians of the Gate, The Tanah Lot Area, Tabanan, Bali, photograph by Anandajoti Bhikkhu.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/032_Guardians_of_the_Gate%2C_The_Tanah_Lot_Area%2C_Tabanan%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg/330px-032_Guardians_of_the_Gate%2C_The_Tanah_Lot_Area%2C_Tabanan%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/032_Guardians_of_the_Gate%2C_The_Tanah_Lot_Area%2C_Tabanan%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:032_Guardians_of_the_Gate,_The_Tanah_Lot_Area,_Tabanan,_Bali,_photograph_by_Anandajoti_Bhikkhu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Anandajoti",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-14 09:37:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:1 pura batu balong tanah lot.jpg",
+   "w": 4256,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/1_pura_batu_balong_tanah_lot.jpg/330px-1_pura_batu_balong_tanah_lot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/1_pura_batu_balong_tanah_lot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_pura_batu_balong_tanah_lot.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "chensiyuan",
+   "credito": "chensiyuan",
+   "nonfree": "",
+   "fecha": "2011",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Jl. Tanah Lot, Beraban, Kediri, Kabupaten Tabanan, Bali, Indonesia - panoramio.jpg",
+   "w": 3776,
+   "h": 2520,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Jl._Tanah_Lot%2C_Beraban%2C_Kediri%2C_Kabupaten_Tabanan%2C_Bali%2C_Indonesia_-_panoramio.jpg/330px-Jl._Tanah_Lot%2C_Beraban%2C_Kediri%2C_Kabupaten_Tabanan%2C_Bali%2C_Indonesia_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jl._Tanah_Lot%2C_Beraban%2C_Kediri%2C_Kabupaten_Tabanan%2C_Bali%2C_Indonesia_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Jl._Tanah_Lot,_Beraban,_Kediri,_Kabupaten_Tabanan,_Bali,_Indonesia_-_panoramio.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "futurehorizon1",
+   "credito": "https://web.archive.org/web/20161015074049/http://www.panoramio.com/photo/31326628",
+   "nonfree": "",
+   "fecha": "Taken on 29 December",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

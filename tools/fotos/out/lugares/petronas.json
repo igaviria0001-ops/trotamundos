@@ -1,0 +1,204 @@
+{
+ "id": "petronas",
+ "enwiki": "Petronas Towers",
+ "endesc": "Interlinked supertall skyscraper in Kuala Lumpur, Malaysia",
+ "qid": "Q83063",
+ "coord": [
+  3.1577777777777776,
+  101.71166666666667
+ ],
+ "label_es": "Torres Petronas",
+ "desc_es": "edificios más altos del mundo entre 1998 y 2003, ubicados en Kuala Lumpur, Malasia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1993-03-01T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1999-08-31T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 1483.0,
+   "u": "Q3710"
+  }
+ ],
+ "area": [
+  {
+   "v": 395000.0,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q118896406",
+  "Q11303"
+ ],
+ "p17": [
+  "Q833"
+ ],
+ "unesco": false,
+ "eswiki": "Torres Petronas",
+ "extracto_es": "Las Torres Petronas, situadas en Kuala Lumpur, capital de Malasia, fueron los edificios más altos del mundo entre 1998 y 2003, superados el 17 de octubre de ese mismo año por el Taipei 101 en Taiwán. Actualmente, son las torres gemelas más altas del mundo. Las torres, con una altura de 452 metros y 88 pisos de hormigón armado, acero y vidrio, se han convertido en el símbolo de Kuala Lumpur y Malasia.​​",
+ "candidatas": [
+  {
+   "file": "File:The Twins SE Asia 2019 (49171985716).jpg",
+   "w": 8472,
+   "h": 5648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/The_Twins_SE_Asia_2019_%2849171985716%29.jpg/330px-The_Twins_SE_Asia_2019_%2849171985716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Twins_SE_Asia_2019_%2849171985716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "James Kerwin from Tbilisi",
+   "credito": "The Twins | SE Asia 2019",
+   "nonfree": "",
+   "fecha": "2019-12-03 12:05",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Petronas Towers at Night - from the base upwards.jpg",
+   "w": 2848,
+   "h": 4288,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Petronas_Towers_at_Night_-_from_the_base_upwards.jpg/330px-Petronas_Towers_at_Night_-_from_the_base_upwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Petronas_Towers_at_Night_-_from_the_base_upwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Petronas_Towers_at_Night_-_from_the_base_upwards.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Dcubillas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-11-04",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kuala Lumpur - panoramio (18).jpg",
+   "w": 2432,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Kuala_Lumpur_-_panoramio_%2818%29.jpg/330px-Kuala_Lumpur_-_panoramio_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kuala_Lumpur_-_panoramio_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_-_panoramio_(18).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "AwOiSoAk KaOsIoWa",
+   "credito": "https://web.archive.org/web/20161028092035/http://www.panoramio.com/photo/103595012",
+   "nonfree": "",
+   "fecha": "Taken on 7 October 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:The Petronas Towers in 2024.jpg",
+   "w": 3998,
+   "h": 2226,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Petronas_Towers_in_2024.jpg/330px-The_Petronas_Towers_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/The_Petronas_Towers_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Petronas_Towers_in_2024.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Admiralhirohito",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-07-06 11:31:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Petronas Tower spire.JPG",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Petronas_Tower_spire.JPG/330px-Petronas_Tower_spire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Petronas_Tower_spire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Petronas_Tower_spire.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Descon7",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Petronas Twin Towers, Kuala Lumpur, Malaysia (61).jpg",
+   "w": 3979,
+   "h": 3010,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Petronas_Twin_Towers%2C_Kuala_Lumpur%2C_Malaysia_%2861%29.jpg/330px-Petronas_Twin_Towers%2C_Kuala_Lumpur%2C_Malaysia_%2861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Petronas_Twin_Towers%2C_Kuala_Lumpur%2C_Malaysia_%2861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Petronas_Twin_Towers,_Kuala_Lumpur,_Malaysia_(61).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Frostpolar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-10-18 19:43:31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Petronas Twin Towers in Kuala Lumpur (1) (10498571923).jpg",
+   "w": 4000,
+   "h": 2672,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Petronas_Twin_Towers_in_Kuala_Lumpur_%281%29_%2810498571923%29.jpg/330px-Petronas_Twin_Towers_in_Kuala_Lumpur_%281%29_%2810498571923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Petronas_Twin_Towers_in_Kuala_Lumpur_%281%29_%2810498571923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Petronas_Twin_Towers_in_Kuala_Lumpur_(1)_(10498571923).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "V. Epiney",
+   "credito": "Petronas Twin Towers in Kuala Lumpur (1)",
+   "nonfree": "",
+   "fecha": "2013-07-21 11:16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Petronas Twin Towers in Kuala Lumpur (2) (10498382174).jpg",
+   "w": 4000,
+   "h": 2672,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Petronas_Twin_Towers_in_Kuala_Lumpur_%282%29_%2810498382174%29.jpg/330px-Petronas_Twin_Towers_in_Kuala_Lumpur_%282%29_%2810498382174%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Petronas_Twin_Towers_in_Kuala_Lumpur_%282%29_%2810498382174%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Petronas_Twin_Towers_in_Kuala_Lumpur_(2)_(10498382174).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "V. Epiney",
+   "credito": "Petronas Twin Towers in Kuala Lumpur (2)",
+   "nonfree": "",
+   "fecha": "2013-07-21 11:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

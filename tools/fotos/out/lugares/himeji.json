@@ -1,0 +1,208 @@
+{
+ "id": "himeji",
+ "enwiki": "Himeji Castle",
+ "endesc": "Japanese castle in Hyōgo Prefecture",
+ "qid": "Q188754",
+ "coord": [
+  34.839444444444446,
+  134.69361111111112
+ ],
+ "label_es": "Castillo Himeji",
+ "desc_es": "castillo medieval japonés",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1347-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 107.0,
+   "u": "Q35852"
+  },
+  {
+   "v": 143.0,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 1532111.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q92026",
+  "Q11482498",
+  "Q751876"
+ ],
+ "p17": [
+  "Q17"
+ ],
+ "unesco": true,
+ "eswiki": "Castillo de Himeji",
+ "extracto_es": "El castillo de Himeji (姫路城, Himeji-jō?) es un castillo japonés localizado en la ciudad costera de Himeji en la prefectura de Hyōgo (antiguo distrito de Shikito en la provincia de Harima), a unos 47 km al oeste de Kōbe. Es una de las estructuras más antiguas del Japón medieval que aún sobrevive en buenas condiciones; fue designado como Patrimonio de la Humanidad​ por la Unesco en 1993, también es un sitio histórico especial de Japón​ y un Tesoro Nacional. Junto con el castillo de Matsumoto y el castillo de Kumamoto, es uno de los \"Tres Famosos Castillos\" de Japón, y es el más visitado del país. Se le conoce a veces con el nombre de Hakuro-jō o Shirasagi-jō (\"La garza blanca\") debido al color blanco brillante de su exterior.\nEl castillo aparece frecuentemente en la televisión japonesa como escenario de películas y series de ficción, debido a que el castillo Edo en Tokiono posee actualmente una torre principal similar a la que tiene el castillo de Himeji. Es un punto de referencia muy usado dentro de la ciudad de Himeji, ya que al estar emplazado sobre una colina, puede ser visto desde gran parte de la ciudad.",
+ "candidatas": [
+  {
+   "file": "File:Himeji castle in may 2015.jpg",
+   "w": 5632,
+   "h": 3754,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Himeji_castle_in_may_2015.jpg/330px-Himeji_castle_in_may_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Himeji_castle_in_may_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Himeji_castle_in_may_2015.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nikos Kitsakis",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-10 10:39:07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Himeji Castle The Keep Towers.jpg",
+   "w": 2272,
+   "h": 1704,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Himeji_Castle_The_Keep_Towers.jpg/330px-Himeji_Castle_The_Keep_Towers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Himeji_Castle_The_Keep_Towers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Himeji_Castle_The_Keep_Towers.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "by ja:User:Reggaeman",
+   "credito": "ja:画像:Himeji-jo.jpg",
+   "nonfree": "",
+   "fecha": "2002-12-28",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "es"
+  },
+  {
+   "file": "File:Himeji castle 20241025- YAS2703.jpg",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Himeji_castle_20241025-_YAS2703.jpg/330px-Himeji_castle_20241025-_YAS2703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Himeji_castle_20241025-_YAS2703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Himeji_castle_20241025-_YAS2703.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Yasuo Hamashima",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "25 October 2024, 12:",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Himeji Castle Japan.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Himeji_Castle_Japan.jpg/330px-Himeji_Castle_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Himeji_Castle_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Himeji_Castle_Japan.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gilles Desjardins",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-11-02 06:25:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Himeji-jou-Feb2018.jpg",
+   "w": 6116,
+   "h": 2845,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Himeji-jou-Feb2018.jpg/330px-Himeji-jou-Feb2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Himeji-jou-Feb2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Himeji-jou-Feb2018.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Panzer VI-II",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P4291"
+  },
+  {
+   "file": "File:090411 Himeji Castle Hyogo pref Japan01s10.jpg",
+   "w": 4110,
+   "h": 2740,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/090411_Himeji_Castle_Hyogo_pref_Japan01s10.jpg/330px-090411_Himeji_Castle_Hyogo_pref_Japan01s10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/090411_Himeji_Castle_Hyogo_pref_Japan01s10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:090411_Himeji_Castle_Hyogo_pref_Japan01s10.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "663highland",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-04-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Himeji-Castle-below-2017-Luka-Peternel.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Himeji-Castle-below-2017-Luka-Peternel.jpg/330px-Himeji-Castle-below-2017-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Himeji-Castle-below-2017-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Himeji-Castle-below-2017-Luka-Peternel.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Luka Peternel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-05-19 07:50:11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Himeji Castle Hallway.jpg",
+   "w": 5380,
+   "h": 3587,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Himeji_Castle_Hallway.jpg/330px-Himeji_Castle_Hallway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Himeji_Castle_Hallway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Himeji_Castle_Hallway.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "ScribblingGeek",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-11-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}
