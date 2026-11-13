@@ -1,0 +1,192 @@
+{
+ "id": "montecarlo",
+ "enwiki": "Monte Carlo",
+ "endesc": "Quarter and ward of Monaco",
+ "qid": "Q45240",
+ "coord": [
+  43.738942,
+  7.425237
+ ],
+ "label_es": "Montecarlo",
+ "desc_es": "barrio en Mónaco",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1866-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 0.28146,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q3957"
+ ],
+ "p17": [
+  "Q235"
+ ],
+ "unesco": false,
+ "eswiki": "Montecarlo",
+ "extracto_es": "Montecarlo​​ (en francés, Monte-Carlo; en monegasco Munte Carlu) es un barrio del principado de Mónaco,​​ célebre por el Casino de Montecarlo.\nEn muchas ocasiones se piensa que Montecarlo es la capital de Mónaco, pero puesto que la ciudad y el país tienen las mismas fronteras, Mónaco es su propia capital.\nMontecarlo acoge una parte del Circuito de Mónaco, en el que tiene lugar el Gran Premio de Mónaco de Fórmula 1, generalmente el último fin de semana de mayo, y una de las pruebas más importantes del Campeonato Mundial de Rally: el Rally de Montecarlo.\n\nDesde hace décadas, Montecarlo es un lugar de reunión de miembros de la realeza, millonarios y grandes estrellas de cine.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Monaco Monte Carlo 1.jpg",
+   "w": 4680,
+   "h": 2684,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Monaco_Monte_Carlo_1.jpg/330px-Monaco_Monte_Carlo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Monaco_Monte_Carlo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monaco_Monte_Carlo_1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Martinp1",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-08-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Panorama von Monaco-La Turbie.jpg",
+   "w": 6869,
+   "h": 3511,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_von_Monaco-La_Turbie.jpg/330px-Panorama_von_Monaco-La_Turbie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Panorama_von_Monaco-La_Turbie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Panorama_von_Monaco-La_Turbie.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Tobi 87",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-21",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Casino de Montecarlo, Mónaco, 2016-06-23, DD 04.jpg",
+   "w": 6137,
+   "h": 4715,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Casino_de_Montecarlo%2C_M%C3%B3naco%2C_2016-06-23%2C_DD_04.jpg/330px-Casino_de_Montecarlo%2C_M%C3%B3naco%2C_2016-06-23%2C_DD_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Casino_de_Montecarlo%2C_M%C3%B3naco%2C_2016-06-23%2C_DD_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Casino_de_Montecarlo,_M%C3%B3naco,_2016-06-23,_DD_04.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-06-23 11:04:12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monte carlo ville.jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Monte_carlo_ville.jpg/330px-Monte_carlo_ville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Monte_carlo_ville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monte_carlo_ville.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Nazarenko Maxim",
+   "credito": "сам фотографировал",
+   "nonfree": "",
+   "fecha": "7 October 2009 (uplo",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Amontecarlo IMG 8173 6DS3.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Amontecarlo_IMG_8173_6DS3.jpg/330px-Amontecarlo_IMG_8173_6DS3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Amontecarlo_IMG_8173_6DS3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amontecarlo_IMG_8173_6DS3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Evelyscher",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-12-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Le casino de Monte-Carlo.JPG",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Le_casino_de_Monte-Carlo.JPG/330px-Le_casino_de_Monte-Carlo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Le_casino_de_Monte-Carlo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Le_casino_de_Monte-Carlo.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fruitpunchline",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monaco Monte Carlo 1 b.jpg",
+   "w": 4680,
+   "h": 2684,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Monaco_Monte_Carlo_1_b.jpg/330px-Monaco_Monte_Carlo_1_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Monaco_Monte_Carlo_1_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monaco_Monte_Carlo_1_b.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "File:Monaco Monte Carlo 1.jpg: Martinp1\nderivative work: Georgfotoart",
+   "credito": "This file was derived from:  Monaco Monte Carlo 1.jpg:",
+   "nonfree": "",
+   "fecha": "2024-09-27 15:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monte-Carlo at night from the pier - panoramio b.jpg",
+   "w": 3840,
+   "h": 2160,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Monte-Carlo_at_night_from_the_pier_-_panoramio_b.jpg/330px-Monte-Carlo_at_night_from_the_pier_-_panoramio_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Monte-Carlo_at_night_from_the_pier_-_panoramio_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monte-Carlo_at_night_from_the_pier_-_panoramio_b.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "File:Monte-Carlo at night from the pier - panoramio.jpg: Santiago Puig Vilado…\nderivative work: Georgfotoart",
+   "credito": "This file was derived from:  Monte-Carlo at night from the pier - panoramio.jpg:",
+   "nonfree": "",
+   "fecha": "Taken on 2 September",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

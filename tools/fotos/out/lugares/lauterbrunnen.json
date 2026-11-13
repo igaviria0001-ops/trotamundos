@@ -1,0 +1,195 @@
+{
+ "id": "lauterbrunnen",
+ "enwiki": "Lauterbrunnen",
+ "endesc": "Village and municipality in Switzerland",
+ "qid": "Q64011",
+ "coord": [
+  46.599722222222,
+  7.9086111111111
+ ],
+ "label_es": "Lauterbrunnen",
+ "desc_es": "localidad de Berna, Suiza",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 795.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 1407.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 164.66,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q532",
+  "Q70208"
+ ],
+ "p17": [
+  "Q39"
+ ],
+ "unesco": false,
+ "eswiki": "Lauterbrunnen",
+ "extracto_es": "Lauterbrunnen es una comuna suiza del cantón de Berna, situada en el distrito administrativo de Interlaken-Oberhasli. Al igual que Grindelwald, Lauterbrunnen se ha convertido en un destino turístico muy popular, ya que está conectado por tren hacia Interlaken y hacia Kleine Scheidegg, donde comienza el tren del Jungfrau, la línea férrea más alta de Europa y la puerta de entrada a la zona protegida de Jungfrau-Aletsch.",
+ "candidatas": [
+  {
+   "file": "File:1 lauterbrunnen valley wengen 2022.jpg",
+   "w": 14077,
+   "h": 9464,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/1_lauterbrunnen_valley_wengen_2022.jpg/330px-1_lauterbrunnen_valley_wengen_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/1_lauterbrunnen_valley_wengen_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_wengen_2022.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Chensiyuan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-06-12 14:57:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Lauterbrunnen3.JPG",
+   "w": 2560,
+   "h": 1920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lauterbrunnen3.JPG/330px-Lauterbrunnen3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Lauterbrunnen3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lauterbrunnen3.JPG",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "The original uploader was Yesuitus2001 at German Wikipedia.",
+   "credito": "Transferred from de.wikipedia to Commons.",
+   "nonfree": "",
+   "fecha": "18 March 2007 (origi",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Lauterbrunnen-valley.jpg",
+   "w": 1840,
+   "h": 1232,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Lauterbrunnen-valley.jpg/330px-Lauterbrunnen-valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lauterbrunnen-valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lauterbrunnen-valley.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Keith Halstead",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2005-02",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lauterbrunnen from the River.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Lauterbrunnen_from_the_River.jpg/330px-Lauterbrunnen_from_the_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lauterbrunnen_from_the_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lauterbrunnen_from_the_River.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sergio Ligregni",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-10-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:1 lauterbrunnen valley 2012.jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/1_lauterbrunnen_valley_2012.jpg/330px-1_lauterbrunnen_valley_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/1_lauterbrunnen_valley_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_2012.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "chensiyuan",
+   "credito": "chensiyuan",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lauterbrunnen - Staubbachfall.jpg",
+   "w": 3812,
+   "h": 2541,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Lauterbrunnen_-_Staubbachfall.jpg/330px-Lauterbrunnen_-_Staubbachfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lauterbrunnen_-_Staubbachfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lauterbrunnen_-_Staubbachfall.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Noel Reynolds",
+   "credito": "Flickr: Lauterbrunnen",
+   "nonfree": "",
+   "fecha": "2012-05-28 18:10:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:1 lauterbrunnen valley 2012b.jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1_lauterbrunnen_valley_2012b.jpg/330px-1_lauterbrunnen_valley_2012b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/1_lauterbrunnen_valley_2012b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_2012b.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "chensiyuan",
+   "credito": "chensiyuan",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lauterbrunnen valley.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lauterbrunnen_valley.jpg/330px-Lauterbrunnen_valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lauterbrunnen_valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lauterbrunnen_valley.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jmblanco74",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-04-27 11:38:45",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

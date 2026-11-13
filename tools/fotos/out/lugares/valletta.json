@@ -1,0 +1,197 @@
+{
+ "id": "valletta",
+ "enwiki": "Valletta",
+ "endesc": "Capital of Malta",
+ "qid": "Q23800",
+ "coord": [
+  35.897777777778,
+  14.5125
+ ],
+ "label_es": "La Valeta",
+ "desc_es": "capital de Malta",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1566-01-01T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 56.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 80.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q515",
+  "Q719592"
+ ],
+ "p17": [
+  "Q233"
+ ],
+ "unesco": true,
+ "eswiki": "La Valeta",
+ "extracto_es": "La Valeta​ (en maltés: Il-Belt Valletta; en inglés: Valletta) es la capital de Malta, situada sobre una península en la parte centro-oriental de la isla de Malta. La ciudad propiamente dicha cuenta con una población de 7650 habitantes (2011), excluyendo el área metropolitana adyacente. También es uno de los sesenta y ocho consejos locales que conforman el país desde 1993.\nLa Valeta tiene edificios que datan a partir del siglo XVI, construidos durante la época de los Caballeros Hospitalarios. La Valeta se caracteriza por tener construcciones barrocas, con elementos de la arquitectura del Renacimiento, la neoclásica y arquitectura moderna en zonas determinadas; ya que la Segunda Guerra Mundial dejó cicatrices en la ciudad.\nEn 1980, fue oficialmente reconocida como Patrimonio de la Humanidad por la Unesco.​ Y en 2018, fue, conjuntamente con la ciudad neerlandesa de Leeuwarden, la Capital Europea de la Cultura.",
+ "candidatas": [
+  {
+   "file": "File:St Sebastian Curtain (cropped).jpg",
+   "w": 4608,
+   "h": 2458,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/St_Sebastian_Curtain_%28cropped%29.jpg/330px-St_Sebastian_Curtain_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/St_Sebastian_Curtain_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Sebastian_Curtain_(cropped).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mandyy88",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-09-11 18:07:38",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Malta, 2010 - panoramio - Bengt Nyman (23).jpg",
+   "w": 5000,
+   "h": 2500,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Malta%2C_2010_-_panoramio_-_Bengt_Nyman_%2823%29.jpg/330px-Malta%2C_2010_-_panoramio_-_Bengt_Nyman_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Malta%2C_2010_-_panoramio_-_Bengt_Nyman_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Malta,_2010_-_panoramio_-_Bengt_Nyman_(23).jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Bengt Nyman",
+   "credito": "https://web.archive.org/web/20161110003224/http://www.panoramio.com/photo/40867948",
+   "nonfree": "",
+   "fecha": "16 September 2010 (o",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "P18"
+  },
+  {
+   "file": "File:City Gate, Valletta 002.jpg",
+   "w": 4064,
+   "h": 2515,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/City_Gate%2C_Valletta_002.jpg/330px-City_Gate%2C_Valletta_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/City_Gate%2C_Valletta_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:City_Gate,_Valletta_002.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Matthew Axiak",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 3 September",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Malta - Zurrieq - Triq il-Belt Valletta 01 ies.jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Malta_-_Zurrieq_-_Triq_il-Belt_Valletta_01_ies.jpg/330px-Malta_-_Zurrieq_-_Triq_il-Belt_Valletta_01_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Malta_-_Zurrieq_-_Triq_il-Belt_Valletta_01_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Malta_-_Zurrieq_-_Triq_il-Belt_Valletta_01_ies.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Frank Vincentz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-28 10:51:54",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Malta - Zurrieq - Triq il-Belt Valletta 02 ies.jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Malta_-_Zurrieq_-_Triq_il-Belt_Valletta_02_ies.jpg/330px-Malta_-_Zurrieq_-_Triq_il-Belt_Valletta_02_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Malta_-_Zurrieq_-_Triq_il-Belt_Valletta_02_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Malta_-_Zurrieq_-_Triq_il-Belt_Valletta_02_ies.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Frank Vincentz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-28 10:50:51",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Malta - Zurrieq - Triq il-Belt Valletta-Vjal ix-Xarolla-Vjal il-Blue Grotto - fountain 04 ies.jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Malta_-_Zurrieq_-_Triq_il-Belt_Valletta-Vjal_ix-Xarolla-Vjal_il-Blue_Grotto_-_fountain_04_ies.jpg/330px-Malta_-_Zurrieq_-_Triq_il-Belt_Valletta-Vjal_ix-Xarolla-Vjal_il-Blue_Grotto_-_fountain_04_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Malta_-_Zurrieq_-_Triq_il-Belt_Valletta-Vjal_ix-Xarolla-Vjal_il-Blue_Grotto_-_fountain_04_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Malta_-_Zurrieq_-_Triq_il-Belt_Valletta-Vjal_ix-Xarolla-Vjal_il-Blue_Grotto_-_fountain_04_ies.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Frank Vincentz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-28 10:53:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Castille at night.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Castille_at_night.jpg/330px-Castille_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Castille_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castille_at_night.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lourdesphotography",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-13 22:33:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Drapeaux UE et Malte - La Valette.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Drapeaux_UE_et_Malte_-_La_Valette.jpg/330px-Drapeaux_UE_et_Malte_-_La_Valette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Drapeaux_UE_et_Malte_-_La_Valette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Drapeaux_UE_et_Malte_-_La_Valette.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Masterdeis",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-05-03 13:22:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

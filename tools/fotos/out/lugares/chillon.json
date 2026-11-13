@@ -1,0 +1,209 @@
+{
+ "id": "chillon",
+ "enwiki": "Chillon Castle",
+ "endesc": "Castle in Veytaux, Switzerland",
+ "qid": "Q372647",
+ "coord": [
+  46.41416666666667,
+  6.9275
+ ],
+ "label_es": "Castillo de Chillon",
+ "desc_es": "castillo de Suiza",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1160-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 25.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 100.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q615810",
+  "Q751876",
+  "Q24699794"
+ ],
+ "p17": [
+  "Q39"
+ ],
+ "unesco": false,
+ "eswiki": "Castillo de Chillon",
+ "extracto_es": "El castillo de Chillon (en francés: Château de Chillon) es un castillo de Suiza de origen medieval que se encuentra a orillas del lago Lemán, en la comuna de Veytaux, en el cantón de Vaud. Tiene forma oblonga, con unas dimensiones de 110 m de largo por 50 m de ancho y una altura máxima de 25 m. Fue una importante edificación defensiva ya desde la Edad del Bronce, que después fue fortificada por los romanos. El castillo de Chillon fue ocupado sucesivamente por la Casa de Saboya y más tarde por los berneses desde 1536 hasta 1798. La zona más antigua del edificio es de estilo gótico, construido en el siglo XIII; sus salas sirvieron de inspiración al poeta inglés Lord Byron. Está catalogado como monumento histórico de Suiza y se considera una importante atracción turística de la zona. En 2019, el castillo tuvo su récord histórico de visitantes con 430 000 entradas vendidas.",
+ "candidatas": [
+  {
+   "file": "File:001 Chateau de Chillon and Dents du Midi Photo by Giles Laurent.jpg",
+   "w": 7952,
+   "h": 5304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg/330px-001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work, from gileslaurent.com",
+   "nonfree": "",
+   "fecha": "2020-11-21 17:27:57",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 21,
+   "origen": "en"
+  },
+  {
+   "file": "File:Chillon viewed from south 2021.jpg",
+   "w": 4547,
+   "h": 3410,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Chillon_viewed_from_south_2021.jpg/330px-Chillon_viewed_from_south_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Chillon_viewed_from_south_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chillon_viewed_from_south_2021.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-03-22 11:14:43",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "es"
+  },
+  {
+   "file": "File:Castle of Chillon N.jpg",
+   "w": 3902,
+   "h": 2924,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_of_Chillon_N.jpg/330px-Castle_of_Chillon_N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Castle_of_Chillon_N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castle_of_Chillon_N.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Zacharie Grossen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-07-03 20:46:46",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Chillon Castle 08.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Chillon_Castle_08.jpg/330px-Chillon_Castle_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Chillon_Castle_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chillon_Castle_08.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "SimonWaldherr",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-09-15 18:21:52",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Château de Chillon depuis le nord- Heure rose.jpg",
+   "w": 5964,
+   "h": 3355,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ch%C3%A2teau_de_Chillon_depuis_le_nord-_Heure_rose.jpg/330px-Ch%C3%A2teau_de_Chillon_depuis_le_nord-_Heure_rose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ch%C3%A2teau_de_Chillon_depuis_le_nord-_Heure_rose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Chillon_depuis_le_nord-_Heure_rose.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-10-14 19:02:33",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Château de Chillon sundial-20081127-RM-114624.jpg",
+   "w": 3569,
+   "h": 2677,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ch%C3%A2teau_de_Chillon_sundial-20081127-RM-114624.jpg/330px-Ch%C3%A2teau_de_Chillon_sundial-20081127-RM-114624.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Ch%C3%A2teau_de_Chillon_sundial-20081127-RM-114624.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Chillon_sundial-20081127-RM-114624.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-06-02 15:55:15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Château de Chillon vue aérienne.jpg",
+   "w": 4233,
+   "h": 2822,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ch%C3%A2teau_de_Chillon_vue_a%C3%A9rienne.jpg/330px-Ch%C3%A2teau_de_Chillon_vue_a%C3%A9rienne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ch%C3%A2teau_de_Chillon_vue_a%C3%A9rienne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Chillon_vue_a%C3%A9rienne.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Akasito",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-06-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Bridge of Chillon Castle by Robbie Conceptuel.jpg",
+   "w": 3024,
+   "h": 4032,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bridge_of_Chillon_Castle_by_Robbie_Conceptuel.jpg/330px-Bridge_of_Chillon_Castle_by_Robbie_Conceptuel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bridge_of_Chillon_Castle_by_Robbie_Conceptuel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bridge_of_Chillon_Castle_by_Robbie_Conceptuel.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Conceptuel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-07-01",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
+}

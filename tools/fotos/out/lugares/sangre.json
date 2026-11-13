@@ -1,0 +1,195 @@
+{
+ "id": "sangre",
+ "enwiki": "Church of the Savior on Blood",
+ "endesc": "Cathedral in Saint Petersburg, Russia",
+ "qid": "Q215208",
+ "coord": [
+  59.94,
+  30.328611111111
+ ],
+ "label_es": "iglesia del Salvador sobre la sangre derramada",
+ "desc_es": "Iglesia ortodoxa rusa conmemorativa de San Petersburgo",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1907-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 81.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q2031836"
+ ],
+ "p17": [
+  "Q159"
+ ],
+ "unesco": false,
+ "eswiki": "Iglesia del Salvador sobre la Sangre Derramada",
+ "extracto_es": "La Iglesia del Salvador sobre la Sangre Derramada o Iglesia de la Resurrección de Cristo (en ruso:Храм Спаса на Крови) es una iglesia de San Petersburgo, situada en la orilla del canal Griboedova (nombrado en honor de Aleksandr Griboyédov) cerca del parque del Museo Ruso y de la avenida Nevski. El nombre oficial en ruso es Собор Воскресения Христова, que significa catedral de la Resurrección de Cristo, y fue construida sobre el lugar donde el zar Alejandro II de Rusia fue asesinado, víctima de un atentado el 13 de marzo de 1881 (1 de marzo para el calendario juliano, en vigor en Rusia en esa época). Durante la Segunda Guerra Mundial y el bloqueo de la ciudad, una bomba cayó encima de la cúpula más alta de la iglesia. La bomba no explotó y estuvo dentro de la cúpula de la iglesia durante 19 años. Cuando los obreros subieron a la cúpula para remendar las goteras, encontraron la bomba y la retiraron. Entonces se decidió comenzar la restauración de la Iglesia de la sangre derramada.\nTras 27 años de restauración, la Iglesia del Salvador sobre la Sangre Derramada fue inaugurada como museo estatal, donde los visitantes pueden conocer la historia del asesinato de Alejandro II.",
+ "candidatas": [
+  {
+   "file": "File:Собор Воскресения Христова 1.jpg",
+   "w": 2492,
+   "h": 3738,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0_1.jpg/330px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0_1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "AndreyWi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 2 October 2",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 19,
+   "origen": "P18"
+  },
+  {
+   "file": "File:St.Petersburg Russia Church Park-2.jpg",
+   "w": 4744,
+   "h": 3162,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/St.Petersburg_Russia_Church_Park-2.jpg/330px-St.Petersburg_Russia_Church_Park-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/St.Petersburg_Russia_Church_Park-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St.Petersburg_Russia_Church_Park-2.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Victorgrigas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 6 June 2012",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Church of the Savior Dome.jpg",
+   "w": 3000,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Church_of_the_Savior_Dome.jpg/330px-Church_of_the_Savior_Dome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Church_of_the_Savior_Dome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Church_of_the_Savior_Dome.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Otto Jula",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-07-16",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Auferstehungskirche (Sankt Petersburg).JPG",
+   "w": 3984,
+   "h": 3869,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Auferstehungskirche_%28Sankt_Petersburg%29.JPG/330px-Auferstehungskirche_%28Sankt_Petersburg%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Auferstehungskirche_%28Sankt_Petersburg%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Auferstehungskirche_(Sankt_Petersburg).JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Je-str",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-05-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Church of the Saviour on Spilled Blood, St Petersburg, Russia.jpg",
+   "w": 4562,
+   "h": 3042,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Church_of_the_Saviour_on_Spilled_Blood%2C_St_Petersburg%2C_Russia.jpg/330px-Church_of_the_Saviour_on_Spilled_Blood%2C_St_Petersburg%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Church_of_the_Saviour_on_Spilled_Blood%2C_St_Petersburg%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Church_of_the_Saviour_on_Spilled_Blood,_St_Petersburg,_Russia.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Iain MacFadzean",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-14 22:04:29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Church of the Savior on Blood in water.jpg",
+   "w": 5305,
+   "h": 3373,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Church_of_the_Savior_on_Blood_in_water.jpg/330px-Church_of_the_Savior_on_Blood_in_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Church_of_the_Savior_on_Blood_in_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Church_of_the_Savior_on_Blood_in_water.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "ITMO University",
+   "credito": "ITMO University",
+   "nonfree": "",
+   "fecha": "2014-06-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2019-07-30-3536-Saint-Petersburg-Church of the Saviour on the Blood interior.jpg",
+   "w": 4283,
+   "h": 2784,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/2019-07-30-3536-Saint-Petersburg-Church_of_the_Saviour_on_the_Blood_interior.jpg/330px-2019-07-30-3536-Saint-Petersburg-Church_of_the_Saviour_on_the_Blood_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/2019-07-30-3536-Saint-Petersburg-Church_of_the_Saviour_on_the_Blood_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2019-07-30-3536-Saint-Petersburg-Church_of_the_Saviour_on_the_Blood_interior.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Don-vip",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 30 July 201",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Saint-Pétersbourg - Cathédrale Saint-Sauveur-sur-le-Sang-Versé - Extérieur - Bulbes.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Saint-P%C3%A9tersbourg_-_Cath%C3%A9drale_Saint-Sauveur-sur-le-Sang-Vers%C3%A9_-_Ext%C3%A9rieur_-_Bulbes.JPG/330px-Saint-P%C3%A9tersbourg_-_Cath%C3%A9drale_Saint-Sauveur-sur-le-Sang-Vers%C3%A9_-_Ext%C3%A9rieur_-_Bulbes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Saint-P%C3%A9tersbourg_-_Cath%C3%A9drale_Saint-Sauveur-sur-le-Sang-Vers%C3%A9_-_Ext%C3%A9rieur_-_Bulbes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Saint-P%C3%A9tersbourg_-_Cath%C3%A9drale_Saint-Sauveur-sur-le-Sang-Vers%C3%A9_-_Ext%C3%A9rieur_-_Bulbes.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Concierge.2C",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 20 May 2013",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

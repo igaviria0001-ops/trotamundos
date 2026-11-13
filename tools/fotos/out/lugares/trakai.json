@@ -1,0 +1,190 @@
+{
+ "id": "trakai",
+ "enwiki": "Trakai Island Castle",
+ "endesc": "Island castle in Trakai, Lithuania",
+ "qid": "Q1482013",
+ "coord": [
+  54.6525,
+  24.933055555555555
+ ],
+ "label_es": "Castillo de Trakai",
+ "desc_es": "castillo en la isla e Trakai, Lituania",
+ "inicio": [],
+ "p31": [
+  "Q23413"
+ ],
+ "p17": [
+  "Q37"
+ ],
+ "unesco": false,
+ "eswiki": "Castillo de Trakai",
+ "extracto_es": "El castillo de Trakai (en lituano: Trakų salos pilis, en polaco: zamek trocki) se encuentra situado en la población de Trakai, en Lituania. Se ubica en una isla en el lago Galvė. La construcción se comenzó en el siglo XIV por Kęstutis (1297-1382), Gran Duque de Lituania y alrededor de 1409 ya se había completado la mayor parte de la obra por su hijo Vitautas el Grande (1350-1430), que murió en el castillo en el año 1430. Trakai fue uno de los principales centros del Gran Ducado de Lituania y el castillo tuvo gran importancia estratégica.​",
+ "candidatas": [
+  {
+   "file": "File:Traku pilis by Augustas Didzgalvis.jpg",
+   "w": 1800,
+   "h": 1200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Traku_pilis_by_Augustas_Didzgalvis.jpg/330px-Traku_pilis_by_Augustas_Didzgalvis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Traku_pilis_by_Augustas_Didzgalvis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Traku_pilis_by_Augustas_Didzgalvis.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "BigHead",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-08-13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 12,
+   "origen": "en"
+  },
+  {
+   "file": "File:Trakai Island Castle Chapel, Lithuania - Diliff.jpg",
+   "w": 8000,
+   "h": 5518,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Trakai_Island_Castle_Chapel%2C_Lithuania_-_Diliff.jpg/330px-Trakai_Island_Castle_Chapel%2C_Lithuania_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Trakai_Island_Castle_Chapel%2C_Lithuania_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trakai_Island_Castle_Chapel,_Lithuania_-_Diliff.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 13 Septembe",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Trakai Island Castle, 2007.jpg",
+   "w": 3072,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Trakai_Island_Castle%2C_2007.jpg/330px-Trakai_Island_Castle%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Trakai_Island_Castle%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trakai_Island_Castle,_2007.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Ana",
+   "credito": "Flickr: Trakai",
+   "nonfree": "",
+   "fecha": "2007-10-16 12:31:59",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Trakai Island 32.jpg",
+   "w": 5659,
+   "h": 3762,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Trakai_Island_32.jpg/330px-Trakai_Island_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Trakai_Island_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trakai_Island_32.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Scotch Mist",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 6 June 2018",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Trakai Island Castle, Lithuania - Diliff.jpg",
+   "w": 6850,
+   "h": 4245,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Trakai_Island_Castle%2C_Lithuania_-_Diliff.jpg/330px-Trakai_Island_Castle%2C_Lithuania_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Trakai_Island_Castle%2C_Lithuania_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trakai_Island_Castle,_Lithuania_-_Diliff.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-09-12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Front facade of the Trakai Island Castle, 2009.jpg",
+   "w": 3264,
+   "h": 1832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Front_facade_of_the_Trakai_Island_Castle%2C_2009.jpg/330px-Front_facade_of_the_Trakai_Island_Castle%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Front_facade_of_the_Trakai_Island_Castle%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Front_facade_of_the_Trakai_Island_Castle,_2009.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Leszek Kozlowski",
+   "credito": "https://www.flickr.com/photos/bilk/4145035476/",
+   "nonfree": "",
+   "fecha": "2009-07-03 12:34:13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Trakai Castle tourists.jpg",
+   "w": 2946,
+   "h": 1878,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Trakai_Castle_tourists.jpg/330px-Trakai_Castle_tourists.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Trakai_Castle_tourists.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trakai_Castle_tourists.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marcin Białek",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "3 May 2008, 13:08:31",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Trakaifront.JPG",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Trakaifront.JPG/330px-Trakaifront.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Trakaifront.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trakaifront.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Foto: Pernilla Larding",
+   "credito": "Transferred from sv.wikipedia to Commons.",
+   "nonfree": "",
+   "fecha": "27 April 2006 (origi",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
+}

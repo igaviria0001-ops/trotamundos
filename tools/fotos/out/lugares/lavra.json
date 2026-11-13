@@ -1,0 +1,195 @@
+{
+ "id": "lavra",
+ "enwiki": "Kyiv Pechersk Lavra",
+ "endesc": "Historic Eastern Orthodox Christian monastery in Kyiv",
+ "qid": "Q242711",
+ "coord": [
+  50.434148,
+  30.558323
+ ],
+ "label_es": "Monasterio de las Cuevas de Kiev",
+ "desc_es": "histórico monasterio ortodoxo en Kiev",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1051-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 29.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q11784935"
+ ],
+ "p17": [
+  "Q212"
+ ],
+ "unesco": false,
+ "eswiki": "Monasterio de las Cuevas de Kiev",
+ "extracto_es": "El monasterio de las Cuevas de Kiev (en ucraniano: Києво-Печерська лавра, romanizado: Kyivo-Pecherska lavra) es un monasterio cristiano ortodoxo en Kiev (Ucrania).​ El inicio de su existencia se data en 1051 durante el reinado de Yaroslav el Sabio. Es el monasterio más antiguo de Ucrania y uno de los lugares santos de las iglesias ortodoxas orientales. En 1990 fue declarado Patrimonio de la Humanidad por la Unesco, junto con la catedral de Santa Sofía.\nSe encuentra sobre la calle del Levantamiento de Enero en un área de colinas boscosas, cerca de la orilla occidental del río Dniéper. El recinto tiene una superficie de 28 ha y está rodeado por murallas. Se divide en dos zonas: la baja y la alta. Ambas albergan varios edificios de importancia religioso-cultural: iglesias, monasterios, museos, así como las antiguas cuevas de los monjes que conforman el núcleo histórico del complejo.\n\n",
+ "candidatas": [
+  {
+   "file": "File:2018 - Комплекс Києво-Печерської лаври.jpg",
+   "w": 4415,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2018_-_%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9A%D0%B8%D1%94%D0%B2%D0%BE-%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%BB%D0%B0%D0%B2%D1%80%D0%B8.jpg/330px-2018_-_%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9A%D0%B8%D1%94%D0%B2%D0%BE-%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%BB%D0%B0%D0%B2%D1%80%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/2018_-_%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9A%D0%B8%D1%94%D0%B2%D0%BE-%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%BB%D0%B0%D0%B2%D1%80%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018_-_%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9A%D0%B8%D1%94%D0%B2%D0%BE-%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%BB%D0%B0%D0%B2%D1%80%D0%B8.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Moahim",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-04-22 04:58:20",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Києво-Печерська лавра, вид з мосту Патона.jpg",
+   "w": 4406,
+   "h": 2642,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%D0%9A%D0%B8%D1%94%D0%B2%D0%BE-%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D0%BB%D0%B0%D0%B2%D1%80%D0%B0%2C_%D0%B2%D0%B8%D0%B4_%D0%B7_%D0%BC%D0%BE%D1%81%D1%82%D1%83_%D0%9F%D0%B0%D1%82%D0%BE%D0%BD%D0%B0.jpg/330px-%D0%9A%D0%B8%D1%94%D0%B2%D0%BE-%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D0%BB%D0%B0%D0%B2%D1%80%D0%B0%2C_%D0%B2%D0%B8%D0%B4_%D0%B7_%D0%BC%D0%BE%D1%81%D1%82%D1%83_%D0%9F%D0%B0%D1%82%D0%BE%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%D0%9A%D0%B8%D1%94%D0%B2%D0%BE-%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D0%BB%D0%B0%D0%B2%D1%80%D0%B0%2C_%D0%B2%D0%B8%D0%B4_%D0%B7_%D0%BC%D0%BE%D1%81%D1%82%D1%83_%D0%9F%D0%B0%D1%82%D0%BE%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B8%D1%94%D0%B2%D0%BE-%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D0%BB%D0%B0%D0%B2%D1%80%D0%B0,_%D0%B2%D0%B8%D0%B4_%D0%B7_%D0%BC%D0%BE%D1%81%D1%82%D1%83_%D0%9F%D0%B0%D1%82%D0%BE%D0%BD%D0%B0.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Роман Наумов",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-05 13:45:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Лавра.jpg",
+   "w": 4830,
+   "h": 3034,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/%D0%9B%D0%B0%D0%B2%D1%80%D0%B0.jpg/330px-%D0%9B%D0%B0%D0%B2%D1%80%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%9B%D0%B0%D0%B2%D1%80%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B2%D1%80%D0%B0.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Falin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-28 12:37:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Church of the Nativity dome at the Kyiv Pechersk Lavra.jpg",
+   "w": 3894,
+   "h": 2666,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Church_of_the_Nativity_dome_at_the_Kyiv_Pechersk_Lavra.jpg/330px-Church_of_the_Nativity_dome_at_the_Kyiv_Pechersk_Lavra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Church_of_the_Nativity_dome_at_the_Kyiv_Pechersk_Lavra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Church_of_the_Nativity_dome_at_the_Kyiv_Pechersk_Lavra.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Ввласенко",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-10-25 11:08:37",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:80-382-9002 Комплекс Нижньої Лаври 2.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/80-382-9002_%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9D%D0%B8%D0%B6%D0%BD%D1%8C%D0%BE%D1%97_%D0%9B%D0%B0%D0%B2%D1%80%D0%B8_2.jpg/330px-80-382-9002_%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9D%D0%B8%D0%B6%D0%BD%D1%8C%D0%BE%D1%97_%D0%9B%D0%B0%D0%B2%D1%80%D0%B8_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/80-382-9002_%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9D%D0%B8%D0%B6%D0%BD%D1%8C%D0%BE%D1%97_%D0%9B%D0%B0%D0%B2%D1%80%D0%B8_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:80-382-9002_%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9D%D0%B8%D0%B6%D0%BD%D1%8C%D0%BE%D1%97_%D0%9B%D0%B0%D0%B2%D1%80%D0%B8_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Константинъ",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-05-20 18:06:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lavra panorama-kijev.jpg",
+   "w": 4843,
+   "h": 1956,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Lavra_panorama-kijev.jpg/330px-Lavra_panorama-kijev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Lavra_panorama-kijev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lavra_panorama-kijev.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "i.Parfeniy",
+   "credito": "Parfeniy",
+   "nonfree": "",
+   "fecha": "2007",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Kyiv Pechersk Lavra exterior in 2019.jpg",
+   "w": 3784,
+   "h": 2523,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Kyiv_Pechersk_Lavra_exterior_in_2019.jpg/330px-Kyiv_Pechersk_Lavra_exterior_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kyiv_Pechersk_Lavra_exterior_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kyiv_Pechersk_Lavra_exterior_in_2019.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Tim Adams",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-25 12:14:17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kyiv Pechersk Lavra ceiling detail in 2019.jpg",
+   "w": 4831,
+   "h": 3215,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Kyiv_Pechersk_Lavra_ceiling_detail_in_2019.jpg/330px-Kyiv_Pechersk_Lavra_ceiling_detail_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kyiv_Pechersk_Lavra_ceiling_detail_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kyiv_Pechersk_Lavra_ceiling_detail_in_2019.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Tim Adams",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-25 12:48:17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

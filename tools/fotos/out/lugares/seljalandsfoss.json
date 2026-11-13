@@ -1,0 +1,147 @@
+{
+ "id": "seljalandsfoss",
+ "enwiki": "Seljalandsfoss",
+ "endesc": "Waterfall in Iceland",
+ "qid": "Q777882",
+ "coord": [
+  63.615833333333,
+  -19.992777777778
+ ],
+ "label_es": "Seljalandsfoss",
+ "desc_es": "Cascada de Islandia",
+ "inicio": [],
+ "altura": [
+  {
+   "v": 65.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q34038"
+ ],
+ "p17": [
+  "Q189"
+ ],
+ "unesco": false,
+ "eswiki": "Seljalandsfoss",
+ "extracto_es": "Seljalandsfoss es una cascada de Islandia. El río Seljalandsá, el 'río líquido', cae cerca de 60 metros en lo que en otros tiempos era una escollera sobre el océano (que en la actualidad se encuentra a varios kilómetros) y que hoy marca el límite entre las Tierras Altas y el resto del país. Es posible subir la cuesta de la cascada y contemplar el panorama desde el punto en que el agua se lanza al vacío.\nSeljalandsfoss se encuentra en la zona sur de la isla, no lejos de Skógar ni de la cascada Skógafoss, en el recorrido del río Skógá.",
+ "candidatas": [
+  {
+   "file": "File:Seljalandsfoss, Suðurland, Islandia, 2014-08-16, DD 201-203 HDR.JPG",
+   "w": 4952,
+   "h": 3191,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Seljalandsfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_201-203_HDR.JPG/330px-Seljalandsfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_201-203_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Seljalandsfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_201-203_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_201-203_HDR.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 16 August 2",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Idyllic landscape with a waterfall (Unsplash).jpg",
+   "w": 7952,
+   "h": 4811,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Idyllic_landscape_with_a_waterfall_%28Unsplash%29.jpg/330px-Idyllic_landscape_with_a_waterfall_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Idyllic_landscape_with_a_waterfall_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Idyllic_landscape_with_a_waterfall_(Unsplash).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Robert Lukeman robertlukeman",
+   "credito": "https://unsplash.com/photos/zNN6ubHmruI\nImage at the Wayback Machine\n\nGallery at the Wayback Machine",
+   "nonfree": "",
+   "fecha": "23 August 2016 (acco",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Seljalandsfoss - panoramio (7).jpg",
+   "w": 2000,
+   "h": 1202,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Seljalandsfoss_-_panoramio_%287%29.jpg/330px-Seljalandsfoss_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Seljalandsfoss_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss_-_panoramio_(7).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Zoran Kurelić Rabko",
+   "credito": "https://web.archive.org/web/20161102185026/http://www.panoramio.com/photo/124384664",
+   "nonfree": "",
+   "fecha": "Taken on 1 October 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Icland Seljalandsfoss Luftbild Sept 2019 1.jpg",
+   "w": 5464,
+   "h": 3640,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Icland_Seljalandsfoss_Luftbild_Sept_2019_1.jpg/330px-Icland_Seljalandsfoss_Luftbild_Sept_2019_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Icland_Seljalandsfoss_Luftbild_Sept_2019_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Icland_Seljalandsfoss_Luftbild_Sept_2019_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kasa Fue",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-09-17 12:21:12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Premises of Seljalandsfoss 25.jpg",
+   "w": 2736,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Premises_of_Seljalandsfoss_25.jpg/330px-Premises_of_Seljalandsfoss_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Premises_of_Seljalandsfoss_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Premises_of_Seljalandsfoss_25.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Netha Hussain",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1 July 2022, 13:58:4",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Seljalandfoss at night.jpg",
+   "w": 3840,
+   "h": 5120,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Seljalandfoss_at_night.jpg/330px-Seljalandfoss_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Seljalandfoss_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Seljalandfoss_at_night.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "M1i2e3",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-03-22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "id": "mezquitaazul",
+ "enwiki": "Blue Mosque, Istanbul",
+ "endesc": "17th-century mosque in Turkey",
+ "qid": "Q80541",
+ "coord": [
+  41.0053851,
+  28.9768247
+ ],
+ "label_es": "Mezquita Azul",
+ "desc_es": "mezquita turca",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1609-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1616-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 64.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 82.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q32815",
+  "Q35112127"
+ ],
+ "p17": [
+  "Q43"
+ ],
+ "unesco": false,
+ "eswiki": "Mezquita Azul",
+ "extracto_es": "La mezquita Azul o mezquita del Sultán Ahmed (en turco: Sultan Ahmet Camii) es una de las grandes mezquitas de Estambul, obra de Sedefkar Mehmet Ağa, discípulo del arquitecto Mimar Sinan. Está situada frente a la Gran Mezquita de Santa Sofía, separadas ambas por un jardín, y fue la única de la ciudad con seis alminares hasta la construcción de la mezquita de Çamlıca, inaugurada en 2016. En latín significaba \"la casa de la luna\" y tardó 4 años desde que mandaron construirla hasta que se empezó a construir, ya que en aquella época había una gran crisis económica y no se disponía del dinero suficiente para construirla.\nEs uno de los monumentos más impresionantes del mundo. Se trata de uno de los elementos incluidos en el complejo que construyó Ahmed I para competir con Hagia Sophia.​",
+ "candidatas": [
+  {
+   "file": "File:Exterior of Sultan Ahmed I Mosque in Istanbul, Turkey 002.jpg",
+   "w": 4238,
+   "h": 2766,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul%2C_Turkey_002.jpg/330px-Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul%2C_Turkey_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul%2C_Turkey_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Moonik",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-07-02 18:58:01",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Sultan Ahmed Mosque 2022 2.jpg",
+   "w": 5150,
+   "h": 3355,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sultan_Ahmed_Mosque_2022_2.jpg/330px-Sultan_Ahmed_Mosque_2022_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sultan_Ahmed_Mosque_2022_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sultan_Ahmed_Mosque_2022_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-12-08 08:09",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sultan Ahmed Mosque 2022 5.jpg",
+   "w": 5190,
+   "h": 3470,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Sultan_Ahmed_Mosque_2022_5.jpg/330px-Sultan_Ahmed_Mosque_2022_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sultan_Ahmed_Mosque_2022_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sultan_Ahmed_Mosque_2022_5.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-12-08 10:22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sultan Ahmed Mosque 2022 4.jpg",
+   "w": 5100,
+   "h": 3405,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Sultan_Ahmed_Mosque_2022_4.jpg/330px-Sultan_Ahmed_Mosque_2022_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Sultan_Ahmed_Mosque_2022_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sultan_Ahmed_Mosque_2022_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-12-08 10:14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Blaue Moschee Seitenkuppel.jpg",
+   "w": 4192,
+   "h": 2781,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Blaue_Moschee_Seitenkuppel.jpg/330px-Blaue_Moschee_Seitenkuppel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Blaue_Moschee_Seitenkuppel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Blaue_Moschee_Seitenkuppel.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "H005",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-10-14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Istanbul (34223582516) (cropped).jpg",
+   "w": 3000,
+   "h": 2528,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Istanbul_%2834223582516%29_%28cropped%29.jpg/330px-Istanbul_%2834223582516%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Istanbul_%2834223582516%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Istanbul_(34223582516)_(cropped).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Pedro Szekely from Los Angeles, USA",
+   "credito": "Istanbul",
+   "nonfree": "",
+   "fecha": "2014-05-23 09:16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:The Sultan Ahmed Mosque (Blue Mosque) (8290130241).jpg",
+   "w": 4178,
+   "h": 2774,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/The_Sultan_Ahmed_Mosque_%28Blue_Mosque%29_%288290130241%29.jpg/330px-The_Sultan_Ahmed_Mosque_%28Blue_Mosque%29_%288290130241%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Sultan_Ahmed_Mosque_%28Blue_Mosque%29_%288290130241%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Sultan_Ahmed_Mosque_(Blue_Mosque)_(8290130241).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Jorge Láscar from Australia",
+   "credito": "The Sultan Ahmed Mosque (Blue Mosque)",
+   "nonfree": "",
+   "fecha": "2012-08-28 20:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:20131202 Istanbul 092.jpg",
+   "w": 3968,
+   "h": 2976,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/20131202_Istanbul_092.jpg/330px-20131202_Istanbul_092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/20131202_Istanbul_092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20131202_Istanbul_092.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Mark Ahsmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-12-02 15:30:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

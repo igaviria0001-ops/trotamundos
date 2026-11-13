@@ -1,0 +1,196 @@
+{
+ "id": "lucerna",
+ "enwiki": "Kapellbrücke",
+ "endesc": "Bridge across the Reuss River in Lucerne, Switzerland",
+ "qid": "Q25225",
+ "coord": [
+  47.051633333333,
+  8.3075333333333
+ ],
+ "label_es": "Kapellbrücke",
+ "desc_es": "puente de madero, símbolo principal de la ciudad de Lucerna",
+ "inicio": [
+  {
+   "p": "P1619",
+   "time": "+1360-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "largo": [
+  {
+   "v": 204.7,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q428759",
+  "Q1068842",
+  "Q1825472",
+  "Q2319498"
+ ],
+ "p17": [
+  "Q39"
+ ],
+ "unesco": false,
+ "eswiki": "Kapellbrücke",
+ "extracto_es": "Kapellbrücke (en español, puente de la capilla) es un puente que atraviesa el río Reuss en la ciudad de Lucerna (Suiza). Llamado así por la cercana iglesia de San Pedro, el puente alberga una serie de pinturas en el interior que datan del siglo XVII, aunque muchas de ellas se perdieron durante un incendio en 1993. Posteriormente restaurado, es el puente de madera cubierto más antiguo de Europa y uno de los puentes en celosía más antiguos del mundo. Es una de las mayores atracciones turísticas de la ciudad helvética y, después del monte Cervino, es uno de los lugares más fotografiados por los turistas en Suiza.​\nEl puente de la capilla de Lucerna fue retratado en el Modo Foto de Gran Turismo 5​",
+ "candidatas": [
+  {
+   "file": "File:Luzern Kapellbruecke.jpg",
+   "w": 3370,
+   "h": 2247,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Luzern_Kapellbruecke.jpg/330px-Luzern_Kapellbruecke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Luzern_Kapellbruecke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Luzern_Kapellbruecke.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ikiwaner",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "2006-07-23",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 15,
+   "origen": "es"
+  },
+  {
+   "file": "File:Kapellbruecke.JPG",
+   "w": 3008,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Kapellbruecke.JPG/330px-Kapellbruecke.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Kapellbruecke.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kapellbruecke.JPG",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Simon Koopmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-09-15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "en"
+  },
+  {
+   "file": "File:KKL and Kapellbrücke - Lido.jpg",
+   "w": 5760,
+   "h": 3840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/KKL_and_Kapellbr%C3%BCcke_-_Lido.jpg/330px-KKL_and_Kapellbr%C3%BCcke_-_Lido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/KKL_and_Kapellbr%C3%BCcke_-_Lido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:KKL_and_Kapellbr%C3%BCcke_-_Lido.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Paradise Chronicle",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-04-27 12:24:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kapellbrücke Luzern 20230529 0549.jpg",
+   "w": 6464,
+   "h": 4309,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Kapellbr%C3%BCcke_Luzern_20230529_0549.jpg/330px-Kapellbr%C3%BCcke_Luzern_20230529_0549.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kapellbr%C3%BCcke_Luzern_20230529_0549.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kapellbr%C3%BCcke_Luzern_20230529_0549.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tilman2007",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kapellbrücke Luzern 20230529 0538.jpg",
+   "w": 7953,
+   "h": 5303,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kapellbr%C3%BCcke_Luzern_20230529_0538.jpg/330px-Kapellbr%C3%BCcke_Luzern_20230529_0538.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Kapellbr%C3%BCcke_Luzern_20230529_0538.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kapellbr%C3%BCcke_Luzern_20230529_0538.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tilman2007",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kapellbruecke Tafel 71.jpg",
+   "w": 4378,
+   "h": 2918,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Kapellbruecke_Tafel_71.jpg/330px-Kapellbruecke_Tafel_71.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Kapellbruecke_Tafel_71.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kapellbruecke_Tafel_71.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "User:MatthiasKabel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-07-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Kapellbrücke ponte lucerna.JPG",
+   "w": 2173,
+   "h": 1626,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Kapellbr%C3%BCcke_ponte_lucerna.JPG/330px-Kapellbr%C3%BCcke_ponte_lucerna.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kapellbr%C3%BCcke_ponte_lucerna.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kapellbr%C3%BCcke_ponte_lucerna.JPG",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Giuliojiang at Italian Wikipedia",
+   "credito": "Transferred from it.wikipedia to Commons.",
+   "nonfree": "",
+   "fecha": "22 November 2009 (or",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kapellbrücke Luzern 20230529 0541.jpg",
+   "w": 7872,
+   "h": 5247,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Kapellbr%C3%BCcke_Luzern_20230529_0541.jpg/330px-Kapellbr%C3%BCcke_Luzern_20230529_0541.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kapellbr%C3%BCcke_Luzern_20230529_0541.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kapellbr%C3%BCcke_Luzern_20230529_0541.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tilman2007",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

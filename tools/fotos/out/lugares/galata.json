@@ -1,0 +1,201 @@
+{
+ "id": "galata",
+ "enwiki": "Galata Tower",
+ "endesc": "Tower in Istanbul, Turkey",
+ "qid": "Q91274",
+ "label_es": "Torre de Gálata",
+ "desc_es": "torre medieval de piedra situada en Estambul, Turquía",
+ "coord": [
+  41.02563232486636,
+  28.974153190722507
+ ],
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1349-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 62.59,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 35.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 208.0,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q12518",
+  "Q33506"
+ ],
+ "p17": [
+  "Q43"
+ ],
+ "unesco": false,
+ "eswiki": "Torre de Gálata",
+ "extracto_es": "La Torre de Gálata (en turco, Galata Kulesi), también llamada Christea Turris (torre de Cristo) por los genoveses y Megalos Pyrgos (la Gran Torre) por los bizantinos, es una torre medieval de piedra situada en Estambul, Turquía, al norte del Cuerno de Oro. Es uno de los lugares más llamativos de la ciudad y domina el horizonte de Gálata (Karaköy).",
+ "candidatas": [
+  {
+   "file": "File:Karaköy ve Galata Kulesi Günbatımı Silüeti.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Karak%C3%B6y_ve_Galata_Kulesi_G%C3%BCnbat%C4%B1m%C4%B1_Sil%C3%BCeti.jpg/330px-Karak%C3%B6y_ve_Galata_Kulesi_G%C3%BCnbat%C4%B1m%C4%B1_Sil%C3%BCeti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Karak%C3%B6y_ve_Galata_Kulesi_G%C3%BCnbat%C4%B1m%C4%B1_Sil%C3%BCeti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Karak%C3%B6y_ve_Galata_Kulesi_G%C3%BCnbat%C4%B1m%C4%B1_Sil%C3%BCeti.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Hamdigumus",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-18 19:33:45",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Haliç, Metro Köprüsü ve Galata Kulesi 2015.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Hali%C3%A7%2C_Metro_K%C3%B6pr%C3%BCs%C3%BC_ve_Galata_Kulesi_2015.jpg/330px-Hali%C3%A7%2C_Metro_K%C3%B6pr%C3%BCs%C3%BC_ve_Galata_Kulesi_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Hali%C3%A7%2C_Metro_K%C3%B6pr%C3%BCs%C3%BC_ve_Galata_Kulesi_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hali%C3%A7,_Metro_K%C3%B6pr%C3%BCs%C3%BC_ve_Galata_Kulesi_2015.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Hamdigumus",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-02-15 12:49:33",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:20131205 Istanbul 311.jpg",
+   "w": 3968,
+   "h": 2976,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/20131205_Istanbul_311.jpg/330px-20131205_Istanbul_311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/20131205_Istanbul_311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20131205_Istanbul_311.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Mark Ahsmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-12-05 16:14:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:An inscription from the Walls of Galata.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/An_inscription_from_the_Walls_of_Galata.jpg/330px-An_inscription_from_the_Walls_of_Galata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/An_inscription_from_the_Walls_of_Galata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:An_inscription_from_the_Walls_of_Galata.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fatih Yasin Köroğlu",
+   "credito": "Own work of Fatih Yasin Köroğlu",
+   "nonfree": "",
+   "fecha": "2021-01-07 13:36:21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:GALATA KULESİ.jpg",
+   "w": 7952,
+   "h": 5304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/GALATA_KULES%C4%B0.jpg/330px-GALATA_KULES%C4%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/GALATA_KULES%C4%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:GALATA_KULES%C4%B0.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "ERHAN ALICI",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-10-13 16:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Galata, Beyoğlu - Aerial view - 01.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Galata%2C_Beyo%C4%9Flu_-_Aerial_view_-_01.jpg/330px-Galata%2C_Beyo%C4%9Flu_-_Aerial_view_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Galata%2C_Beyo%C4%9Flu_-_Aerial_view_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Galata,_Beyo%C4%9Flu_-_Aerial_view_-_01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Carlos Delgado",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-07-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Galata Tower-renovated elevators (5th floor).jpg",
+   "w": 4800,
+   "h": 3200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Galata_Tower-renovated_elevators_%285th_floor%29.jpg/330px-Galata_Tower-renovated_elevators_%285th_floor%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Galata_Tower-renovated_elevators_%285th_floor%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Galata_Tower-renovated_elevators_(5th_floor).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "MAST Asansör",
+   "credito": "MAST Asansör",
+   "nonfree": "",
+   "fecha": "2021-01-15 15:28:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Galata Tower-renovated elevators (ground floor).jpg",
+   "w": 4800,
+   "h": 3200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Galata_Tower-renovated_elevators_%28ground_floor%29.jpg/330px-Galata_Tower-renovated_elevators_%28ground_floor%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Galata_Tower-renovated_elevators_%28ground_floor%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Galata_Tower-renovated_elevators_(ground_floor).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "MAST Asansör",
+   "credito": "MAST Asansör",
+   "nonfree": "",
+   "fecha": "2021-01-15 15:59:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

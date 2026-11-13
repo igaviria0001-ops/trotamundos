@@ -1,0 +1,194 @@
+{
+ "id": "skellig",
+ "enwiki": "Skellig Michael",
+ "endesc": "UNESCO heritage island off the coast of Kerry, Ireland",
+ "qid": "Q207193",
+ "coord": [
+  51.771111111111,
+  -10.540555555556
+ ],
+ "label_es": "Skellig Michael",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 218.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 0.219,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 0.842,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q23442"
+ ],
+ "p17": [
+  "Q27"
+ ],
+ "unesco": true,
+ "eswiki": "Skellig Michael",
+ "extracto_es": "Skellig Michael (del gaélico irlandés Sceilig Mhíchíl, \"Roca de (San) Miguel\"), también conocida como Great Skellig, es una empinada isla rocosa situada a 15 km de la península de Iveragh, condado de Kerry, Irlanda. Es la mayor de las dos islas Skellig (la menor es Little Skellig) y se alza a 220 metros sobre el nivel del mar.",
+ "candidatas": [
+  {
+   "file": "File:Skellig Michael03(js).jpg",
+   "w": 5608,
+   "h": 3651,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Skellig_Michael03%28js%29.jpg/330px-Skellig_Michael03%28js%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Skellig_Michael03%28js%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Skellig_Michael03(js).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jerzy Strzelecki",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Skellig Michael, Co. Kerry, Ireland.jpg",
+   "w": 4878,
+   "h": 3252,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Skellig_Michael%2C_Co._Kerry%2C_Ireland.jpg/330px-Skellig_Michael%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Skellig_Michael%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Skellig_Michael,_Co._Kerry,_Ireland.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Notsmallworld",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-20 10:09:53",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Skellig Michael 2014.JPG",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Skellig_Michael_2014.JPG/330px-Skellig_Michael_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Skellig_Michael_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Skellig_Michael_2014.JPG",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Niki.L",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-05-16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:County Kerry - Skellig Michael - 20180622204632.jpg",
+   "w": 4898,
+   "h": 3265,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/County_Kerry_-_Skellig_Michael_-_20180622204632.jpg/330px-County_Kerry_-_Skellig_Michael_-_20180622204632.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/County_Kerry_-_Skellig_Michael_-_20180622204632.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:County_Kerry_-_Skellig_Michael_-_20180622204632.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Beyourbest2",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-22 20:46:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Puffins at Skellig Michael 10.jpg",
+   "w": 4032,
+   "h": 2268,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Puffins_at_Skellig_Michael_10.jpg/330px-Puffins_at_Skellig_Michael_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Puffins_at_Skellig_Michael_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puffins_at_Skellig_Michael_10.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Stinglehammer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-21 12:25:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Skellig 1.JPG",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Skellig_1.JPG/330px-Skellig_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Skellig_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Skellig_1.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ronan Mac Giollapharaic",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-30 12:13:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Skellig 2.JPG",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Skellig_2.JPG/330px-Skellig_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Skellig_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Skellig_2.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ronan Mac Giollapharaic",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-30 12:25:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Skellig 4.JPG",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Skellig_4.JPG/330px-Skellig_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Skellig_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Skellig_4.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ronan Mac Giollapharaic",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-30 13:37:20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

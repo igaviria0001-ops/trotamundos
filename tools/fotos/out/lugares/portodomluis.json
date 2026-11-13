@@ -1,0 +1,211 @@
+{
+ "id": "portodomluis",
+ "enwiki": "Dom Luís I Bridge",
+ "endesc": "Bridge in Porto, Portugal",
+ "qid": "Q1322447",
+ "coord": [
+  41.139722,
+  -8.609444
+ ],
+ "label_es": "puente Don Luis I",
+ "desc_es": "puente en Oporto, Portugal",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1881-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1886-10-31T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 45.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 385.25,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q14276458",
+  "Q6636777",
+  "Q6752690",
+  "Q21170235",
+  "Q210272",
+  "Q1569871",
+  "Q1243306"
+ ],
+ "p17": [
+  "Q45"
+ ],
+ "unesco": false,
+ "eswiki": "Puente Don Luis I",
+ "extracto_es": "El puente Luis I (en portugués: ponte Luíz I) es un puente sobre el río Duero que une Oporto con Vila Nova de Gaia en Portugal. Fue inaugurado en 1886 y es uno de los lugares emblemáticos de la ciudad.\nEl puente es parte del \"centro histórico de Oporto\", que en 1996 fue inscrito Patrimonio Mundial por la Unesco con el código 755.​",
+ "candidatas": [
+  {
+   "file": "File:Puente Don Luis I, Oporto, Portugal, 2012-05-09, DD 13.JPG",
+   "w": 5292,
+   "h": 3265,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG/330px-Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puente_Don_Luis_I,_Oporto,_Portugal,_2012-05-09,_DD_13.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-05-09",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Puente de Don Luis I, Oporto, Portugal, 2019-06-02, DD 29-31 HDR.jpg",
+   "w": 7741,
+   "h": 3859,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Puente_de_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2019-06-02%2C_DD_29-31_HDR.jpg/330px-Puente_de_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2019-06-02%2C_DD_29-31_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Puente_de_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2019-06-02%2C_DD_29-31_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puente_de_Don_Luis_I,_Oporto,_Portugal,_2019-06-02,_DD_29-31_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-02 22:54:23",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Dom Luís I Bridge (36961760686).jpg",
+   "w": 3861,
+   "h": 2942,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Dom_Lu%C3%ADs_I_Bridge_%2836961760686%29.jpg/330px-Dom_Lu%C3%ADs_I_Bridge_%2836961760686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dom_Lu%C3%ADs_I_Bridge_%2836961760686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dom_Lu%C3%ADs_I_Bridge_(36961760686).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Deensel",
+   "credito": "Dom Luís I Bridge",
+   "nonfree": "",
+   "fecha": "2017-09-06 18:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:0 Vista do Porto a partir da Serra do Pilar IMG 7302.jpg",
+   "w": 1920,
+   "h": 1080,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/0_Vista_do_Porto_a_partir_da_Serra_do_Pilar_IMG_7302.jpg/330px-0_Vista_do_Porto_a_partir_da_Serra_do_Pilar_IMG_7302.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/0_Vista_do_Porto_a_partir_da_Serra_do_Pilar_IMG_7302.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:0_Vista_do_Porto_a_partir_da_Serra_do_Pilar_IMG_7302.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Manuelvbotelho",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-12-04 11:20:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Porto-Ponte Dom Luis I-20-2011-gje.jpg",
+   "w": 5184,
+   "h": 2780,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Porto-Ponte_Dom_Luis_I-20-2011-gje.jpg/330px-Porto-Ponte_Dom_Luis_I-20-2011-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Porto-Ponte_Dom_Luis_I-20-2011-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Porto-Ponte_Dom_Luis_I-20-2011-gje.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gerd Eichmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-05-13 16:21:30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Porto-Ponte Dom Luis I-02-2011-gje.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Porto-Ponte_Dom_Luis_I-02-2011-gje.jpg/330px-Porto-Ponte_Dom_Luis_I-02-2011-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Porto-Ponte_Dom_Luis_I-02-2011-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Porto-Ponte_Dom_Luis_I-02-2011-gje.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gerd Eichmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-05-13 13:01:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Porto-Ponte Dom Luis I-26-2011-gje.jpg",
+   "w": 4652,
+   "h": 3016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Porto-Ponte_Dom_Luis_I-26-2011-gje.jpg/330px-Porto-Ponte_Dom_Luis_I-26-2011-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Porto-Ponte_Dom_Luis_I-26-2011-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Porto-Ponte_Dom_Luis_I-26-2011-gje.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gerd Eichmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-05-13 12:31:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Porto-Ponte Dom Luis I-22-2011-gje.jpg",
+   "w": 5184,
+   "h": 3008,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Porto-Ponte_Dom_Luis_I-22-2011-gje.jpg/330px-Porto-Ponte_Dom_Luis_I-22-2011-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Porto-Ponte_Dom_Luis_I-22-2011-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Porto-Ponte_Dom_Luis_I-22-2011-gje.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gerd Eichmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-05-13 16:22:46",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

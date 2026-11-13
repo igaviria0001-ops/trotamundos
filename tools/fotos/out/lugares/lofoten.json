@@ -1,0 +1,193 @@
+{
+ "id": "lofoten",
+ "enwiki": "Lofoten",
+ "endesc": "Archipelago and traditional district in Nordland, Norway",
+ "qid": "Q186822",
+ "coord": [
+  68.33305555555556,
+  14.66638888888889
+ ],
+ "label_es": "Islas Lofoten",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 1161.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 1227.0,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q1402592",
+  "Q33837",
+  "Q82794"
+ ],
+ "p17": [
+  "Q20"
+ ],
+ "unesco": false,
+ "eswiki": "Islas Lofoten",
+ "extracto_es": "Las Islas Lofoten son un archipiélago y un distrito de Noruega, situado en la provincia de Nordland, por encima del círculo polar ártico.​",
+ "candidatas": [
+  {
+   "file": "File:Nusfjord road, 2010 09.jpg",
+   "w": 4500,
+   "h": 1838,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Nusfjord_road%2C_2010_09.jpg/330px-Nusfjord_road%2C_2010_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nusfjord_road%2C_2010_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Nusfjord_road,_2010_09.jpg",
+   "licencia": "GFDL",
+   "licurl": "",
+   "autor": "Ximonic, Simo Räsänen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-11-20",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Moskenes Reinebringen lub 2025-07-21 img09 Aussicht.jpg",
+   "w": 7952,
+   "h": 5304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg/330px-Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Lukas Beck",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-07-21 16:27:31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Nordland Lofoten 23.JPG",
+   "w": 3444,
+   "h": 2586,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Nordland_Lofoten_23.JPG/330px-Nordland_Lofoten_23.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nordland_Lofoten_23.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Nordland_Lofoten_23.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Zairon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-06-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lofoten 2.jpg",
+   "w": 5568,
+   "h": 3712,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lofoten_2.jpg/330px-Lofoten_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lofoten_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lofoten_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Pantona",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "23 July 2023 (accord",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lofoten - Norway.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Lofoten_-_Norway.jpg/330px-Lofoten_-_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lofoten_-_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lofoten_-_Norway.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Bouke ten Cate",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-06-16 23:31:51",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lofoten - Norway 2.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Lofoten_-_Norway_2.jpg/330px-Lofoten_-_Norway_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Lofoten_-_Norway_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lofoten_-_Norway_2.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Bouke ten Cate",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-06-16 23:45:21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Hamnøy, Moskenesøya - Lofoten Islands, Norway.jpg",
+   "w": 4547,
+   "h": 3410,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamn%C3%B8y%2C_Moskenes%C3%B8ya_-_Lofoten_Islands%2C_Norway.jpg/330px-Hamn%C3%B8y%2C_Moskenes%C3%B8ya_-_Lofoten_Islands%2C_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hamn%C3%B8y%2C_Moskenes%C3%B8ya_-_Lofoten_Islands%2C_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hamn%C3%B8y,_Moskenes%C3%B8ya_-_Lofoten_Islands,_Norway.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Stch2022",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-05-29 05:03:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Eilert Adelsteen Normann - Dampskipsanløp I Lofoten - IMG 9337.jpg",
+   "w": 3084,
+   "h": 2044,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Eilert_Adelsteen_Normann_-_Dampskipsanl%C3%B8p_I_Lofoten_-_IMG_9337.jpg/330px-Eilert_Adelsteen_Normann_-_Dampskipsanl%C3%B8p_I_Lofoten_-_IMG_9337.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Eilert_Adelsteen_Normann_-_Dampskipsanl%C3%B8p_I_Lofoten_-_IMG_9337.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eilert_Adelsteen_Normann_-_Dampskipsanl%C3%B8p_I_Lofoten_-_IMG_9337.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Adelsteen Normann",
+   "credito": "Own work; photograph taken on September 12, 2009.",
+   "nonfree": "",
+   "fecha": "1885date QS:P571,+18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  }
+ ]
+}

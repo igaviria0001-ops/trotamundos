@@ -1,0 +1,203 @@
+{
+ "id": "rila",
+ "enwiki": "Rila Monastery",
+ "endesc": "Eastern Orthodox monastery in Bulgaria",
+ "qid": "Q207945",
+ "coord": [
+  42.134379,
+  23.339551
+ ],
+ "label_es": "Monasterio de Rila",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0946-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 1147.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 11.0,
+   "u": "Q35852"
+  },
+  {
+   "v": 231.6,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q44613",
+  "Q2031836",
+  "Q89335587"
+ ],
+ "p17": [
+  "Q219"
+ ],
+ "unesco": false,
+ "eswiki": "Monasterio de Rila",
+ "extracto_es": "El monasterio de Rila (en búlgaro: Рилски Манастир, Rilski Manastir) fue fundado en el siglo X por San Juan de Rila conocido como Iván Rilski, un ermitaño canonizado por la Iglesia ortodoxa. El templo está ubicado en las Montañas Rila, en el profundo valle del río Rilski, en la parte occidental de Bulgaria, a más o menos 120 kilómetros de la capital, Sofía.",
+ "candidatas": [
+  {
+   "file": "File:Rila Monastery (Рилски манастир) - fresco 2.JPG",
+   "w": 2478,
+   "h": 2083,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Rila_Monastery_%28%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80%29_-_fresco_2.JPG/330px-Rila_Monastery_%28%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80%29_-_fresco_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rila_Monastery_%28%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80%29_-_fresco_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rila_Monastery_(%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80)_-_fresco_2.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Pudelek (Marcin Szala)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 14,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rila Monastery, August 2013.jpg",
+   "w": 3690,
+   "h": 2460,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Rila_Monastery%2C_August_2013.jpg/330px-Rila_Monastery%2C_August_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Rila_Monastery%2C_August_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rila_Monastery,_August_2013.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Raggatt2000",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-25 12:13:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Church Monastry Rila.jpg",
+   "w": 2640,
+   "h": 1760,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Church_Monastry_Rila.jpg/330px-Church_Monastry_Rila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Church_Monastry_Rila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Church_Monastry_Rila.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Droben",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-06-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Rilsky-manastir.jpg",
+   "w": 8192,
+   "h": 4032,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Rilsky-manastir.jpg/330px-Rilsky-manastir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Rilsky-manastir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rilsky-manastir.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Andreeva78551",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-07-25 12:49:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P4291"
+  },
+  {
+   "file": "File:RilaMonasteryEntranceDetail.jpg",
+   "w": 3930,
+   "h": 2208,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/RilaMonasteryEntranceDetail.jpg/330px-RilaMonasteryEntranceDetail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/RilaMonasteryEntranceDetail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:RilaMonasteryEntranceDetail.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Octavio espinosa campodonico",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-05-26 12:11:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rila Monastery, Main Church \"Nativity of the Virgin Mother\".jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Rila_Monastery%2C_Main_Church_%22Nativity_of_the_Virgin_Mother%22.jpg/330px-Rila_Monastery%2C_Main_Church_%22Nativity_of_the_Virgin_Mother%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rila_Monastery%2C_Main_Church_%22Nativity_of_the_Virgin_Mother%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rila_Monastery,_Main_Church_%22Nativity_of_the_Virgin_Mother%22.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Daniel Petrov",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-07-29 12:50:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rila Monastery, view to the main church \"Nativity of the Virgin Mother\".jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Rila_Monastery%2C_view_to_the_main_church_%22Nativity_of_the_Virgin_Mother%22.jpg/330px-Rila_Monastery%2C_view_to_the_main_church_%22Nativity_of_the_Virgin_Mother%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rila_Monastery%2C_view_to_the_main_church_%22Nativity_of_the_Virgin_Mother%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rila_Monastery,_view_to_the_main_church_%22Nativity_of_the_Virgin_Mother%22.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Daniel Petrov",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-07-29 12:48:15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rila Monastery Portico, August 2013.jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Rila_Monastery_Portico%2C_August_2013.jpg/330px-Rila_Monastery_Portico%2C_August_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Rila_Monastery_Portico%2C_August_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rila_Monastery_Portico,_August_2013.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Raggatt2000",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-25 12:50:34",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

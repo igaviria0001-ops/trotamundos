@@ -1,0 +1,189 @@
+{
+ "id": "plazaroja",
+ "enwiki": "Red Square",
+ "endesc": "Square in Moscow, Russia",
+ "qid": "Q41116",
+ "coord": [
+  55.754166666667,
+  37.62
+ ],
+ "label_es": "Plaza Roja",
+ "desc_es": "lugar ilustre de la ciudad de Moscú, Rusia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1500-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "p31": [
+  "Q174782"
+ ],
+ "p17": [
+  "Q159"
+ ],
+ "unesco": false,
+ "eswiki": "Plaza Roja",
+ "extracto_es": "La plaza Roja (en ruso Красная площадь, Krásnaya plóshchad’) es la plaza más famosa de Moscú en el barrio comercial conocido como Kitay-górod. Posee 330 m de longitud y 70 m de ancho, sumando una superficie de 23 100 m². La traducción más precisa de su nombre sería «plaza hermosa», y en ruso antiguo красная (Krásnaya) significaba 'hermoso', pero también 'rojo'.\nEn 1990, la plaza Roja fue inscrita, junto con el conjunto del Kremlin, en la lista del Patrimonio de la Humanidad de la Unesco.​",
+ "candidatas": [
+  {
+   "file": "File:Museo Estatal de Historia, Moscú, Rusia, 2016-10-03, DD 49.jpg",
+   "w": 6255,
+   "h": 4681,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Museo_Estatal_de_Historia%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_49.jpg/330px-Museo_Estatal_de_Historia%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Museo_Estatal_de_Historia%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Museo_Estatal_de_Historia,_Mosc%C3%BA,_Rusia,_2016-10-03,_DD_49.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 4 October 2",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Kazansky Cathedral in MSK.jpg",
+   "w": 5000,
+   "h": 3334,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Kazansky_Cathedral_in_MSK.jpg/330px-Kazansky_Cathedral_in_MSK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Kazansky_Cathedral_in_MSK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kazansky_Cathedral_in_MSK.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Florstein (Telegram:WikiPhoto.Space)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 11 January ",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Red Square - Moscow 2024.jpg",
+   "w": 5676,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Red_Square_-_Moscow_2024.jpg/330px-Red_Square_-_Moscow_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Red_Square_-_Moscow_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_Square_-_Moscow_2024.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Юрий Д.К.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 28 June 202",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Kremlin and Red Square.1.jpg",
+   "w": 1600,
+   "h": 1063,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Kremlin_and_Red_Square.1.jpg/330px-Kremlin_and_Red_Square.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kremlin_and_Red_Square.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kremlin_and_Red_Square.1.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "mos.ru",
+   "credito": "Government of Moscow Press centre",
+   "nonfree": "",
+   "fecha": "2021-06-13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Middle Trade Rows Moscow 06-2015.jpg",
+   "w": 3558,
+   "h": 2846,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Middle_Trade_Rows_Moscow_06-2015.jpg/330px-Middle_Trade_Rows_Moscow_06-2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Middle_Trade_Rows_Moscow_06-2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Middle_Trade_Rows_Moscow_06-2015.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "A.Savin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-06-10",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Московский Кремль №11.JPG",
+   "w": 4830,
+   "h": 2806,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%E2%84%9611.JPG/330px-%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%E2%84%9611.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%E2%84%9611.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%E2%84%9611.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Sergey Korovkin 84",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-20 07:11:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Red Square at night 06.jpg",
+   "w": 9248,
+   "h": 6936,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Red_Square_at_night_06.jpg/330px-Red_Square_at_night_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Red_Square_at_night_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_Square_at_night_06.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "MBH",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-10-01 22:26:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:0169 - Moskau 2015 - Roter Platz (25795529393).jpg",
+   "w": 4786,
+   "h": 3169,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/0169_-_Moskau_2015_-_Roter_Platz_%2825795529393%29.jpg/330px-0169_-_Moskau_2015_-_Roter_Platz_%2825795529393%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/0169_-_Moskau_2015_-_Roter_Platz_%2825795529393%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:0169_-_Moskau_2015_-_Roter_Platz_(25795529393).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Uwe Brodrecht",
+   "credito": "0169 - Moskau 2015 - Roter Platz",
+   "nonfree": "",
+   "fecha": "2015-09-30 14:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}
