@@ -1,0 +1,200 @@
+{
+ "id": "badshahi",
+ "enwiki": "Badshahi Mosque",
+ "endesc": "Mughal-era mosque in Lahore, Pakistan",
+ "qid": "Q330872",
+ "coord": [
+  31.588055555555556,
+  74.30944444444444
+ ],
+ "label_es": "Badshahi Masjid",
+ "desc_es": "mesquita en Lahore, Pakistán",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1671-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 53.75,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 25.8999,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 161.14,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q32815"
+ ],
+ "p17": [
+  "Q843"
+ ],
+ "unesco": false,
+ "eswiki": "Mezquita Badshahi",
+ "extracto_es": "La mezquita Badshahi (en urdu: بادشاھی مسجد, Badshahi masŷid; literalmente «mezquita del Emperador») fue construida en 1673 por el emperador mogol Aurangzeb en Lahore (Pakistán). Es uno de los atractivos turísticos más importantes de la ciudad, junto con la tumba de Jahangir, nieto de Aurangzeb, siendo ambos complejos ejemplos de la arquitectura mogol.\nEs la segunda mezquita más grande de Pakistán, después de la mezquita Faisal en Islamabad, y tiene capacidad para acomodar a más de 55 000 fieles. La arquitectura y el diseño de la mezquita Badshahi está íntimamente relacionado con el de la Jama Masjid en Delhi (India) que fue construida en 1648 por el padre y predecesor de Aurangzeb, el emperador Sha Jahan.\nLa mezquita Badshahi es uno de los famosos lugares donde Qari Basit recitaba el Corán.\nEl 14 de diciembre de 1993 la «Mezquita Badshahi, Lahore» fue inscrita en la Lista Indicativa de Pakistán —paso previo a ser declarado Patrimonio de la Humanidad—, en la categoría de bien cultural (n.º ref 1277).​",
+ "candidatas": [
+  {
+   "file": "File:Badshahi Mosque July 1 2005 pic32 by Ali Imran (1).jpg",
+   "w": 2270,
+   "h": 1514,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Badshahi_Mosque_July_1_2005_pic32_by_Ali_Imran_%281%29.jpg/330px-Badshahi_Mosque_July_1_2005_pic32_by_Ali_Imran_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Badshahi_Mosque_July_1_2005_pic32_by_Ali_Imran_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Badshahi_Mosque_July_1_2005_pic32_by_Ali_Imran_(1).jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Ali Imran",
+   "credito": "Photo taken on July 1, 2005, by Pale blue dot.",
+   "nonfree": "",
+   "fecha": "2 July 2005 (origina",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Badshahi Mosque front picture.jpg",
+   "w": 2592,
+   "h": 1728,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Badshahi_Mosque_front_picture.jpg/330px-Badshahi_Mosque_front_picture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Badshahi_Mosque_front_picture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Badshahi_Mosque_front_picture.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Romero Maia",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-18 03:01:39",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Badshahi Mosque 33 (edited).jpg",
+   "w": 5690,
+   "h": 3274,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Badshahi_Mosque_33_%28edited%29.jpg/330px-Badshahi_Mosque_33_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badshahi_Mosque_33_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Badshahi_Mosque_33_(edited).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Riaz Ahmad",
+   "credito": "File:Badshahi_Masjid_33.jpg",
+   "nonfree": "",
+   "fecha": "2016-09-02 20:16:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Aerial View of Badhshahi Mosque.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Aerial_View_of_Badhshahi_Mosque.jpg/330px-Aerial_View_of_Badhshahi_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Aerial_View_of_Badhshahi_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Badhshahi_Mosque.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mhtoori",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-11-28 15:59:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Badshahi Mosque night view.JPG",
+   "w": 4932,
+   "h": 3279,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Badshahi_Mosque_night_view.JPG/330px-Badshahi_Mosque_night_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Badshahi_Mosque_night_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Badshahi_Mosque_night_view.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ahmad Tahir",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-09-14 18:59:23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Baadshahi Mosque.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Baadshahi_Mosque.jpg/330px-Baadshahi_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Baadshahi_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Baadshahi_Mosque.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ghania Muzammil",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-04-12 12:11:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:BadshahiInterior.jpg",
+   "w": 4065,
+   "h": 2749,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/BadshahiInterior.jpg/330px-BadshahiInterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/BadshahiInterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:BadshahiInterior.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Shabi Abdullah",
+   "credito": "File:Badshahi_Mosque._(3).JPG",
+   "nonfree": "",
+   "fecha": "2015-09-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Badshahi Mosque, Lahore VI.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Badshahi_Mosque%2C_Lahore_VI.jpg/330px-Badshahi_Mosque%2C_Lahore_VI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Badshahi_Mosque%2C_Lahore_VI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Badshahi_Mosque,_Lahore_VI.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fassifarooq",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-11-26 07:09:50",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "id": "amber",
+ "enwiki": "Amber Fort",
+ "endesc": "World Heritage Site in India",
+ "qid": "Q456817",
+ "coord": [
+  26.9859,
+  75.8507
+ ],
+ "label_es": "Fuerte Amber",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1592-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 30.0,
+   "u": "Q35852"
+  },
+  {
+   "v": 498.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q16560",
+  "Q57831"
+ ],
+ "p17": [
+  "Q668"
+ ],
+ "unesco": false,
+ "eswiki": "Fuerte Amber",
+ "extracto_es": "El fuerte de Amber es un conjunto palaciego situado en Amber, a 11 km de Jaipur, en el estado de Rayastán (India), que fue originalmente construida por los Meenas, quienes consagraron la ciudad a Amba, la Diosa Madre a la que conocían como “Gatta Rani” o “Reina del Pasado” [Tod. II.282]. Construida sobre los restos de una estructura anterior, el complejo palaciego que permanece en la actualidad fue comenzado durante el reinado del Rash (‘rey’) Man Singh, comandante en jefe del ejército de Akbar y miembro del círculo íntimo de los “9 cortesanos”, en 1592. Amber sufrió modificaciones bajo sucesivos dirigentes en los siguientes 150 años, hasta que los kachwahas trasladaron su capital a Jaipur durante la época de Jai Singh II.\nLa edificación que actualmente se conoce como Amber Fort era inicialmente un complejo palaciego dentro del fuerte de Amber original que hoy día se conoce como Fuerte Jaigarh. Conectado con Amber a través de pasajes fortificados, Jaigarh Fort está localizado en una colina sobre el complejo de Amber, y está construido a base de piedra arenisca roja y mármol blanco. Con vistas al lago Maotha, tiene reputación de haber sido el tesoro de los dirigentes Kacchwaha. Hoy día, los turistas pueden subir al fuerte desde la base de la colina en elefante. Durante el paseo, se pueden admirar las hermosas vistas de Jaipur, del lago Maotha y de la muralla original de la ciudad.\nUna vez alcanzado el palacio, se puede visitar el fuerte en una visita guiada o hacerlo uno mismo. Es destacable el vestíbulo de los espejos: cuando la realeza vivía en este lugar, por la noche, cuando necesitaban pasar a través de esta estancia, tomaban una sola vela, y gracias al intrincado diseño de pequeños espejos, toda la habitación se iluminaba.",
+ "candidatas": [
+  {
+   "file": "File:20191219 Fort Amber, Amer, Jaipur 0955 9481.jpg",
+   "w": 4000,
+   "h": 3630,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg/330px-20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20191219_Fort_Amber,_Amer,_Jaipur_0955_9481.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-12-19 09:55:33",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "en"
+  },
+  {
+   "file": "File:Amber Fort-Jaipur-India0007.JPG",
+   "w": 3768,
+   "h": 2527,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Amber_Fort-Jaipur-India0007.JPG/330px-Amber_Fort-Jaipur-India0007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amber_Fort-Jaipur-India0007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amber_Fort-Jaipur-India0007.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-12-04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Amer Fort - Ganesh Pol (2022) - img 01.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Amer_Fort_-_Ganesh_Pol_%282022%29_-_img_01.jpg/330px-Amer_Fort_-_Ganesh_Pol_%282022%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Amer_Fort_-_Ganesh_Pol_%282022%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amer_Fort_-_Ganesh_Pol_(2022)_-_img_01.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Chainwit.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-07-16 09:03:30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:The amber fort lighted up.jpg",
+   "w": 5184,
+   "h": 3240,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/The_amber_fort_lighted_up.jpg/330px-The_amber_fort_lighted_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_amber_fort_lighted_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_amber_fort_lighted_up.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Sharan Devkar Shankar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-06-10 22:20:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Amber Fort, Baradhari Pavilion at Man Singh Palace Square, 2010.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Amber_Fort%2C_Baradhari_Pavilion_at_Man_Singh_Palace_Square%2C_2010.jpg/330px-Amber_Fort%2C_Baradhari_Pavilion_at_Man_Singh_Palace_Square%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Amber_Fort%2C_Baradhari_Pavilion_at_Man_Singh_Palace_Square%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amber_Fort,_Baradhari_Pavilion_at_Man_Singh_Palace_Square,_2010.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Vssun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-09-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Amber Fort - Sheesh Mahal Interior.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Amber_Fort_-_Sheesh_Mahal_Interior.jpg/330px-Amber_Fort_-_Sheesh_Mahal_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Amber_Fort_-_Sheesh_Mahal_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amber_Fort_-_Sheesh_Mahal_Interior.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Vssun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-09-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Amber Fort Second Courtyard Mirror Palace view.jpg",
+   "w": 4752,
+   "h": 3168,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Amber_Fort_Second_Courtyard_Mirror_Palace_view.jpg/330px-Amber_Fort_Second_Courtyard_Mirror_Palace_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Amber_Fort_Second_Courtyard_Mirror_Palace_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amber_Fort_Second_Courtyard_Mirror_Palace_view.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "BazaNews",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-11-25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Amer fort view during the night lighting.JPG",
+   "w": 5168,
+   "h": 2896,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Amer_fort_view_during_the_night_lighting.JPG/330px-Amer_fort_view_during_the_night_lighting.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Amer_fort_view_during_the_night_lighting.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amer_fort_view_during_the_night_lighting.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Chinmayisk",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-01-10 07:27:11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

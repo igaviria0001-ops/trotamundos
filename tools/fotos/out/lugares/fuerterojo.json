@@ -1,0 +1,210 @@
+{
+ "id": "fuerterojo",
+ "enwiki": "Red Fort",
+ "endesc": "Historical Mughal fort in Delhi, India",
+ "qid": "Q45957",
+ "coord": [
+  28.655833333333334,
+  77.24027777777778
+ ],
+ "label_es": "Fuerte Rojo de Delhi",
+ "desc_es": "fuerte histórico en Delhi, India",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1648-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1648-04-06T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 33.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 49.1815,
+   "u": "Q35852"
+  },
+  {
+   "v": 43.4309,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q1785071"
+ ],
+ "p17": [
+  "Q668",
+  "Q33296"
+ ],
+ "unesco": true,
+ "eswiki": "Fuerte rojo de Delhi",
+ "extracto_es": "El fuerte de Delhi, ubicado en la ciudad india de Delhi, es llamado también Fuerte rojo o Lal Qila (en hindi) por el color de la piedra arenisca con que se construyó. No debe confundirse con el Fuerte de Agra al que se llama del mismo modo. Fue declarado Patrimonio de la Humanidad por la Unesco en 2007, abarcando una superficie protegida de 49,18 ha.\nFue un palacio en la nueva capital del emperador Shah Jahan. Esta se llamaba Shahjahanabad y era la séptima ciudad musulmana construida en la actual Delhi. Jahan trasladó la capital desde Agra para desarrollar sus esquemas de construcción y darle más prestigio a su reino. \nSe empezó a construir en 1638 y se terminó diez años después. Está situado en el extremo este de Shahjahanabad y toma su nombre de los impresionantes muros, construidos en arenisca roja, que definen sus cuatro costados. La muralla mide 6,5 kilómetros de largo y su altura varía entre los 16 metros en la orilla del río a los 33 metros en la zona cercana a la ciudad.\nSe extendía a lo largo del curso del río Yamuna (que desde entonces ha modificado su curso). El muro situado en la esquina nordeste está junto a un antiguo fuerte, el Salimgarh, un edificio de defensa construido por Shah Sur en 1546.\n\nFue concebido como una unidad por lo que no ha tenido demasiadas reformas en cuanto a su estructura original. Sin embargo, en el siglo XVIII, algunas secciones resultaron dañadas. En 1857 tras la revuelta de los cipayos, el ejército británico lo ocupó y destruyó gran parte de sus pabellones y jardines. Un programa de restauración del fuerte se inició en 1903. Los muros están suavemente decorados, con algunos detalles más pesados en la zona superior. \nTiene dos puertas principales: la puerta de Delhi y la de Lahore. La de Lahore es la entrada principal; conduce hasta una calle que sirve de bazar, el Chatta Chowk. Este bazar conduce a un espacio abierto que servía como división entre la zona utilizada por los militares y los palacios.",
+ "candidatas": [
+  {
+   "file": "File:20191203 Czerwony Fort w Delhi 0528 6405 DxO.jpg",
+   "w": 4908,
+   "h": 3263,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg/330px-20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-12-03 05:28:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Delhi fort.jpg",
+   "w": 4242,
+   "h": 1949,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/330px-Delhi_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Delhi_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Delhi_fort.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "PerSona77",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-02-05 10:21:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "en"
+  },
+  {
+   "file": "File:Red Fort, Delhi by alexfurr.jpg",
+   "w": 1549,
+   "h": 1025,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Red_Fort%2C_Delhi_by_alexfurr.jpg/330px-Red_Fort%2C_Delhi_by_alexfurr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Red_Fort%2C_Delhi_by_alexfurr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_Fort,_Delhi_by_alexfurr.jpg",
+   "licencia": "Attribution",
+   "licurl": "",
+   "autor": "Alex Furr",
+   "credito": "http://www.sxc.hu/photo/265265",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:20191203 Naubat Khana, Red Fort, Delhi 0453 6340 DxO.jpg",
+   "w": 3716,
+   "h": 3040,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/20191203_Naubat_Khana%2C_Red_Fort%2C_Delhi_0453_6340_DxO.jpg/330px-20191203_Naubat_Khana%2C_Red_Fort%2C_Delhi_0453_6340_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/20191203_Naubat_Khana%2C_Red_Fort%2C_Delhi_0453_6340_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20191203_Naubat_Khana,_Red_Fort,_Delhi_0453_6340_DxO.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-12-03 04:53:56",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Fuerte Rojo-Delhi-India62.JPG",
+   "w": 3587,
+   "h": 1711,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Fuerte_Rojo-Delhi-India62.JPG/330px-Fuerte_Rojo-Delhi-India62.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Fuerte_Rojo-Delhi-India62.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fuerte_Rojo-Delhi-India62.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-12-01",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Red Fort Delhi MA06.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Red_Fort_Delhi_MA06.jpg/330px-Red_Fort_Delhi_MA06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Red_Fort_Delhi_MA06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_Fort_Delhi_MA06.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rajeeb Dutta",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-28 18:28:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Lal Qila (Red Fort) 270.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Lal_Qila_%28Red_Fort%29_270.jpg/330px-Lal_Qila_%28Red_Fort%29_270.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lal_Qila_%28Red_Fort%29_270.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lal_Qila_(Red_Fort)_270.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Anupamg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lal Qila (Red Fort) 271.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Lal_Qila_%28Red_Fort%29_271.jpg/330px-Lal_Qila_%28Red_Fort%29_271.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lal_Qila_%28Red_Fort%29_271.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lal_Qila_(Red_Fort)_271.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Anupamg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

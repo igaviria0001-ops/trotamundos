@@ -1,0 +1,204 @@
+{
+ "id": "puertaindiadelhi",
+ "enwiki": "India Gate",
+ "endesc": "War memorial arch in New Delhi, India",
+ "qid": "Q245347",
+ "coord": [
+  28.612863888889,
+  77.229305555556
+ ],
+ "label_es": "Puerta de la India",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1931-02-12T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1931-02-12T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 42.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q143912",
+  "Q65096167"
+ ],
+ "p17": [
+  "Q668"
+ ],
+ "unesco": false,
+ "eswiki": "Puerta de la India",
+ "extracto_es": "Ubicada en el llamado Rajpath (camino real) en la ciudad india de Nueva Delhi, la Puerta de la India (originalmente llamada el Memorial de todas las guerras indias) es un monumento construido por el arquitecto Edwin Lutyens para conmemorar a los soldados indios que murieron en la Primera Guerra Mundial y las Guerras Afganas de 1919. La piedra inicial fue puesta el 10 de febrero de 1921 por el Duque de Connaught. Los nombres de los soldados que murieron en estas guerras están inscritos sobre las paredes del monumento. Su construcción finalizó en 1931. Desde 1971 se encuentra bajo el monumento una llama eterna, conocida como Amar Jawan Jyoti (la llama del guerrero inmortal), la cual marca la \"Tumba del soldado desconocido\" y está dedicada a honrar los soldados desconocidos muertos en los enfrentamientos entre India y Pakistán que tuvieron lugar ese mismo año.",
+ "candidatas": [
+  {
+   "file": "File:India Gate - Delhi (37282946605).jpg",
+   "w": 3000,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/India_Gate_-_Delhi_%2837282946605%29.jpg/330px-India_Gate_-_Delhi_%2837282946605%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/India_Gate_-_Delhi_%2837282946605%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:India_Gate_-_Delhi_(37282946605).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Mike_fleming from London, England",
+   "credito": "Delhi",
+   "nonfree": "",
+   "fecha": "2017-09-15 17:53",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:India Gate, New Delhi.jpg",
+   "w": 5874,
+   "h": 3036,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/India_Gate%2C_New_Delhi.jpg/330px-India_Gate%2C_New_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/India_Gate%2C_New_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Yann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:India Gate front.jpg",
+   "w": 3456,
+   "h": 3771,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/India_Gate_front.jpg/330px-India_Gate_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/India_Gate_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:India_Gate_front.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "AKS.9955",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-07-21 17:53:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:India Gate, detail, New Delhi.jpg",
+   "w": 4000,
+   "h": 1893,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/India_Gate%2C_detail%2C_New_Delhi.jpg/330px-India_Gate%2C_detail%2C_New_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/India_Gate%2C_detail%2C_New_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:India_Gate,_detail,_New_Delhi.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Yann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:India Gate, New Delhi from West.jpg",
+   "w": 3426,
+   "h": 2658,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/India_Gate%2C_New_Delhi_from_West.jpg/330px-India_Gate%2C_New_Delhi_from_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/India_Gate%2C_New_Delhi_from_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi_from_West.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nikhilb239",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-11-01 10:09:41",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:India Gate 2014-11-01.jpg",
+   "w": 2610,
+   "h": 3567,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/India_Gate_2014-11-01.jpg/330px-India_Gate_2014-11-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/India_Gate_2014-11-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:India_Gate_2014-11-01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nikhilb239",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-11-01 09:55:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:India Gate - Architecture inside.jpg",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/India_Gate_-_Architecture_inside.jpg/330px-India_Gate_-_Architecture_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/India_Gate_-_Architecture_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:India_Gate_-_Architecture_inside.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Vinayakaprabhu",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-01-03 17:50:51",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:India Gate ceiling.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/India_Gate_ceiling.jpg/330px-India_Gate_ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/India_Gate_ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:India_Gate_ceiling.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "AKS.9955",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-07-21 17:58:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

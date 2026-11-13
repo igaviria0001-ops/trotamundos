@@ -1,0 +1,201 @@
+{
+ "id": "komodo",
+ "enwiki": "Komodo National Park",
+ "endesc": "National park in Indonesia",
+ "qid": "Q4520",
+ "coord": [
+  -8.651625,
+  119.576569
+ ],
+ "label_es": "Parque nacional de Komodo",
+ "desc_es": "parque nacional en Indonesia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1980-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 81.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 219322.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q393259"
+ ],
+ "p17": [
+  "Q252"
+ ],
+ "unesco": true,
+ "eswiki": "Parque nacional de Komodo",
+ "extracto_es": "El parque nacional de Komodo se encuentra en las Islas menores de la Sonda, en el límite entre las provincias de Nusatenggara Occidental y Nusatenggara Oriental, al este de Sumbawa y al oeste de la Isla de Flores en el archipiélago de Indonesia. Fue declarado como Patrimonio de la Humanidad por la Unesco en el año 1991.\nEl parque nacional lo forman las tres grandes islas de Komodo, Rinca y Padar, así como de otras pequeñas y numerosas islas, como Gili Motang y Nusa Kode. Dichas islas son de origen volcánico y unas 4000 personas viven en ellas.\nEl parque nacional fue fundado el 6 de marzo de 1980, con el objetivo de proteger al dragón de Komodo (Varanus komodoensis). El objetivo fue ampliado posteriormente hacia la protección de la flora y de la fauna de la región, incluyendo a las zonas marítimas. La superficie (marina y terrestre) abarca unos 1817 km², de los que 603 km² son terrestres. Aunque las extensiones propuestas podrían alcanzar una superficie total de 2321 km². El 11 de noviembre de 2011 el parque nacional de Komodo fue declarado como una de las siete maravillas naturales del mundo.",
+ "candidatas": [
+  {
+   "file": "File:Komodo dragon (Varanus komodoensis).jpg",
+   "w": 3670,
+   "h": 2895,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Komodo_dragon_%28Varanus_komodoensis%29.jpg/330px-Komodo_dragon_%28Varanus_komodoensis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Komodo_dragon_%28Varanus_komodoensis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Komodo_dragon_(Varanus_komodoensis).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Charles J. Sharp",
+   "credito": "Own work, from Sharp Photography, sharpphotography",
+   "nonfree": "",
+   "fecha": "2015-05-20 07:49:38",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 14,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Tunicate komodo.jpg",
+   "w": 1680,
+   "h": 1260,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Tunicate_komodo.jpg/330px-Tunicate_komodo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tunicate_komodo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tunicate_komodo.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Nhobgood Nick Hobgood",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 10 October ",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kanawa Island.jpg",
+   "w": 2048,
+   "h": 1169,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Kanawa_Island.jpg/330px-Kanawa_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kanawa_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kanawa_Island.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Jordy Meow",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-08-12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Kanawa Island from Above.jpg",
+   "w": 3968,
+   "h": 2976,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Kanawa_Island_from_Above.jpg/330px-Kanawa_Island_from_Above.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Kanawa_Island_from_Above.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kanawa_Island_from_Above.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "SunDawn",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Komodo-dragon-1.jpg",
+   "w": 2272,
+   "h": 1704,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Komodo-dragon-1.jpg/330px-Komodo-dragon-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Komodo-dragon-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Komodo-dragon-1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Thomas Hirsch",
+   "credito": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "nonfree": "",
+   "fecha": "Taken on 1 October 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rinca Island in Komodo National Park.jpg",
+   "w": 4288,
+   "h": 3216,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Rinca_Island_in_Komodo_National_Park.jpg/330px-Rinca_Island_in_Komodo_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rinca_Island_in_Komodo_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rinca_Island_in_Komodo_National_Park.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lydia Kristiani",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-31 14:37:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Komodo National Park Indonesia 02.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Komodo_National_Park_Indonesia_02.jpg/330px-Komodo_National_Park_Indonesia_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Komodo_National_Park_Indonesia_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Komodo_National_Park_Indonesia_02.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Charlie Marchant",
+   "credito": "https://www.flickr.com/photos/charlieontravel/39451542005/",
+   "nonfree": "",
+   "fecha": "2018-02-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Komodo animal.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Komodo_animal.jpg/330px-Komodo_animal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Komodo_animal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Komodo_animal.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Hildaniar Novitasari",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-11-12 15:00:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

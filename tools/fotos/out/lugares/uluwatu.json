@@ -1,0 +1,207 @@
+{
+ "id": "uluwatu",
+ "enwiki": "Uluwatu Temple",
+ "endesc": "Balinese Hindu temple in Indonesia",
+ "qid": "Q1381933",
+ "coord": [
+  -8.82939,
+  115.084405
+ ],
+ "label_es": "templo de Uluwatu",
+ "desc_es": "templo del mar balinés hinduista en Bali, Indonesia",
+ "inicio": [],
+ "visitantes": [
+  {
+   "v": 1129306.0,
+   "u": "1"
+  },
+  {
+   "v": 1774009.0,
+   "u": "1"
+  },
+  {
+   "v": 1591674.0,
+   "u": "1"
+  },
+  {
+   "v": 2236506.0,
+   "u": "1"
+  },
+  {
+   "v": 2458464.0,
+   "u": "1"
+  },
+  {
+   "v": 2269725.0,
+   "u": "1"
+  },
+  {
+   "v": 398838.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q3124902",
+  "Q842402"
+ ],
+ "p17": [
+  "Q252"
+ ],
+ "unesco": false,
+ "eswiki": "Templo de Uluwatu",
+ "extracto_es": "El templo de Uluwatu (en balinés: Pura Luhur Uluwatu) es un templo del mar hindú balinés (Pura Segara) ubicado en Uluwatu (sur de Kuta, kabupaten de Badung).\nEl templo hace parte de los seis sad kahyangan dedicado a Sang Hyang Widhi Wasa en su manifestación como Rudra.​",
+ "candidatas": [
+  {
+   "file": "File:Uluwatu Temple.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Uluwatu_Temple.jpg/330px-Uluwatu_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Uluwatu_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Uluwatu_Temple.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "GeoffClarke",
+   "credito": "http://geoffclarke.hubpages.com/hub/Romantic-Getaway-to-Bali-The-Temples",
+   "nonfree": "",
+   "fecha": "2011-11-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Pura Luhur Uluwatu 2017-08-17 (34).jpg",
+   "w": 4896,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Pura_Luhur_Uluwatu_2017-08-17_%2834%29.jpg/330px-Pura_Luhur_Uluwatu_2017-08-17_%2834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pura_Luhur_Uluwatu_2017-08-17_%2834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pura_Luhur_Uluwatu_2017-08-17_(34).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Paskuu",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-17 16:38:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:004 Uluwatu Temple Close Up, Pura Uluwatu, Bali, photograph by Anandajoti Bhikkhu.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/004_Uluwatu_Temple_Close_Up%2C_Pura_Uluwatu%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg/330px-004_Uluwatu_Temple_Close_Up%2C_Pura_Uluwatu%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/004_Uluwatu_Temple_Close_Up%2C_Pura_Uluwatu%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:004_Uluwatu_Temple_Close_Up,_Pura_Uluwatu,_Bali,_photograph_by_Anandajoti_Bhikkhu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Anandajoti",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-10-25 09:28:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:013 Uluwatu Temple Tree, Pura Uluwatu, Bali, photograph by Anandajoti Bhikkhu.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/013_Uluwatu_Temple_Tree%2C_Pura_Uluwatu%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg/330px-013_Uluwatu_Temple_Tree%2C_Pura_Uluwatu%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/013_Uluwatu_Temple_Tree%2C_Pura_Uluwatu%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:013_Uluwatu_Temple_Tree,_Pura_Uluwatu,_Bali,_photograph_by_Anandajoti_Bhikkhu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Anandajoti",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-10-25 09:45:50",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Pura Luhur Ukuwatu Temple (16889375071).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Pura_Luhur_Ukuwatu_Temple_%2816889375071%29.jpg/330px-Pura_Luhur_Ukuwatu_Temple_%2816889375071%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Pura_Luhur_Ukuwatu_Temple_%2816889375071%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pura_Luhur_Ukuwatu_Temple_(16889375071).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Jorge Láscar from Melbourne, Australia",
+   "credito": "Pura Luhur Ukuwatu Temple",
+   "nonfree": "",
+   "fecha": "10 November 2013, 04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Uluwatu temple, Bali.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Uluwatu_temple%2C_Bali.jpg/330px-Uluwatu_temple%2C_Bali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Uluwatu_temple%2C_Bali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Uluwatu_temple,_Bali.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tiya20",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-06-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:012 Uluwatu Temple Wall, Pura Uluwatu, Bali, photograph by Anandajoti Bhikkhu.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/012_Uluwatu_Temple_Wall%2C_Pura_Uluwatu%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg/330px-012_Uluwatu_Temple_Wall%2C_Pura_Uluwatu%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/012_Uluwatu_Temple_Wall%2C_Pura_Uluwatu%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:012_Uluwatu_Temple_Wall,_Pura_Uluwatu,_Bali,_photograph_by_Anandajoti_Bhikkhu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Anandajoti",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-10-25 09:44:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Utama Mandala Pura Luhur Uluwatu.jpg",
+   "w": 2045,
+   "h": 2046,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Utama_Mandala_Pura_Luhur_Uluwatu.jpg/330px-Utama_Mandala_Pura_Luhur_Uluwatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Utama_Mandala_Pura_Luhur_Uluwatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Utama_Mandala_Pura_Luhur_Uluwatu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ketut Suryadinata Putra",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-02-08 15:44:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 2,
+   "origen": "busqueda"
+  }
+ ]
+}

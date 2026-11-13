@@ -1,0 +1,194 @@
+{
+ "id": "mysore",
+ "enwiki": "Mysore Palace",
+ "endesc": "Historical palace in Mysore, Karnataka, India",
+ "qid": "Q456575",
+ "coord": [
+  12.303888888889,
+  76.654444444444
+ ],
+ "label_es": "Palacio Real de Mysore",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1912-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q16560"
+ ],
+ "p17": [
+  "Q668"
+ ],
+ "unesco": false,
+ "eswiki": "Palacio Real de Mysore",
+ "extracto_es": "El Palacio Real de Mysore (en canarés: ಮೈಸೂರು ಅರಮನೆ) es un complejo palaciego situado en Mysore (India). Es la residencia del maharaja de Mysore,​ la dinastía Wodeyar.\nMysore posee varios palacios, aunque el término palacio de Mysore hace indiscutiblemente referencia al palacio real; no obstante han existido varios palacios reales en Mysore, el primero de los cuales fue construido en el siglo XIV. Sucesivamente se han ampliado, demolido y proyectado otros nuevos. El complejo actual fue mandado construir en 1897, terminado en 1912 y ampliado en 1940,​ después de que el anterior ardiera en un incendio. Es obra del arquitecto inglés Henry Irwin en un estilo historicista indo-sarraceno.​",
+ "candidatas": [
+  {
+   "file": "File:মহীশূর প্রাসাদের হাতি ফটক.jpg",
+   "w": 4096,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%E0%A6%AE%E0%A6%B9%E0%A7%80%E0%A6%B6%E0%A7%82%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF_%E0%A6%AB%E0%A6%9F%E0%A6%95.jpg/330px-%E0%A6%AE%E0%A6%B9%E0%A7%80%E0%A6%B6%E0%A7%82%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF_%E0%A6%AB%E0%A6%9F%E0%A6%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%E0%A6%AE%E0%A6%B9%E0%A7%80%E0%A6%B6%E0%A7%82%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF_%E0%A6%AB%E0%A6%9F%E0%A6%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%E0%A6%AE%E0%A6%B9%E0%A7%80%E0%A6%B6%E0%A7%82%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF_%E0%A6%AB%E0%A6%9F%E0%A6%95.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "রহিম সৈকত",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "11 May 2025 (accordi",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Mysore Palace Windows.jpg",
+   "w": 5638,
+   "h": 3892,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mysore_Palace_Windows.jpg/330px-Mysore_Palace_Windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Mysore_Palace_Windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_Windows.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sumit Surai",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-01-29 13:44:26",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mysore Palace Morning.jpg",
+   "w": 4407,
+   "h": 2148,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/330px-Mysore_Palace_Morning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mysore_Palace_Morning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_Morning.jpg",
+   "licencia": "GFDL 1.2",
+   "licurl": "",
+   "autor": "Muhammad Mahdi Karim",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Carvings Inner Courtyard Mysore Palace Dec23 A7C 08263.jpg",
+   "w": 3568,
+   "h": 2676,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Carvings_Inner_Courtyard_Mysore_Palace_Dec23_A7C_08263.jpg/330px-Carvings_Inner_Courtyard_Mysore_Palace_Dec23_A7C_08263.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Carvings_Inner_Courtyard_Mysore_Palace_Dec23_A7C_08263.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Carvings_Inner_Courtyard_Mysore_Palace_Dec23_A7C_08263.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-12-02 10:41:08",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Leopard sculpture of the Mysore Palace.jpg",
+   "w": 4149,
+   "h": 2185,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Leopard_sculpture_of_the_Mysore_Palace.jpg/330px-Leopard_sculpture_of_the_Mysore_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Leopard_sculpture_of_the_Mysore_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Leopard_sculpture_of_the_Mysore_Palace.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This photograph was taken by Rijin S and released under the license stated below. You are free to use it for any purpose as long as you credit the author (Rijin S), the Source (Wikimedia Commons), the",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-07-03 12:41:44",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Mysore Palace 3739.jpg",
+   "w": 4949,
+   "h": 3712,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Mysore_Palace_3739.jpg/330px-Mysore_Palace_3739.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mysore_Palace_3739.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_3739.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Basavaraj M",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-04-03 17:10:07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Mysuru Palace - North Gates - 1.jpg",
+   "w": 6430,
+   "h": 4187,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mysuru_Palace_-_North_Gates_-_1.jpg/330px-Mysuru_Palace_-_North_Gates_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mysuru_Palace_-_North_Gates_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mysuru_Palace_-_North_Gates_-_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ingo Mehling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-01-24 10:35:48",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Stucco Ceiling Darbar Hall Mysore Palace Dec23 A7C 08280.jpg",
+   "w": 5737,
+   "h": 3227,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Stucco_Ceiling_Darbar_Hall_Mysore_Palace_Dec23_A7C_08280.jpg/330px-Stucco_Ceiling_Darbar_Hall_Mysore_Palace_Dec23_A7C_08280.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Stucco_Ceiling_Darbar_Hall_Mysore_Palace_Dec23_A7C_08280.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stucco_Ceiling_Darbar_Hall_Mysore_Palace_Dec23_A7C_08280.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-12-02 11:04:42",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  }
+ ]
+}

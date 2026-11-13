@@ -1,0 +1,191 @@
+{
+ "id": "hegra",
+ "enwiki": "Hegra",
+ "endesc": "Archaeological site in northwest Saudi Arabia",
+ "qid": "Q27356",
+ "coord": [
+  26.814166666667,
+  37.9475
+ ],
+ "label_es": "Hegra",
+ "desc_es": "antigua ciudad localizada en el norte de Hejaz, en la actualidad en Arabia Saudita",
+ "inicio": [],
+ "area": [
+  {
+   "v": 1621.2,
+   "u": "Q35852"
+  },
+  {
+   "v": 1659.34,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q839954"
+ ],
+ "p17": [
+  "Q851"
+ ],
+ "unesco": true,
+ "eswiki": "Mada'in Saleh",
+ "extracto_es": "Mada'in Saleh (o Madain Saleh)  (en árabe: مدائن صالح , madāʼin Ṣāliḥ, \"Ciudades de Saleh\"), también denominada Al-Hijr (\"lugar de la roca\"), es una antigua ciudad localizada en el norte de Hejaz, en la actualidad en Arabia Saudita, a 22 kilómetros de la ciudad de Al-Ula (en árabe: العلا). En la Antigüedad, la ciudad estaba habitada por zamudíes y nabateos, siendo denominada como Hegra.​\nAlgunas de las inscripciones encontradas en la zona están datadas hacia el segundo milenio antes de Cristo. Sin embargo, todos los elementos arquitectónicos restantes se fechan al período de las civilizaciones Thamudi y Lihyan.\nEn 2008, la Unesco proclamó a Mada'in Saleh Patrimonio de la Humanidad, convirtiéndose en el primer lugar de Arabia Saudí en conseguirlo.​",
+ "candidatas": [
+  {
+   "file": "File:The Monastery, Petra, Jordan8.jpg",
+   "w": 3142,
+   "h": 2075,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/The_Monastery%2C_Petra%2C_Jordan8.jpg/330px-The_Monastery%2C_Petra%2C_Jordan8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Monastery%2C_Petra%2C_Jordan8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Monastery,_Petra,_Jordan8.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-30",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Mada'in Saleh 2017.jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mada%27in_Saleh_2017.jpg/330px-Mada%27in_Saleh_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mada%27in_Saleh_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mada%27in_Saleh_2017.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ahmad AlHasanat",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-02-16 17:40:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Fantastic Walls 2 (4264825923).jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Fantastic_Walls_2_%284264825923%29.jpg/330px-Fantastic_Walls_2_%284264825923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fantastic_Walls_2_%284264825923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fantastic_Walls_2_(4264825923).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "KELANTAN JOTTINGS",
+   "credito": "Fantastic Walls 2",
+   "nonfree": "",
+   "fecha": "2010-01-02 21:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:The Diwan inside Jabal Ithlib, a large triclinium probably used for sacred banquets, Hegra (Mada'in Salih), Saudi Arabia.jpg",
+   "w": 6032,
+   "h": 4032,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Diwan_inside_Jabal_Ithlib%2C_a_large_triclinium_probably_used_for_sacred_banquets%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia.jpg/330px-The_Diwan_inside_Jabal_Ithlib%2C_a_large_triclinium_probably_used_for_sacred_banquets%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Diwan_inside_Jabal_Ithlib%2C_a_large_triclinium_probably_used_for_sacred_banquets%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Diwan_inside_Jabal_Ithlib,_a_large_triclinium_probably_used_for_sacred_banquets,_Hegra_(Mada%27in_Salih),_Saudi_Arabia.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Carole Raddato from FRANKFURT, Germany",
+   "credito": "https://www.flickr.com/photos/carolemage/53543944691/",
+   "nonfree": "",
+   "fecha": "21 February 2024, 22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Qasr al-Bint necropolis, Hegra (Mada'in Salih), the kingdom's second Nabatean capital after Petra, Saudi Arabia.jpg",
+   "w": 6016,
+   "h": 4016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Qasr_al-Bint_necropolis%2C_Hegra_%28Mada%27in_Salih%29%2C_the_kingdom%27s_second_Nabatean_capital_after_Petra%2C_Saudi_Arabia.jpg/330px-Qasr_al-Bint_necropolis%2C_Hegra_%28Mada%27in_Salih%29%2C_the_kingdom%27s_second_Nabatean_capital_after_Petra%2C_Saudi_Arabia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Qasr_al-Bint_necropolis%2C_Hegra_%28Mada%27in_Salih%29%2C_the_kingdom%27s_second_Nabatean_capital_after_Petra%2C_Saudi_Arabia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Qasr_al-Bint_necropolis,_Hegra_(Mada%27in_Salih),_the_kingdom%27s_second_Nabatean_capital_after_Petra,_Saudi_Arabia.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Carole Raddato from FRANKFURT, Germany",
+   "credito": "https://www.flickr.com/photos/carolemage/53534784196/",
+   "nonfree": "",
+   "fecha": "Taken on 12 February",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Madain Saleh (6720062703).jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Madain_Saleh_%286720062703%29.jpg/330px-Madain_Saleh_%286720062703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Madain_Saleh_%286720062703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Madain_Saleh_(6720062703).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Sammy Six",
+   "credito": "Madain Saleh",
+   "nonfree": "",
+   "fecha": "2012-01-15 06:39",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Madain Saleh (6720185645).jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Madain_Saleh_%286720185645%29.jpg/330px-Madain_Saleh_%286720185645%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Madain_Saleh_%286720185645%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Madain_Saleh_(6720185645).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Sammy Six",
+   "credito": "Madain Saleh",
+   "nonfree": "",
+   "fecha": "2012-01-15 06:47",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Madain Saleh (6720497611).jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Madain_Saleh_%286720497611%29.jpg/330px-Madain_Saleh_%286720497611%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Madain_Saleh_%286720497611%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Madain_Saleh_(6720497611).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Sammy Six",
+   "credito": "Madain Saleh",
+   "nonfree": "",
+   "fecha": "2012-01-15 06:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

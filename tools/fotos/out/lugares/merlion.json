@@ -1,0 +1,193 @@
+{
+ "id": "merlion",
+ "enwiki": "Merlion",
+ "endesc": "Official mascot of Singapore",
+ "qid": "Q208760",
+ "coord": [
+  1.2868055555555555,
+  103.8545
+ ],
+ "label_es": "Merlión",
+ "desc_es": "escultura de la mascota oficial de Singapur",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1972-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1972-09-15T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 8.6,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q860861"
+ ],
+ "p17": [
+  "Q334"
+ ],
+ "unesco": false,
+ "eswiki": "Merlión",
+ "extracto_es": "El Merlión (en malayo: Singa-Laut) es la mascota oficial de Singapur, representado como una criatura mítica con cabeza de león y cuerpo de pez. Debido a naturaleza simbólica para Singapur y para los singapurenses en general, es ampliamente utilizado para representar tanto a la Ciudad-Estado como a su gente en equipos deportivos, publicidad, marcas, turismo y como personificación nacional.\nEl Merlión se utilizó por primera vez en Singapur como logotipo de la oficina de turismo.",
+ "candidatas": [
+  {
+   "file": "File:Singapore Skyline 2019-10.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Singapore_Skyline_2019-10.jpg/330px-Singapore_Skyline_2019-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Singapore_Skyline_2019-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Singapore_Skyline_2019-10.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Unwicked",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-10-14 19:17:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Singapore Merlion BCT.jpg",
+   "w": 3366,
+   "h": 2570,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Singapore_Merlion_BCT.jpg/330px-Singapore_Merlion_BCT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Singapore_Merlion_BCT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Singapore_Merlion_BCT.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bjørn Christian Tørrissen",
+   "credito": "http://bjornfree.com/galleries.html, Own work by uploader, photo taken in Singapore",
+   "nonfree": "",
+   "fecha": "2008-11-07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Merlion Statue at Merlion Park, Singapore (Ank Kumar ) 01.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar_%29_01.jpg/330px-Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar_%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar_%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Merlion_Statue_at_Merlion_Park,_Singapore_(Ank_Kumar_)_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ank Kumar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-08 16:55:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Merlion Statue at Merlion Park, Singapore (Ank Kumar) 03.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar%29_03.jpg/330px-Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Merlion_Statue_at_Merlion_Park,_Singapore_(Ank_Kumar)_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ank Kumar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-08 16:38:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Merlion 1994.jpg",
+   "w": 4368,
+   "h": 2912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Merlion_1994.jpg/330px-Merlion_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Merlion_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Merlion_1994.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ion Tichy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1994-08-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sentosa Merlion,Singapore.jpg",
+   "w": 5152,
+   "h": 3864,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sentosa_Merlion%2CSingapore.jpg/330px-Sentosa_Merlion%2CSingapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sentosa_Merlion%2CSingapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sentosa_Merlion,Singapore.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Coekon.",
+   "credito": "Own work.",
+   "nonfree": "",
+   "fecha": "2015-12-12 15:35:37",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Merlion Statue at Merlion Park, Singapore (Ank Kumar) 01.jpg",
+   "w": 6000,
+   "h": 3731,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar%29_01.jpg/330px-Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Merlion_Statue_at_Merlion_Park,_Singapore_(Ank_Kumar)_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ank Kumar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-08 16:38:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Merlion Statue at Merlion Park, Singapore (Ank Kumar) 05.jpg",
+   "w": 5391,
+   "h": 3354,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar%29_05.jpg/330px-Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Merlion_Statue_at_Merlion_Park%2C_Singapore_%28Ank_Kumar%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Merlion_Statue_at_Merlion_Park,_Singapore_(Ank_Kumar)_05.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ank Kumar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-08 16:38:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

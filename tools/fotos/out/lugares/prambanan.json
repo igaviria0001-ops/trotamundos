@@ -1,0 +1,195 @@
+{
+ "id": "prambanan",
+ "enwiki": "Prambanan",
+ "endesc": "9th-century Hindu temple compound near Yogyakarta, Indonesia",
+ "qid": "Q47721",
+ "coord": [
+  -7.752,
+  110.49122
+ ],
+ "label_es": "Prambanan",
+ "desc_es": "templo hinduista en Prambanan, Yogyakarta, Indonesia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0850-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 47.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q134456340",
+  "Q2736554",
+  "Q842402"
+ ],
+ "p17": [
+  "Q252"
+ ],
+ "unesco": true,
+ "eswiki": "Prambanan",
+ "extracto_es": "Prambanan es un conjunto de más de 200 templos hindúes que están dedicados a la Trímurti, la expresión de Dios como el Creador (Brahma), el Preservador (Visnú) y el Destructor (Shivá). El conjunto está ubicado a unos 18 km al este de Yogyakarta en dirección a Surakarta.​\nLos templos fueron construidos durante el siglo IX bajo la dinastía Sanjaya del primer Reino de Mataram en la región de Java Central. \nUna inscripción fechada en el año 856 marca lo que es posiblemente su piedra fundacional.\nEl Conjunto de Prambanan está clasificado como Patrimonio de la Humanidad por la Unesco desde el año 1991.",
+ "candidatas": [
+  {
+   "file": "File:Yogyakarta Indonesia Prambanan-temple-complex-02.jpg",
+   "w": 5703,
+   "h": 2658,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg/330px-Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "CEphoto, Uwe Aranas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-02-05",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 19,
+   "origen": "en"
+  },
+  {
+   "file": "File:Prambanan Complex 1.jpg",
+   "w": 3120,
+   "h": 2382,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Prambanan_Complex_1.jpg/330px-Prambanan_Complex_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Prambanan_Complex_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Prambanan_Complex_1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Gunawan Kartapranata",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-02-05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Yogyakarta Indonesia Prambanan-temple-complex-23.jpg",
+   "w": 5760,
+   "h": 3840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Yogyakarta_Indonesia_Prambanan-temple-complex-23.jpg/330px-Yogyakarta_Indonesia_Prambanan-temple-complex-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Yogyakarta_Indonesia_Prambanan-temple-complex-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Yogyakarta_Indonesia_Prambanan-temple-complex-23.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "CEphoto, Uwe Aranas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-02-05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Prambanan Temple Yogyakarta Indonesia.jpg",
+   "w": 4582,
+   "h": 3055,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Prambanan_Temple_Yogyakarta_Indonesia.jpg/330px-Prambanan_Temple_Yogyakarta_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Prambanan_Temple_Yogyakarta_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Prambanan_Temple_Yogyakarta_Indonesia.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christopher Michel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-03-31 18:27:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Candi Prambanan; candi Hindu terindah di Asia Tenggara.jpg",
+   "w": 4331,
+   "h": 2526,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Candi_Prambanan%3B_candi_Hindu_terindah_di_Asia_Tenggara.jpg/330px-Candi_Prambanan%3B_candi_Hindu_terindah_di_Asia_Tenggara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Candi_Prambanan%3B_candi_Hindu_terindah_di_Asia_Tenggara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Candi_Prambanan;_candi_Hindu_terindah_di_Asia_Tenggara.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Anggara Wikan Prasetya",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-12-03 18:26:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:The Prambanan Temple.jpg",
+   "w": 6000,
+   "h": 3376,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/The_Prambanan_Temple.jpg/330px-The_Prambanan_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/The_Prambanan_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Prambanan_Temple.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Zen Artwork",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-08-24 14:59:30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Pradaksina di Candi Prambanan.jpg",
+   "w": 3000,
+   "h": 2010,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Pradaksina_di_Candi_Prambanan.jpg/330px-Pradaksina_di_Candi_Prambanan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Pradaksina_di_Candi_Prambanan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pradaksina_di_Candi_Prambanan.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giri Wijayanto",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-03-21 08:50:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Prambanan Architectural Model.jpg",
+   "w": 2268,
+   "h": 1701,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Prambanan_Architectural_Model.jpg/330px-Prambanan_Architectural_Model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Prambanan_Architectural_Model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Prambanan_Architectural_Model.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Gunkarta Gunawan Kartapranata",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-01-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "id": "loto",
+ "enwiki": "Lotus Temple",
+ "endesc": "Baháʼí House of Worship in New Delhi, India",
+ "qid": "Q940843",
+ "coord": [
+  28.553325,
+  77.2586
+ ],
+ "label_es": "Templo del Loto",
+ "desc_es": "edificio en Delhi, India",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1986-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1986-12-24T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 4500000.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q44539"
+ ],
+ "p17": [
+  "Q668"
+ ],
+ "unesco": false,
+ "eswiki": "Templo del loto",
+ "extracto_es": "La Casa de Adoración Bahá'í en Delhi, India, popularmente conocida como Templo del Loto, por su forma de flor. El edificio fue completado en 1986 y sirve de templo madre en el subcontinente Indio. Ha ganado numerosos premios arquitectónicos y ha sido tema de cientos de artículos de periódicos y revistas.​\nEl 15 de abril de 2014, la «Casa de adoración Bahá'í en Nueva Delhi» fue inscrita en la Lista Indicativa de la India —paso previo a ser declarado Patrimonio de la Humanidad—, en la categoría de bien cultural (n.º ref 5921).​",
+ "candidatas": [
+  {
+   "file": "File:Lotus temple daytime.jpg",
+   "w": 2978,
+   "h": 1822,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Lotus_temple_daytime.jpg/330px-Lotus_temple_daytime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lotus_temple_daytime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lotus_temple_daytime.jpg",
+   "licencia": "GFDL 1.2",
+   "licurl": "",
+   "autor": "Muhammad Mahdi Karim",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Lotus temple in Delhi, India.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Lotus_temple_in_Delhi%2C_India.jpg/330px-Lotus_temple_in_Delhi%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lotus_temple_in_Delhi%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lotus_temple_in_Delhi,_India.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Arian Zwegers",
+   "credito": "Flickr",
+   "nonfree": "",
+   "fecha": "2012-12-07 18:13:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Lotus Temple Close view.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Lotus_Temple_Close_view.jpg/330px-Lotus_Temple_Close_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lotus_Temple_Close_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lotus_Temple_Close_view.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "IM3847",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-18 12:26:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Lotus temple in Delhi, India (7).jpg",
+   "w": 4176,
+   "h": 2784,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Lotus_temple_in_Delhi%2C_India_%287%29.jpg/330px-The_Lotus_temple_in_Delhi%2C_India_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Lotus_temple_in_Delhi%2C_India_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Lotus_temple_in_Delhi,_India_(7).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Shagil Kannur",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1 October 2019, 10:3",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Lotus temple in Delhi, India (11).jpg",
+   "w": 4176,
+   "h": 2784,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/The_Lotus_temple_in_Delhi%2C_India_%2811%29.jpg/330px-The_Lotus_temple_in_Delhi%2C_India_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Lotus_temple_in_Delhi%2C_India_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Lotus_temple_in_Delhi,_India_(11).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Shagil Kannur",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1 October 2019, 10:4",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lotus temple India 04.jpg",
+   "w": 6000,
+   "h": 3368,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lotus_temple_India_04.jpg/330px-Lotus_temple_India_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lotus_temple_India_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lotus_temple_India_04.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gannu03",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-11-13 09:11:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lotus temple India 05.jpg",
+   "w": 6000,
+   "h": 3368,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Lotus_temple_India_05.jpg/330px-Lotus_temple_India_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lotus_temple_India_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lotus_temple_India_05.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gannu03",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-11-13 09:11:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lotus temple India 11.jpg",
+   "w": 6000,
+   "h": 3368,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Lotus_temple_India_11.jpg/330px-Lotus_temple_India_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lotus_temple_India_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lotus_temple_India_11.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gannu03",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-11-13 09:16:46",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

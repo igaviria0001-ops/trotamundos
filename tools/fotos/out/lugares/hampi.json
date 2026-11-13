@@ -1,0 +1,211 @@
+{
+ "id": "hampi",
+ "enwiki": "Hampi",
+ "endesc": "Ancient and medieval monuments, a UNESCO World Heritage Site in Karnataka, India",
+ "qid": "Q26732",
+ "coord": [
+  15.334547,
+  76.462162
+ ],
+ "label_es": "Hampi",
+ "desc_es": "capital del Imperio Vijayanagara de 1336 a 1565",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 467.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 4187.24,
+   "u": "Q35852"
+  },
+  {
+   "v": 19453.62,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q839954"
+ ],
+ "p17": [
+  "Q668"
+ ],
+ "unesco": true,
+ "eswiki": "Hampi",
+ "extracto_es": "Hampi, también conocida como Ciudad de la Victoria, fue la capital del Imperio Vijayanagara de 1336 a 1565, ocupa un área de cerca de 26 kilómetros cuadrados en el valle del río Tungabhadra, en Karnataka, India. Fue declarada Patrimonio de la Humanidad por la Unesco en el año 1986.​\nVisitada en el siglo XV por italianos y persas, y en el siglo XVI por los portugueses Duarte Barbosa, Fernão Nunes y Domingo Paes, este viajero portugués, que vivió en Hampi durante dos años, describió al monarca Krishna Deva Raya como perfecto en todas las cosas. Todos ellos dejaron relatos de la grandiosidad y belleza de Hampi. A comienzos del siglo XVI, el viajero persa Abdur Razzak, escribió:\n\n \n\nEn 1565 los sultanes de Decán, alarmados por el crecimiento y el poder del imperio Vijayanagara, se aliaron y derrotaron a Rama Raya en la batalla de Talikota. La capital fue ocupada y el imperio nunca más se recuperó.​",
+ "candidatas": [
+  {
+   "file": "File:Sri Prasanna Anjaneya Gudi on Hemakuta hill (02).jpg",
+   "w": 6000,
+   "h": 3375,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Sri_Prasanna_Anjaneya_Gudi_on_Hemakuta_hill_%2802%29.jpg/330px-Sri_Prasanna_Anjaneya_Gudi_on_Hemakuta_hill_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sri_Prasanna_Anjaneya_Gudi_on_Hemakuta_hill_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sri_Prasanna_Anjaneya_Gudi_on_Hemakuta_hill_(02).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "iMahesh",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-09-23 08:34:07",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 18,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hampi Vitthala Temple 3465.jpg",
+   "w": 5568,
+   "h": 3712,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hampi_Vitthala_Temple_3465.jpg/330px-Hampi_Vitthala_Temple_3465.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Hampi_Vitthala_Temple_3465.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hampi_Vitthala_Temple_3465.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Basavaraj M",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-10-05 08:17:11",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Krishna Pushkarani - Hampi Ruins.jpg",
+   "w": 4201,
+   "h": 2661,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Krishna_Pushkarani_-_Hampi_Ruins.jpg/330px-Krishna_Pushkarani_-_Hampi_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Krishna_Pushkarani_-_Hampi_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Krishna_Pushkarani_-_Hampi_Ruins.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Dey.sandip",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-12-20 07:14:15",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hampi - Uddana Veerabhadra Temple - Hanuman - 2.jpg",
+   "w": 4672,
+   "h": 7008,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Hampi_-_Uddana_Veerabhadra_Temple_-_Hanuman_-_2.jpg/330px-Hampi_-_Uddana_Veerabhadra_Temple_-_Hanuman_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Hampi_-_Uddana_Veerabhadra_Temple_-_Hanuman_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hampi_-_Uddana_Veerabhadra_Temple_-_Hanuman_-_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ingo Mehling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-01-26 12:53:48",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hampi, India, Granite boulders of Matanga Hill.jpg",
+   "w": 4032,
+   "h": 2688,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Hampi%2C_India%2C_Granite_boulders_of_Matanga_Hill.jpg/330px-Hampi%2C_India%2C_Granite_boulders_of_Matanga_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Hampi%2C_India%2C_Granite_boulders_of_Matanga_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hampi,_India,_Granite_boulders_of_Matanga_Hill.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Vyacheslav Argenberg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-02-03 17:39:16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Hampi, India, Temple on top of Matanga Hill.jpg",
+   "w": 4032,
+   "h": 2688,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Hampi%2C_India%2C_Temple_on_top_of_Matanga_Hill.jpg/330px-Hampi%2C_India%2C_Temple_on_top_of_Matanga_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hampi%2C_India%2C_Temple_on_top_of_Matanga_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hampi,_India,_Temple_on_top_of_Matanga_Hill.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Vyacheslav Argenberg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-02-03 17:55:55",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:A temple near the sunset point of Hemakuta hill.jpg",
+   "w": 6000,
+   "h": 3375,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/A_temple_near_the_sunset_point_of_Hemakuta_hill.jpg/330px-A_temple_near_the_sunset_point_of_Hemakuta_hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/A_temple_near_the_sunset_point_of_Hemakuta_hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_temple_near_the_sunset_point_of_Hemakuta_hill.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "iMahesh",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-09-23 08:17:07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Closeup of Elephant Stables, Hampi.jpg",
+   "w": 5920,
+   "h": 3946,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Closeup_of_Elephant_Stables%2C_Hampi.jpg/330px-Closeup_of_Elephant_Stables%2C_Hampi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Closeup_of_Elephant_Stables%2C_Hampi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Closeup_of_Elephant_Stables,_Hampi.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "iMahesh",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-09-23 16:31:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  }
+ ]
+}

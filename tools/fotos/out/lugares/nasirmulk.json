@@ -1,0 +1,216 @@
+{
+ "id": "nasirmulk",
+ "enwiki": "Nasir-ol-Molk Mosque",
+ "endesc": "Mosque in Shiraz, Iran",
+ "qid": "Q1962312",
+ "coord": [
+  29.608555555555554,
+  52.54847222222222
+ ],
+ "label_es": "Mezquita de Nasir-al-Mulk",
+ "desc_es": "mezquita de Irán",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1876-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1882-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1888-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 2414.0,
+   "u": "Q25343"
+  },
+  {
+   "v": 2980.0,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q32815",
+  "Q2065736"
+ ],
+ "p17": [
+  "Q794"
+ ],
+ "unesco": false,
+ "eswiki": "Mezquita Nasir ol Molk",
+ "extracto_es": "La Mezquita Nasir-ol-Molk (en persa: مسجد نصیر الملک‎), también conocida como la Mezquita Rosa, es una mezquita tradicional de Shiraz, Irán. Está localizado en el distrito de Gowad-e-árabeān, cerca del santuario de Ahmad Ibn-Musa o Shāh-e Chérāgh.\nLa mezquita cuenta con una extensa superficie de cristal de colores en la fachada, junto con otros elementos tradicionales como el diseño Panj Kāse (\"cinco cóncavos\"). Se le conoce popularmente como la Mezquita Rosa, por una tonalidad de color rosa en sus azulejos.",
+ "candidatas": [
+  {
+   "file": "File:Mezquita de Nasirolmolk, Shiraz, Irán, 2016-09-24, DD 66-68 HDR.jpg",
+   "w": 6564,
+   "h": 4405,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Mezquita_de_Nasirolmolk%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_66-68_HDR.jpg/330px-Mezquita_de_Nasirolmolk%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_66-68_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mezquita_de_Nasirolmolk%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_66-68_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mezquita_de_Nasirolmolk,_Shiraz,_Ir%C3%A1n,_2016-09-24,_DD_66-68_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "This is a photo of a monument in Iran identified by the ID",
+   "nonfree": "",
+   "fecha": "2016-09-25 11:33:23",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 20,
+   "origen": "es"
+  },
+  {
+   "file": "File:Nasr ol Molk mosque2.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Nasr_ol_Molk_mosque2.jpg/330px-Nasr_ol_Molk_mosque2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nasr_ol_Molk_mosque2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Nasr_ol_Molk_mosque2.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "dynamosquito",
+   "credito": "originally posted to Flickr as Portico",
+   "nonfree": "",
+   "fecha": "2008-10-03 09:43:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Nasir ol Molk Mosque (31233739431).jpg",
+   "w": 4714,
+   "h": 3143,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Nasir_ol_Molk_Mosque_%2831233739431%29.jpg/330px-Nasir_ol_Molk_Mosque_%2831233739431%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Nasir_ol_Molk_Mosque_%2831233739431%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Nasir_ol_Molk_Mosque_(31233739431).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Matt Biddulph from UK",
+   "credito": "Nasir ol Molk Mosque",
+   "nonfree": "",
+   "fecha": "2016-11-18 00:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:2018-09-22 Iran, Shiraz, Nasir al-Mulk Mosque (winter prayer hall, from the outside).jpg",
+   "w": 4215,
+   "h": 2799,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%2C_from_the_outside%29.jpg/330px-2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%2C_from_the_outside%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%2C_from_the_outside%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-09-22_Iran,_Shiraz,_Nasir_al-Mulk_Mosque_(winter_prayer_hall,_from_the_outside).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Laurens R. Krol",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Nasr ol Molk mosque vault ceiling 2.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Nasr_ol_Molk_mosque_vault_ceiling_2.jpg/330px-Nasr_ol_Molk_mosque_vault_ceiling_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Nasr_ol_Molk_mosque_vault_ceiling_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Nasr_ol_Molk_mosque_vault_ceiling_2.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "User:Pentocelo, aka dynamosquito on Flickr  from Niort, France.",
+   "credito": "Own work, image also loaded on A glance at heaven with a slightly different post-treatment and a 180° rotation.",
+   "nonfree": "",
+   "fecha": "2008-04-21 19:20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2018-09-22 Iran, Shiraz, Nasir al-Mulk Mosque (winter prayer hall) (3).jpg",
+   "w": 4218,
+   "h": 2802,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%29_%283%29.jpg/330px-2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%29_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%29_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-09-22_Iran,_Shiraz,_Nasir_al-Mulk_Mosque_(winter_prayer_hall)_(3).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Laurens R. Krol",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:2018-09-22 Iran, Shiraz, Nasir al-Mulk Mosque (winter prayer hall) (1).jpg",
+   "w": 2426,
+   "h": 3653,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%29_%281%29.jpg/330px-2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-09-22_Iran,_Shiraz,_Nasir_al-Mulk_Mosque_(winter_prayer_hall)_(1).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Laurens R. Krol",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:2018-09-22 Iran, Shiraz, Nasir al-Mulk Mosque (winter prayer hall) (2).jpg",
+   "w": 2848,
+   "h": 4288,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%29_%282%29.jpg/330px-2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/2018-09-22_Iran%2C_Shiraz%2C_Nasir_al-Mulk_Mosque_%28winter_prayer_hall%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-09-22_Iran,_Shiraz,_Nasir_al-Mulk_Mosque_(winter_prayer_hall)_(2).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Laurens R. Krol",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  }
+ ]
+}

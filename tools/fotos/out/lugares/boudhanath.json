@@ -1,0 +1,197 @@
+{
+ "id": "boudhanath",
+ "enwiki": "Boudha Stupa",
+ "endesc": "Buddhist stupa in Boudha, Kathmandu, Nepal",
+ "qid": "Q889902",
+ "coord": [
+  27.721389,
+  85.361944
+ ],
+ "label_es": "Boudhanath",
+ "desc_es": null,
+ "inicio": [],
+ "altura": [
+  {
+   "v": 36.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 1.27,
+   "u": "Q35852"
+  },
+  {
+   "v": 2.83,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q486972",
+  "Q180987"
+ ],
+ "p17": [
+  "Q837"
+ ],
+ "unesco": false,
+ "eswiki": "Boudhanath",
+ "extracto_es": "Boudhanath (Devanagari : बौद्धनाथ) (también llamado Bouddhanath , Bodhnath o Baudhanath o el Khasa caitya) es uno de los lugares sagrados budistas en Katmandú, Nepal. También se conoce como Khāsti en idioma nepal bhasa y como Bauddha o Bodh Nath por los hablantes modernos de Nepal.​​\nSituada a unos 11 kilómetros (7 millas) del centro en la periferia noreste de Katmandú, es una de las mayores estupas esféricas en Nepal, representando el mandala.​\nLa estupa budista de Boudhanath es una de las más grandes del mundo. La afluencia de grandes poblaciones de refugiados tibetanos desde China ha propiciado la construcción de más de 50 gompas (monasterios) tibetanos en torno al santuario. En 1979, Boudhanath fue nombrado uno de los lugares Patrimonio de la Humanidad de la Unesco.​ Junto con Swayambhunath, es uno de los más populares sitios turísticos en la zona de Katmandú.\nLa estupa está en la ruta comercial antigua del Tíbet, que entra en el valle de Katmandú por el pueblo de Sankhu, al noreste, y pasa por la estupa Boudhanath a través de las estupas más pequeñas y antiguas de Ca-Bahi (a menudo llamadas Little Boudnath). A continuación, se vuelve directamente al sur, en dirección al río Bagmati, evitando así el centro urbano de Katmandú.​ Los comerciantes tibetanos descansaron y oraron en este lugar durante muchos siglos. Cuando los refugiados tibetanos entraron en Nepal en la década de 1950, muchos de ellos decidieron vivir cerca de Bouddhanath. La estupa alberga los restos de un sabio Kasyapa, venerable tanto para los budistas como los hindúes.",
+ "candidatas": [
+  {
+   "file": "File:Boudha Stupa 2018 04.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Boudha_Stupa_2018_04.jpg/330px-Boudha_Stupa_2018_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Boudha_Stupa_2018_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boudha_Stupa_2018_04.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nabin K. Sapkota",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-16 15:46:28",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 14,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Boudhanath stupa , Kathmandu, Nepal.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg/330px-Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boudhanath_stupa_,_Kathmandu,_Nepal.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sumitbhatt222",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-23 15:31:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Bouddhanath, 2009.jpg",
+   "w": 1228,
+   "h": 850,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Bouddhanath%2C_2009.jpg/330px-Bouddhanath%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bouddhanath%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bouddhanath,_2009.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Etter Studio",
+   "credito": "bonn_13",
+   "nonfree": "",
+   "fecha": "2009-05-11 09:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Boudha Stupa 2018 07.jpg",
+   "w": 4000,
+   "h": 6000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Boudha_Stupa_2018_07.jpg/330px-Boudha_Stupa_2018_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Boudha_Stupa_2018_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boudha_Stupa_2018_07.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nabin K. Sapkota",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-16 15:46:28",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:A view of Boudhanath Premises 2017 01.jpg",
+   "w": 10538,
+   "h": 6740,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/A_view_of_Boudhanath_Premises_2017_01.jpg/330px-A_view_of_Boudhanath_Premises_2017_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/A_view_of_Boudhanath_Premises_2017_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_view_of_Boudhanath_Premises_2017_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nabin K. Sapkota",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-09-22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Bouddhanath Stupa 2015 01.JPG",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bouddhanath_Stupa_2015_01.JPG/330px-Bouddhanath_Stupa_2015_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bouddhanath_Stupa_2015_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bouddhanath_Stupa_2015_01.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bijaya2043",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-12-17 20:36:52",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Boudha Stupa IMG 7804 2018 36.jpg",
+   "w": 4000,
+   "h": 2248,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Boudha_Stupa_IMG_7804_2018_36.jpg/330px-Boudha_Stupa_IMG_7804_2018_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Boudha_Stupa_IMG_7804_2018_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boudha_Stupa_IMG_7804_2018_36.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Harry Paudyal",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-19 12:43:23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Boudha Stupa IMG 7804 2018 42.jpg",
+   "w": 4000,
+   "h": 2248,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Boudha_Stupa_IMG_7804_2018_42.jpg/330px-Boudha_Stupa_IMG_7804_2018_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Boudha_Stupa_IMG_7804_2018_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boudha_Stupa_IMG_7804_2018_42.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Harry Paudyal",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-19 12:47:51",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}
