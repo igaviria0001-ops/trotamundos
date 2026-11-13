@@ -1,0 +1,191 @@
+{
+ "id": "semuc",
+ "enwiki": "Semuc Champey",
+ "endesc": "Natural monument in Alta Verapaz, Guatemala",
+ "qid": "Q1850670",
+ "coord": [
+  15.53333333,
+  -89.96111111
+ ],
+ "label_es": "Semuc Champey",
+ "desc_es": "monumento natural en Alta Verapaz, Guatemala",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+2005-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 18.49,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q14625056",
+  "Q46169"
+ ],
+ "p17": [
+  "Q774"
+ ],
+ "unesco": false,
+ "eswiki": "Semuc Champey",
+ "extracto_es": "Semuc Champey (del idioma Q´eqchi´ que significa «donde el río se esconde bajo las piedras») es un enclave natural localizado en el municipio guatemalteco de Lanquín (12 km aprox. al sur del centro urbano de Lanquín), en el departamento de Alta Verapaz, Guatemala. En el mismo, en medio de un espeso bosque tropical se halla un puente natural de piedra caliza de unos 300 metros de largo por el cual fluye el río Cahabón y en cuyos alrededores se encuentran una gran cantidad de pozas de 1 a 3 m de profundidad, cuyo color verde turquesa o color jade cambia a lo largo del año variando con el clima, el sol y otros factores naturales. Al final puede observarse al río Cahabón como se interna en una caverna de piedra caliza, área muy peligrosa para acercarse dentro del río por la fuerza del agua, sólo se permite observar a distancia este fenómeno geográfico natural.​\nSemuc Champey fue declarado en 1999 Monumento Natural por el entonces presidente de la República de Guatemala, Álvaro Arzú Irigoyen y se encuentra muy próximo geográficamente al parque nacional Grutas de Lanquín con el que comparte un centro de visitantes para dar cobertura al turista.\nDebido al bosque subtropical que rodea al lugar, el mismo cuenta con una enorme riqueza ecológica, entre la que se han identificado más de 100 especies de aves; 34 de mamíferos, 25 de reptiles y anfibios; y 10 de peces además de más de 120 especies distintas de árboles. Consta con un mirador de 700 m de altura para observar los 350 m de largo de las pozas naturales que conforman \"Semuc Champey\", con cataratas de hasta 40 pies de alto y todas las pozas alimentadas por riachuelos del lugar.\nPara llegar a este lugar, se debe viajar de la Ciudad de Guatemala por la carretera al Atlántico, llegar al pueblo del Rancho, km 81, desviarse en busca de la ciudad de Cobán, km 216, y de allí a Lanquín, luego abordar un pick up  que lo llevará hasta a Semuc Champey.",
+ "candidatas": [
+  {
+   "file": "File:Semuc Champey, Guatemala.jpg",
+   "w": 3916,
+   "h": 2203,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Semuc_Champey%2C_Guatemala.jpg/330px-Semuc_Champey%2C_Guatemala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Semuc_Champey%2C_Guatemala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Semuc_Champey,_Guatemala.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Christopher Crouzet",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "27 December 2013, 10",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 17,
+   "origen": "en"
+  },
+  {
+   "file": "File:Semuc Champey natural wonder.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Semuc_Champey_natural_wonder.jpg/330px-Semuc_Champey_natural_wonder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Semuc_Champey_natural_wonder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Semuc_Champey_natural_wonder.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Lucía García González",
+   "credito": "https://www.flickr.com/photos/145039335@N03/28882238724/",
+   "nonfree": "",
+   "fecha": "2016-08-22 22:44:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Semuc Champey, AV Guatemala.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Semuc_Champey%2C_AV_Guatemala.jpg/330px-Semuc_Champey%2C_AV_Guatemala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Semuc_Champey%2C_AV_Guatemala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Semuc_Champey,_AV_Guatemala.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Mario Bollini",
+   "credito": "https://www.flickr.com/photos/mesaba/5030421469/",
+   "nonfree": "",
+   "fecha": "2010-07-10 10:37:19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Semuc Champey, Guatemala CA.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Semuc_Champey%2C_Guatemala_CA.jpg/330px-Semuc_Champey%2C_Guatemala_CA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Semuc_Champey%2C_Guatemala_CA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Semuc_Champey,_Guatemala_CA.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "descubriendoelmundo",
+   "credito": "https://www.flickr.com/photos/descubriendo-el-mundo/16023183648/",
+   "nonfree": "",
+   "fecha": "2014-12-31 22:07:20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Semuc Champey, AV Guatemala (3).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Semuc_Champey%2C_AV_Guatemala_%283%29.jpg/330px-Semuc_Champey%2C_AV_Guatemala_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Semuc_Champey%2C_AV_Guatemala_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Semuc_Champey,_AV_Guatemala_(3).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Mario Bollini",
+   "credito": "https://www.flickr.com/photos/mesaba/5031223414/",
+   "nonfree": "",
+   "fecha": "2010-07-10 12:47:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Semuc Champey, AV Guatemala (5).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Semuc_Champey%2C_AV_Guatemala_%285%29.jpg/330px-Semuc_Champey%2C_AV_Guatemala_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Semuc_Champey%2C_AV_Guatemala_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Semuc_Champey,_AV_Guatemala_(5).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Mario Bollini",
+   "credito": "https://www.flickr.com/photos/mesaba/5031223980/",
+   "nonfree": "",
+   "fecha": "2010-07-10 12:49:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Semuc Champey, AV Guatemala (2).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Semuc_Champey%2C_AV_Guatemala_%282%29.jpg/330px-Semuc_Champey%2C_AV_Guatemala_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Semuc_Champey%2C_AV_Guatemala_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Semuc_Champey,_AV_Guatemala_(2).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Mario Bollini",
+   "credito": "https://www.flickr.com/photos/mesaba/5031223150/",
+   "nonfree": "",
+   "fecha": "2010-07-10 12:41:37",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Semuc Champey, AV Guatemala (4).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Semuc_Champey%2C_AV_Guatemala_%284%29.jpg/330px-Semuc_Champey%2C_AV_Guatemala_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Semuc_Champey%2C_AV_Guatemala_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Semuc_Champey,_AV_Guatemala_(4).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Mario Bollini",
+   "credito": "https://www.flickr.com/photos/mesaba/5031223698/",
+   "nonfree": "",
+   "fecha": "2010-07-10 12:48:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "id": "bellasartes",
+ "enwiki": "Palacio de Bellas Artes",
+ "endesc": "Cultural centre in Mexico City",
+ "qid": "Q1139081",
+ "coord": [
+  19.435277777777777,
+  -99.14138888888888
+ ],
+ "label_es": "Palacio de Bellas Artes",
+ "desc_es": "recinto cultural en la Ciudad de México",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1934-11-29T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1934-09-29T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 53.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q1060829",
+  "Q2190251",
+  "Q153562"
+ ],
+ "p17": [
+  "Q96"
+ ],
+ "unesco": false,
+ "eswiki": "Palacio de Bellas Artes (Ciudad de México)",
+ "extracto_es": "El Palacio de Bellas Artes es un recinto cultural ubicado en el centro histórico de la Ciudad de México, considerado uno de los más importantes en la manifestación de las artes en México.\nEste ha sido escenario y testigo de impactantes acontecimientos tanto artísticos, como sociales y políticos; su construcción fue iniciada hacia el final del mandato de Porfirio Díaz con motivo de la celebración del centenario del inicio de la Independencia de México; sin embargo, no fue concluido e inaugurado sino hasta el 29 de septiembre de 1934, debido a la Revolución mexicana.​\nEs un edificio multifuncional,​ por lo que alberga diversos escenarios y espacios artísticos como el Museo del Palacio de Bellas Artes y el Museo Nacional de Arquitectura. El primero exhibe de forma permanente 17 obras murales de siete artistas nacionales ejecutadas de 1928 a 1963, entre ellos Diego Rivera, David Alfaro Siqueiros y José Clemente Orozco, siendo el más antiguo en el país dedicado a la producción plástica nacional. Así también, es sede de la Orquesta Sinfónica Nacional, la Compañía Nacional de Ópera (Ópera de Bellas Artes) y del Ballet Folklórico de México de Amalia Hernández. Como institución, depende del Instituto Nacional de Bellas Artes (INBA), parte de la Secretaría de Cultura del gobierno federal. En 1987 fue declarado por la Unesco como monumento patrimonio de la humanidad.",
+ "candidatas": [
+  {
+   "file": "File:Palacio de Bellas Artes, México D.F., México, 2013-10-13, DD 40.jpg",
+   "w": 5214,
+   "h": 3397,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_40.jpg/330px-Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Bellas_Artes,_M%C3%A9xico_D.F.,_M%C3%A9xico,_2013-10-13,_DD_40.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-13 20:58:38",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Bellas Artes 01.jpg",
+   "w": 4140,
+   "h": 2760,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/330px-Bellas_Artes_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bellas_Artes_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bellas_Artes_01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Xavier Quetzalcoatl Contreras Castillo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-02-19 16:35:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Palacio de Bellas Artes, México D.F., México, 2014-10-13, DD 37.JPG",
+   "w": 4970,
+   "h": 3572,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2014-10-13%2C_DD_37.JPG/330px-Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2014-10-13%2C_DD_37.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2014-10-13%2C_DD_37.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Bellas_Artes,_M%C3%A9xico_D.F.,_M%C3%A9xico,_2014-10-13,_DD_37.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-13 20:54:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sobrevuelos CDMX HJ2A6272 (39675270354).jpg",
+   "w": 6413,
+   "h": 4276,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Sobrevuelos_CDMX_HJ2A6272_%2839675270354%29.jpg/330px-Sobrevuelos_CDMX_HJ2A6272_%2839675270354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Sobrevuelos_CDMX_HJ2A6272_%2839675270354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sobrevuelos_CDMX_HJ2A6272_(39675270354).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Gobierno CDMX",
+   "credito": "HJ2A6272",
+   "nonfree": "",
+   "fecha": "2018-02-10 19:12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Palacio de Bellas Artes, México D.F., México, 2013-10-13, DD 41.jpg",
+   "w": 4980,
+   "h": 2421,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_41.jpg/330px-Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Bellas_Artes,_M%C3%A9xico_D.F.,_M%C3%A9xico,_2013-10-13,_DD_41.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-13 20:59:20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Bellas Artes- International Day for the Elimination of Violence against Women 2019.jpg",
+   "w": 4592,
+   "h": 3448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bellas_Artes-_International_Day_for_the_Elimination_of_Violence_against_Women_2019.jpg/330px-Bellas_Artes-_International_Day_for_the_Elimination_of_Violence_against_Women_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bellas_Artes-_International_Day_for_the_Elimination_of_Violence_against_Women_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bellas_Artes-_International_Day_for_the_Elimination_of_Violence_against_Women_2019.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Thayne Tuason",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-11-25 19:45:12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Palacio de Bellas Artes 00 (2).JPG",
+   "w": 4154,
+   "h": 3077,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Palacio_de_Bellas_Artes_00_%282%29.JPG/330px-Palacio_de_Bellas_Artes_00_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Palacio_de_Bellas_Artes_00_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Bellas_Artes_00_(2).JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "لا روسا",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-16 01:29:34",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Atardecer En Bellas Artes Vertical (128312121).jpeg",
+   "w": 1366,
+   "h": 2048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Atardecer_En_Bellas_Artes_Vertical_%28128312121%29.jpeg/330px-Atardecer_En_Bellas_Artes_Vertical_%28128312121%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atardecer_En_Bellas_Artes_Vertical_%28128312121%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Atardecer_En_Bellas_Artes_Vertical_(128312121).jpeg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Octavio Alonso Maya Castro",
+   "credito": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+   "nonfree": "",
+   "fecha": "6 October 2015, 07:4",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P18"
+  }
+ ]
+}

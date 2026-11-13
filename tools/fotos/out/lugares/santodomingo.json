@@ -1,0 +1,191 @@
+{
+ "id": "santodomingo",
+ "enwiki": "Ciudad Colonial (Santo Domingo)",
+ "endesc": "Historic district in Dominican Republic",
+ "qid": "Q2470834",
+ "coord": [
+  18.473,
+  -69.883
+ ],
+ "label_es": "Ciudad Colonial",
+ "desc_es": "Núcleo urbano más antiguo de la ciudad de Santo Domingo",
+ "inicio": [
+  {
+   "p": "P580",
+   "time": "+1502-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 106.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q676050",
+  "Q702492"
+ ],
+ "p17": [
+  "Q786"
+ ],
+ "unesco": true,
+ "eswiki": "Ciudad Colonial",
+ "extracto_es": "La Ciudad Colonial de Santo Domingo (también llamada Zona Colonial) es el núcleo urbano más antiguo de la ciudad de Santo Domingo, capital de la República Dominicana. La Ciudad Colonial fue el primer asentamiento europeo permanente en América, fundada en 1502 por los conquistadores españoles.​ \nEsta área de Santo Domingo cuenta con edificios coloniales y calles con vetustos adoquines de gran atractivo turístico, como son el Alcázar de Colón (que perteneció a Diego Colón, hijo de Cristóbal Colón), el Museo de las Casas Reales, la Catedral Primada de América y la Fortaleza Ozama. Debido a eso hay hoteles nacionales (como el Hotel Conde de Peñalba) e internacionales (como el Sofitel Nicolás de Ovando en la casa de Nicolás de Ovando). La mayoría de los hoteles están en la Calle El Conde y Calle Las Damas.\nEl 8 de diciembre de 1990 fue declarada por la Organización de las Naciones Unidas para la Educación y la Cultura (UNESCO) como Patrimonio de la Humanidad, bajo el nombre de Ciudad colonial de Santo Domingo, abarcando un área de 93 ha. Hoy en día es uno de los lugares turísticos más importantes de Santo Domingo y uno de los más visitados por los turistas nacionales y extranjeros en la República Dominicana.",
+ "candidatas": [
+  {
+   "file": "File:Calle las Damas, Santo Domingo, Zona Colonial.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Calle_las_Damas%2C_Santo_Domingo%2C_Zona_Colonial.jpg/330px-Calle_las_Damas%2C_Santo_Domingo%2C_Zona_Colonial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Calle_las_Damas%2C_Santo_Domingo%2C_Zona_Colonial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Calle_las_Damas,_Santo_Domingo,_Zona_Colonial.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Desox7x",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-02-28 12:17:12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Aerial view Ciudad Colonial Santo Domingo 09 2019 0067.jpg",
+   "w": 3000,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aerial_view_Ciudad_Colonial_Santo_Domingo_09_2019_0067.jpg/330px-Aerial_view_Ciudad_Colonial_Santo_Domingo_09_2019_0067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Aerial_view_Ciudad_Colonial_Santo_Domingo_09_2019_0067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_Ciudad_Colonial_Santo_Domingo_09_2019_0067.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mariordo (Mario Durán & German Valverde)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-09-26 17:30:59",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Santo Domingo - Ciudad Colonial 2591.jpg",
+   "w": 3720,
+   "h": 5828,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Santo_Domingo_-_Ciudad_Colonial_2591.jpg/330px-Santo_Domingo_-_Ciudad_Colonial_2591.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Santo_Domingo_-_Ciudad_Colonial_2591.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_-_Ciudad_Colonial_2591.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Phyrexian",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-12-29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:DOM Santo Domingo, Ciudad Colonial, Calle Isabel La Católica 0034.jpg",
+   "w": 3803,
+   "h": 2852,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Calle_Isabel_La_Cat%C3%B3lica_0034.jpg/330px-DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Calle_Isabel_La_Cat%C3%B3lica_0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Calle_Isabel_La_Cat%C3%B3lica_0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:DOM_Santo_Domingo,_Ciudad_Colonial,_Calle_Isabel_La_Cat%C3%B3lica_0034.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "-wuppertaler",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-05-01 15:40:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2015 07 24 Rep Dom, Saint-Domingue,, amb de France, maison de H Cortes.JPG",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2015_07_24_Rep_Dom%2C_Saint-Domingue%2C%2C_amb_de_France%2C_maison_de_H_Cortes.JPG/330px-2015_07_24_Rep_Dom%2C_Saint-Domingue%2C%2C_amb_de_France%2C_maison_de_H_Cortes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/2015_07_24_Rep_Dom%2C_Saint-Domingue%2C%2C_amb_de_France%2C_maison_de_H_Cortes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2015_07_24_Rep_Dom,_Saint-Domingue,,_amb_de_France,_maison_de_H_Cortes.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Florival fr",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:DOM Santo Domingo, Ciudad Colonial, Calle Las Damas 0007.jpg",
+   "w": 3869,
+   "h": 2902,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Calle_Las_Damas_0007.jpg/330px-DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Calle_Las_Damas_0007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Calle_Las_Damas_0007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:DOM_Santo_Domingo,_Ciudad_Colonial,_Calle_Las_Damas_0007.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "-wuppertaler",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-05-01 14:13:15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:DOM Santo Domingo, Ciudad Colonial, Calle Isabel La Católica 0024.jpg",
+   "w": 3963,
+   "h": 2972,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Calle_Isabel_La_Cat%C3%B3lica_0024.jpg/330px-DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Calle_Isabel_La_Cat%C3%B3lica_0024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Calle_Isabel_La_Cat%C3%B3lica_0024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:DOM_Santo_Domingo,_Ciudad_Colonial,_Calle_Isabel_La_Cat%C3%B3lica_0024.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "-wuppertaler",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-05-01 15:07:20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:DOM Santo Domingo, Ciudad Colonial, Parque Billini 0001.jpg",
+   "w": 3929,
+   "h": 2947,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Parque_Billini_0001.jpg/330px-DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Parque_Billini_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Parque_Billini_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:DOM_Santo_Domingo,_Ciudad_Colonial,_Parque_Billini_0001.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "-wuppertaler",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-05-02 17:34:07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

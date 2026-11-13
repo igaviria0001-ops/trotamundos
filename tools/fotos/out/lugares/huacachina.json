@@ -1,0 +1,192 @@
+{
+ "id": "huacachina",
+ "enwiki": "Huacachina",
+ "endesc": "Village in Peru",
+ "qid": "Q1632715",
+ "coord": [
+  -14.0875,
+  -75.763333333333
+ ],
+ "label_es": "Huacachina",
+ "desc_es": "oasis en Perú",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 403.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q43742",
+  "Q532",
+  "Q4946461",
+  "Q2065736"
+ ],
+ "p17": [
+  "Q419"
+ ],
+ "unesco": false,
+ "eswiki": "Huacachina",
+ "extracto_es": "La laguna de Huacachina (en quechua: huáccac cachi= ''la que llora sal'' o huáccacchine= ''hago llorar'')​ es un gran oasis de aguas sulfurosas ubicado a cinco kilómetros al oeste del departamento de Ica, en medio del desierto costero del océano Pacífico en Perú. De aguas color verde, surgió debido al afloramiento de corrientes subterráneas y alrededor de ella hay una abundante vegetación compuesta de palmeras, eucaliptos (especies introducidas) y la especie de algarrobo conocida como huarango, la que sirve para el descanso de las aves voladoras que pasan por esta región.",
+ "candidatas": [
+  {
+   "file": "File:Oasis de Huacachina, Ica, Perú, 2015-07-29, DD 18.JPG",
+   "w": 8688,
+   "h": 4614,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Oasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_18.JPG/330px-Oasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Oasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Oasis_de_Huacachina,_Ica,_Per%C3%BA,_2015-07-29,_DD_18.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-29",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 21,
+   "origen": "en"
+  },
+  {
+   "file": "File:Oasis de Huacachina, Ica, Perú, 2015-07-29, DD 23.JPG",
+   "w": 7550,
+   "h": 4638,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Oasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_23.JPG/330px-Oasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_23.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Oasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_23.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Oasis_de_Huacachina,_Ica,_Per%C3%BA,_2015-07-29,_DD_23.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Huacachina - Ica, Peru.jpg",
+   "w": 1429,
+   "h": 949,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Huacachina_-_Ica%2C_Peru.jpg/330px-Huacachina_-_Ica%2C_Peru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Huacachina_-_Ica%2C_Peru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Huacachina_-_Ica,_Peru.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Gatol fotografia from La Paz, Bolivia",
+   "credito": "_DSC0251",
+   "nonfree": "",
+   "fecha": "2016-10-30 19:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Ica , fresque Huacca China de l'Hôtel Mossone.jpg",
+   "w": 3002,
+   "h": 1636,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Ica_%2C_fresque_Huacca_China_de_l%27H%C3%B4tel_Mossone.jpg/330px-Ica_%2C_fresque_Huacca_China_de_l%27H%C3%B4tel_Mossone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ica_%2C_fresque_Huacca_China_de_l%27H%C3%B4tel_Mossone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ica_,_fresque_Huacca_China_de_l%27H%C3%B4tel_Mossone.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Pierre André Leclercq",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-11-08 19:11:35",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Huacachina 2023.jpg",
+   "w": 4032,
+   "h": 2268,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Huacachina_2023.jpg/330px-Huacachina_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Huacachina_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Huacachina_2023.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mojnsen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-12-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Huacachina Sand Dunes.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Huacachina_Sand_Dunes.jpg/330px-Huacachina_Sand_Dunes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Huacachina_Sand_Dunes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Huacachina_Sand_Dunes.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ivana Viani",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Laguna de Huacachina-2.jpg",
+   "w": 4320,
+   "h": 2791,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Laguna_de_Huacachina-2.jpg/330px-Laguna_de_Huacachina-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Laguna_de_Huacachina-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Laguna_de_Huacachina-2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jonathan M. Corredor O.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-02 17:22:47",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Espejo de Sirena - Laguna de Huacachina-4.jpg",
+   "w": 4287,
+   "h": 2716,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Espejo_de_Sirena_-_Laguna_de_Huacachina-4.jpg/330px-Espejo_de_Sirena_-_Laguna_de_Huacachina-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Espejo_de_Sirena_-_Laguna_de_Huacachina-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Espejo_de_Sirena_-_Laguna_de_Huacachina-4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jonathan M. Corredor O.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-02 20:13:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

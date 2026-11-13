@@ -1,0 +1,189 @@
+{
+ "id": "elmorro",
+ "enwiki": "Castillo San Felipe del Morro",
+ "endesc": "16th-century fortress and citadel in Puerto Rico",
+ "qid": "Q550502",
+ "coord": [
+  18.47111,
+  -66.12444
+ ],
+ "label_es": "Fortaleza colosal de San Felipe del Morro",
+ "desc_es": "fortaleza en San Juan, Puerto Rico",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1539-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q57831",
+  "Q1785071"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Castillo San Felipe del Morro",
+ "extracto_es": "El Castillo de San Felipe del Morro,​ también conocido simplemente como El Morro, es una ciudadela  española construida entre el siglo XVI y el siglo XVIII en el extremo norte de San Juan, Puerto Rico. Por muchos años, vigiló la entrada a la bahía de San Juan y protegió la ciudad de ataques marítimos. El «morro» es un término usado para referirse a una porción de tierra o peñasco que sirve para observar un lugar. Este castillo es parte del Sitio Histórico Nacional de San Juan​ y fue declarado Patrimonio de la Humanidad por las Naciones Unidas en 1983.\nHoy en día, el Morro es una de las principales atracciones turísticas de Puerto Rico, con exhibiciones de artículos de la época de la Conquista usados por españoles, indígenas y africanos. Otras exposiciones muestran modelos de barcos, así como datos históricos de la época. Los turistas y visitantes disfrutan de volar chiringas (cometas) en los alrededores del castillo. Cerca de dos millones de visitantes exploran esta fortaleza cada año.\nAl otro lado de la bahía, un fuerte llamado Fortín San Juan de la Cruz (El Cañuelo)​ le daba apoyo al Castillo San Felipe del Morro en la defensa de la bahía de San Juan. Durante el ataque a la ciudad de Francis Drake en 1595, una serie de barcos se colocaron a través de la entrada de la bahía para impedir la entrada de los enemigos a la misma.​",
+ "candidatas": [
+  {
+   "file": "File:Castillo San Felipe del Morro3.jpg",
+   "w": 9537,
+   "h": 5980,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Castillo_San_Felipe_del_Morro3.jpg/330px-Castillo_San_Felipe_del_Morro3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Castillo_San_Felipe_del_Morro3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro3.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Joshua Wood",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-26 15:07:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:El Morro - Walls 2.jpg",
+   "w": 4186,
+   "h": 2745,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/El_Morro_-_Walls_2.jpg/330px-El_Morro_-_Walls_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/El_Morro_-_Walls_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Morro_-_Walls_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "P. Hughes",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-11-12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:El Morro - Walls 1.jpg",
+   "w": 4048,
+   "h": 2409,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/El_Morro_-_Walls_1.jpg/330px-El_Morro_-_Walls_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/El_Morro_-_Walls_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Morro_-_Walls_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "P. Hughes",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-11-12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:USA-2016-Puerto Rico-San Juan-Castillo San Felipe del Morro (and lighthouse) 03.jpg",
+   "w": 6438,
+   "h": 4292,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/USA-2016-Puerto_Rico-San_Juan-Castillo_San_Felipe_del_Morro_%28and_lighthouse%29_03.jpg/330px-USA-2016-Puerto_Rico-San_Juan-Castillo_San_Felipe_del_Morro_%28and_lighthouse%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/USA-2016-Puerto_Rico-San_Juan-Castillo_San_Felipe_del_Morro_%28and_lighthouse%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:USA-2016-Puerto_Rico-San_Juan-Castillo_San_Felipe_del_Morro_(and_lighthouse)_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Godot13",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-03-24 07:44:38",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Castillo San Felipe del Morro from air -Fuerte San Felipe del Morro.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Castillo_San_Felipe_del_Morro_from_air_-Fuerte_San_Felipe_del_Morro.jpg/330px-Castillo_San_Felipe_del_Morro_from_air_-Fuerte_San_Felipe_del_Morro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Castillo_San_Felipe_del_Morro_from_air_-Fuerte_San_Felipe_del_Morro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_from_air_-Fuerte_San_Felipe_del_Morro.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Memasmuffn",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 17 May 2014",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Castillo San Felipe Del Morro (16869927311).jpg",
+   "w": 4608,
+   "h": 1947,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Castillo_San_Felipe_Del_Morro_%2816869927311%29.jpg/330px-Castillo_San_Felipe_Del_Morro_%2816869927311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Castillo_San_Felipe_Del_Morro_%2816869927311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_Del_Morro_(16869927311).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Chad Sparkes from Kissimmee,Florida, United States",
+   "credito": "Castillo San Felipe Del Morro",
+   "nonfree": "",
+   "fecha": "2015-03-04 17:31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Castillo San Felipe del Morro, Puerto Rico.jpg",
+   "w": 5000,
+   "h": 3333,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Castillo_San_Felipe_del_Morro%2C_Puerto_Rico.jpg/330px-Castillo_San_Felipe_del_Morro%2C_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Castillo_San_Felipe_del_Morro%2C_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro,_Puerto_Rico.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Breezy Baldwin",
+   "credito": "https://www.flickr.com/photos/breezy421/5413850223/in/album-72157625676454205/",
+   "nonfree": "",
+   "fecha": "2010-09-26 15:24:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Grounds of Castillo San Felipe del Morro, Puerto Rico.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Grounds_of_Castillo_San_Felipe_del_Morro%2C_Puerto_Rico.jpg/330px-Grounds_of_Castillo_San_Felipe_del_Morro%2C_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Grounds_of_Castillo_San_Felipe_del_Morro%2C_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grounds_of_Castillo_San_Felipe_del_Morro,_Puerto_Rico.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Gordon Tarpley",
+   "credito": "https://www.flickr.com/photos/gordontarpley/4637793709/",
+   "nonfree": "",
+   "fecha": "2010-05-21 16:27:21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

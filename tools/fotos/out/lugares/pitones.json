@@ -1,0 +1,191 @@
+{
+ "id": "pitones",
+ "enwiki": "Pitons (Saint Lucia)",
+ "endesc": "Two mountainous volcanic plugs in Saint Lucia",
+ "qid": "Q639487",
+ "coord": [
+  13.807083333333,
+  -61.070361111111
+ ],
+ "label_es": "Montañas Pitons",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 786.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 2909.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q8502",
+  "Q653139"
+ ],
+ "p17": [
+  "Q760"
+ ],
+ "unesco": true,
+ "eswiki": "Montañas Pitons",
+ "extracto_es": "Las montañas Pitons son unas características montañas localizadas en la isla de Santa Lucía, símbolo de esa pequeña nación isleña del Caribe ubicada al norte de Venezuela. Las montañas se encuentran al sur de la isla, en la bahía de  Soufrière, unos 21 kilómetros al suroeste de Castries. El más alto de los picos, el Gros Piton, se alza a 768 metros sobre el nivel del mar. El menor, Petit Piton, se eleva a 750 metros. Las dos montañas aparecen representadas en la bandera nacional de la isla. De acuerdo al diseño de Dunstan Saint Omer, Gros Piton (representada por el triángulo más alto) representa a la raza negra y Petit Piton (representada por el triángulo menor) representa a la raza blanca.",
+ "candidatas": [
+  {
+   "file": "File:PetitPiton.JPG",
+   "w": 2001,
+   "h": 1644,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/PetitPiton.JPG/330px-PetitPiton.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/PetitPiton.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:PetitPiton.JPG",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Jayen466",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "December 2004 (29 De",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Pitonpair.JPG",
+   "w": 1600,
+   "h": 1200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Pitonpair.JPG/330px-Pitonpair.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Pitonpair.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pitonpair.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Pitons-aerial.jpg",
+   "w": 1397,
+   "h": 931,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Pitons-aerial.jpg/330px-Pitons-aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pitons-aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pitons-aerial.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Caribbeandy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-22 11:37:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Pitons landview.jpg",
+   "w": 1804,
+   "h": 1192,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Pitons_landview.jpg/330px-Pitons_landview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Pitons_landview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pitons_landview.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:St Lucia Pitons 2008.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/St_Lucia_Pitons_2008.jpg/330px-St_Lucia_Pitons_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/St_Lucia_Pitons_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Lucia_Pitons_2008.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gruepig",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-12-04 08:43:12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Pitons at Soufriere Saint Lucia.jpg",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/The_Pitons_at_Soufriere_Saint_Lucia.jpg/330px-The_Pitons_at_Soufriere_Saint_Lucia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Pitons_at_Soufriere_Saint_Lucia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Pitons_at_Soufriere_Saint_Lucia.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "",
+   "credito": "Transfered from en.wikipedia.org, File:The Pitons at Soufriere Saint Lucia.jpg",
+   "nonfree": "",
+   "fecha": "2007-04-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:GrosPiton.JPG",
+   "w": 2048,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/GrosPiton.JPG/330px-GrosPiton.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/GrosPiton.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:GrosPiton.JPG",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Jayen466",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:The Pitons, St. Lucia3.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Pitons%2C_St._Lucia3.jpg/330px-The_Pitons%2C_St._Lucia3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Pitons%2C_St._Lucia3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Pitons,_St._Lucia3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "XeresNelro",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-12-19 14:12:20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  }
+ ]
+}

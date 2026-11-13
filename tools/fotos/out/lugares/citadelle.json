@@ -1,0 +1,139 @@
+{
+ "id": "citadelle",
+ "enwiki": "Citadelle Laferrière",
+ "endesc": "Historic fortress and symbol of Haitian independence",
+ "qid": "Q206194",
+ "coord": [
+  19.573611111111,
+  -72.243888888889
+ ],
+ "label_es": "Citadelle Laferrière",
+ "desc_es": "fortaleza en Haití",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1820-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 910.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 10000.0,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q88291",
+  "Q1785071",
+  "Q9259"
+ ],
+ "p17": [
+  "Q790"
+ ],
+ "unesco": true,
+ "eswiki": "Ciudadela de Laferrière",
+ "extracto_es": "La Ciudadela Laferrière (en francés: Citadelle Laferrière; y en criollo haitiano: Sitadèl-Laferyè), conocida también como Ciudadela Henri Christophe, es una gran fortaleza localizada en el norte de Haití, en la cima de la montaña Bonnet à l’Évêque, cerca de Milot / Milo, a 27 kilómetros al sur de la ciudad de Cabo Haitiano. Es la fortaleza más grande del hemisferio occidental y la más grande de toda América. Fue designada Patrimonio de la Humanidad por la UNESCO en el año 1982.​ Actualmente es uno de los destinos más populares para los turistas que visitan el país.\nGracias a su colosal tamaño, la ciudadela se ha convertido en un símbolo nacional de Haití y ha aparecido en monedas, billetes, sellos postales y promociones del ministerio de turismo haitiano.",
+ "candidatas": [
+  {
+   "file": "File:Citadelle Laferrière Aerial View.jpg",
+   "w": 3022,
+   "h": 2015,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Citadelle_Laferri%C3%A8re_Aerial_View.jpg/330px-Citadelle_Laferri%C3%A8re_Aerial_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Citadelle_Laferri%C3%A8re_Aerial_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re_Aerial_View.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "SPC Gibran Torres, United States Army",
+   "credito": "United States Army",
+   "nonfree": "",
+   "fecha": "2010-04-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Citadelle Laferrière.jpg",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Citadelle_Laferri%C3%A8re.jpg/330px-Citadelle_Laferri%C3%A8re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Citadelle_Laferri%C3%A8re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Rémi Kaupp",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "Summer 2006date QS:P",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Les Ramier, citadelle du roi Henri Christophe.JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Les_Ramier%2C_citadelle_du_roi_Henri_Christophe.JPG/330px-Les_Ramier%2C_citadelle_du_roi_Henri_Christophe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Les_Ramier%2C_citadelle_du_roi_Henri_Christophe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Les_Ramier,_citadelle_du_roi_Henri_Christophe.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Iconem",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-09-09 19:40:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Citadelle Laferrière back wall.jpg",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Citadelle_Laferri%C3%A8re_back_wall.jpg/330px-Citadelle_Laferri%C3%A8re_back_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Citadelle_Laferri%C3%A8re_back_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re_back_wall.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Rémi Kaupp",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "Summer 2006date QS:P",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Citadelle Laferrière 1.jpg",
+   "w": 1196,
+   "h": 772,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Citadelle_Laferri%C3%A8re_1.jpg/330px-Citadelle_Laferri%C3%A8re_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Citadelle_Laferri%C3%A8re_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re_1.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Gs 12",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2005",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "busqueda"
+  }
+ ]
+}

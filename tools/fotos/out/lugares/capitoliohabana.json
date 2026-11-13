@@ -1,0 +1,199 @@
+{
+ "id": "capitoliohabana",
+ "enwiki": "National Capitol of Cuba",
+ "endesc": "Former seat of the Congress of Cuba",
+ "qid": "Q1352908",
+ "coord": [
+  23.13528,
+  -82.35944
+ ],
+ "label_es": "Capitolio Nacional de Cuba",
+ "desc_es": "Antigua sede del congreso Cubano y hoy de la Asamblea Nacional del Poder Popular",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1929-05-20T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1927-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 43.418,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q7138926",
+  "Q3284499"
+ ],
+ "p17": [
+  "Q241"
+ ],
+ "unesco": false,
+ "eswiki": "Capitolio de La Habana",
+ "extracto_es": "El Capitolio Nacional de La Habana es un edificio construido entre 1926 y 1929 en La Habana (Cuba) bajo la dirección del arquitecto Eugenio Raynieri Piedra, por encargo del entonces presidente cubano Gerardo Machado. El edificio estaría destinado a albergar y ser sede de las dos cámaras del Congreso o cuerpo legislativo de la República de Cuba. Inspirado en el Panteón de París, San Pablo de Londres y en el Capitolio de los Estados Unidos, el edificio presenta una fachada acolumnada neoclásica y una cúpula que alcanza los 91,73 m de altura.​​\nSituado en el centro de la capital del país, entre las calles Prado, Dragones, Industria y San José, es el origen kilométrico de la red de carreteras cubanas, y después del triunfo de la Revolución, cuando fue disuelto el Congreso, fue transformado en la sede del Ministerio de Ciencia, Tecnología y Medio Ambiente y de la Academia de Ciencias de Cuba. \nEn 2010 el edificio fue declarado Monumento Nacional​ y se inició un proceso de restauración capital para recuperar su estructura, su ambientación original y sus funciones primigenias. Desde 2015 ha vuelto a ser la sede del parlamento cubano. \nAbierto al público, es uno de los centros turísticos más visitados de la ciudad, habiéndose convertido en uno de los iconos arquitectónicos de La Habana,​​​ y es considerado habitualmente el edificio más imponente de la ciudad.​ Asimismo, aparece nombrado por algunos expertos como uno de los seis palacios de mayor relevancia a nivel mundial.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:El Capitolio Havana Cuba.jpg",
+   "w": 3256,
+   "h": 2171,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/El_Capitolio_Havana_Cuba.jpg/330px-El_Capitolio_Havana_Cuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/El_Capitolio_Havana_Cuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Capitolio_Havana_Cuba.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Nigel Pacquette",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-12-08",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 12,
+   "origen": "en"
+  },
+  {
+   "file": "File:Capitolio full.jpg",
+   "w": 2160,
+   "h": 1440,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Capitolio_full.jpg/330px-Capitolio_full.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Capitolio_full.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Capitolio_full.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Yomangani",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:09423 - Havanna Capitol E facade.jpg",
+   "w": 6000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/09423_-_Havanna_Capitol_E_facade.jpg/330px-09423_-_Havanna_Capitol_E_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/09423_-_Havanna_Capitol_E_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:09423_-_Havanna_Capitol_E_facade.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Virtual-Pano",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-01-05 19:23:36",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Havana - Capitol inauguration.jpg",
+   "w": 1564,
+   "h": 1013,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Havana_-_Capitol_inauguration.jpg/330px-Havana_-_Capitol_inauguration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Havana_-_Capitol_inauguration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Havana_-_Capitol_inauguration.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Carlos Jordi, Havana (publisher)",
+   "credito": "Digital scan of postcard",
+   "nonfree": "",
+   "fecha": "1929",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Capitolio Nacional de Cuba (La Habana).jpg",
+   "w": 2448,
+   "h": 1632,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Capitolio_Nacional_de_Cuba_%28La_Habana%29.jpg/330px-Capitolio_Nacional_de_Cuba_%28La_Habana%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Capitolio_Nacional_de_Cuba_%28La_Habana%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Capitolio_Nacional_de_Cuba_(La_Habana).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Antonio Hernández Mena",
+   "credito": "https://www.parlamentocubano.gob.cu/exteriores-del-capitolio-nacional",
+   "nonfree": "",
+   "fecha": "2022-01-21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Capitolio de Noche.jpg",
+   "w": 2100,
+   "h": 1500,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitolio_de_Noche.jpg/330px-Capitolio_de_Noche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Capitolio_de_Noche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Capitolio_de_Noche.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Yerandy1990",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-10-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Parliament building of Cuba Havanna El Capitolio.jpg",
+   "w": 3504,
+   "h": 2336,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Parliament_building_of_Cuba_Havanna_El_Capitolio.jpg/330px-Parliament_building_of_Cuba_Havanna_El_Capitolio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Parliament_building_of_Cuba_Havanna_El_Capitolio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parliament_building_of_Cuba_Havanna_El_Capitolio.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marc-Lautenbacher",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-04-22 14:02:07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:El Capitolio La Habana hdsr S5is Cuba1 242.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/El_Capitolio_La_Habana_hdsr_S5is_Cuba1_242.jpg/330px-El_Capitolio_La_Habana_hdsr_S5is_Cuba1_242.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/El_Capitolio_La_Habana_hdsr_S5is_Cuba1_242.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Capitolio_La_Habana_hdsr_S5is_Cuba1_242.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hyppolyte de Saint-Rambert",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-02-13 23:05:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  }
+ ]
+}

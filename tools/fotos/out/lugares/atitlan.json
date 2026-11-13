@@ -1,0 +1,194 @@
+{
+ "id": "atitlan",
+ "enwiki": "Lake Atitlán",
+ "endesc": "Crater lake in Guatemala",
+ "qid": "Q273276",
+ "coord": [
+  14.7,
+  -91.2
+ ],
+ "label_es": "Lago de Atitlán",
+ "desc_es": "Lago en Sololá, Guatemala",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 1562.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 130.1,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 18.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q204324"
+ ],
+ "p17": [
+  "Q774"
+ ],
+ "unesco": false,
+ "eswiki": "Lago de Atitlán",
+ "extracto_es": "El Lago de Atitlán es el lago más profundo de Centroamérica y es el segundo lago más grande por superficie de Guatemala.​ Su parte más profunda se encuentra a 340 metros aproximadamente,​ mientras la profundidad media es de 220 metros. Es una importante fuente económica del Departamento de Sololá, donde queda ubicado, así como un centro turístico de gran interés comercial. El lago de Atitlán es reconocido como uno de los lagos más bellos del planeta Tierra y es una de las atracciones turísticas nacionales e internacionales más importantes de toda Guatemala. El explorador y naturalista alemán Alexander von Humboldt y National Geographic han denominado a este lugar como \"el lago más hermoso del mundo\".​\nEl lago corresponde a una caldera volcánica. En sus márgenes se alzan los volcanes de Atitlán (3537 m s. n. m.),​ Tolimán (3158 m s. n. m.) y San Pedro (3020 m s. n. m.). El lago está situado a 1560 metros sobre el nivel del mar y tiene 18 km de longitud.",
+ "candidatas": [
+  {
+   "file": "File:Flickr - ggallice - Lago de Atitlán, de Panajachel.jpg",
+   "w": 1500,
+   "h": 900,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Flickr_-_ggallice_-_Lago_de_Atitl%C3%A1n%2C_de_Panajachel.jpg/330px-Flickr_-_ggallice_-_Lago_de_Atitl%C3%A1n%2C_de_Panajachel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flickr_-_ggallice_-_Lago_de_Atitl%C3%A1n%2C_de_Panajachel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Lago_de_Atitl%C3%A1n,_de_Panajachel.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Geoff Gallice from Gainesville, FL, USA",
+   "credito": "Lago de Atitlán, de Panajachel",
+   "nonfree": "",
+   "fecha": "2010-05-07 08:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Lago de Atitlan, Guatemala, Abril 1975 02.jpg",
+   "w": 5259,
+   "h": 3707,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Lago_de_Atitlan%2C_Guatemala%2C_Abril_1975_02.jpg/330px-Lago_de_Atitlan%2C_Guatemala%2C_Abril_1975_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Lago_de_Atitlan%2C_Guatemala%2C_Abril_1975_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lago_de_Atitlan,_Guatemala,_Abril_1975_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Deceased relative of Infrogmation.\n\nPlease credit \"Family photos of Infrogmation\".",
+   "credito": "Deceased parent of Infrogmation, inherited with rights by Infrogmation",
+   "nonfree": "",
+   "fecha": "1975-04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Atitlan Lake and Volcanoes (3746396035).jpg",
+   "w": 4244,
+   "h": 3244,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Atitlan_Lake_and_Volcanoes_%283746396035%29.jpg/330px-Atitlan_Lake_and_Volcanoes_%283746396035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Atitlan_Lake_and_Volcanoes_%283746396035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Atitlan_Lake_and_Volcanoes_(3746396035).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Francisco Anzola",
+   "credito": "Atitlan Lake and Volcanoes",
+   "nonfree": "",
+   "fecha": "2009-07-14 18:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Fisherman on Lake Atitlán, Guatemala.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Fisherman_on_Lake_Atitl%C3%A1n%2C_Guatemala.jpg/330px-Fisherman_on_Lake_Atitl%C3%A1n%2C_Guatemala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Fisherman_on_Lake_Atitl%C3%A1n%2C_Guatemala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fisherman_on_Lake_Atitl%C3%A1n,_Guatemala.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jaime Escribá",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-20 22:10:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Guatémala 78.jpg",
+   "w": 6111,
+   "h": 4079,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Guat%C3%A9mala_78.jpg/330px-Guat%C3%A9mala_78.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Guat%C3%A9mala_78.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Guat%C3%A9mala_78.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Viault",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1991",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lago de Atitlán 2009.JPG",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Lago_de_Atitl%C3%A1n_2009.JPG/330px-Lago_de_Atitl%C3%A1n_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Lago_de_Atitl%C3%A1n_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lago_de_Atitl%C3%A1n_2009.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "chensiyuan",
+   "credito": "chensiyuan",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lake Atitlán.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Lake_Atitl%C3%A1n.jpg/330px-Lake_Atitl%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lake_Atitl%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Atitl%C3%A1n.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Teomancimit",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-11-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Panajachel lake atitlan 2009r.JPG",
+   "w": 4288,
+   "h": 2328,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Panajachel_lake_atitlan_2009r.JPG/330px-Panajachel_lake_atitlan_2009r.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Panajachel_lake_atitlan_2009r.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Panajachel_lake_atitlan_2009r.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "chensiyuan",
+   "credito": "chensiyuan",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}
