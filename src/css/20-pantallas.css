@@ -347,3 +347,41 @@ button.asa::before { content: ''; position: absolute; left: 10px; right: 10px; t
   .opciones.fotos { grid-column: 2; grid-row: 1 / 4; align-content: center; }
   .juego-pistas .hoja, .juego-pistas .hoja.grande { max-height: none; }
 }
+
+/* ---------- Parejas del mundo ---------- */
+.parejas-zona { position: absolute; inset: 0; display: flex; flex-direction: column; gap: 10px; padding: 4px 14px calc(14px + var(--sa-b)); max-width: 720px; margin: 0 auto; }
+.parejas-cab { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex: none; }
+.parejas-ayuda { font-weight: 800; color: var(--tinta2); font-size: .92rem; }
+.parejas-movs { background: #fff; border-radius: 12px; padding: 4px 10px; font-weight: 700; color: var(--tinta2); font-size: .85rem; white-space: nowrap; box-shadow: var(--sombra1); }
+.parejas-movs b { color: var(--tinta); }
+.tablero { flex: 1; min-height: 0; display: grid; grid-template-columns: repeat(var(--cols), 1fr); grid-auto-rows: 1fr; gap: 8px; }
+.carta-mem { position: relative; border: 0; padding: 0; background: none; perspective: 900px; min-height: 0; }
+.carta-int { position: absolute; inset: 0; transform-style: preserve-3d; transition: transform .45s var(--ease); }
+.carta-mem.arriba .carta-int, .carta-mem.hecha .carta-int { transform: rotateY(180deg); }
+.cara { position: absolute; inset: 0; border-radius: 14px; backface-visibility: hidden; -webkit-backface-visibility: hidden; overflow: hidden; box-shadow: 0 3px 0 #C9DCEB, 0 6px 14px rgba(36, 71, 107, .12); }
+.dorso { background: #fff; display: grid; place-items: center; border: 4px solid #fff; }
+.dorso::before { content: ''; position: absolute; inset: 0; border-radius: 10px; background: repeating-linear-gradient(135deg, var(--rojo) 0 8px, #fff 8px 13px, var(--azul) 13px 21px, #fff 21px 26px); opacity: .9; }
+.dorso span { position: relative; width: 44%; aspect-ratio: 1; border-radius: 50%; background: #fff; display: grid; place-items: center; color: var(--azul); box-shadow: 0 2px 8px rgba(0, 0, 0, .15); }
+.dorso span svg { width: 60%; height: 60%; transform: rotate(45deg); }
+.frente { transform: rotateY(180deg); background: #fff; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; padding: 6px; text-align: center; }
+.c-foto { padding: 0; }
+.c-foto img { width: 100%; height: 100%; object-fit: cover; }
+.c-nombre b { font-family: var(--f-titulo); font-size: clamp(.82rem, 3.6vw, 1.15rem); line-height: 1.1; }
+.c-nombre small, .c-bandera small { color: var(--tinta2); font-weight: 700; font-size: .72rem; line-height: 1.1; }
+.bandera.grande { width: 78%; border-radius: 6px; }
+.carta-mem.hecha .cara.frente { box-shadow: 0 0 0 3px var(--hoja), 0 6px 14px rgba(36, 71, 107, .12); }
+.carta-mem.hecha { animation: pareja .5s var(--rebote); }
+@keyframes pareja { 50% { transform: scale(1.06); } }
+.pareja-aviso {
+  position: absolute; left: 50%; bottom: calc(18px + var(--sa-b)); transform: translateX(-50%); z-index: 8;
+  display: flex; align-items: center; gap: 10px; background: #fff; border-radius: 18px; padding: 8px 14px 8px 8px; box-shadow: var(--sombra3);
+  animation: toast 2.2s var(--ease) both; max-width: calc(100% - 28px);
+}
+.pareja-aviso img { width: 56px; height: 42px; object-fit: cover; border-radius: 10px; flex: none; }
+.pareja-aviso div { display: flex; flex-direction: column; line-height: 1.15; }
+.pareja-aviso b { font-family: var(--f-titulo); }
+.pareja-aviso small { display: flex; align-items: center; gap: 5px; color: var(--tinta2); font-weight: 700; }
+@media (min-width: 900px) and (min-aspect-ratio: 5/4) {
+  .parejas-zona { max-width: 1000px; padding: 14px 28px 28px; }
+  .tablero { grid-template-columns: repeat(calc(var(--cols) + 1), 1fr); }
+}

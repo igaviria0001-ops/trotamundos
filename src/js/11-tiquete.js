@@ -42,8 +42,8 @@ Pantallas.tiquete = (modoId) => {
           h('div.campo', h('span.lbl', 'Nivel'),
             grupoChips('nivel', [1, 2, 3].map(k => ({ v: String(k), n: NIVELES[k].n, d: NIVELES[k].d }))
               .concat([{ v: 'mezcla', n: 'Mezcla', d: 'Un poco de todo' }]), '.rejilla')),
-          h('div.campo', h('span.lbl', 'Escalas'),
-            grupoChips('rondas', [5, 10, 15].map(k => ({ v: k, n: `${k} ${modoId === 'postal' ? 'postales' : 'rondas'}` }))))),
+          h('div.campo', h('span.lbl', modoId === 'parejas' ? 'Tamaño' : 'Escalas'),
+            grupoChips('rondas', [5, 10, 15].map(k => ({ v: k, n: modoId === 'parejas' ? `${{ 5: 6, 10: 8, 15: 10 }[k]} parejas` : `${k} ${modoId === 'postal' ? 'postales' : 'rondas'}` }))))),
         h('div.corte'),
         h('div.talon', h('div.talon-info', h('small', 'Lugares en este viaje'), cuenta), h('div.codigo', { html: codigoBarras() })))),
     h('div.pie-fijo', boton));
