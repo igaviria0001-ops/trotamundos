@@ -1,0 +1,208 @@
+{
+ "id": "luxor",
+ "enwiki": "Luxor Temple",
+ "endesc": "Ancient Egyptian temple",
+ "qid": "Q319841",
+ "coord": [
+  25.7,
+  32.639166666667
+ ],
+ "label_es": "Templo de Luxor",
+ "desc_es": "templo egipcio antiguo en Lúxor, Egipto",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-1400-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 77.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 4.75,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q855747",
+  "Q839954",
+  "Q44539"
+ ],
+ "p17": [
+  "Q79"
+ ],
+ "unesco": false,
+ "eswiki": "Templo de Luxor",
+ "extracto_es": "El templo de Luxor, situado en el corazón de la antigua Tebas, fue construido esencialmente bajo las dinastías XVIII y XIX egipcias. Estaba consagrado al dios Amón bajo sus dos aspectos de Amón-Ra (Ra, era considerado el dios del cielo, dios del Sol y del origen de la vida en la mitología egipcia). Las partes más antiguas actualmente visibles remontan a Amenhotep III y a Ramsés II. Seguidamente, nuevos elementos fueron añadidos por Shabako, Nectanebo I y la dinastía ptolemaica. En época romana, el templo fue parcialmente transformado en campo militar. El edificio, uno de los mejor conservados del Nuevo Imperio egipcio, aún mantiene numerosas estructuras. Además del gran pilono, el visitante puede también atravesar dos grandes peristilos y la columnata monumental que enlaza estos dos patios. \nForma parte del conjunto denominado Antigua Tebas con sus necrópolis, declarado Patrimonio de la Humanidad por la Unesco en 1979.\n\n",
+ "candidatas": [
+  {
+   "file": "File:1550 bis 1070 v. Chr. ca. wurde der Tempel von Luxor erbaut. 01.jpg",
+   "w": 5650,
+   "h": 3778,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg/330px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Holger Uwe Schmitt",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "30 December 2025",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Pylons and obelisk Luxor temple.JPG",
+   "w": 3604,
+   "h": 2045,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Pylons_and_obelisk_Luxor_temple.JPG/330px-Pylons_and_obelisk_Luxor_temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pylons_and_obelisk_Luxor_temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pylons_and_obelisk_Luxor_temple.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ad Meskens",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-08-10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Templo de Luxor, Luxor, Egipto, 2022-04-01, DD 32.jpg",
+   "w": 7452,
+   "h": 4968,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_32.jpg/330px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Luxor,_Luxor,_Egipto,_2022-04-01,_DD_32.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-01 06:33:50",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Templo de Luxor, Luxor, Egipto, 2022-04-01, DD 40.jpg",
+   "w": 8303,
+   "h": 5535,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_40.jpg/330px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Luxor,_Luxor,_Egipto,_2022-04-01,_DD_40.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-01 06:40:42",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Templo de Luxor, Luxor, Egipto, 2022-04-01, DD 18.jpg",
+   "w": 6809,
+   "h": 4491,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_18.jpg/330px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Luxor,_Luxor,_Egipto,_2022-04-01,_DD_18.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-01 06:24:38",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Abu el-Haggag R01.jpg",
+   "w": 3746,
+   "h": 2510,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Abu_el-Haggag_R01.jpg/330px-Abu_el-Haggag_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Abu_el-Haggag_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Abu_el-Haggag_R01.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Marc Ryckaert",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-01-29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Templo de Luxor, Luxor, Egipto, 2022-04-01, DD 22.jpg",
+   "w": 7717,
+   "h": 5145,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_22.jpg/330px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Luxor,_Luxor,_Egipto,_2022-04-01,_DD_22.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-01 06:27:39",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Templo de Luxor, Luxor, Egipto, 2022-04-01, DD 23.jpg",
+   "w": 7793,
+   "h": 5195,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_23.jpg/330px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Luxor,_Luxor,_Egipto,_2022-04-01,_DD_23.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-01 06:28:50",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  }
+ ]
+}

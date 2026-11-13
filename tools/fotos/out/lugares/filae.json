@@ -1,0 +1,196 @@
+{
+ "id": "filae",
+ "enwiki": "Philae temple complex",
+ "endesc": "7th or 6th-century BC temple in Egypt",
+ "qid": "Q1503673",
+ "coord": [
+  24.0257642,
+  32.8841999
+ ],
+ "label_es": "Templo de Isis de File",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 109.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q855747",
+  "Q44539",
+  "Q109607",
+  "Q839954"
+ ],
+ "p17": [
+  "Q79"
+ ],
+ "unesco": false,
+ "eswiki": "Templo de Isis (File)",
+ "extracto_es": "El templo de Isis de File es un antiguo templo egipcio ubicado en la isla Agilkia, río abajo tras la presa de Asuán y el lago Nasser, en Egipto. Fue el último lugar donde se practicó la religión egipcia antigua hasta que en 537 el emperador Justiniano ordenó la clausura del templo.​  \nOriginalmente estaba ubicado en la isla de File, cerca de la Primera catarata del Nilo en el Alto Egipto. Estos rápidos y las zonas circundantes se inundaban constantemente tras la construcción de la presa baja de Asuán en 1902, pero la situación sería dramática tras la construcción de la presa de Asuán (1960-70) unos kilómetros río arriba. Aunque File quedó fuera de la Campaña Nubia para rescatar los templos de esta zona, la importancia de este complejo llevó a la Unesco a iniciar un proyecto propio para salvar los templos de File. El conjunto de monumentos faraónicos y grecorromanos de la isla que fueron trasladados a la vecina isla Agilkia entre 1977 y 1980.",
+ "candidatas": [
+  {
+   "file": "File:File, Asuán, Egipto, 2022-04-01, DD 142.jpg",
+   "w": 5515,
+   "h": 5515,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_142.jpg/330px-File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:File,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_142.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-01 13:35:54",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Philae temple at night.jpg",
+   "w": 2458,
+   "h": 1517,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Philae_temple_at_night.jpg/330px-Philae_temple_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Philae_temple_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Philae_temple_at_night.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Moh hakem",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-02-08 22:06:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:The Temple of Isis from Philae, First pylon, Lake Nasser, Egypt.jpg",
+   "w": 3072,
+   "h": 2048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The_Temple_of_Isis_from_Philae%2C_First_pylon%2C_Lake_Nasser%2C_Egypt.jpg/330px-The_Temple_of_Isis_from_Philae%2C_First_pylon%2C_Lake_Nasser%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/The_Temple_of_Isis_from_Philae%2C_First_pylon%2C_Lake_Nasser%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Temple_of_Isis_from_Philae,_First_pylon,_Lake_Nasser,_Egypt.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Vyacheslav Argenberg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-05-25 17:25:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:File, Asuán, Egipto, 2022-04-01, DD 105.jpg",
+   "w": 7004,
+   "h": 4936,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_105.jpg/330px-File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:File,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_105.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-01 13:01:25",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:File, Asuán, Egipto, 2022-04-01, DD 99.jpg",
+   "w": 8461,
+   "h": 5569,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_99.jpg/330px-File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:File,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_99.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-01 12:45:21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:1977 bis 1980 wurde die Tempel auf der Insel Philae auf die höher gelegene Insel Agilka versetzt. 01.jpg",
+   "w": 5906,
+   "h": 2694,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/1977_bis_1980_wurde_die_Tempel_auf_der_Insel_Philae_auf_die_h%C3%B6her_gelegene_Insel_Agilka_versetzt._01.jpg/330px-1977_bis_1980_wurde_die_Tempel_auf_der_Insel_Philae_auf_die_h%C3%B6her_gelegene_Insel_Agilka_versetzt._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/1977_bis_1980_wurde_die_Tempel_auf_der_Insel_Philae_auf_die_h%C3%B6her_gelegene_Insel_Agilka_versetzt._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1977_bis_1980_wurde_die_Tempel_auf_der_Insel_Philae_auf_die_h%C3%B6her_gelegene_Insel_Agilka_versetzt._01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Holger Uwe Schmitt",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "12.-25.2025",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "en"
+  },
+  {
+   "file": "File:File, Asuán, Egipto, 2022-04-01, DD 118-120 HDR.jpg",
+   "w": 8227,
+   "h": 4082,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_118-120_HDR.jpg/330px-File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_118-120_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_118-120_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:File,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_118-120_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-01 13:15:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:File, Asuán, Egipto, 2022-04-01, DD 96.jpg",
+   "w": 5694,
+   "h": 8541,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_96.jpg/330px-File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_96.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_96.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:File,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_96.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-01 12:41:40",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "id": "nemrut",
+ "enwiki": "Mount Nemrut",
+ "endesc": "Mountain in Adıyaman, Turkey",
+ "qid": "Q207917",
+ "coord": [
+  37.98073888888889,
+  38.740830555555554
+ ],
+ "label_es": "Monte Nemrut",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 2150.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 11.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q8502",
+  "Q839954",
+  "Q29553"
+ ],
+ "p17": [
+  "Q43"
+ ],
+ "unesco": true,
+ "eswiki": "Monte Nemrut",
+ "extracto_es": "El monte Nemrut o monte Nemrud (en turco: Nemrut Dağ o Nemrut Dağı, en armenio: Նեմրութ լեռ) es una montaña de 2150 m de altitud del sureste de Turquía, conocida por las estatuas pertenecientes a una tumba del siglo I a. C. que se encuentra en la cima. La montaña se encuentra a 40 km al norte de Kahta, cerca de Adıyaman. En el año 62 a. C., el rey Antíoco I Theos de Comagene mandó construir un túmulo funerario en la cima de la montaña flanqueado por enormes estatuas (8-9 metros de altura) de sí mismo, dos leones, dos águilas y diferentes dioses armenios, griegos y persas, como Hércules, Zeus-Oromasdes (asociado al dios persa Ahura Mazda), Tique y Apolo-Mitra. Estas estatuas se encontraban sentadas y con los nombres de cada dios inscritos en ellas. Ahora, las cabezas de las estatuas están esparcidas por el suelo; los daños en las cabezas (especialmente las narices) sugieren que se produjeron de forma deliberada por parte de iconoclastas. También se conservan losas de piedra con figuras en bajorrelieve que se piensa formaron parte de un gran friso. En ellas aparecen los antepasados de Antíoco, que eran armenios.\nTambién se pueden encontrar las mismas estatuas y antepasados en el túmulo, que cuenta con unas dimensiones de 49 metros de altura y 152 metros de diámetro. Las estatuas presentan cierto parecido a los rasgos faciales griegos, además de vestimentas y peinados persas. El terraplén de la parte oeste cuenta con una gran losa con un león la cual es conocida como \"El horóscopo del rey\" y donde se muestra la conjunción de los planetas Júpiter, Mercurio y Marte que tuvo lugar el 7 de julio del año 62 a. C sobre la constelación de Leo. Sobre el pecho del león aparece también la Luna, objeto celeste que formó parte de aquel espectáculo nocturno y encima la estrella alfa de la constelación, la cual representaría Antíoco I. Algunos expertos especulan que esta fue la posible fecha del inicio de la construcción del monumento, otros que representa el día que fue investido rey por los romanos. La zona oriental se encuentra muy bien conservada.Se compone de varias capas de roca y se aprecian evidencias de un camino amurallado entre las pendientes este y oeste, desde un sendero al pie del monte Nemrut. Entre los posibles usos de este emplazamiento, se incluyen las ceremonias religiosas, debido a la naturaleza astronómica y religiosa del monumento. \nLa disposición de las estatuas se conoce con el término hierotesion. Se han descubierto emplazamientos similares en Arsa",
+ "candidatas": [
+  {
+   "file": "File:APOLLON NEMRUT MOUNTAIN.jpg",
+   "w": 3840,
+   "h": 2673,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/APOLLON_NEMRUT_MOUNTAIN.jpg/330px-APOLLON_NEMRUT_MOUNTAIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/APOLLON_NEMRUT_MOUNTAIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:APOLLON_NEMRUT_MOUNTAIN.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mkrc85",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-02-28 17:40:27",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Mount Nemrut - East Terrace (4961323529).jpg",
+   "w": 4743,
+   "h": 3157,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg/330px-Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Nemrut_-_East_Terrace_(4961323529).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Klearchos Kapoutsis from Santorini, Greece",
+   "credito": "East Terrace\n\nUploaded by Yarl",
+   "nonfree": "",
+   "fecha": "2010-08-05 15:18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Mount Nemrut (3).JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mount_Nemrut_%283%29.JPG/330px-Mount_Nemrut_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mount_Nemrut_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Nemrut_(3).JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Zhengan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-06-21 07:40:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kommagene Kingdom Mount Nemrut Ruins.jpg",
+   "w": 4368,
+   "h": 2912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Kommagene_Kingdom_Mount_Nemrut_Ruins.jpg/330px-Kommagene_Kingdom_Mount_Nemrut_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Kommagene_Kingdom_Mount_Nemrut_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kommagene_Kingdom_Mount_Nemrut_Ruins.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Theugursevinc",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-13 19:24:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Nemrut statues 2.jpg",
+   "w": 5297,
+   "h": 3531,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Nemrut_statues_2.jpg/330px-Nemrut_statues_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nemrut_statues_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Nemrut_statues_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Linda M Caldwell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-24 16:35:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mount Nemrut view.jpg",
+   "w": 5964,
+   "h": 3978,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Mount_Nemrut_view.jpg/330px-Mount_Nemrut_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mount_Nemrut_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Nemrut_view.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Liselottediehl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-11-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Eagle and Lion (4962096376).jpg",
+   "w": 4752,
+   "h": 3168,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Eagle_and_Lion_%284962096376%29.jpg/330px-Eagle_and_Lion_%284962096376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Eagle_and_Lion_%284962096376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eagle_and_Lion_(4962096376).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Klearchos Kapoutsis from Santorini, Greece",
+   "credito": "Eagle and Lion\n\nUploaded by Yarl",
+   "nonfree": "",
+   "fecha": "2010-08-05 15:33",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Mount Nemrut (1).JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mount_Nemrut_%281%29.JPG/330px-Mount_Nemrut_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mount_Nemrut_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Nemrut_(1).JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Zhengan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-06-21 07:40:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

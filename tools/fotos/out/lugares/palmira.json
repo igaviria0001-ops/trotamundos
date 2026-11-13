@@ -1,0 +1,201 @@
+{
+ "id": "palmira",
+ "enwiki": "Palmyra",
+ "endesc": "Ancient city in central Syria",
+ "qid": "Q5747",
+ "coord": [
+  34.550381,
+  38.269791
+ ],
+ "label_es": "Palmira",
+ "desc_es": "antigua ciudad nabatea situada en el desierto de Siria",
+ "inicio": [],
+ "area": [
+  {
+   "v": 1640.0,
+   "u": "Q35852"
+  },
+  {
+   "v": 16800.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q15661340",
+  "Q109607",
+  "Q93342462"
+ ],
+ "p17": [
+  "Q858"
+ ],
+ "unesco": true,
+ "eswiki": "Palmira",
+ "extracto_es": "Palmira (en palmireno: ; en árabe: تدمر Tadmor​o Tadmir) fue una antigua ciudad ubicada en el desierto de Siria, en la actual provincia de Homs a 3 km de la moderna ciudad de Tedmor​ o Tadmir (versión árabe de la misma palabra aramea \"palmira\", que significa \"ciudad de los árboles de dátil\"). En la actualidad solo persisten sus amplias ruinas que son foco de una abundante actividad turística internacional. La antigua Palmira fue la capital del Imperio de Palmira bajo el efímero reinado de la reina Zenobia, entre los años 268-272.\nPalmira fue declarada como Patrimonio de la Humanidad en 1980.​\nEl 20 de junio de 2013, la Unesco incluyó a todos los sitios sirios en la lista del Patrimonio de la Humanidad en peligro para alertar sobre los riesgos a los que están expuestos debido a la guerra civil siria.​ Las construcciones históricas que permanecían en pie fueron dinamitadas por el Estado Islámico en 2015.​",
+ "candidatas": [
+  {
+   "file": "File:Palmira al capvespre (2495033007).jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Palmira_al_capvespre_%282495033007%29.jpg/330px-Palmira_al_capvespre_%282495033007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Palmira_al_capvespre_%282495033007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palmira_al_capvespre_(2495033007).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Quim Bahí from Catalunya",
+   "credito": "Palmira al capvespre",
+   "nonfree": "",
+   "fecha": "2008-05-05 17:54",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Temple of Baal-Shamin, Palmyra.jpg",
+   "w": 2892,
+   "h": 1999,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Temple_of_Baal-Shamin%2C_Palmyra.jpg/330px-Temple_of_Baal-Shamin%2C_Palmyra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Temple_of_Baal-Shamin%2C_Palmyra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Temple_of_Baal-Shamin,_Palmyra.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-04-07",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Palmyra Castle, Tadmur Castle, Syria.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Palmyra_Castle%2C_Tadmur_Castle%2C_Syria.jpg/330px-Palmyra_Castle%2C_Tadmur_Castle%2C_Syria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Palmyra_Castle%2C_Tadmur_Castle%2C_Syria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palmyra_Castle,_Tadmur_Castle,_Syria.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Vyacheslav Argenberg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-08-26 18:24:53",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Palmyra Castle, Tadmur Castle, Rooftop 2, Syria.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Palmyra_Castle%2C_Tadmur_Castle%2C_Rooftop_2%2C_Syria.jpg/330px-Palmyra_Castle%2C_Tadmur_Castle%2C_Rooftop_2%2C_Syria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Palmyra_Castle%2C_Tadmur_Castle%2C_Rooftop_2%2C_Syria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palmyra_Castle,_Tadmur_Castle,_Rooftop_2,_Syria.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Vyacheslav Argenberg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-08-26 17:02:26",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Palmyra 03.jpg",
+   "w": 3260,
+   "h": 2201,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Palmyra_03.jpg/330px-Palmyra_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Palmyra_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palmyra_03.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-04-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Agora of Palmyra.jpg",
+   "w": 3456,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Agora_of_Palmyra.jpg/330px-Agora_of_Palmyra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Agora_of_Palmyra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Agora_of_Palmyra.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-04-07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Palmyra 01.jpg",
+   "w": 3316,
+   "h": 2474,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Palmyra_01.jpg/330px-Palmyra_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Palmyra_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palmyra_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-04-07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Temple of Bel, Palmyra 02.jpg",
+   "w": 3278,
+   "h": 2384,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Temple_of_Bel%2C_Palmyra_02.jpg/330px-Temple_of_Bel%2C_Palmyra_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Temple_of_Bel%2C_Palmyra_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Temple_of_Bel,_Palmyra_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-04-06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  }
+ ]
+}

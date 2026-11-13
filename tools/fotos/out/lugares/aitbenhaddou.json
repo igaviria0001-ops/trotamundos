@@ -1,0 +1,204 @@
+{
+ "id": "aitbenhaddou",
+ "enwiki": "Aït Benhaddou",
+ "endesc": "Historical village in southeastern Morocco",
+ "qid": "Q309436",
+ "coord": [
+  31.05,
+  -7.1333333333333
+ ],
+ "label_es": "Ksar de Ait Ben Hadu",
+ "desc_es": "Pueblo histórico en el sureste de Marruecos",
+ "inicio": [],
+ "area": [
+  {
+   "v": 3.03,
+   "u": "Q35852"
+  },
+  {
+   "v": 16.32,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q89691",
+  "Q2434238"
+ ],
+ "p17": [
+  "Q1028"
+ ],
+ "unesco": true,
+ "eswiki": "Ksar de Ait Ben Hadu",
+ "extracto_es": "El ksar de Ait Ben Hadu (en tamazight: ⴰⵢⵜ ⵃⴰⴷⴷⵓ, Ath Benhadu) es ksar o «ciudad fortificada» de Marruecos que se encuentra en la provincia de Uarzazat, en la región de Draa-Tafilalet.​ Se extiende a lo largo del río Ounila. La mayoría de los habitantes de la ciudad viven en el nuevo pueblo al otro lado del río,  sin embargo, algunas familias aún viven dentro del ksar.\nEl ksar es una agrupación principalmente colectiva de viviendas. En el interior de las murallas defensivas, reforzadas por torres angulares y perforadas por una puerta deflectora, se agolpan las casas, algunas modestas, otras parecen pequeños castillos urbanos con sus altas torres angulares y las partes superiores decoradas con motivos en ladrillo de arcilla, pero también hay edificios y zonas comunitarias.​ Se trata de un extraordinario conjunto de edificios que ofrece un panorama completo de las técnicas de construcción en tierra presaharianas. Las construcciones más antiguas no parecen ser anteriores al siglo XVII, aunque su estructura y técnica se propagaron desde una época muy temprana en los valles del sur de Marruecos.​ El lugar era también uno de los numerosos puestos comerciales de la ruta comercial que unía el antiguo Sudán con Marrakech por el valle del Dra y el paso de Tizi-n'Telouet. Arquitectónicamente, las viviendas forman un conjunto compacto, cerrado y suspendido.​\nEn el ksar se han realizado varias películas y series famosas (de hecho una de sus puertas monumentales no es original, pues fue construida con motivo del rodaje de la película La Joya del Nilo).\nEl «ksar de Ait Ben Hadu» fue declarado Patrimonio de la Humanidad por la Unesco en el año 1987, describiéndolo del siguiente modo:",
+ "candidatas": [
+  {
+   "file": "File:Ksar Aït Benhaddou, Marocco (أيت بن حدو، المغرب, ⴰⵢⵜ ⵃⴰⴷⴷⵓ).jpg",
+   "w": 8160,
+   "h": 5048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg/330px-Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ksar_A%C3%AFt_Benhaddou,_Marocco_(%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Petar Milošević",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-03-19 10:42:53",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Ait Zineb - Ksar of Aït Benhaddou - 20190716174408.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174408.jpg/330px-Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174408.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C messier",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-16 17:44:08",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ait Zineb - Ksar of Aït Benhaddou - 20190716175500.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175500.jpg/330px-Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175500.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C messier",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-16 17:55:00",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ait Zineb - Ksar of Aït Benhaddou - 20190716180605.jpg",
+   "w": 4307,
+   "h": 2871,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716180605.jpg/330px-Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716180605.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716180605.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716180605.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C messier",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-16 18:06:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ait Zineb - Ksar of Aït Benhaddou - 20190716175721.jpg",
+   "w": 4349,
+   "h": 3262,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175721.jpg/330px-Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175721.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175721.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175721.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C messier",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-16 17:57:21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aït Benhaddou view from a restaurant.jpg",
+   "w": 3216,
+   "h": 2136,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/A%C3%AFt_Benhaddou_view_from_a_restaurant.jpg/330px-A%C3%AFt_Benhaddou_view_from_a_restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/A%C3%AFt_Benhaddou_view_from_a_restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A%C3%AFt_Benhaddou_view_from_a_restaurant.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Elena Tatiana Chis",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-11-01 16:05:13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aït Benhaddou view from above.jpg",
+   "w": 3216,
+   "h": 2136,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/A%C3%AFt_Benhaddou_view_from_above.jpg/330px-A%C3%AFt_Benhaddou_view_from_above.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/A%C3%AFt_Benhaddou_view_from_above.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A%C3%AFt_Benhaddou_view_from_above.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Elena Tatiana Chis",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-11-01 16:53:34",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aït Benhaddou walk on the streets souvenir shop.jpg",
+   "w": 3216,
+   "h": 2136,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/A%C3%AFt_Benhaddou_walk_on_the_streets_souvenir_shop.jpg/330px-A%C3%AFt_Benhaddou_walk_on_the_streets_souvenir_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/A%C3%AFt_Benhaddou_walk_on_the_streets_souvenir_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A%C3%AFt_Benhaddou_walk_on_the_streets_souvenir_shop.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Elena Tatiana Chis",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-11-01 16:59:14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "id": "khorvirap",
+ "enwiki": "Khor Virap",
+ "endesc": "Monastery in Armenia",
+ "qid": "Q1144626",
+ "coord": [
+  39.878333333333,
+  44.576111111111
+ ],
+ "label_es": "Khor Virap",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0601-01-17T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "p31": [
+  "Q44613"
+ ],
+ "p17": [
+  "Q399"
+ ],
+ "unesco": false,
+ "eswiki": "Jor Virap",
+ "extracto_es": "Jor Virap (en armenio: Խոր Վիրապ), mazmorra profunda, es un monasterio cristiano localizado en la llanura de Ararat, en Armenia, cerca de la frontera con Turquía, aproximadamente a 8 km al sur de Artashat, en la provincia de Ararat, en el área de la antigua ciudad de Artaxata.​​​ El monasterio hospedaba un seminario teológico y era la residencia de católicos armenios.\nLa importancia de Jor Virap como monasterio y sitio de peregrinación se debe al hecho de que Gregorio I el Iluminador fue inicialmente encarcelado aquí durante 14 años por el rey Tiridates III de Armenia. Gregorio el Santo se convirtió posteriormente en el mentor religioso del rey, y ambos dirigieron el proselitismo cristiano en el país. En el año 301, Armenia fue el primer país del mundo en ser declarado una nación cristiana.​​ En 642, Nerses III el Constructor construyó una capilla en Jor Virap como señal de veneración a San Gregorio. A lo largo de los siglos, fue reconstruida varias veces. En 1662, se construyó una capilla más grande, conocida como \"Santa Astvatsatsin\" (Santa Madre de Dios) en torno a las ruinas de la capilla vieja, con el monasterio, el refectorio y las celdas de los monjes. Actualmente, en esta iglesia se celebran servicios religiosos. Es uno de los sitios de peregrinación más visitados de Armenia.",
+ "candidatas": [
+  {
+   "file": "File:Monasterio Khor Virap, Armenia, 2016-10-01, DD 25.jpg",
+   "w": 8525,
+   "h": 4360,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_25.jpg/330px-Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_25.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-01 11:13:32",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 20,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Monasterio Khor Virap, Armenia, 2016-10-01, DD 08.jpg",
+   "w": 8496,
+   "h": 4587,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_08.jpg/330px-Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_08.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-01 10:50:33",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Monasterio Khor Virap, Armenia, 2016-10-01, DD 07.jpg",
+   "w": 7698,
+   "h": 4619,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_07.jpg/330px-Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_07.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-01 10:49:51",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2014 Prowincja Ararat, Chor Wirap (01).jpg",
+   "w": 4352,
+   "h": 2900,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2014_Prowincja_Ararat%2C_Chor_Wirap_%2801%29.jpg/330px-2014_Prowincja_Ararat%2C_Chor_Wirap_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/2014_Prowincja_Ararat%2C_Chor_Wirap_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2014_Prowincja_Ararat,_Chor_Wirap_(01).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marcin Konsek",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-06-05 09:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monasterio Khor Virap, Armenia, 2016-10-01, DD 06.jpg",
+   "w": 6343,
+   "h": 4155,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_06.jpg/330px-Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_06.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-01 10:44:29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monasterio Khor Virap, Armenia, 2016-10-01, DD 19.jpg",
+   "w": 8189,
+   "h": 5459,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_19.jpg/330px-Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_19.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-01 10:55:00",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monasterio Khor Virap, Armenia, 2016-10-01, DD 02.jpg",
+   "w": 3835,
+   "h": 5521,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_02.jpg/330px-Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-01 10:38:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monasterio Khor Virap, Armenia, 2016-10-01, DD 03.jpg",
+   "w": 4321,
+   "h": 6776,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_03.jpg/330px-Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-01 10:39:57",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  }
+ ]
+}

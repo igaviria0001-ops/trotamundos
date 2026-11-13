@@ -1,0 +1,199 @@
+{
+ "id": "marmuerto",
+ "enwiki": "Dead Sea",
+ "endesc": "Salt lake in the Levant",
+ "qid": "Q23883",
+ "label_es": "mar Muerto",
+ "desc_es": "lago salado sin salida al mar, ubicado entre Israel, Jordania y Palestina",
+ "coord": [
+  31.5207,
+  35.4845
+ ],
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": -441.53,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 605.0,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 67.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q9019918",
+  "Q2912558"
+ ],
+ "p17": [
+  "Q810",
+  "Q801",
+  "Q219060"
+ ],
+ "unesco": false,
+ "eswiki": "Mar Muerto",
+ "extracto_es": "El mar Muerto (en hebreo: יָם הַמֶּלַח‎, Yam Hamélaj, lit.: «mar de Sal»; en árabe: البحر الميت‎, al-Baḥr al-Mayyit, lit.: «mar Muerto», o بحر لوط Buhayrat, Bahret o Birket Lut, lit.: «mar de Lot»)​​ es un lago endorreico salado situado en una profunda depresión a 435 metros bajo el nivel del mar,​ entre Israel, Palestina y Jordania, en la región de Oriente Próximo. Ocupa la parte más profunda de una depresión tectónica atravesada por el río Jordán, que también incluye el lago de Tiberíades más al norte. Los griegos de la Antigüedad lo llamaban «lago Asfaltites», por los depósitos de asfalto que se encuentran en sus orillas, conocidos y explotados desde la Edad Antigua.​ Debido al cambio climático y a la extracción de agua dulce, el nivel del agua del mar se reduce un metro al año y las tierras ribereñas se hunden 15 cm al año.​\nTiene unos 80 km de largo y un ancho máximo de unos 16 km; su superficie es aproximadamente de 605 km². Recibe agua del río Jordán, de otras fuentes menores y de la escasa precipitación que se produce sobre el lago, y el nivel de sus aguas es el resultado del balance entre estos aportes y la evaporación. Una de las razones por las que el mar Muerto es tan salado es porque está ubicado en una cuenca hidrográfica endorreica, es decir, no hay salidas. Los minerales que desembocan en él se quedan allí para siempre. La mayoría de los cuerpos de agua dulce tienen puntos de salida, como los ríos y arroyos, lo que les permite disponer de los minerales disueltos que pueden fluir en ellos de otras fuentes. Hay varios ríos y arroyos que desembocan en el mar Muerto, pero ninguno que drene hacia afuera.\nEl agua del mar Muerto tiene una densidad de 1,24 kg / litro, lo que hace que el cuerpo humano pueda flotar sin esfuerzo en el agua, porque la densidad de este último es menor que la densidad del agua salada del propio lago.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Dead Sea beach 00.JPG",
+   "w": 2048,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Dead_Sea_beach_00.JPG/330px-Dead_Sea_beach_00.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Dead_Sea_beach_00.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dead_Sea_beach_00.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "لا روسا",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-05-14 12:40:13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "en"
+  },
+  {
+   "file": "File:Dead Sea by David Shankbone.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Dead_Sea_by_David_Shankbone.jpg/330px-Dead_Sea_by_David_Shankbone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Dead_Sea_by_David_Shankbone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dead_Sea_by_David_Shankbone.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "David Shankbone",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Dead Sea Coastal Erosion March 2012.JPG",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dead_Sea_Coastal_Erosion_March_2012.JPG/330px-Dead_Sea_Coastal_Erosion_March_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Dead_Sea_Coastal_Erosion_March_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dead_Sea_Coastal_Erosion_March_2012.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Wilson44691",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-03-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Dead Sea Halite View 031712.jpg",
+   "w": 4000,
+   "h": 2712,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dead_Sea_Halite_View_031712.jpg/330px-Dead_Sea_Halite_View_031712.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dead_Sea_Halite_View_031712.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dead_Sea_Halite_View_031712.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Wilson44691",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-03-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ein Bokek - Dead Sea2.jpg",
+   "w": 5288,
+   "h": 3552,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Ein_Bokek_-_Dead_Sea2.jpg/330px-Ein_Bokek_-_Dead_Sea2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ein_Bokek_-_Dead_Sea2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ein_Bokek_-_Dead_Sea2.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Tiia Monto",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-02-04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:ISS-55 Nile River delta, Egypt.jpg",
+   "w": 5568,
+   "h": 3712,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/ISS-55_Nile_River_delta%2C_Egypt.jpg/330px-ISS-55_Nile_River_delta%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/ISS-55_Nile_River_delta%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ISS-55_Nile_River_delta,_Egypt.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "NASA",
+   "credito": "https://www.flickr.com/photos/nasa2explore/40695348315/",
+   "nonfree": "",
+   "fecha": "Taken on 1 April 201",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:World's lowest point (1971).jpg",
+   "w": 5004,
+   "h": 3324,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/World%27s_lowest_point_%281971%29.jpg/330px-World%27s_lowest_point_%281971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/World%27s_lowest_point_%281971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:World%27s_lowest_point_(1971).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Dieter Manske (contact through Magnus Manske)",
+   "credito": "Taken by Dieter Manske",
+   "nonfree": "",
+   "fecha": "1971",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Dead sea rocks.jpg",
+   "w": 2235,
+   "h": 1677,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dead_sea_rocks.jpg/330px-Dead_sea_rocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Dead_sea_rocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dead_sea_rocks.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Shammonzer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-08-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "id": "azadi",
+ "enwiki": "Azadi Tower",
+ "endesc": "Building in Tehran, Iran",
+ "qid": "Q1140026",
+ "coord": [
+  35.69972222222222,
+  51.338055555555556
+ ],
+ "label_es": "Torre Azadi",
+ "desc_es": "monumento en Teherán",
+ "inicio": [
+  {
+   "p": "P1619",
+   "time": "+1971-10-16T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 45.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 1183.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 63.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q12518",
+  "Q2065736",
+  "Q2319498"
+ ],
+ "p17": [
+  "Q794"
+ ],
+ "unesco": false,
+ "eswiki": "Torre Azadi",
+ "extracto_es": "La Torre Azadi (en persa: برج آزادی, 'Torre de la Libertad') es el monumento más representativo de la ciudad de Teherán (Irán). Emblema de la modernización del país, la Torre Azadi posee una truncada estructura, revelando desde cada ángulo un sentido distinto de escala y perspectiva. Dentro de la torre hay un pequeño museo y un mirador.​\nDiseñada por el arquitecto Hossein Amanat en 1966, al haber ganado un concurso convocado para este efecto, la torre fue inaugurada el 16 de octubre de 1971, como parte de la conmemoración de los 2500 años de la monarquía iraní.​​ Cuando fue inaugurada, era conocida como Torre Shahyad en honor al shah (el emperador de Irán). Tras la revolución iraní de 1979, la torre adoptó su nombre actual.​\nEl edificio está situado en una de las entradas de Teherán. Su silueta única y sus 45 metros de altura lo hacen inconfundible; está rodeado por jardines. Es visible desde muchas zonas de la ciudad, en especial de noche, cuando está completamente iluminado.​ El museo alberga unos 50 objetos entre piezas de oro, esmaltes, cerámicas policromadas, mármoles, miniaturas y pinturas que fueron cuidadosamente seleccionados para mostrar una perspectiva de la historia de Irán. El objeto principal del Museo es una copia del Cilindro de Ciro (cuyo original está en el Museo Británico), que para algunos es considerado como el primer documento de derechos humanos en el mundo.​",
+ "candidatas": [
+  {
+   "file": "File:Azadi Tower at night in low angle.jpg",
+   "w": 5429,
+   "h": 3054,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Azadi_Tower_at_night_in_low_angle.jpg/330px-Azadi_Tower_at_night_in_low_angle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Azadi_Tower_at_night_in_low_angle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Azadi_Tower_at_night_in_low_angle.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "بهادر های زاده",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-03-04 23:12:01",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Azadi Tower, Tehran.jpg",
+   "w": 4828,
+   "h": 3219,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Azadi_Tower%2C_Tehran.jpg/330px-Azadi_Tower%2C_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Azadi_Tower%2C_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Azadi_Tower,_Tehran.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Azadi Tower (29358497718).jpg",
+   "w": 4032,
+   "h": 2268,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Azadi_Tower_%2829358497718%29.jpg/330px-Azadi_Tower_%2829358497718%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Azadi_Tower_%2829358497718%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Azadi_Tower_(29358497718).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Blondinrikard Fröberg from Göteborg, Sweden",
+   "credito": "Azadi Tower",
+   "nonfree": "",
+   "fecha": "Taken on 6 July 2018",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:2018-09-26 Iran, Tehran, Azadi Tower (2).jpg",
+   "w": 4256,
+   "h": 2827,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2018-09-26_Iran%2C_Tehran%2C_Azadi_Tower_%282%29.jpg/330px-2018-09-26_Iran%2C_Tehran%2C_Azadi_Tower_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/2018-09-26_Iran%2C_Tehran%2C_Azadi_Tower_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-09-26_Iran,_Tehran,_Azadi_Tower_(2).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Laurens R. Krol",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-26",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Azadi Tower at night III.jpg",
+   "w": 5366,
+   "h": 3019,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Azadi_Tower_at_night_III.jpg/330px-Azadi_Tower_at_night_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Azadi_Tower_at_night_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Azadi_Tower_at_night_III.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "بهادر های زاده",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-03-04 23:06:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2018-09-26 Iran, Tehran, Azadi Tower (3).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/2018-09-26_Iran%2C_Tehran%2C_Azadi_Tower_%283%29.jpg/330px-2018-09-26_Iran%2C_Tehran%2C_Azadi_Tower_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/2018-09-26_Iran%2C_Tehran%2C_Azadi_Tower_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-09-26_Iran,_Tehran,_Azadi_Tower_(3).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Laurens R. Krol",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-26",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:2018-09-26 Iran, Tehran, Azadi Tower (4).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2018-09-26_Iran%2C_Tehran%2C_Azadi_Tower_%284%29.jpg/330px-2018-09-26_Iran%2C_Tehran%2C_Azadi_Tower_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/2018-09-26_Iran%2C_Tehran%2C_Azadi_Tower_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-09-26_Iran,_Tehran,_Azadi_Tower_(4).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Laurens R. Krol",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-26",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Azadi Tower at night II.jpg",
+   "w": 4664,
+   "h": 2623,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Azadi_Tower_at_night_II.jpg/330px-Azadi_Tower_at_night_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Azadi_Tower_at_night_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Azadi_Tower_at_night_II.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "بهادر های زاده",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-03-04 23:02:18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

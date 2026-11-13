@@ -1,0 +1,174 @@
+{
+ "id": "darvaza",
+ "enwiki": "Darvaza gas crater",
+ "endesc": "Burning natural gas field in Turkmenistan",
+ "qid": "Q70458",
+ "coord": [
+  40.25263,
+  58.43939
+ ],
+ "label_es": "Cráter de Dravaza",
+ "desc_es": "antigua prospección de gas natural en Turkmenistán",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1971-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 137.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q1349255",
+  "Q1384605",
+  "Q1349017"
+ ],
+ "p17": [
+  "Q874",
+  "Q15180"
+ ],
+ "unesco": false,
+ "eswiki": "Pozo de Darvazá",
+ "extracto_es": "El pozo de Darvazá (en turcomano: Jähennem derwezesi, Җәхеннем дервезеси), también conocido como la «puerta al Infierno», es una antigua prospección de gas natural ubicada en el desierto de Karakum, cerca de la pequeña aldea de Darvazá, en Turkmenistán, a unos 260 km al norte de Asjabad. El desierto, que ocupa el 70 % del país o 350 000 km2,​ es muy rico en petróleo y gas natural. El cráter tiene un diámetro de entre 60 y 70 m y una profundidad de unos 30 m, y en su interior la temperatura es de 400 °C. El cráter se produjo a raíz del colapso del terreno por una perforación del gobierno. Se produjo entonces una enorme fuga de gas que trató de reparase mediante un incendio controlado. Sin embargo, el depósito de gas era considerablemente mayor de lo esperado y el incendio perdura desde entonces.​ El olor acre de la combustión del azufre impregna la zona.\nEn 2025, las autoridades declararon que el tamaño del incendio se había reducido a la tercera parte en un período de tiempo no especificado, mientras que se perforaron varios pozos alrededor del cráter para capturar metano.​ Para agosto, el cráter, que se decía que era la principal atracción turística del país, solo tenía algunos focos de pequeños incendios.​",
+ "candidatas": [
+  {
+   "file": "File:The Door to Hell.jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/The_Door_to_Hell.jpg/330px-The_Door_to_Hell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Door_to_Hell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Door_to_Hell.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "flydime",
+   "credito": "https://www.flickr.com/photos/flydime/4671890969/",
+   "nonfree": "",
+   "fecha": "2010-04-20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Darvaza gas crater, Jähennem derwezesi, Door to Hell, Gates of Hell, Derweze, Turkmenistan.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan.jpg/330px-Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Darvaza_gas_crater,_J%C3%A4hennem_derwezesi,_Door_to_Hell,_Gates_of_Hell,_Derweze,_Turkmenistan.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benjamin Goetzinger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-07-23 18:31:06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Darvasa gas crater panorama.jpg",
+   "w": 6042,
+   "h": 2567,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Darvasa_gas_crater_panorama.jpg/330px-Darvasa_gas_crater_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Darvasa_gas_crater_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Darvasa_gas_crater_panorama.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Tormod Sandtorv",
+   "credito": "Flickr: Darvasa gas crater panorama",
+   "nonfree": "",
+   "fecha": "2011-09-30 16:07:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Derweze-Surroundings.JPG",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Derweze-Surroundings.JPG/330px-Derweze-Surroundings.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Derweze-Surroundings.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Derweze-Surroundings.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bjørn Christian Tørrissen",
+   "credito": "Own work by uploader, http://bjornfree.com/",
+   "nonfree": "",
+   "fecha": "2015-05-12 04:55:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Darvaza gas crater, Jähennem derwezesi, Door to Hell, Gates of Hell, Derweze, Turkmenistan at night.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan_at_night.jpg/330px-Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Darvaza_gas_crater,_J%C3%A4hennem_derwezesi,_Door_to_Hell,_Gates_of_Hell,_Derweze,_Turkmenistan_at_night.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benjamin Goetzinger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-07-23 20:51:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Darvaza gas crater, Jähennem derwezesi, Door to Hell, Gates of Hell, Derweze, Turkmenistan at dawn.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan_at_dawn.jpg/330px-Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan_at_dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan_at_dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Darvaza_gas_crater,_J%C3%A4hennem_derwezesi,_Door_to_Hell,_Gates_of_Hell,_Derweze,_Turkmenistan_at_dawn.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benjamin Goetzinger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-07-23 20:17:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Derweze -Surroundings- Darvaza gas crater - 2015.jpg",
+   "w": 3000,
+   "h": 1477,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Derweze_-Surroundings-_Darvaza_gas_crater_-_2015.jpg/330px-Derweze_-Surroundings-_Darvaza_gas_crater_-_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Derweze_-Surroundings-_Darvaza_gas_crater_-_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Derweze_-Surroundings-_Darvaza_gas_crater_-_2015.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Bjørn Christian Tørrissen",
+   "credito": "http://bjornfree.com/",
+   "nonfree": "",
+   "fecha": "2015-05-12 04:55:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "busqueda"
+  }
+ ]
+}
