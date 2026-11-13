@@ -29,6 +29,7 @@ def get(url, params=None, tries=9, raw=False):
         try:
             r = S.get(url, params=params, timeout=40)
             if r.status_code in (429, 502, 503, 504):
+                last = f'HTTP {r.status_code}'
                 wait = int(r.headers.get('Retry-After', '0') or 0) or 4 * (i + 1)
                 time.sleep(min(wait, 90))
                 continue
@@ -37,7 +38,11 @@ def get(url, params=None, tries=9, raw=False):
                 return r.content
             j = r.json()
             if isinstance(j, dict) and j.get('error', {}).get('code') == 'maxlag':
-                time.sleep(5)
+                # el servidor va atrasado: espera un poco y, si sigue, pide sin maxlag
+                last = f"maxlag {j['error'].get('lag')}"
+                time.sleep(3)
+                if params and i >= 1:
+                    params = {k: v for k, v in params.items() if k != 'maxlag'}
                 continue
             return j
         except Exception as e:  # red inestable: reintenta
@@ -139,10 +144,16 @@ def place_data(row):
         if ll.get('lang') == 'es':
             eswiki = ll.get('title')
 
+    ent = None
     if q:
-        wd = api(WD, action='wbgetentities', ids=q, props='claims|labels|descriptions|sitelinks',
-                 languages='es|en', sitefilter='eswiki|enwiki')
-        ent = wd.get('entities', {}).get(q, {})
+        try:
+            wd = api(WD, action='wbgetentities', ids=q, props='claims|labels|descriptions|sitelinks',
+                     languages='es|en', sitefilter='eswiki|enwiki')
+            ent = wd.get('entities', {}).get(q, {})
+        except Exception as e:  # sin Wikidata seguimos con Wikipedia y Commons
+            print('  wikidata fallo', e)
+            d['sin_wikidata'] = True
+    if ent:
         d['label_es'] = ent.get('labels', {}).get('es', {}).get('value')
         d['desc_es'] = ent.get('descriptions', {}).get('es', {}).get('value')
         if not eswiki:
