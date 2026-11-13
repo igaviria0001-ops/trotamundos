@@ -4,11 +4,13 @@ Pantallas.tiquete = (modoId) => {
   const cfg = cfgModo(modoId);
   const cuenta = h('b');
   const boton = h('button.btn.grande', { onclick: () => abordar() }, h('span', { html: I.avion }), 'Abordar');
+  const esPais = m.datos === 'paises';
   const actualizar = () => {
-    const n = filtrarLugares(cfg).length;
-    cuenta.textContent = n === 1 ? '1 lugar' : `${n} lugares`;
-    boton.disabled = n < 1;
+    const n = poolModo(modoId, cfg).length;
+    cuenta.textContent = esPais ? (n === 1 ? '1 país' : `${n} países`) : (n === 1 ? '1 lugar' : `${n} lugares`);
+    boton.disabled = n < (modoId === 'nortesur' ? 4 : modoId === 'brujula' ? 2 : 1);
   };
+  const niveles = esPais ? NIVELES_PAIS : NIVELES;
   const grupoChips = (clave, opciones, clase = '') => {
     const cont = h('div.chips' + clase, { role: 'radiogroup' });
     const pintar = () => $$('.chip', cont).forEach(c => c.setAttribute('aria-pressed', String(c.dataset.v === String(cfg[clave]))));
@@ -40,12 +42,12 @@ Pantallas.tiquete = (modoId) => {
           h('div.campo', h('span.lbl', 'Destino'),
             grupoChips('cont', [{ v: 'todo', n: 'Todo el mundo' }].concat(['EU', 'AS', 'AF', 'NA', 'SA', 'OC'].map(k => ({ v: k, n: CONTINENTES[k].corto || CONTINENTES[k].n, color: CONTINENTES[k].color }))))),
           h('div.campo', h('span.lbl', 'Nivel'),
-            grupoChips('nivel', [1, 2, 3].map(k => ({ v: String(k), n: NIVELES[k].n, d: NIVELES[k].d }))
+            grupoChips('nivel', [1, 2, 3].map(k => ({ v: String(k), n: niveles[k].n, d: niveles[k].d }))
               .concat([{ v: 'mezcla', n: 'Mezcla', d: 'Un poco de todo' }]), '.rejilla')),
           h('div.campo', h('span.lbl', modoId === 'parejas' ? 'Tamaño' : 'Escalas'),
-            grupoChips('rondas', [5, 10, 15].map(k => ({ v: k, n: modoId === 'parejas' ? `${{ 5: 6, 10: 8, 15: 10 }[k]} parejas` : `${k} ${modoId === 'postal' ? 'postales' : 'rondas'}` }))))),
+            grupoChips('rondas', [5, 10, 15].map(k => ({ v: k, n: m.escalas ? m.escalas[k].join(' ') : modoId === 'parejas' ? `${{ 5: 6, 10: 8, 15: 10 }[k]} parejas` : `${k} ${modoId === 'postal' ? 'postales' : 'rondas'}` }))))),
         h('div.corte'),
-        h('div.talon', h('div.talon-info', h('small', 'Lugares en este viaje'), cuenta), h('div.codigo', { html: codigoBarras() })))),
+        h('div.talon', h('div.talon-info', h('small', esPais ? 'Países en este viaje' : 'Lugares en este viaje'), cuenta), h('div.codigo', { html: codigoBarras() })))),
     h('div.pie-fijo', boton));
   actualizar();
   return { el };

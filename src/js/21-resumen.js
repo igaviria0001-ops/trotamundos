@@ -3,11 +3,13 @@ Pantallas.resumen = (d) => {
   const pct = d.puntos / d.max;
   const titulo = pct >= .8 ? '¡Viaje de leyenda!' : pct >= .55 ? '¡Gran viaje!' : pct >= .3 ? '¡Buen viaje!' : '¡Viaje terminado!';
   const subieron = d.res.filter(r => r.dom.despues > r.dom.antes).length;
+  const esPais = d.res.some(r => r.l.esPais);
+  const unidad = MODO[d.modo].escalas ? MODO[d.modo].escalas[5][1] : d.modo === 'postal' ? 'postales' : 'rondas';
   const num = h('b.res-total', '0');
   const el = h('div.resumen',
     h('div.barra',
       h('button.icono-btn', { 'aria-label': 'Inicio', html: I.casa, onclick: () => UI.ir('inicio') }),
-      h('div.titulo', h('h2', MODO[d.modo].n), h('div.sub', `${d.res.length} ${d.modo === 'postal' ? 'postales' : 'rondas'}`))),
+      h('div.titulo', h('h2', MODO[d.modo].n), h('div.sub', `${d.res.length} ${unidad}`))),
     h('div.scroll.resumen-zona',
       h('section.resumen-cabeza',
         h('div.sello-grande', { html: selloFinSVG(titulo) }),
@@ -15,11 +17,12 @@ Pantallas.resumen = (d) => {
         d.record.nuevo && d.record.antes != null ? h('p.insignia', '¡Nuevo récord personal!') : null,
         h('div.resumen-stats',
           d.modo === 'postal' ? h('div', h('b', fmt.km(d.viaje)), h('small', 'de vuelo entre postales')) : h('div', h('b', String(d.res.filter(r => r.est > 0).length) + ' de ' + d.res.length), h('small', 'aciertos')),
-          h('div', h('b', String(subieron)), h('small', subieron === 1 ? 'lugar subió de dominio' : 'lugares subieron de dominio')))),
+          h('div', h('b', String(subieron)), h('small', esPais ? (subieron === 1 ? 'país subió de dominio' : 'países subieron de dominio') : (subieron === 1 ? 'lugar subió de dominio' : 'lugares subieron de dominio'))))),
       h('section.resumen-lista',
-        d.res.map((r, k) => h('button.res-item', { onclick: () => abrirFicha(r.l), style: { animationDelay: (k * 70 + 300) + 'ms' } },
-          h('img', { src: Foto.url(r.l, 0, true) || Foto.respaldo(r.l), alt: '', loading: 'lazy' }),
-          h('div.res-item-txt', h('b', r.l.n), h('small', ...r.l.iso.map(i => Banderas.el(i)), ' ', paisesDe(r.l))),
+        d.res.map((r, k) => h('button.res-item', { onclick: () => r.l.esPais ? abrirFichaPais(r.l.pais) : abrirFicha(r.l), style: { animationDelay: (k * 70 + 300) + 'ms' } },
+          r.l.esPais ? h('div.res-silueta', { html: siluetaSVG(r.l.iso[0], { w: 64, h: 64, pad: 4, color: CONTINENTES[r.l.c].color }) })
+            : h('img', { src: Foto.url(r.l, 0, true) || Foto.respaldo(r.l), alt: '', loading: 'lazy' }),
+          h('div.res-item-txt', h('b', r.l.n), r.l.esPais ? h('small', Banderas.el(r.l.iso[0]), ' ', CONTINENTES[r.l.c].n) : h('small', ...r.l.iso.map(i => Banderas.el(i)), ' ', paisesDe(r.l))),
           h('div.res-item-der', UI.estrellas(r.est), h('small', r.det || (r.km <= 25 ? '¡exacto!' : `a ${fmt.km(r.km)}`)))))),
       h('section.resumen-botones',
         h('button.btn.grande.ancho', { onclick: () => UI.ir('juego_' + d.modo, Object.assign({}, d.cfg)) }, h('span', { html: I.repetir }), 'Otro viaje igual'),

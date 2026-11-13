@@ -74,4 +74,9 @@ I.d = {
   alto: ic('<path d="M7 3v18M4.5 5.5L7 3l2.5 2.5M4.5 18.5L7 21l2.5-2.5M13 6h6M13 10h4M13 14h6M13 18h4"/>'),
   monte: ic('<path d="M3 19l6.5-11 4 6.5 2.5-3.5L21 19z"/><path d="M8 10.5l1.5 1.5 1.5-1.5"/>'),
   dato: ic('<path d="M12 3.5l1.9 5.6 5.6 1.9-5.6 1.9L12 18.5l-1.9-5.6L4.5 11l5.6-1.9z"/>'),
+  capital: ic('<path d="M4 20h16M6 20v-7M10 20v-7M14 20v-7M18 20v-7M3.5 13h17L12 7z"/><path d="M12 7V3.5l3 1.2-3 1.2"/>'),
+  gente: ic('<circle cx="9" cy="8" r="3"/><path d="M3.5 19.5c.6-3.4 2.8-5.5 5.5-5.5s4.9 2.1 5.5 5.5"/><circle cx="16.5" cy="9" r="2.4"/><path d="M15.5 14.2c2.6-.3 4.4 1.6 5 4.8"/>'),
+  area: ic('<path d="M5 5h14v14H5z" stroke-dasharray="3 2.4"/><path d="M9 9h6v6H9z"/>'),
+  idioma: ic('<path d="M4 5.5h11a2 2 0 012 2v6a2 2 0 01-2 2H9l-4 3.5V15.5H4a2 2 0 01-2-2v-6a2 2 0 012-2z" transform="translate(1.5 0)"/><path d="M8 10.5h7M8 13h4"/>'),
+  moneda: ic('<circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="5.5"/><path d="M12 9.5v5"/>'),
 };

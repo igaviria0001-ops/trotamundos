@@ -12,6 +12,29 @@ function contOf(c) {
   return CONT[c.region] || 'AN';
 }
 
+// nombres en español de monedas e idiomas (Intl, sin depender de Wikidata)
+const NOM_MON = new Intl.DisplayNames(['es'], { type: 'currency' });
+const NOM_IDI = new Intl.DisplayNames(['es'], { type: 'language' });
+const IDI_FIX = { gsw: 'alemán', nzs: null, 'lengua de señas': null };
+const IDI_PRIMERO = ['spa', 'eng', 'fra', 'por', 'ara', 'rus', 'zho', 'cmn', 'deu', 'ita', 'jpn', 'hin', 'tur', 'fas', 'swa'];
+function idiomasDe(c) {
+  const ks = Object.keys(c.languages || {}).sort((a, b) => {
+    const ia = IDI_PRIMERO.indexOf(a), ib = IDI_PRIMERO.indexOf(b);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
+  });
+  const out = [];
+  for (const k of ks) {
+    let n = k in IDI_FIX ? IDI_FIX[k] : null;
+    if (!(k in IDI_FIX)) { try { n = NOM_IDI.of(k); } catch (e) { n = null; } }
+    if (n && n !== k && !out.includes(n)) out.push(n);
+  }
+  return out.slice(0, 4);
+}
+function monedaDe(c) {
+  const ks = Object.keys(c.currencies || {});
+  try { return ks.length ? NOM_MON.of(ks[0]) : ''; } catch (e) { return ''; }
+}
+
 function paises() {
   const wc = require('world-countries');
   const wd = {};
@@ -47,8 +70,8 @@ function paises() {
       lon: c.latlng ? c.latlng[1] : 0,
       area: c.area,
       pob: w.poblacion ? +w.poblacion : null,
-      idiomas: x.idiomas || (w.idiomas || []).slice(0, 4),
-      moneda: x.moneda || (w.monedas || [])[0] || '',
+      idiomas: x.idiomas || idiomasDe(c),
+      moneda: x.moneda || monedaDe(c),
       vec: (c.borders || []).map(b => (wc.find(k => k.cca3 === b) || {}).cca2).filter(Boolean),
       un: !!c.unMember || ['VA', 'PS'].includes(c.cca2),
       ccn3: c.ccn3 || '',

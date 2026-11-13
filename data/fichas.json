@@ -4008,10 +4008,10 @@
  "peggyscove": {
   "lugar": "Nueva Escocia, Canadá",
   "porque": "Un pueblito de pescadores con un faro sobre rocas de granito.",
-  "anio": 1915,
-  "anioTxt": "faro de 1915",
+  "anio": 1811,
+  "anioTxt": "1811",
   "datos": [
-   "Su faro es de los más fotografiados de Canadá.",
+   "Su faro, de 1915, es de los más fotografiados de Canadá.",
    "Las rocas fueron pulidas por glaciares.",
    "En el pueblo viven muy pocas personas."
   ]
@@ -4496,8 +4496,6 @@
  "caminito": {
   "lugar": "La Boca, Buenos Aires",
   "porque": "Un callejón de casas de chapa pintadas de todos los colores.",
-  "anio": 1959,
-  "anioTxt": "1959",
   "datos": [
    "Se pintaban con la pintura que sobraba de los barcos.",
    "Su nombre viene de un tango.",
@@ -4549,8 +4547,6 @@
  "selaron": {
   "lugar": "Río de Janeiro, Brasil",
   "porque": "Una escalera cubierta de baldosas de colores de todo el mundo.",
-  "anio": 1990,
-  "anioTxt": "1990",
   "datos": [
    "La decoró el artista chileno Jorge Selarón.",
    "Tiene unos 215 escalones.",

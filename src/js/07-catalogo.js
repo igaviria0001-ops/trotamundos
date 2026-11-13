@@ -13,11 +13,11 @@ const MODOS = [
   { id: 'pistas', n: 'Pistas de Quinde', g: 'lugares', fase: 2, d: 'Adivina con las menos pistas' },
   { id: 'parejas', n: 'Parejas del mundo', g: 'lugares', fase: 2, d: 'Une foto, país y bandera' },
   { id: 'rompepostal', n: 'Rompecabezas postal', g: 'lugares', fase: 5, d: 'Arma la foto pieza a pieza' },
-  { id: 'colorea', n: 'Colorea el mapa', g: 'mapa', fase: 3, d: 'Toca el país y píntalo' },
-  { id: 'rompepaises', n: 'Rompecabezas de países', g: 'mapa', fase: 3, d: 'Cada país en su sitio' },
-  { id: 'silueta', n: 'Silueta y rumbo', g: 'mapa', fase: 3, d: 'Deduce el país por su forma' },
-  { id: 'brujula', n: 'Brújula', g: 'mapa', fase: 3, d: '¿Hacia dónde queda?' },
-  { id: 'nortesur', n: 'De norte a sur', g: 'mapa', fase: 3, d: 'Ordena por posición' },
+  { id: 'colorea', n: 'Colorea el mapa', g: 'mapa', fase: 3, d: 'Toca el país y píntalo', datos: 'paises', escalas: { 5: [8, 'países'], 10: [15, 'países'], 15: [25, 'países'] } },
+  { id: 'rompepaises', n: 'Rompecabezas de países', g: 'mapa', fase: 3, d: 'Cada país en su sitio', datos: 'paises', escalas: { 5: [8, 'piezas'], 10: [15, 'piezas'], 15: [25, 'piezas'] } },
+  { id: 'silueta', n: 'Silueta y rumbo', g: 'mapa', fase: 3, d: 'Deduce el país por su forma', datos: 'paises', escalas: { 5: [5, 'siluetas'], 10: [10, 'siluetas'], 15: [15, 'siluetas'] } },
+  { id: 'brujula', n: 'Brújula', g: 'mapa', fase: 3, d: '¿Hacia dónde queda?', escalas: { 5: [5, 'rumbos'], 10: [10, 'rumbos'], 15: [15, 'rumbos'] } },
+  { id: 'nortesur', n: 'De norte a sur', g: 'mapa', fase: 3, d: 'Ordena por posición', escalas: { 5: [5, 'rondas'], 10: [8, 'rondas'], 15: [12, 'rondas'] } },
   { id: 'pintabandera', n: 'Pinta la bandera', g: 'banderas', fase: 4, d: 'Cada franja con su color' },
   { id: 'banderasviento', n: 'Banderas al viento', g: 'banderas', fase: 4, d: 'Iza la bandera correcta' },
   { id: 'capitales', n: 'Capitales: conecta', g: 'banderas', fase: 4, d: 'Une país y capital' },
@@ -32,6 +32,21 @@ const MODO = Object.fromEntries(MODOS.map(m => [m.id, m]));
 const ICO_MODO = { postal: 'postal', raspa: 'raspa', lupa: 'lupa', pistas: 'pistas', parejas: 'parejas', rompepostal: 'rompepostal', colorea: 'colorea', rompepaises: 'rompepaises', silueta: 'silueta', brujula: 'brujula', nortesur: 'nortesur', pintabandera: 'pintabandera', banderasviento: 'banderasviento', capitales: 'capitales', lineatiempo: 'lineatiempo', masalto: 'masalto', explorar: 'explorar', reto: 'reto', expedicion: 'expedicion', maleta: 'maleta' };
 const modoListo = m => !!Pantallas['juego_' + m.id];
 
+const NIVELES_PAIS = {
+  1: { n: 'Grandes', d: 'Los países más conocidos' },
+  2: { n: 'Medianos', d: 'Hay que fijarse más' },
+  3: { n: 'Pequeños', d: 'Islas y países chiquitos' },
+};
+// cuántos elementos usa un modo según la escala elegida en el tiquete
+const escalaModo = (id, r) => { const e = MODO[id].escalas; return e ? e[r || 5][0] : (r || 5); };
+// lo que entra en juego para un modo (lugares o países)
+function poolModo(id, cfg) {
+  if (id === 'silueta') return filtrarPaises(cfg, { minArea: 9000 });
+  if (id === 'rompepaises') return filtrarPaises(cfg, { excluir: ['RU'] });
+  if (MODO[id].datos === 'paises') return filtrarPaises(cfg);
+  return filtrarLugares(cfg);
+}
+
 // lugares que cumplen una configuración
 function filtrarLugares(cfg, { conFoto = true } = {}) {
   const hayFotos = LUGARES.some(l => l.fotos.length);
@@ -45,7 +60,8 @@ function filtrarLugares(cfg, { conFoto = true } = {}) {
 function datoLinea(icono, texto) { return h('li', h('span.dato-ico', { html: I.d[icono] }), h('span', texto)); }
 function fichaLugar(l, { foto = true, compacta = false } = {}) {
   const dom = Progreso.dominio(l.id);
-  const lugarTxt = [l.lugar, paisesDe(l)].filter(Boolean).join(', ');
+  const pTxt = paisesDe(l);
+  const lugarTxt = (l.lugar && norm(l.lugar).includes(norm(pTxt))) ? l.lugar : [l.lugar, pTxt].filter(Boolean).join(', ');
   const chips = [NIVELES[l.t].n, CATEGORIAS[l.k]];
   if (l.unesco) chips.push('Patrimonio de la Humanidad');
   const extras = [];

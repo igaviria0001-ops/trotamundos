@@ -32,6 +32,12 @@ const Mapa = {
     if (!this.hiProm) this.hiProm = fetch('datos/mapa-hi.json').then(r => r.json()).then(t => { this.hi = this.prep(t); return this.hi; }).catch(() => null);
     return this.hiProm;
   },
+  // features de cada país (cacheado por mapa)
+  indice(m = this.lo) {
+    if (!m.idx) { m.idx = new Map(); for (const f of m.features) if (f.iso) { if (!m.idx.has(f.iso)) m.idx.set(f.iso, []); m.idx.get(f.iso).push(f); } }
+    return m.idx;
+  },
+  de(iso, m) { return this.indice(m || this.lo).get(iso) || []; },
   // país que está en [lon,lat] (usa el mapa detallado si ya cargó)
   paisEn(ll) {
     const m = this.hi || this.lo;
@@ -67,11 +73,12 @@ class Globo {
     this.proj = D3.geoOrthographic().clipAngle(90).precision(.6);
     this.path = D3.geoPath(this.proj, this.ctx);
     this.grat = D3.geoGraticule10();
-    this.pines = []; this.arcos = []; this.colores = {}; this.etiquetas = [];
+    this.pines = []; this.arcos = []; this.colores = {}; this.etiquetas = []; this.efectos = []; this.lineas = [];
     this.pad = { top: 0, bottom: 0, left: 0, right: 0 };
     this.vel = [0, 0]; this.sucio = true; this.vivo = true; this.anim = 0;
     this.ultimoToque = 0; this.padAnim = 0;
     this.oyentes = {};
+    if (window.TMD) TMD.globo = this;
     this.redim();
     this.ro = new ResizeObserver(() => { this.redim(); this.pinta(); });
     this.ro.observe(contenedor);
@@ -241,7 +248,7 @@ class Globo {
       this.girarPx(this.vel[0], this.vel[1]);
       this.vel = [this.vel[0] * .93, this.vel[1] * .93];
     }
-    const animando = this.pines.some(p => p.t0 && now - p.t0 < 700) || this.arcos.some(a => a.prog < 1) || this.pines.some(p => p.pulso);
+    const animando = this.pines.some(p => p.t0 && now - p.t0 < 700) || this.arcos.some(a => a.prog < 1) || this.pines.some(p => p.pulso) || this.efectos.length || this.lineas.some(l => now - l.t0 < 900);
     const lento = this.nubesVivas && now - (this.ultPinta || 0) > 33;
     if (this.sucio || animando || lento) { this.pinta(now); this.sucio = false; this.ultPinta = now; }
     requestAnimationFrame(this.loop);
@@ -251,7 +258,8 @@ class Globo {
     const g = this.aplicar();
     const { R, cx, cy } = g;
     const m = (R > 700 && Mapa.hi) ? Mapa.hi : Mapa.lo;
-    const clave = [this.centro[0].toFixed(3), this.centro[1].toFixed(3), R.toFixed(2), cx.toFixed(1), cy.toFixed(1), this.w, this.h, d, this.colV, this.resalte, m === Mapa.hi].join('|');
+    this.mActual = m;
+    const clave = [this.centro[0].toFixed(3), this.centro[1].toFixed(3), R.toFixed(2), cx.toFixed(1), cy.toFixed(1), this.w, this.h, d, this.colV, this.resalte, this.colorResto, m === Mapa.hi].join('|');
     if (clave !== this.baseClave) {
       if (!this.bcv) { this.bcv = document.createElement('canvas'); this.bctx = this.bcv.getContext('2d'); }
       if (this.bcv.width !== this.cv.width || this.bcv.height !== this.cv.height) { this.bcv.width = this.cv.width; this.bcv.height = this.cv.height; }
@@ -303,7 +311,7 @@ class Globo {
     // países por color
     const grupos = new Map();
     for (const f of m.features) {
-      const c = this.colores[f.iso] || f.col || (f.col = colorPais(f.iso));
+      const c = this.colores[f.iso] || this.colorResto || f.col || (f.col = colorPais(f.iso));
       if (!grupos.has(c)) grupos.set(c, []);
       grupos.get(c).push(f);
     }
@@ -337,10 +345,102 @@ class Globo {
     }
   }
   pintaEncima(now) {
+    if (this.efectos.length) this.pintaEfectos(now);
+    for (const ln of this.lineas) this.pintaLinea(ln, now);
     for (const a of this.arcos) this.pintaArco(a, now);
     const pines = this.pines.filter(p => this.visible(p.ll)).sort((a, b) => this.proj(a.ll)[1] - this.proj(b.ll)[1]);
     for (const p of pines) this.pintaPin(p, now);
     for (const e of this.etiquetas) if (this.visible(e.ll)) this.pintaEtiqueta(e);
+  }
+
+  // efectos sobre países: pintar con una gota que crece, destello de error, pulso de pista
+  pintaEfectos(now) {
+    const ctx = this.ctx, m = this.mActual || Mapa.lo;
+    this.efectos = this.efectos.filter(e => {
+      const fs = Mapa.de(e.iso, m);
+      if (!fs.length) { e.fin && e.fin(); return false; }
+      const t = e.ms ? clamp((now - e.t0) / e.ms, 0, 1) : 0;
+      ctx.save();
+      ctx.beginPath(); for (const f of fs) this.path(f);
+      if (e.tipo === 'pinta') {
+        const b = this.path.bounds({ type: 'FeatureCollection', features: fs });
+        const [x, y] = e.desde && this.visible(e.desde) ? this.proj(e.desde) : [(b[0][0] + b[1][0]) / 2, (b[0][1] + b[1][1]) / 2];
+        const rmax = Math.max(Math.hypot(b[0][0] - x, b[0][1] - y), Math.hypot(b[1][0] - x, b[1][1] - y), Math.hypot(b[0][0] - x, b[1][1] - y), Math.hypot(b[1][0] - x, b[0][1] - y)) + 4;
+        ctx.clip();
+        const r = Math.max(2, ease.out(t) * rmax);
+        ctx.beginPath(); ctx.arc(x, y, r, 0, 7); ctx.fillStyle = e.color; ctx.fill();
+        ctx.lineWidth = 5; ctx.strokeStyle = 'rgba(255,255,255,.55)'; ctx.stroke();
+        ctx.restore();
+        if (t >= 1) { this.colores = Object.assign({}, this.colores, { [e.iso]: e.color }); e.fin && e.fin(); return false; }
+        return true;
+      }
+      if (e.tipo === 'error') {
+        ctx.fillStyle = `rgba(239,111,94,${.8 * (1 - t)})`; ctx.fill();
+        ctx.lineWidth = 2.5; ctx.strokeStyle = `rgba(190,60,50,${1 - t})`; ctx.stroke();
+        ctx.restore();
+        if (t >= 1) { e.fin && e.fin(); return false; }
+        return true;
+      }
+      if (e.tipo === 'pulso') {
+        const s = (Math.sin(now / 170) + 1) / 2;
+        ctx.fillStyle = `rgba(255,201,77,${.18 + .3 * s})`; ctx.fill();
+        ctx.lineJoin = 'round'; ctx.lineWidth = 2.5 + 3 * s; ctx.strokeStyle = e.color || '#F2A516'; ctx.stroke();
+        ctx.restore();
+        return !e.quitar;
+      }
+      if (e.tipo === 'borde') {
+        ctx.lineJoin = 'round'; ctx.lineWidth = e.ancho || 2.5; ctx.strokeStyle = e.color || '#24476B'; ctx.stroke();
+        ctx.restore();
+        return !e.quitar;
+      }
+      ctx.restore();
+      return false;
+    });
+  }
+  efecto(iso, tipo, o = {}) {
+    return new Promise(res => {
+      const e = Object.assign({ iso, tipo, t0: performance.now(), ms: tipo === 'pinta' ? 650 : tipo === 'error' ? 900 : 0, fin: res }, o);
+      this.efectos.push(e); this.sucio = true;
+      if (!e.ms) res(e);
+    });
+  }
+  quitaEfectos(tipo) { this.efectos.forEach(e => { if (!tipo || e.tipo === tipo) e.quitar = true; }); this.efectos = this.efectos.filter(e => !e.quitar); this.sucio = true; }
+  // paralelo o meridiano punteado (para ordenar de norte a sur o de oeste a este)
+  pintaLinea(ln, now) {
+    const ctx = this.ctx, t = ease.out(clamp((now - ln.t0) / 900, 0, 1));
+    const pts = [];
+    if (ln.lat != null) for (let i = 0; i <= 120 * t; i++) pts.push([-180 + i * 3, ln.lat]);
+    else for (let i = 0; i <= 60 * t; i++) pts.push([ln.lon, -85 + i * (170 / 60)]);
+    ctx.save(); ctx.beginPath(); this.path({ type: 'LineString', coordinates: pts });
+    ctx.setLineDash([6, 6]); ctx.lineCap = 'round'; ctx.lineWidth = 3.2; ctx.strokeStyle = 'rgba(255,255,255,.85)'; ctx.stroke();
+    ctx.lineWidth = 2; ctx.strokeStyle = ln.color || '#2F64A6'; ctx.stroke(); ctx.restore();
+  }
+  linea(o) { const l = Object.assign({ t0: performance.now() }, o); this.lineas.push(l); this.sucio = true; return l; }
+  // país bajo un toque; con tolerancia para países pequeños (en px de pantalla)
+  paisToque(p, { objetivo = null, tol = 14, entre = null } = {}) {
+    const ll = this.invertir(p[0], p[1]);
+    if (!ll) return null;
+    let iso = Mapa.paisEn(ll);
+    if (objetivo && iso !== objetivo && this.distPais(objetivo, p) < tol) return objetivo;
+    if (!iso && entre) {
+      let mejor = null, dm = tol;
+      for (const i of entre) { const d = this.distPais(i, p, dm); if (d < dm) { dm = d; mejor = i; } }
+      iso = mejor;
+    }
+    return iso;
+  }
+  // distancia en px desde un punto de pantalla al país (a sus vértices visibles)
+  distPais(iso, p, corte = Infinity) {
+    this.aplicar();
+    let dm = Infinity;
+    const cen = this.centro;
+    const ver = c => { if (D3.geoDistance(c, cen) > Math.PI / 2 - .02) return; const q = this.proj(c); const d = Math.hypot(q[0] - p[0], q[1] - p[1]); if (d < dm) dm = d; };
+    for (const f of Mapa.de(iso)) {
+      const g = f.geometry; if (!g) continue;
+      const polys = g.type === 'Polygon' ? [g.coordinates] : g.type === 'MultiPolygon' ? g.coordinates : [];
+      for (const poly of polys) for (const ring of poly) for (let i = 0; i < ring.length; i += 1) ver(ring[i]);
+    }
+    return dm;
   }
 
   // pin con forma de alfiler de mapa
@@ -466,7 +566,7 @@ class Globo {
   pin(ll, o = {}) { const p = Object.assign({ ll, t0: o.caer === false ? 0 : performance.now() }, o); this.pines.push(p); this.sucio = true; return p; }
   quitaPin(p) { this.pines = this.pines.filter(x => x !== p); this.sucio = true; }
   arco(de, a, o = {}) { const x = Object.assign({ de, a, t0: performance.now(), ms: 1400, prog: 0 }, o); this.arcos.push(x); this.sucio = true; return new Promise(r => setTimeout(r, x.ms)); }
-  limpiar() { this.pines = []; this.arcos = []; this.etiquetas = []; this.colores = {}; this.resalte = null; this.sucio = true; }
+  limpiar() { this.pines = []; this.arcos = []; this.etiquetas = []; this.efectos = []; this.lineas = []; this.colores = {}; this.resalte = null; this.sucio = true; }
 }
 
 // ---- sprites dibujados una sola vez ----

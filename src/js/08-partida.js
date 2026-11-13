@@ -2,7 +2,10 @@
 function crearPartida({ modo, cfg, n, onSalir }) {
   const numPuntos = h('span.num', '0');
   const sub = h('div.sub');
-  const progreso = h('div.progreso', Array.from({ length: n }, () => h('i')));
+  // con muchas rondas, en vez de sellitos va una barrita que se llena
+  const continuo = n > 12;
+  const relleno = h('b');
+  const progreso = continuo ? h('div.progreso.continuo', relleno) : h('div.progreso', Array.from({ length: n }, () => h('i')));
   const escena = h('div.escena');
   const hojaCont = h('div.contenido');
   const hojaPie = h('div.pie');
@@ -18,11 +21,15 @@ function crearPartida({ modo, cfg, n, onSalir }) {
     escena, hoja,
     ronda(i, texto) {
       P.i = i; sub.textContent = texto || `${i + 1} de ${n}`;
-      $$('i', progreso).forEach((x, k) => x.classList.toggle('actual', k === i));
+      if (continuo) relleno.style.width = (i / n * 100) + '%';
+      else $$('i', progreso).forEach((x, k) => x.classList.toggle('actual', k === i));
       hoja.classList.remove('abierta', 'grande');
       escena.classList.remove('con-resultado');
     },
-    marcar(i, clase) { const m = $$('i', progreso)[i]; m.classList.remove('actual'); m.classList.add(clase); },
+    marcar(i, clase) {
+      if (continuo) { relleno.style.width = ((i + 1) / n * 100) + '%'; return; }
+      const m = $$('i', progreso)[i]; m.classList.remove('actual'); m.classList.add(clase);
+    },
     sumar(pts) {
       const desde = P.puntos; P.puntos += pts;
       return UI.contar(numPuntos, desde, P.puntos, 800).then(() => { numPuntos.classList.remove('salta'); void numPuntos.offsetWidth; numPuntos.classList.add('salta'); });
@@ -37,7 +44,7 @@ function crearPartida({ modo, cfg, n, onSalir }) {
           h('div.res-pts', h('b', `+${fmt.n(pts)}`), h('small', 'puntos'))),
         nota ? h('p.res-nota', nota) : null,
         subio ? h('p.res-sube', h('span', { html: I.estrella }), `Tu dominio de este lugar subió a ${dom.despues} de 5`) : null,
-        l ? fichaLugar(l, { foto: false }) : null].filter(Boolean));
+        l ? (l.esPais ? fichaPais(l.pais) : fichaLugar(l, { foto: false })) : null].filter(Boolean));
       hojaPie.append(h('button.btn.ancho.grande', { onclick: () => { Sonido.play('tap'); alSiguiente(); } }, ultima ? 'Ver mi viaje' : 'Siguiente'));
       escena.classList.add('con-resultado');
       hoja.classList.add('abierta');
