@@ -316,3 +316,34 @@ button.asa::before { content: ''; position: absolute; left: 10px; right: 10px; t
   .lupa-fila { grid-column: 2; }
   .juego-lupa .hoja, .juego-lupa .hoja.grande { max-height: none; }
 }
+
+/* ---------- Pistas de Quinde ---------- */
+.pistas-zona { position: absolute; inset: 0; display: flex; flex-direction: column; gap: 10px; padding: 4px 14px calc(14px + var(--sa-b)); max-width: 620px; margin: 0 auto; }
+.pistas-quinde { display: flex; align-items: center; gap: 6px; flex: none; }
+.pistas-quinde .quinde { width: 70px; height: 58px; }
+.pistas-cab { display: flex; flex-direction: column; line-height: 1.15; }
+.pistas-cab b { font-family: var(--f-titulo); font-size: 1.15rem; }
+.pistas-cab small { color: var(--tinta2); font-weight: 700; }
+.pistas-cab small b { font-size: 1rem; color: var(--tinta); }
+.pistas-lista { flex: 1 1 auto; min-height: 90px; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; padding: 2px 2px 4px; }
+.pista-carta { display: flex; gap: 10px; align-items: flex-start; background: #fff; border-radius: 16px 16px 16px 4px; padding: 10px 12px; box-shadow: var(--sombra1); animation: pista .45s var(--rebote) both; }
+.pista-carta p { font-family: var(--f-mano); font-size: 1.42rem; line-height: 1.12; font-weight: 600; color: var(--tinta); }
+.pista-num { width: 26px; height: 26px; flex: none; border-radius: 50%; background: var(--sol); color: #5A3B00; font-weight: 800; display: grid; place-items: center; font-size: .85rem; margin-top: 2px; }
+@keyframes pista { from { transform: translateY(14px) rotate(-2deg) scale(.95); opacity: 0; } }
+.pistas-fila { flex: none; display: flex; justify-content: center; }
+.pistas-mas { min-height: 46px; font-size: 1rem; }
+.opciones.fotos .opcion-foto { flex-direction: column; align-items: stretch; padding: 6px 6px 8px; gap: 6px; min-height: 0; }
+.opcion-foto img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 12px; }
+.opcion-foto .opcion-num { position: absolute; top: 10px; left: 10px; background: rgba(255, 255, 255, .92); }
+.opcion-foto .opcion-txt { text-align: center; }
+.opcion-foto .opcion-txt b { font-size: .95rem; }
+.res-foto { margin: 0 0 12px; }
+.juego-pistas .hoja { max-height: 64%; }
+.juego-pistas .hoja.grande { max-height: 92%; }
+@media (max-height: 700px) { .opcion-foto img { aspect-ratio: 2 / 1; } }
+@media (min-width: 900px) and (min-aspect-ratio: 5/4) {
+  .pistas-zona { max-width: 1180px; display: grid; grid-template-columns: minmax(320px, .8fr) minmax(0, 1.2fr); grid-template-rows: auto 1fr auto; column-gap: 28px; padding: 14px 28px 28px; }
+  .pistas-quinde, .pistas-lista, .pistas-fila { grid-column: 1; }
+  .opciones.fotos { grid-column: 2; grid-row: 1 / 4; align-content: center; }
+  .juego-pistas .hoja, .juego-pistas .hoja.grande { max-height: none; }
+}
