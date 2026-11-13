@@ -1,5 +1,204 @@
 {
  "id": "sanbasilio",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q129846', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Saint Basil's Cathedral",
+ "endesc": "1561 Orthodox church in Moscow, Russia",
+ "qid": "Q129846",
+ "coord": [
+  55.7525,
+  37.62305555555555
+ ],
+ "label_es": "Catedral de San Basilio",
+ "desc_es": "iglesia en la Plaza Roja en Moscú",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1555-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 47.5,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q2031836",
+  "Q2319498"
+ ],
+ "p17": [
+  "Q159"
+ ],
+ "unesco": false,
+ "eswiki": "Catedral de San Basilio",
+ "extracto_es": "El  Templo de la Intercesión de la Santísima Virgen sobre el foso (en ruso Собор Покрова Пресвятой Богородицы, что на Рву, Sobor Pokrová Presvyatoy Bogoróditsy, chto na Rvu), más conocida como Templo de San Basilio, es un templo ortodoxo localizado en la Plaza Roja de la ciudad de Moscú, Rusia. Es mundialmente famosa por sus cúpulas en forma de bulbo. A pesar de lo que se suele pensar popularmente, la Catedral de San Basilio no es ni la sede del Patriarca Ortodoxo de Moscú, ni la catedral principal de la capital rusa, pues en ambos casos es la Catedral de Cristo Salvador. Como parte de la Plaza Roja, la catedral de San Basilio fue incluida desde 1990, junto con el conjunto del Kremlin, en la lista de Patrimonio de la Humanidad de Unesco.​\nLa construcción de la catedral fue ordenada por el zar Iván el Terrible para conmemorar la conquista del Kanato de Kazán, y se realizó entre 1555 y 1561. En 1588, el zar Teodoro I de Rusia mandó que se agregara una nueva capilla en el lado este de la construcción, sobre la tumba de San Basilio el Bendito, santo por el cual se empezó a llamar popularmente la catedral.\nSan Basilio se encuentra en el extremo sureste de la Plaza Roja, justo frente a la Torre Spásskaya (la Torre del Salvador) del Kremlin y la iglesia de San Juan Bautista en Dyákovo.\nEn un jardín frente a la iglesia se levanta el Monumento a Minin y Pozharsky, una estatua de bronce en honor a Dmitri Pozharski y Kuzmá Minin, quienes reunieron voluntarios para el ejército que luchó contra los invasores polacos durante el conocido como Período Tumultuoso.\nEl concepto inicial era construir un grupo de capillas, dedicadas a cada uno de los santos en cuyo día el zar ganó una batalla, pero la construcción de una torre central unifica estos espacios en una sola catedral.\nLa leyenda dice que el zar Iván dejó ciego al arquitecto Póstnik Yákovlev —, cuyo seudónimo era Iván Yákovlevich Barma (Varfolomey).​— para evitar que proyectara una construcción que pudiera superar a esta, aunque parece claro que no se trata más que de una fabulación, ya que Yákovlev participó, pasados unos años, en la construcción del Kremlin de Kazán.\nLa catedral de San Basilio no debe confundirse con el Kremlin de Moscú, que está Situado a su lado en la Plaza Roja, y por tanto no forma parte de él. Aun así, muchos medios confunden ambas construcciones.",
+ "candidatas": [
+  {
+   "file": "File:Catedral de San Basilio, Moscú, Rusia, 2016-10-03, DD 05-06 HDR.jpg",
+   "w": 5789,
+   "h": 4991,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Catedral_de_San_Basilio%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_05-06_HDR.jpg/330px-Catedral_de_San_Basilio%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_05-06_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Catedral_de_San_Basilio%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_05-06_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Catedral_de_San_Basilio,_Mosc%C3%BA,_Rusia,_2016-10-03,_DD_05-06_HDR.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 3 October 2",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Moscow - 2025 - Daytime view of St. Basil's Cathedral from Vasilyevsky Spusk.jpg",
+   "w": 6266,
+   "h": 5504,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Moscow_-_2025_-_Daytime_view_of_St._Basil%27s_Cathedral_from_Vasilyevsky_Spusk.jpg/330px-Moscow_-_2025_-_Daytime_view_of_St._Basil%27s_Cathedral_from_Vasilyevsky_Spusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Moscow_-_2025_-_Daytime_view_of_St._Basil%27s_Cathedral_from_Vasilyevsky_Spusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moscow_-_2025_-_Daytime_view_of_St._Basil%27s_Cathedral_from_Vasilyevsky_Spusk.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Юрий Д.К.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 15 Septembe",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sant Vasily cathedral in Moscow.JPG",
+   "w": 2576,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sant_Vasily_cathedral_in_Moscow.JPG/330px-Sant_Vasily_cathedral_in_Moscow.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sant_Vasily_cathedral_in_Moscow.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sant_Vasily_cathedral_in_Moscow.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Petar Milošević",
+   "credito": "Transferred from sr.wikipedia to Commons by PetarM using CommonsHelper.",
+   "nonfree": "",
+   "fecha": "2009-04-18",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Saint Basil's Cathedral in Moscow.jpg",
+   "w": 2000,
+   "h": 2218,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg/330px-Saint_Basil%27s_Cathedral_in_Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_in_Moscow.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tsy1980",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-10-21 13:44:25",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:St. Basil Cathedral.jpg",
+   "w": 3543,
+   "h": 2362,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/St._Basil_Cathedral.jpg/330px-St._Basil_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/St._Basil_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St._Basil_Cathedral.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "This photo was taken by Anton Zelenov.\nPlease credit this with : Photo : Anton Zelenov in the immediate vicinity of the image.\nIf you use one of my photos, please email me (account needed) or leave me",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-17 13:35:56",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:00 0568 Saint Basil's Cathedral - Moscow.jpg",
+   "w": 2000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/00_0568_Saint_Basil%27s_Cathedral_-_Moscow.jpg/330px-00_0568_Saint_Basil%27s_Cathedral_-_Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/00_0568_Saint_Basil%27s_Cathedral_-_Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:00_0568_Saint_Basil%27s_Cathedral_-_Moscow.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "W. Bulach",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 31 July 201",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Saint Basil's Cathedral, Moscow - General view1.jpg",
+   "w": 6090,
+   "h": 5631,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Saint_Basil%27s_Cathedral%2C_Moscow_-_General_view1.jpg/330px-Saint_Basil%27s_Cathedral%2C_Moscow_-_General_view1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Saint_Basil%27s_Cathedral%2C_Moscow_-_General_view1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral,_Moscow_-_General_view1.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Юрий Д.К.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 18 July 202",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:030524-Moscow-IMG 9807-2.jpg",
+   "w": 4200,
+   "h": 2800,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/030524-Moscow-IMG_9807-2.jpg/330px-030524-Moscow-IMG_9807-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/030524-Moscow-IMG_9807-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:030524-Moscow-IMG_9807-2.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Safa.daneshvar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-08-14 14:48:39",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
 }

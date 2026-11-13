@@ -1,5 +1,209 @@
 {
  "id": "stonehenge",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q39671', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Stonehenge",
+ "endesc": "Prehistoric monument in England",
+ "qid": "Q39671",
+ "coord": [
+  51.17888888888889,
+  -1.826111111111111
+ ],
+ "label_es": "Stonehenge",
+ "desc_es": "monumento megalítico situado en el condado de Wiltshire, Inglaterra",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-3000-00-00T00:00:00Z",
+   "prec": 7
+  },
+  {
+   "p": "P571",
+   "time": "-1848-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 1327423.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q935773",
+  "Q4989906",
+  "Q839954",
+  "Q16735822",
+  "Q1035294"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": true,
+ "eswiki": "Stonehenge",
+ "extracto_es": "Stonehenge es un monumento megalítico tipo crómlech, además de otros elementos como hoyos, fosos, montículos, etc., construido entre el final del Neolítico y principios de la Edad del Bronce, situado cerca de Amesbury, en el condado de Wiltshire, Inglaterra, a unos trece kilómetros al norte de Salisbury.\nLos arqueólogos consideran como probables las fechas de construcción de las distintas fases y utilización entre el 3100 a. C. y el 2000 a. C. El foso y montículos circulares, los que constituyen la primera fase del monumento, se han datado en unos 5100 años atrás. La datación por radiocarbono sugiere que la primera piedra azul fue erigida entre el 2400 y el 2200 a. C.,​ aunque no se descarta que hubiera habido asentamiento o uso de la zona anteriores al 3100 a. C.​​​\nEl conjunto megalítico de Stonehenge, Avebury y sitios relacionados fue proclamado Patrimonio de la Humanidad por la Unesco en 1986.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Stonehenge Total.jpg",
+   "w": 2048,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Stonehenge_Total.jpg/330px-Stonehenge_Total.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Stonehenge_Total.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stonehenge_Total.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Stefan Kühn",
+   "credito": "own work by the original uploader",
+   "nonfree": "",
+   "fecha": "Taken on 28 August 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Stonehenge, Condado de Wiltshire, Inglaterra, 2014-08-12, DD 18.JPG",
+   "w": 5265,
+   "h": 2786,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_18.JPG/330px-Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stonehenge,_Condado_de_Wiltshire,_Inglaterra,_2014-08-12,_DD_18.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12 15:42:39",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Stonehenge2007 07 30.jpg",
+   "w": 2816,
+   "h": 2112,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/330px-Stonehenge2007_07_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "garethwiscombe",
+   "credito": "https://www.flickr.com/photos/garethwiscombe/1071477228/in/photostream/",
+   "nonfree": "",
+   "fecha": "2007-07-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Stonehenge, Condado de Wiltshire, Inglaterra, 2014-08-12, DD 13.JPG",
+   "w": 5226,
+   "h": 2798,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_13.JPG/330px-Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stonehenge,_Condado_de_Wiltshire,_Inglaterra,_2014-08-12,_DD_13.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12 15:28:58",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Stonehenge, Condado de Wiltshire, Inglaterra, 2014-08-12, DD 08.JPG",
+   "w": 5167,
+   "h": 2990,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_08.JPG/330px-Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_08.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_08.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stonehenge,_Condado_de_Wiltshire,_Inglaterra,_2014-08-12,_DD_08.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12 15:15:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Stonehenge, Condado de Wiltshire, Inglaterra, 2014-08-12, DD 09.JPG",
+   "w": 5406,
+   "h": 2379,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_09.JPG/330px-Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stonehenge,_Condado_de_Wiltshire,_Inglaterra,_2014-08-12,_DD_09.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12 15:18:39",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Stonehenge, Condado de Wiltshire, Inglaterra, 2014-08-12, DD 12.JPG",
+   "w": 5616,
+   "h": 2442,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_12.JPG/330px-Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stonehenge,_Condado_de_Wiltshire,_Inglaterra,_2014-08-12,_DD_12.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12 15:26:29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Stonehenge, Condado de Wiltshire, Inglaterra, 2014-08-12, DD 15.JPG",
+   "w": 5459,
+   "h": 2631,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_15.JPG/330px-Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stonehenge,_Condado_de_Wiltshire,_Inglaterra,_2014-08-12,_DD_15.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12 15:34:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
 }

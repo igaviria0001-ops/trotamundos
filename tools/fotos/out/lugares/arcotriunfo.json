@@ -1,5 +1,232 @@
 {
  "id": "arcotriunfo",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q64436', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Arc de Triomphe",
+ "endesc": "Triumphal arch in Paris, France",
+ "qid": "Q64436",
+ "coord": [
+  48.87378,
+  2.29504
+ ],
+ "label_es": "Arco de Triunfo de París",
+ "desc_es": "monumento en París",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1836-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1836-07-29T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 49.54,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 1754750.0,
+   "u": "1"
+  },
+  {
+   "v": 510340.0,
+   "u": "1"
+  },
+  {
+   "v": 428640.0,
+   "u": "1"
+  },
+  {
+   "v": 1606710.0,
+   "u": "1"
+  }
+ ],
+ "largo": [
+  {
+   "v": 44.82,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q143912"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": false,
+ "eswiki": "Arco de Triunfo de París",
+ "extracto_es": "El Arco de Triunfo de París (en francés: Arc de Triomphe o Arc de Triomphe de l'Étoile) es uno de los monumentos más famosos de la capital francesa y probablemente se trate del arco de triunfo más célebre del mundo. Construido entre 1806 y 1836 por orden de Napoleón Bonaparte para conmemorar la victoria en la batalla de Austerlitz, está situado en el VIII Distrito de París, sobre la plaza Charles de Gaulle, antiguamente denominada plaza de la Estrella (en francés: Place de l’Étoile), en el extremo occidental de la avenida de los Campos Elíseos, a 2,2 km de la plaza de la Concordia, ubicada en el extremo oriental de dicha avenida. Tiene una altura de 49,54 m, un ancho de 44,82 m y una profundidad de 22,21 m. La bóveda grande mide 29,19 m de alto por 14,62 m de ancho, mientras que la pequeña mide 18,68 m de alto por 8,44 m de ancho. Es gestionado por el Centro de los monumentos nacionales.​",
+ "candidatas": [
+  {
+   "file": "File:Arc de Triomphe de l'Étoile at night vertical fix.jpg",
+   "w": 6784,
+   "h": 4863,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Arc_de_Triomphe_de_l%27%C3%89toile_at_night_vertical_fix.jpg/330px-Arc_de_Triomphe_de_l%27%C3%89toile_at_night_vertical_fix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Arc_de_Triomphe_de_l%27%C3%89toile_at_night_vertical_fix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_de_l%27%C3%89toile_at_night_vertical_fix.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 26 January ",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Arc de Triomphe - Août 2026.jpg",
+   "w": 4802,
+   "h": 3203,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg/330px-Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "ZeusUpsistos",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-08-02 08:29:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:West Low Angle of Arc de Triomphe, Paris.jpg",
+   "w": 7150,
+   "h": 4703,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/West_Low_Angle_of_Arc_de_Triomphe%2C_Paris.jpg/330px-West_Low_Angle_of_Arc_de_Triomphe%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/West_Low_Angle_of_Arc_de_Triomphe%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:West_Low_Angle_of_Arc_de_Triomphe,_Paris.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Julian Lupyan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-07-02 17:55:13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Arc de Triomphe (17).JPG",
+   "w": 4945,
+   "h": 3161,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Arc_de_Triomphe_%2817%29.JPG/330px-Arc_de_Triomphe_%2817%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Arc_de_Triomphe_%2817%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_(17).JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rijin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-09-18 09:34:00",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Crowds of French patriots line the Champs Elysees-edit2.jpg",
+   "w": 7210,
+   "h": 5663,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg/330px-Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Jack Downey, U.S. Office of War Information",
+   "credito": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID fsac.1a55001.This tag does not indicate the copyright status of the attached ",
+   "nonfree": "",
+   "fecha": "26 August 1944date Q",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Arc de Triomphe (32).JPG",
+   "w": 4859,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Arc_de_Triomphe_%2832%29.JPG/330px-Arc_de_Triomphe_%2832%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Arc_de_Triomphe_%2832%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_(32).JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rijin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-09-18 09:51:35",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Arc de Triomphe (29).JPG",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Arc_de_Triomphe_%2829%29.JPG/330px-Arc_de_Triomphe_%2829%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Arc_de_Triomphe_%2829%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_(29).JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rijin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-09-18 09:50:08",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:South Inner Arch from the East, Arc de Triomphe, Paris.jpg",
+   "w": 4316,
+   "h": 7018,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/South_Inner_Arch_from_the_East%2C_Arc_de_Triomphe%2C_Paris.jpg/330px-South_Inner_Arch_from_the_East%2C_Arc_de_Triomphe%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/South_Inner_Arch_from_the_East%2C_Arc_de_Triomphe%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:South_Inner_Arch_from_the_East,_Arc_de_Triomphe,_Paris.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Julian Lupyan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-07-02 17:46:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
 }

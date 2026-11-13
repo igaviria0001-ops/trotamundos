@@ -1,5 +1,226 @@
 {
  "id": "louvre",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q19675', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Louvre",
+ "endesc": "Art museum in Paris, France",
+ "qid": "Q19675",
+ "coord": [
+  48.861111111111114,
+  2.3358333333333334
+ ],
+ "label_es": "Museo del Louvre",
+ "desc_es": "museo nacional de Francia consagrado al arte anterior al impresionismo",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1793-08-10T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1793-08-10T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 44.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 210000.0,
+   "u": "Q25343"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 2825000.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q207694",
+  "Q3329412"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": false,
+ "eswiki": "Museo del Louvre",
+ "extracto_es": "El museo del Louvre (pronuciación en español /lubre/ o /luv/; en francés musée du Louvre /myze dy luvʁ/ ) es el museo nacional de Francia consagrado tanto a las bellas artes como a la arqueología y las artes decorativas anteriores al impresionismo. Está ubicado en París, la capital del país, en el antiguo palacio real del Louvre. Sus extensas colecciones son el resultado del coleccionismo desarrollado por la monarquía francesa a lo largo de varios siglos, al que se sumó el esfuerzo de varias personalidades de la Ilustración, la labor desamortizadora de la Revolución francesa, las victorias militares durante las guerras napoleónicas, y las campañas arqueológicas y compras impulsadas durante el siglo XIX. En sus 210 000 m² se exponen unas &&&&&&&&&&035000.&&&&&035 000 obras, de las cuales &&&&&&&&&&&07000.&&&&&07000 son pinturas, además de contar con &&&&&&&&&0380000.&&&&&0380 000 objetos y antigüedades.​\nLa apertura del Louvre en 1793 significó, dentro de la historia de los museos, el traspaso de las colecciones privadas de las clases dirigentes (monarquía, aristocracia e Iglesia) a galerías de propiedad pública para disfrute del conjunto de la sociedad.​ Ello lo convirtió en precedente y modelo para no pocos de los principales museos europeos.​\nEn sus modificaciones arquitectónicas y decorativas han intervenido múltiples artistas a lo largo de varios siglos, desde el arquitecto Claude Perrault y los pintores Simon Vouet y Charles Le Brun en el siglo XVII hasta Eugène Delacroix y Georges Braque, quienes pintaron algunos de sus techos.​\nEl Louvre es el museo de arte más visitado del mundo,​ famoso por sus obras maestras, especialmente el retrato renacentista conocido como La Gioconda o Mona Lisa, de Leonardo da Vinci.​ Otras piezas destacadas fueron seleccionadas en 2020 por el propio museo bajo el título «24 obras imprescindibles». La lista comprende, además de la ya citada pintura, obras como el Código de Hammurabi, El escriba sentado, La consagración de Napoleón y La Libertad guiando al pueblo, entre otras.​\nDe acuerdo a una ordenación cronológica de las colecciones nacionales, el Louvre muestra obras de arte anteriores a 1848. Casi todas las obras del siglo XIX avanzado, desde el realismo (Gustave Courbet) hasta el impresionismo y Henri de Toulouse-Lautrec, fueron transferidas al Museo de Orsay, y el arte moderno y contemporáneo se exhibe en el Centro Pompidou. Adicionalmente, la institución promueve dos subsedes, en Lens y en Abu Dabi (Emiratos Árabes U",
+ "candidatas": [
+  {
+   "file": "File:Louvre Museum Wikimedia Commons.jpg",
+   "w": 6740,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/330px-Louvre_Museum_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Louvre_Museum_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Benh LIEU SONG (Flickr)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 18 April 20",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 18,
+   "origen": "en"
+  },
+  {
+   "file": "File:Centaur & Cupid, Louvre Museum.jpg",
+   "w": 8256,
+   "h": 5504,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Centaur_%26_Cupid%2C_Louvre_Museum.jpg/330px-Centaur_%26_Cupid%2C_Louvre_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Centaur_%26_Cupid%2C_Louvre_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Centaur_%26_Cupid,_Louvre_Museum.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Aristeas and Papias of Aphrodisias",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1st–2nd centuries AD",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Leonardo da Vinci - Virgin and Child with St Anne C2RMF retouched.jpg",
+   "w": 13295,
+   "h": 17828,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg/330px-Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "",
+   "credito": "original file: C2RMF: Galerie de tableaux en très haute définition: image page",
+   "nonfree": "",
+   "fecha": "2011",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 15,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Edgar Degas - Ballet (L'Étoile).jpg",
+   "w": 3652,
+   "h": 5315,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Edgar_Degas_-_Ballet_%28L%27%C3%89toile%29.jpg/330px-Edgar_Degas_-_Ballet_%28L%27%C3%89toile%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Edgar_Degas_-_Ballet_%28L%27%C3%89toile%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ballet_(L%27%C3%89toile).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Edgar Degas",
+   "credito": "https://www.vogue.fr/fashion-culture/article/edgar-degas-and-the-dancer-the-artists-most-beautiful-representations",
+   "nonfree": "",
+   "fecha": "circa 1876–1877",
+   "calidad": [
+    "FP",
+    "VI"
+   ],
+   "qpts": 8,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Vase dit de l'Alhambra - Louvre MAO 429.jpg",
+   "w": 3102,
+   "h": 5148,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Vase_dit_de_l%27Alhambra_-_Louvre_MAO_429.jpg/330px-Vase_dit_de_l%27Alhambra_-_Louvre_MAO_429.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vase_dit_de_l%27Alhambra_-_Louvre_MAO_429.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vase_dit_de_l%27Alhambra_-_Louvre_MAO_429.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "JackyM59",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-05-13 13:24:58",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Louvre Paris from top.jpg",
+   "w": 3456,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Louvre_Paris_from_top.jpg/330px-Louvre_Paris_from_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Louvre_Paris_from_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Louvre_Paris_from_top.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Matthias Kabel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2005-05-26 09:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Muséè du Louvre - Salle d'Auguste, détail du plafond - Paris - GT 01 - 2024 08 28.jpg",
+   "w": 9975,
+   "h": 4159,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Mus%C3%A9%C3%A8_du_Louvre_-_Salle_d%27Auguste%2C_d%C3%A9tail_du_plafond_-_Paris_-_GT_01_-_2024_08_28.jpg/330px-Mus%C3%A9%C3%A8_du_Louvre_-_Salle_d%27Auguste%2C_d%C3%A9tail_du_plafond_-_Paris_-_GT_01_-_2024_08_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mus%C3%A9%C3%A8_du_Louvre_-_Salle_d%27Auguste%2C_d%C3%A9tail_du_plafond_-_Paris_-_GT_01_-_2024_08_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9%C3%A8_du_Louvre_-_Salle_d%27Auguste,_d%C3%A9tail_du_plafond_-_Paris_-_GT_01_-_2024_08_28.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Terragio67",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-08-28 12:52:07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Daru staircase Louvre 2007 05 13.jpg",
+   "w": 2550,
+   "h": 3400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Daru_staircase_Louvre_2007_05_13.jpg/330px-Daru_staircase_Louvre_2007_05_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Daru_staircase_Louvre_2007_05_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Daru_staircase_Louvre_2007_05_13.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "",
+   "credito": "Marie-Lan Nguyen (Own work)",
+   "nonfree": "",
+   "fecha": "13 May 2007",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  }
+ ]
 }

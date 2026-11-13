@@ -1,5 +1,214 @@
 {
  "id": "towerbridge",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q83125', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Tower Bridge",
+ "endesc": "Bridge over the Thames in London, England",
+ "qid": "Q83125",
+ "coord": [
+  51.50555555555555,
+  -0.07527777777777778
+ ],
+ "label_es": "puente de la Torre",
+ "desc_es": "puente levadizo situado en Londres",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1886-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1894-06-30T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 65.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 244.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q911663",
+  "Q12042110",
+  "Q537127",
+  "Q12570",
+  "Q132775289"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": false,
+ "eswiki": "Puente de la Torre",
+ "extracto_es": "El Puente de la Torre (en inglés: Tower Bridge) es un puente basculante y colgante de Londres, construido entre 1886 y 1894, que cruza el río Támesis cerca de la Torre de Londres y se ha convertido en uno de los símbolos de la ciudad. Por esto, es confundido a veces con el Puente de Londres, situado unos ochocientos metros río arriba. El Puente de la Torre es uno de los cinco puentes de Londres que son actualmente propiedad de Bridge House Estates, un fideicomiso de caridad supervisado por la City of London Corporation. Es el único de los puentes del fideicomiso que no conectan directamente la City de Londres con la orilla de Southwark, dado que su lado norte está en Tower Hamlets. Construido entre 1886 y 1894, fue diseñado por Horace Jones, correspondiendo el proyecto de ingeniería a John Wolfe Barry con la ayuda de Henry Marc Brunel.​\nEl puente consiste en dos torres de puente unidas entre sí en la parte superior por dos pasarelas horizontales, diseñadas para resistir las fuerzas horizontales de tensión ejercidas por las secciones colgantes del puente que se encuentran a ambos lados de las torres. Las componentes verticales de las fuerzas en las secciones colgantes y las reacciones verticales de las dos pasarelas son soportadas por las dos robustas torres. Los pivotes basculantes y la maquinaria están alojados en la base de cada torre. Antes de su restauración en la década de 2010, los colores del puente databan de 1977, cuando fue pintado de rojo, blanco y azul para el Jubileo de Plata de la reina Isabel II. Sus colores fueron posteriormente restaurados a azul y blanco.​​\nLa cubierta del puente es accesible libremente a vehículos y peatones, mientras que las torres gemelas del puente, las pasarelas y las salas de máquinas victorianas forman parte de la Tower Bridge Exhibition, y para acceder a ella hay que pagar una entrada. Las estaciones más cercanas del Metro de Londres son Tower Hill en las líneas Circle y District, London Bridge en las líneas Jubilee y Northern y Bermondsey en la línea Jubilee, y la estación más cercana del Docklands Light Railway es Tower Gateway.​ Las estaciones más cercanas de National Rail son Fenchurch Street y London Bridge.",
+ "candidatas": [
+  {
+   "file": "File:Puente de la Torre, Londres, Inglaterra, 2014-08-11, DD 092.JPG",
+   "w": 5369,
+   "h": 3579,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Puente_de_la_Torre%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_092.JPG/330px-Puente_de_la_Torre%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_092.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Puente_de_la_Torre%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_092.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puente_de_la_Torre,_Londres,_Inglaterra,_2014-08-11,_DD_092.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-11 10:23:41",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Tower Bridge at Dawn.jpg",
+   "w": 5554,
+   "h": 3703,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Tower_Bridge_at_Dawn.jpg/330px-Tower_Bridge_at_Dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Tower_Bridge_at_Dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_at_Dawn.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Fuzzypiggy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-09-21 06:16:57",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Tower Bridge London Feb 2006.jpg",
+   "w": 9462,
+   "h": 4734,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Tower_Bridge_London_Feb_2006.jpg/330px-Tower_Bridge_London_Feb_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tower_Bridge_London_Feb_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Feb_2006.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-02-10",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 14,
+   "origen": "es"
+  },
+  {
+   "file": "File:London - London Tower Bridge - 140806 171049.jpg",
+   "w": 4828,
+   "h": 2716,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/London_-_London_Tower_Bridge_-_140806_171049.jpg/330px-London_-_London_Tower_Bridge_-_140806_171049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/London_-_London_Tower_Bridge_-_140806_171049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:London_-_London_Tower_Bridge_-_140806_171049.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Barcex",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-06 17:10:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Tower Bridge - Thames Night Long Exposure 01.jpg",
+   "w": 5184,
+   "h": 2916,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tower_Bridge_-_Thames_Night_Long_Exposure_01.jpg/330px-Tower_Bridge_-_Thames_Night_Long_Exposure_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tower_Bridge_-_Thames_Night_Long_Exposure_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_-_Thames_Night_Long_Exposure_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rafa Esteve",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-08-23 23:06:07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Tower Bridge (aerial view).jpg",
+   "w": 3650,
+   "h": 2340,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Tower_Bridge_%28aerial_view%29.jpg/330px-Tower_Bridge_%28aerial_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Tower_Bridge_%28aerial_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_(aerial_view).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bob Collowan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-18 19:22:22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Tower Bridge at night from South Bank.jpg",
+   "w": 5984,
+   "h": 3366,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Tower_Bridge_at_night_from_South_Bank.jpg/330px-Tower_Bridge_at_night_from_South_Bank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tower_Bridge_at_night_from_South_Bank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_at_night_from_South_Bank.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Helen Ilus",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-12-07 20:07:52",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Tower Bridge Side View.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Tower_Bridge_Side_View.jpg/330px-Tower_Bridge_Side_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Tower_Bridge_Side_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_Side_View.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "WikJonah",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-05 10:36:18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
 }

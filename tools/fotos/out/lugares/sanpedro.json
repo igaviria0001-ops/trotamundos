@@ -1,5 +1,220 @@
 {
  "id": "sanpedro",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q12512', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "St. Peter's Basilica",
+ "endesc": "Roman Catholic basilica and landmark in Vatican City",
+ "qid": "Q12512",
+ "coord": [
+  41.90222222222222,
+  12.453416666666667
+ ],
+ "label_es": "basílica de San Pedro",
+ "desc_es": "basílica papal situada en la Ciudad del Vaticano",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1506-04-18T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 136.6,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 11000000.0,
+   "u": "1"
+  }
+ ],
+ "largo": [
+  {
+   "v": 220.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q124936",
+  "Q2713379",
+  "Q2319498",
+  "Q317557",
+  "Q15487029"
+ ],
+ "p17": [
+  "Q237"
+ ],
+ "unesco": false,
+ "eswiki": "Basílica de San Pedro",
+ "extracto_es": "La basílica papal de San Pedro (en latín: Basilica Sancti Petri; en italiano: Basilica Papale di San Pietro), conocida comúnmente como basílica de San Pedro, es un templo católico situado en la Ciudad del Vaticano.\nLa basílica cuenta con el mayor espacio interior de una iglesia cristiana en el mundo,​ presenta 193 m de longitud, 44,5 m de altura, y abarca una superficie de 2,3 hectáreas.[cita requerida] La altura que le confiere su cúpula hace que su figura domine el horizonte de Roma. Es considerada como uno de los lugares más sagrados del catolicismo. Se la ha descrito como «ocupante de una posición única en el mundo cristiano»,​ y como «la más grande de todas las iglesias de la cristiandad».​ Es una de las cuatro basílicas mayores y una de las iglesias que se deben visitar en el peregrinaje de las siete iglesias de Roma para alcanzar la indulgencia plenaria.\nEn la tradición católica, la basílica se encuentra situada sobre el lugar de entierro de san Pedro, que fue uno de los doce apóstoles de Jesús de Nazaret, primer obispo de Antioquía, primer obispo de Roma y, por lo tanto, el primero de los pontífices. La tradición y las evidencias históricas y científicas sostienen que la sepultura del Santo está directamente debajo del altar mayor de la basílica. También la mayoría de los papas han sido enterrados en San Pedro desde la época paleocristiana.​\nEn el sitio de la basílica han existido iglesias desde el siglo IV. La construcción del actual edificio, sobre la antigua basílica constantiniana, comenzó el 18 de abril de 1506, por orden del papa Julio II, y finalizó el 18 de noviembre de 1626.​\nEn ella trabajaron algunos de los arquitectos más renombrados de la historia, como Donato Bramante, Miguel Ángel o Bernini.\nA pesar de la creencia popular, San Pedro no es una catedral, ya que la archibasílica de San Juan de Letrán es la verdadera catedral de Roma.​",
+ "candidatas": [
+  {
+   "file": "File:Basilica di San Pietro in Vaticano September 2015-1a.jpg",
+   "w": 13066,
+   "h": 6823,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/330px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-09-19 12:00:40",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 20,
+   "origen": "P18"
+  },
+  {
+   "file": "File:St Peter's Square, Vatican City - April 2007.jpg",
+   "w": 4200,
+   "h": 2359,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/330px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_-_April_2007.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 29 April 20",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Saint Peter's Basilica facade, Rome, Italy.jpg",
+   "w": 4470,
+   "h": 2975,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/330px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_Basilica_facade,_Rome,_Italy.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Jebulon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-25 11:45:17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "es"
+  },
+  {
+   "file": "File:S. Pietro May 2022-15.jpg",
+   "w": 6672,
+   "h": 4886,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/S._Pietro_May_2022-15.jpg/330px-S._Pietro_May_2022-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/S._Pietro_May_2022-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:S._Pietro_May_2022-15.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-05-14 22:32:42",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:St Peter facade.jpg",
+   "w": 5396,
+   "h": 3575,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/St_Peter_facade.jpg/330px-St_Peter_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/St_Peter_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Peter_facade.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Livioandronico2013",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-31 12:39:41",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:PonteSantAngeloRom.jpg",
+   "w": 5897,
+   "h": 3931,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/PonteSantAngeloRom.jpg/330px-PonteSantAngeloRom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/PonteSantAngeloRom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:PonteSantAngeloRom.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rabax63",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-05-08 13:29:13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Saint Peter's Basilica at night HD.jpg",
+   "w": 13340,
+   "h": 5659,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Saint_Peter%27s_Basilica_at_night_HD.jpg/330px-Saint_Peter%27s_Basilica_at_night_HD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Saint_Peter%27s_Basilica_at_night_HD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_Basilica_at_night_HD.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Livioandronico2013",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-04-14 19:30:35",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Basilica di San Pietro (notte).jpg",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Basilica_di_San_Pietro_%28notte%29.jpg/330px-Basilica_di_San_Pietro_%28notte%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Basilica_di_San_Pietro_%28notte%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_(notte).jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Eugene Pivovarov",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  }
+ ]
 }

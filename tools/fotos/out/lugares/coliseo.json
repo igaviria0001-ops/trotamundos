@@ -1,5 +1,235 @@
 {
  "id": "coliseo",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q10285', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Colosseum",
+ "endesc": "Ancient Roman amphitheater in Rome",
+ "qid": "Q10285",
+ "coord": [
+  41.890277777778,
+  12.492222222222
+ ],
+ "label_es": "Coliseo",
+ "desc_es": "anfiteatro en Roma, Italia y una de las 7 maravillas del mundo moderno",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0082-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+0081-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 48.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 5000.0,
+   "u": "Q25343"
+  },
+  {
+   "v": 30000.0,
+   "u": "Q25343"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 5832996.0,
+   "u": "1"
+  }
+ ],
+ "largo": [
+  {
+   "v": 187.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q7362268",
+  "Q839954",
+  "Q483110",
+  "Q112132548",
+  "Q3867560",
+  "Q112132522",
+  "Q124830411",
+  "Q133444874"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Coliseo",
+ "extracto_es": "El Coliseo o Anfiteatro Flavio (en latín Colosseum, en italiano Colosseo)​ es un anfiteatro de la época del Imperio romano, construido en el siglo I. Está ubicado en el este del Foro Romano y fue el mayor de los que se construyeron en el Imperio romano. Conocido originalmente como Anfiteatro Flavio, Amphitheatrum Flavium, a partir de la Edad Media pasó a ser llamado Coliseo porque a su lado había una gran estatua dedicada al emperador Nerón, el Coloso de Nerón, «Colossus»,​ que Adriano había transformado en una representación de Helios, el dios Sol. De este «Colossus Solis» derivó el nombre actual del edificio.​ La estatua llegó a desaparecer.​\nLos materiales utilizados en la construcción de esta obra fueron bloques de travertino, hormigón, madera, ladrillo, piedra (toba), mármol y estuco.\nEn la antigüedad poseía un aforo para unos 65 000 espectadores, con ochenta filas de gradas.​​​ Los que estaban cerca de la arena eran el Emperador, su familia y los senadores, y a medida que se ascendía se situaban los estratos inferiores de la sociedad. En el Coliseo tenían lugar luchas de gladiadores y espectáculos públicos. Se construyó justo al este del Foro Romano, y las obras empezaron entre 70 d. C. y 72 d. C., bajo el mandato del emperador Vespasiano. El anfiteatro, que era el más grande jamás construido en el Imperio romano, se completó en 80 d. C. por el emperador Tito, y fue modificado durante el reinado de Domiciano.​ Su inauguración duró 100 días, participando en ella todo el pueblo romano y muriendo en su celebración decenas de gladiadores y fieras que fueron sacrificados por el placer y el espectáculo del pueblo.​ \nEl Coliseo se usó durante casi cinco siglos, celebrándose en los últimos juegos de la historia en el siglo VI, bastante más tarde de la tradicional fecha de la caída del Imperio romano de Occidente en 476 d. C. Los bizantinos también lo utilizaron durante el siglo VI. Además de las peleas de gladiadores, muchos otros espectáculos públicos tenían lugar aquí, como naumaquias, caza de animales, ejecuciones, recreaciones de famosas batallas y obras de teatro basadas en la mitología clásica. El edificio dejó de emplearse para estos propósitos en la Alta Edad Media. Más tarde, sirvió como refugio, fábrica, sede de una orden religiosa, fortaleza y cantera. De sus ruinas se extrajo abundante material para la construcción de otros edificios, hasta que fue convertido en santuario cristiano, en honor a los cautivos martirizados durante los primeros siglos",
+ "candidatas": [
+  {
+   "file": "File:Rom (IT), Kolosseum -- 2024 -- 0610.jpg",
+   "w": 5327,
+   "h": 3551,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Rom_%28IT%29%2C_Kolosseum_--_2024_--_0610.jpg/330px-Rom_%28IT%29%2C_Kolosseum_--_2024_--_0610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Rom_%28IT%29%2C_Kolosseum_--_2024_--_0610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rom_(IT),_Kolosseum_--_2024_--_0610.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Anil Öztas",
+   "credito": "Own work, anil-oeztas.de",
+   "nonfree": "",
+   "fecha": "2024-08-12",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Colosseo 2020.jpg",
+   "w": 12051,
+   "h": 8442,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/330px-Colosseo_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "FeaturedPics",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-10-28 18:05:47",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Colosseum in Rome-April 2007-1- copie 2B.jpg",
+   "w": 4827,
+   "h": 2833,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/330px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-04-30",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Colosseum of Rome, Italy.jpg",
+   "w": 8200,
+   "h": 5162,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Colosseum_of_Rome%2C_Italy.jpg/330px-Colosseum_of_Rome%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Colosseum_of_Rome%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosseum_of_Rome,_Italy.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-02-08 11:53:11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Colosseum of Rome and Roman forum.jpg",
+   "w": 7316,
+   "h": 4330,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Colosseum_of_Rome_and_Roman_forum.jpg/330px-Colosseum_of_Rome_and_Roman_forum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Colosseum_of_Rome_and_Roman_forum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosseum_of_Rome_and_Roman_forum.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-02-13 09:56:20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Colosseum and Arch of Constantine seen from Palatine.jpg",
+   "w": 5688,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Colosseum_and_Arch_of_Constantine_seen_from_Palatine.jpg/330px-Colosseum_and_Arch_of_Constantine_seen_from_Palatine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Colosseum_and_Arch_of_Constantine_seen_from_Palatine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosseum_and_Arch_of_Constantine_seen_from_Palatine.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Livioandronico2013",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-12-07 15:00:50",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rome (IT), Kolosseum -- 2013 -- 3400.jpg",
+   "w": 4707,
+   "h": 3138,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Rome_%28IT%29%2C_Kolosseum_--_2013_--_3400.jpg/330px-Rome_%28IT%29%2C_Kolosseum_--_2013_--_3400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Rome_%28IT%29%2C_Kolosseum_--_2013_--_3400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rome_(IT),_Kolosseum_--_2013_--_3400.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dietmar Rabich",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 19 October ",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rom Colosseum Sept 2021 3.jpg",
+   "w": 5464,
+   "h": 3640,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Rom_Colosseum_Sept_2021_3.jpg/330px-Rom_Colosseum_Sept_2021_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Rom_Colosseum_Sept_2021_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rom_Colosseum_Sept_2021_3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kasa Fue",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-09-06 12:00:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  }
+ ]
 }

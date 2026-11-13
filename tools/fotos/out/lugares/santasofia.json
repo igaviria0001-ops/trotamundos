@@ -1,5 +1,217 @@
 {
  "id": "santasofia",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q12506', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Hagia Sophia",
+ "endesc": "Mosque and former church in Istanbul, Turkey",
+ "qid": "Q12506",
+ "coord": [
+  41.00833333333333,
+  28.98
+ ],
+ "label_es": "Santa Sofía",
+ "desc_es": "monumento bizantino, mezquita en Estambul, Turquía",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0532-02-23T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+0537-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 55.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 82.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q32815",
+  "Q33506"
+ ],
+ "p17": [
+  "Q43"
+ ],
+ "unesco": false,
+ "eswiki": "Santa Sofía",
+ "extracto_es": "Santa Sofía o Hagia Sophia (del griego: Άγια Σοφία, «Santa Sabiduría»; en latín: Sancta Sophia o Sancta Sapientia; en turco: Ayasofya), oficialmente Gran Mezquita de Santa Sofía (en turco: Ayasofya-i Kebir Cami-i Şerifi), es una antigua basílica cristiana, posteriormente convertida en iglesia ortodoxa, más tarde en mezquita, luego en museo y, desde el 1 de agosto de 2020, nuevamente en una mezquita de la ciudad de Estambul, Turquía.​\nDesde la fecha de su consagración en el año 537 y hasta 1453 sirvió como la catedral ortodoxa bizantina de rito oriental de Constantinopla, excepto en el paréntesis entre 1204 y 1261 en que fue reconvertida en catedral católica de rito latino, durante el patriarcado latino de Constantinopla del Imperio latino, fundado por los cruzados. Tras la Conquista de Constantinopla por el Imperio otomano, el edificio fue transformado en mezquita, manteniendo esta función desde el 29 de mayo de 1453 hasta 1931, fecha en que fue secularizado. El 1 de febrero de 1935 fue inaugurado como museo. En julio de 2020, Recep Tayyip Erdoğan anunció que a partir del 1 de agosto de 2020 sería transformada de nuevo en mezquita.​\nA veces llamada Sancta Sophia (como si fuera el nombre de Santa Sofía), sophia es en realidad la transcripción fonética al latín de la palabra griega \"sabiduría\" —el nombre completo en griego es Ναός τῆς Ἁγίας τοῦ Θεοῦ Σοφίας: «Iglesia de la Santa Sabiduría de Dios»—.​​ \nLa iglesia estaba dedicada a la Divina Sabiduría, una imagen tomada del Libro de la Sabiduría del Antiguo Testamento y que hace referencia a la personificación de la sabiduría de Dios o segunda persona de la Santísima Trinidad. Su fiesta se celebra el 25 de diciembre, el aniversario de la encarnación del Verbo o Logos en Cristo.​\nFamosa por su enorme cúpula, está considerada como el epítome de la arquitectura bizantina, y se dice de ella que «cambió la historia de la arquitectura».​ Fue la catedral con mayor superficie del mundo durante casi mil años, hasta que se completó la obra de la catedral de Santa María de la Sede (Sevilla) en 1520 (si se excluye la Mezquita-Catedral de Santa María de Córdoba, pues la mayoría de características de esta en 1520 habían sido ideadas como partes de la antigua mezquita, aunque funcionase ya como catedral casi dos siglos antes de las obras del templo hispalense). El edificio actual de Santa Sofía fue reconstruido entre 532 y 537 para ser usado como iglesia, por orden del emperador bizantino Justiniano I, siendo la tercera igle",
+ "candidatas": [
+  {
+   "file": "File:Hagia Sophia Mars 2013.jpg",
+   "w": 5514,
+   "h": 3681,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/330px-Hagia_Sophia_Mars_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Arild Vågen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-03-01 11:25:10",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 24,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Deesis mosaic Hagia Sophia.jpg",
+   "w": 4176,
+   "h": 2429,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Deesis_mosaic_Hagia_Sophia.jpg/330px-Deesis_mosaic_Hagia_Sophia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Deesis_mosaic_Hagia_Sophia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Deesis_mosaic_Hagia_Sophia.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Photograph: Myrabella",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-11-08",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hagia Sophia Istanbul July 2022-2.jpg",
+   "w": 7106,
+   "h": 4826,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hagia_Sophia_Istanbul_July_2022-2.jpg/330px-Hagia_Sophia_Istanbul_July_2022-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hagia_Sophia_Istanbul_July_2022-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Istanbul_July_2022-2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-10-22 16:49:43",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Comnenus mosaics Hagia Sophia.jpg",
+   "w": 3386,
+   "h": 1783,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Comnenus_mosaics_Hagia_Sophia.jpg/330px-Comnenus_mosaics_Hagia_Sophia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Comnenus_mosaics_Hagia_Sophia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Comnenus_mosaics_Hagia_Sophia.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Unknown authorUnknown author",
+   "credito": "Self-photographed by Myrabella, 8 November 2012",
+   "nonfree": "",
+   "fecha": "circa 1118 ADdate QS",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gaspare Fossati - Louis Haghe - Vue générale de la grande nef, en regardant l'occident (Hagia Sophia - Ayasofya Mosque nave).jpg",
+   "w": 2106,
+   "h": 2846,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Gaspare_Fossati_-_Louis_Haghe_-_Vue_g%C3%A9n%C3%A9rale_de_la_grande_nef%2C_en_regardant_l%27occident_%28Hagia_Sophia_-_Ayasofya_Mosque_nave%29.jpg/330px-Gaspare_Fossati_-_Louis_Haghe_-_Vue_g%C3%A9n%C3%A9rale_de_la_grande_nef%2C_en_regardant_l%27occident_%28Hagia_Sophia_-_Ayasofya_Mosque_nave%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gaspare_Fossati_-_Louis_Haghe_-_Vue_g%C3%A9n%C3%A9rale_de_la_grande_nef%2C_en_regardant_l%27occident_%28Hagia_Sophia_-_Ayasofya_Mosque_nave%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gaspare_Fossati_-_Louis_Haghe_-_Vue_g%C3%A9n%C3%A9rale_de_la_grande_nef,_en_regardant_l%27occident_(Hagia_Sophia_-_Ayasofya_Mosque_nave).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Gaspare Fossati (artist, 1809-1883)\nLouis Haghe (lithographer, 1806-1885)\nAdam Cuerden (restoration)",
+   "credito": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID cph.3g11883.This tag does not indicate the copyright status of the attached w",
+   "nonfree": "",
+   "fecha": "1852",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Hagia Sophia Southwestern entrance mosaics 2.jpg",
+   "w": 3132,
+   "h": 2007,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Hagia_Sophia_Southwestern_entrance_mosaics_2.jpg/330px-Hagia_Sophia_Southwestern_entrance_mosaics_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Hagia_Sophia_Southwestern_entrance_mosaics_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Southwestern_entrance_mosaics_2.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "File:Hagia_Sophia_Southwestern_entrance_mosaics.jpg: Photograph: Myrabella\nderivative work: Myrabella",
+   "credito": "This file was derived from:  Hagia Sophia Southwestern entrance mosaics.jpg:",
+   "nonfree": "",
+   "fecha": "2013-01-13 12:37",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hagia Sophia (228968325).jpeg",
+   "w": 2048,
+   "h": 1238,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hagia_Sophia_%28228968325%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Adli Wahid",
+   "credito": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+   "nonfree": "",
+   "fecha": "31 August 2014, 23:3",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Deesis mosaic Hagia Sophia 2.jpg",
+   "w": 5999,
+   "h": 3075,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Deesis_mosaic_Hagia_Sophia_2.jpg/330px-Deesis_mosaic_Hagia_Sophia_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Deesis_mosaic_Hagia_Sophia_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Deesis_mosaic_Hagia_Sophia_2.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Till Niermann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-05-04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
 }

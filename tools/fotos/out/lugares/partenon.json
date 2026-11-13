@@ -1,5 +1,201 @@
 {
  "id": "partenon",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q10288', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Parthenon",
+ "endesc": "Temple on the Athenian Acropolis, Greece",
+ "qid": "Q10288",
+ "coord": [
+  37.971527,
+  23.726601
+ ],
+ "label_es": "Partenón",
+ "desc_es": "templo dórico en la Acrópolis de Atenas",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-0500-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "altura": [
+  {
+   "v": 13.72,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 69.61,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q267596",
+  "Q93342462",
+  "Q96352513"
+ ],
+ "p17": [
+  "Q41"
+ ],
+ "unesco": false,
+ "eswiki": "Partenón",
+ "extracto_es": "El Partenón (en griego antiguo, Παρθενών, Parthenṓn, AFI: [partʰe'nɔ:n]; en griego moderno, Παρθενώνας, Parthenónas, AFI: [paɾθeˈnonas]; en lengua latina, Parthenon; significado: «doncella», «virgen», «célibe») es un templo consagrado a la protectora de Atenas, Atenea Pártenos, y uno de los principales templos dóricos octóstilos, algo poco frecuente,​ hecho de mármol pentélico y cubierto con tejas de mármol de Paros,​​ que se conservan. Fue construido entre los años 447 a. C. y 438 a. C. en la Acrópolis de Atenas.​ Es el templo griego más conocido del mundo, así como uno de los símbolos indiscutibles de Atenas y de Grecia. \nEn el lugar existió, hacia el siglo XII a. C., una fortaleza micénica. Posteriormente se convirtió en lugar de culto con la construcción del «viejo templo»,​ también conocido como pre-Partenón o hecatompedón, el cual, sin estar acabado, en el 480 a. C. resultó dañado por el ejército de Jerjes I, detenido por Antónidas y sus dos hombres, Cabado y Brunialtes de Camos. Fue durante el incendio de Atenas ocurrido durante la segunda guerra médica, tras la derrota espartana en las Termópilas.​ \nContenido el avance persa en Salamina, Platea y Mícala, el cese de las hostilidades con Persia llega en el 449 a. C. con la Paz de Calias, concluyendo medio siglo de guerra. Es este período, entre los años 480 y 430 a. C. cuando la democracia ateniense alcanzó su cima, se forja una de las bases de la civilización europea y conoce «las estrellas de una serie de ciudadanos carismáticos» como la del político y militar Pericles.​ A decir de algunos estudiosos «hombre extraordinario, a la vez distante y apasionadamente comprometido, idealista y prác­tico, tan versado en arte y filosofía que gozaba de su conocimiento, pero al mismo tiempo los hacía servir para sus fines políticos».​\nEste, que es el monumento más antiguo de los ubicados en la acrópolis, levantado por orden de Pericles será obra de arquitectos como Ictino y Calícrates, bajo la supervisión de Fidias, que levantará la Atenea Pártenos​ crisoelefantina. Levantado sobre tres gradas, las dimensiones aproximadas del edificio son de 69,5 metros de longitud, por 30,9 de anchura, con columnas que alcanzan los 10,93 metros de altura haciendo que el Partenon mida un total de 14 metros de altura. En cuanto al coste económico, algunos autores ofrecen una estimación total de 10 talentos por la realización del conjunto.​\nEn el siglo VI d. C., el Partenón se convierte en una iglesia cristiana. Después de la con",
+ "candidatas": [
+  {
+   "file": "File:Attica 06-13 Athens 50 View from Philopappos - Acropolis Hill.jpg",
+   "w": 5000,
+   "h": 3125,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg/330px-Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "A.Savin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-03",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Parthenon XL.jpg",
+   "w": 3519,
+   "h": 2345,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Parthenon_XL.jpg/330px-Parthenon_XL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Parthenon_XL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parthenon_XL.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "No machine-readable author provided. Thermos assumed (based on copyright claims).",
+   "credito": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "nonfree": "",
+   "fecha": "4 December 2005 (acc",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:The Parthenon in Athens.jpg",
+   "w": 1144,
+   "h": 804,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/330px-The_Parthenon_in_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Steve Swayne",
+   "credito": "File:O Partenon de Atenas.jpg, originally posted to Flickr as The Parthenon Athens",
+   "nonfree": "",
+   "fecha": "1978-08-26 13:45:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Parthenon by night.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Parthenon_by_night.jpg/330px-Parthenon_by_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Parthenon_by_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parthenon_by_night.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Dafalias",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-20 00:48:59",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Parthenon southeast corner.jpg",
+   "w": 4096,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Parthenon_southeast_corner.jpg/330px-Parthenon_southeast_corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Parthenon_southeast_corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parthenon_southeast_corner.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Twospoonfuls",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-12-04 09:10:59",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Athens Acropolis Parthenon Metope and pediment 03.jpg",
+   "w": 4933,
+   "h": 3525,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Athens_Acropolis_Parthenon_Metope_and_pediment_03.jpg/330px-Athens_Acropolis_Parthenon_Metope_and_pediment_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Athens_Acropolis_Parthenon_Metope_and_pediment_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Athens_Acropolis_Parthenon_Metope_and_pediment_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ad Meskens\nYou are free to use this picture for any purpose as long as you credit its author, Ad Meskens.\nExample:  © Ad Meskens / Wikimedia Commons\n  If you use this work outside of the Wikimedia pro",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-11 08:26:45",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:British Museum, London (2014) - 07.JPG",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/British_Museum%2C_London_%282014%29_-_07.JPG/330px-British_Museum%2C_London_%282014%29_-_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/British_Museum%2C_London_%282014%29_-_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:British_Museum,_London_(2014)_-_07.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Another Believer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-03 17:37:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Parthenon. Photo taken in 2023.jpg",
+   "w": 4032,
+   "h": 2268,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Parthenon._Photo_taken_in_2023.jpg/330px-Parthenon._Photo_taken_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Parthenon._Photo_taken_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parthenon._Photo_taken_in_2023.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "PinterPandai.com",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-01-08 12:17:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
 }

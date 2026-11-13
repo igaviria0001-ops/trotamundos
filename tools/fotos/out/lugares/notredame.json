@@ -1,5 +1,232 @@
 {
  "id": "notredame",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q2981', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Notre-Dame de Paris",
+ "endesc": "Cathedral in Paris, France, built 1163–1345",
+ "qid": "Q2981",
+ "coord": [
+  48.853,
+  2.3498
+ ],
+ "label_es": "Catedral de Notre-Dame de París",
+ "desc_es": "catedral católica en París, Francia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1163-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+2024-12-07T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 69.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 90.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 5500.0,
+   "u": "Q25343"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 12000000.0,
+   "u": "1"
+  }
+ ],
+ "largo": [
+  {
+   "v": 127.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q56242215",
+  "Q120560"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": false,
+ "eswiki": "Catedral de Notre Dame de París",
+ "extracto_es": "La catedral de Notre Dame (en francés: Cathédrale Notre-Dame, lit. Catedral de Nuestra Señora) es una catedral de culto católico, sede de la arquidiócesis de París, la capital de Francia. Dedicada a la Virgen María, en su advocación de Nuestra Señora de París, se sitúa en la pequeña isla de la Cité, rodeada por las aguas del río Sena. Es uno de los monumentos más populares de la capital francesa.\nIniciada su construcción en el año 1163, existe en la catedral una dualidad de influencias estilísticas: por un lado, reminiscencias del románico normando, con su fuerte y compacta unidad; por otro lado, las innovaciones arquitectónicas del gótico, que son las que han dado más fama al edificio. Se trata de uno de los edificios más señeros y antiguos de cuantos se construyeron en estilo gótico. El uso innovador de la bóveda de crucería y del arbotante, los enormes y coloridos rosetones y el naturalismo y la abundancia de decoración escultórica lo diferencian de la arquitectura románica.\nLa mayor parte de su construcción se desarrolló entre 1163 y 1260, aunque se terminó en el año 1345 y se modificó de manera frecuente a lo largo de los siglos siguientes, debido a necesidades de renovación y también por la evolución del gusto dominante. En 1786 la aguja central, dañada por las inclemencias del tiempo, hubo de ser desmontada. Durante la década de 1790, tras la Revolución francesa, la catedral fue desacralizada y sufrió el robo y dispersión de muchos de sus bienes así como la profanación de parte de su imaginería religiosa, que quedó dañada y destruida. Tras ser empleada como almacén, en 1802, se devolvió su uso a la Iglesia católica gracias a Napoleón Bonaparte, quien se coronaría emperador en Notre Dame dos años después. Con todo, el templo subsistió en modestas condiciones hasta que la publicación en 1831 de Nuestra Señora de París, novela escrita por Victor Hugo y cuyo escenario principal era Notre Dame, reavivó el interés popular por la vieja catedral parisina. El arquitecto Eugène Viollet-le-Duc, defensor del naciente estilo neogótico, encabezó un proyecto de restauración que comenzó en 1845 y se prolongó durante un cuarto de siglo; esta intervención, demasiado audaz según algunos historiadores, no solo reparó ornamentos dañados sino que también incorporó elementos enteramente nuevos, como una nueva aguja de 96 metros de altura y las hoy célebres quimeras, y demolió los edificios circundantes. Ya en 1963 se procedió a limpiar de hollín la fachada, que así recupe",
+ "candidatas": [
+  {
+   "file": "File:Notre-Dame de Paris 2013-07-24.jpg",
+   "w": 3348,
+   "h": 4519,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Notre-Dame_de_Paris_2013-07-24.jpg/330px-Notre-Dame_de_Paris_2013-07-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Notre-Dame_de_Paris_2013-07-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_2013-07-24.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "P e z i",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-24",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 15,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Notre-Dame de Paris and Île de la Cité at dusk 140516 1.jpg",
+   "w": 8188,
+   "h": 4094,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Notre-Dame_de_Paris_and_%C3%8Ele_de_la_Cit%C3%A9_at_dusk_140516_1.jpg/330px-Notre-Dame_de_Paris_and_%C3%8Ele_de_la_Cit%C3%A9_at_dusk_140516_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Notre-Dame_de_Paris_and_%C3%8Ele_de_la_Cit%C3%A9_at_dusk_140516_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_and_%C3%8Ele_de_la_Cit%C3%A9_at_dusk_140516_1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "DXR",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-05-16",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Notre-Dame de Paris, 4 October 2017.jpg",
+   "w": 4938,
+   "h": 3261,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/330px-Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris,_4_October_2017.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Ali Sabbagh",
+   "credito": "Notre Dam De Paris",
+   "nonfree": "",
+   "fecha": "2017-10-04 20:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Cathédrale Notre-Dame de Paris - 10.jpg",
+   "w": 3554,
+   "h": 2666,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Cath%C3%A9drale_Notre-Dame_de_Paris_-_10.jpg/330px-Cath%C3%A9drale_Notre-Dame_de_Paris_-_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Cath%C3%A9drale_Notre-Dame_de_Paris_-_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_de_Paris_-_10.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Carlos Delgado",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-02-17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Notre Dame - Paris - France.jpg",
+   "w": 3950,
+   "h": 2600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Notre_Dame_-_Paris_-_France.jpg/330px-Notre_Dame_-_Paris_-_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Notre_Dame_-_Paris_-_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Notre_Dame_-_Paris_-_France.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sumit Surai",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-08-25 17:28:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Les Plus Belles Eglises DU Monde - Notre-Dame de Paris.jpg",
+   "w": 7620,
+   "h": 5618,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Les_Plus_Belles_Eglises_DU_Monde_-_Notre-Dame_de_Paris.jpg/330px-Les_Plus_Belles_Eglises_DU_Monde_-_Notre-Dame_de_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Les_Plus_Belles_Eglises_DU_Monde_-_Notre-Dame_de_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Les_Plus_Belles_Eglises_DU_Monde_-_Notre-Dame_de_Paris.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Unknown authorUnknown author",
+   "credito": "Scanning - Dmitry Makeev",
+   "nonfree": "",
+   "fecha": "1857date QS:P571,+18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Flèche en feu - Spire on Fire.jpeg",
+   "w": 3712,
+   "h": 5208,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Fl%C3%A8che_en_feu_-_Spire_on_Fire.jpeg/330px-Fl%C3%A8che_en_feu_-_Spire_on_Fire.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Fl%C3%A8che_en_feu_-_Spire_on_Fire.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fl%C3%A8che_en_feu_-_Spire_on_Fire.jpeg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "LEVRIER Guillaume",
+   "credito": "Flèche en feu - Spire on Fire.png, converted into JPEG by Habitator terrae",
+   "nonfree": "",
+   "fecha": "Taken on 15 April 20",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Paris - Notre Dame.jpg",
+   "w": 2873,
+   "h": 1908,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Paris_-_Notre_Dame.jpg/330px-Paris_-_Notre_Dame.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Paris_-_Notre_Dame.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Paris_-_Notre_Dame.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Taxiarchos228",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-10",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  }
+ ]
 }

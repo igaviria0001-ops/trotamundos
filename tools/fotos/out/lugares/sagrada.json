@@ -1,5 +1,211 @@
 {
  "id": "sagrada",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q48435', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Sagrada Família",
+ "endesc": "Basilica under construction since 1882 in Barcelona, Spain",
+ "qid": "Q48435",
+ "coord": [
+  41.40369,
+  2.17433
+ ],
+ "label_es": "Templo Expiatorio de la Sagrada Familia",
+ "desc_es": "basílica católica de estilo modernista catalán en construcción en Barcelona, Cataluña, España",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1882-03-19T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 172.5,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 46.0,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 4830000.0,
+   "u": "1"
+  }
+ ],
+ "largo": [
+  {
+   "v": 90.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q120560",
+  "Q133747929"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": true,
+ "eswiki": "Templo Expiatorio de la Sagrada Familia",
+ "extracto_es": "El Templo Expiatorio de la Sagrada Familia (en catalán: Temple Expiatori de la Sagrada Família), conocido simplemente como la Sagrada Familia, es una basílica católica de Barcelona (España), diseñada por el arquitecto Antoni Gaudí. Iniciada en 1882, todavía está en construcción. Es la obra maestra de Gaudí y el máximo exponente de la arquitectura modernista catalana. Es el monumento más visitado de España,​ y es la iglesia más visitada de Europa tras la basílica de San Pedro del Vaticano.​ El 30 de octubre de 2025 se convirtió en la iglesia más alta del mundo.​\nLa Sagrada Familia es un reflejo de la plenitud artística de Gaudí: trabajó en ella durante la mayor parte de su carrera profesional, pero especialmente en los últimos años de su carrera, donde llegó a la culminación de su estilo naturalista, en la que logró una síntesis de todas las soluciones y estilos probados hasta aquel entonces. Gaudí logró una perfecta armonía en la interrelación entre los elementos estructurales y los ornamentales, entre plástica y estética, entre función y forma, entre contenido y continente, logrando la integración de todas las artes en un todo estructurado y lógico.​\nDesde 1915, Gaudí se dedicó prácticamente en exclusiva a la Sagrada Familia, que supone la síntesis de toda la evolución arquitectónica del arquitecto. Después de la realización de la cripta y el ábside, todavía en estilo neogótico, el resto del templo lo concibió en un estilo orgánico, que imita las formas de la naturaleza, donde abundan las formas geométricas regladas. El interior debía semejar un bosque, con un conjunto de columnas arborescentes inclinadas, de forma helicoidal, que crean una estructura a la vez simple y resistente. Gaudí aplicó en la Sagrada Familia todos sus hallazgos experimentados anteriormente en obras como el parque Güell o la cripta de la Colonia Güell y consiguió elaborar un templo estructuralmente perfecto a la vez que armónico y estético.\nLa Sagrada Familia tiene planta de cruz latina, de cinco naves centrales y transepto de tres naves, y ábside con siete capillas. Ostenta tres fachadas dedicadas al Nacimiento, Pasión y Gloria de Jesús y, cuando esté concluida, tendrá dieciocho torres: cuatro en cada portal, haciendo un total de doce por los apóstoles; cuatro sobre el crucero, invocando a los evangelistas; una sobre el ábside, dedicada a la Virgen; y la torre-cimborrio central, en honor a Jesús, que alcanza los 172,5 m de altura. El templo dispondrá de dos sacristías junto al ábsi",
+ "candidatas": [
+  {
+   "file": "File:SF maig 2026.jpg",
+   "w": 2588,
+   "h": 1786,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/SF_maig_2026.jpg/330px-SF_maig_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/SF_maig_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:SF_maig_2026.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Canaan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-05-01 10:35:51",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Sagrada Família 2010.JPG",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Sagrada_Fam%C3%ADlia_2010.JPG/330px-Sagrada_Fam%C3%ADlia_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Sagrada_Fam%C3%ADlia_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sagrada_Fam%C3%ADlia_2010.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jopparn",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-12-12 18:56:20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:SF octubre 26.jpg",
+   "w": 2151,
+   "h": 1507,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/SF_octubre_26.jpg/330px-SF_octubre_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/SF_octubre_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:SF_octubre_26.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Canaan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-10-12 10:32:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:(Barcelona) The Beggars Cathedral by Joaquim Mir - Museu Nacional d'Art de Catalunya.jpg",
+   "w": 5430,
+   "h": 4476,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%28Barcelona%29_The_Beggars_Cathedral_by_Joaquim_Mir_-_Museu_Nacional_d%27Art_de_Catalunya.jpg/330px-%28Barcelona%29_The_Beggars_Cathedral_by_Joaquim_Mir_-_Museu_Nacional_d%27Art_de_Catalunya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/%28Barcelona%29_The_Beggars_Cathedral_by_Joaquim_Mir_-_Museu_Nacional_d%27Art_de_Catalunya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:(Barcelona)_The_Beggars_Cathedral_by_Joaquim_Mir_-_Museu_Nacional_d%27Art_de_Catalunya.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Didier Descouens",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 23 August 2",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Apse of the Sagrada Família, Barcelona, 2023.jpg",
+   "w": 5883,
+   "h": 3227,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Apse_of_the_Sagrada_Fam%C3%ADlia%2C_Barcelona%2C_2023.jpg/330px-Apse_of_the_Sagrada_Fam%C3%ADlia%2C_Barcelona%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Apse_of_the_Sagrada_Fam%C3%ADlia%2C_Barcelona%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Apse_of_the_Sagrada_Fam%C3%ADlia,_Barcelona,_2023.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Julian Lupyan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-08-04 09:27:45",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Die Geburtsfassade der Sagrada Familia im Detail.jpg",
+   "w": 5413,
+   "h": 3609,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Die_Geburtsfassade_der_Sagrada_Familia_im_Detail.jpg/330px-Die_Geburtsfassade_der_Sagrada_Familia_im_Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Die_Geburtsfassade_der_Sagrada_Familia_im_Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Die_Geburtsfassade_der_Sagrada_Familia_im_Detail.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "User:A,Ocram",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-07 17:03:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sagrada Família, Columns.jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Sagrada_Fam%C3%ADlia%2C_Columns.jpg/330px-Sagrada_Fam%C3%ADlia%2C_Columns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Sagrada_Fam%C3%ADlia%2C_Columns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sagrada_Fam%C3%ADlia,_Columns.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Robertgombos",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-05-30 04:22:29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sagrada Família organ.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Sagrada_Fam%C3%ADlia_organ.jpg/330px-Sagrada_Fam%C3%ADlia_organ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sagrada_Fam%C3%ADlia_organ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sagrada_Fam%C3%ADlia_organ.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "TianLaoShi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-07-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
 }

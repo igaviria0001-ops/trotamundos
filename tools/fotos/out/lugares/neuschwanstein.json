@@ -1,5 +1,224 @@
 {
  "id": "neuschwanstein",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q4152', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Neuschwanstein Castle",
+ "endesc": "Palace in Bavaria, Germany",
+ "qid": "Q4152",
+ "coord": [
+  47.5574885428434,
+  10.74944180794
+ ],
+ "label_es": "Neuschwanstein",
+ "desc_es": "castillo en Baviera, Alemania",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1869-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 65.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 940.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 0.85,
+   "u": "Q35852"
+  },
+  {
+   "v": 2114.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q16560",
+  "Q23413",
+  "Q751876",
+  "Q33506"
+ ],
+ "p17": [
+  "Q183"
+ ],
+ "unesco": false,
+ "eswiki": "Neuschwanstein",
+ "extracto_es": "El castillo de Neuschwanstein (en alemán: Schloss Neuschwanstein, pronunciado /ˈʃlɔs nɔʏˈʃvaːnʃtaɪn/) está situado en el estado federado de Baviera, en Hohenschwangau, cerca de Füssen (Alemania). Lo mandó construir el rey Luis II de Baviera en 1869. Su nombre original era Nuevo castillo de Hohenschwangau,​ en honor al castillo donde el rey pasó gran parte de su infancia. El nombre fue cambiado después de la muerte del rey. Es uno de los castillos más famosos del mundo, el edificio más fotografiado de Alemania y uno de los destinos turísticos más populares en ese país, con 1,4 millones de visitantes anuales.​\nEl castillo de Neuschwanstein se construyó en una época en que los castillos y las fortalezas ya no eran necesarios desde el punto de vista estratégico. Nació en la imaginación de Luis II como una pura fantasía romántica de un castillo medieval idealizado. El castillo es una composición de torres y muros que pretendía armonizarse con las montañas y los lagos. Está situado sobre el desfiladero de Pöllat en los Alpes Bávaros y se alza junto al castillo de Hohenschwangau y los lagos Alpsee y Schwan.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Schloss Neuschwanstein 2013.jpg",
+   "w": 5979,
+   "h": 4468,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/330px-Schloss_Neuschwanstein_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Schloss_Neuschwanstein_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_2013.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-31",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 21,
+   "origen": "en"
+  },
+  {
+   "file": "File:Neuschwanstein Castle 2024-02.jpg",
+   "w": 15083,
+   "h": 10270,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Neuschwanstein_Castle_2024-02.jpg/330px-Neuschwanstein_Castle_2024-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Neuschwanstein_Castle_2024-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2024-02.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-02-03 07:32:57",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 18,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Neuschwanstein Castle LOC print rotated.jpg",
+   "w": 3502,
+   "h": 2554,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Neuschwanstein_Castle_LOC_print_rotated.jpg/330px-Neuschwanstein_Castle_LOC_print_rotated.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Neuschwanstein_Castle_LOC_print_rotated.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_LOC_print_rotated.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Unknown authorUnknown author",
+   "credito": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID ppmsca.00179.This tag does not indicate the copyright status of the attached ",
+   "nonfree": "",
+   "fecha": "between 1890 and 190",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Neuschwanstein Castle 33 10.jpg",
+   "w": 7001,
+   "h": 5054,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Neuschwanstein_Castle_33_10.jpg/330px-Neuschwanstein_Castle_33_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Neuschwanstein_Castle_33_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_33_10.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-02-03 09:39:52",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Schloss Neuschwanstein (45 mm).jpg",
+   "w": 7904,
+   "h": 6016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Schloss_Neuschwanstein_%2845_mm%29.jpg/330px-Schloss_Neuschwanstein_%2845_mm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Schloss_Neuschwanstein_%2845_mm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_(45_mm).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "AuHaidhausen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-07 15:14:36",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Schloss Neuschwanstein (49 mm).jpg",
+   "w": 8150,
+   "h": 5433,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Schloss_Neuschwanstein_%2849_mm%29.jpg/330px-Schloss_Neuschwanstein_%2849_mm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Schloss_Neuschwanstein_%2849_mm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_(49_mm).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "AuHaidhausen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-07 15:13:35",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Neuschwanstein, Schwangau, Alemania, 2015-02-15, DD 16.JPG",
+   "w": 5652,
+   "h": 3007,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Neuschwanstein%2C_Schwangau%2C_Alemania%2C_2015-02-15%2C_DD_16.JPG/330px-Neuschwanstein%2C_Schwangau%2C_Alemania%2C_2015-02-15%2C_DD_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Neuschwanstein%2C_Schwangau%2C_Alemania%2C_2015-02-15%2C_DD_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Neuschwanstein,_Schwangau,_Alemania,_2015-02-15,_DD_16.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-02-21 11:30:04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Vistas del castillo de Neuschwanstein, Alemania, 2012-10-06, DD 02.jpg",
+   "w": 3575,
+   "h": 2388,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Vistas_del_castillo_de_Neuschwanstein%2C_Alemania%2C_2012-10-06%2C_DD_02.jpg/330px-Vistas_del_castillo_de_Neuschwanstein%2C_Alemania%2C_2012-10-06%2C_DD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Vistas_del_castillo_de_Neuschwanstein%2C_Alemania%2C_2012-10-06%2C_DD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vistas_del_castillo_de_Neuschwanstein,_Alemania,_2012-10-06,_DD_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-10-07 14:27:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
 }

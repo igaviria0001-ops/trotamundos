@@ -1,5 +1,190 @@
 {
  "id": "matterhorn",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q1374', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Matterhorn",
+ "endesc": "Mountain in the Swiss and Italian Alps",
+ "qid": "Q1374",
+ "coord": [
+  45.97638888888889,
+  7.658611111111111
+ ],
+ "label_es": "Cervino",
+ "desc_es": "montaña ubicada entre Suiza e Italia",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 4477.54,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q8502"
+ ],
+ "p17": [
+  "Q39",
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Cervino",
+ "extracto_es": "El monte Cervino o Matterhorn es una montaña de los Alpes, situada en la frontera entre Suiza e Italia. Se trata de una gran cumbre piramidal casi simétrica situada en la región ampliada del Monte Rosa, en los Alpes Peninos, cuya cima alcanza los 4478 m s. n. m., lo que la convierte en una de las cumbres más elevadas de los Alpes y de Europa. A veces denominada la «montaña de las montañas» (en alemán: Berg der Berge),​el Cervino se ha convertido en un emblema indisociable de Suiza y de los Alpes en su conjunto. También ha sido descrito a menudo como la montaña más bella del mundo y se ha afirmado que es la montaña más fotografiada del planeta.​​​​\nEl Cervino presenta cuatro caras, cada una orientada aproximadamente hacia uno de los cuatro puntos cardinales. Tres de ellas —la septentrional, la oriental y la occidental— se encuentran en el lado suizo de la frontera y de la divisoria de aguas, mientras que la cara sur pertenece al lado italiano.​ Estas cuatro escarpadas paredes, que se elevan sobre los glaciares circundantes, están separadas por las aristas Hörnli, Furggen, Zmutt y Leone.​​ La montaña domina la localidad suiza de Zermatt, en el cantón del Valais, al noreste, y la localidad italiana de Breuil-Cervinia, en el Valle de Aosta, al sur.​​​ Inmediatamente al este del Cervino se encuentra el Paso de Teódulo, principal paso entre los dos valles situados a sus lados norte y sur, utilizado como ruta comercial desde la época romana.​​​\nEl Cervino fue estudiado por Horace-Bénédict de Saussure a finales del siglo XVIII; a ello siguieron las observaciones de otros destacados naturalistas y artistas, como John Ruskin, durante el siglo XIX. Permaneció sin ascender después de que la mayoría de las otras grandes cumbres alpinas ya hubieran sido conquistadas y se convirtió en objeto de una competición internacional por alcanzar su cima. La primera ascensión al Cervino tuvo lugar en 1865 desde Zermatt por una cordada dirigida por Edward Whymper, pero durante el descenso, una caída repentina causó la muerte de cuatro de los siete alpinistas. Este desastre, posteriormente recreado en varias películas, marcó el final de la edad de oro del alpinismo.​ La cara norte no fue escalada hasta 1931 y figura entre las tres grandes caras norte de los Alpes, conocidas como la «Trilogía». La cara occidental, la más alta de las cuatro del Cervino, no fue ascendida por completo hasta 1962. Se estima que más de 500 alpinistas han muerto en el Cervino, lo que lo convierte en una de",
+ "candidatas": [
+  {
+   "file": "File:Matterhorn sunset 2016 (Unsplash).jpg",
+   "w": 3840,
+   "h": 2560,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Matterhorn_sunset_2016_%28Unsplash%29.jpg/330px-Matterhorn_sunset_2016_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Matterhorn_sunset_2016_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Matterhorn_sunset_2016_(Unsplash).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Sam Ferrara samferrara",
+   "credito": "http://unsplash.com/photos/IEHPDNk2-8w\nImage at the Wayback Machine\n\nGallery at the Wayback Machine",
+   "nonfree": "",
+   "fecha": "2016-08-01",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2007 Matterhorn.jpg",
+   "w": 1562,
+   "h": 2234,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2007_Matterhorn.jpg/330px-2007_Matterhorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/2007_Matterhorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2007_Matterhorn.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Alps",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-09-12",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:043 Matterhorn reflecting in Stellisee at sunset Photo by Giles Laurent.jpg",
+   "w": 6877,
+   "h": 4585,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/043_Matterhorn_reflecting_in_Stellisee_at_sunset_Photo_by_Giles_Laurent.jpg/330px-043_Matterhorn_reflecting_in_Stellisee_at_sunset_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/043_Matterhorn_reflecting_in_Stellisee_at_sunset_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:043_Matterhorn_reflecting_in_Stellisee_at_sunset_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-08-19 20:28:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cervino cloud.jpg",
+   "w": 3024,
+   "h": 4032,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Cervino_cloud.jpg/330px-Cervino_cloud.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Cervino_cloud.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cervino_cloud.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gianluca Miscione",
+   "credito": "Gianluca Miscione",
+   "nonfree": "",
+   "fecha": "2021-07-23 13:25:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Matterhorn from Domhütte - 2.jpg",
+   "w": 1610,
+   "h": 1073,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Matterhorn_from_Domh%C3%BCtte_-_2.jpg/330px-Matterhorn_from_Domh%C3%BCtte_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Matterhorn_from_Domh%C3%BCtte_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domh%C3%BCtte_-_2.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen",
+   "credito": "Camptocamp.org",
+   "nonfree": "",
+   "fecha": "2011-07-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Sunrise on the Matterhorn.jpg",
+   "w": 6016,
+   "h": 4016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Sunrise_on_the_Matterhorn.jpg/330px-Sunrise_on_the_Matterhorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sunrise_on_the_Matterhorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunrise_on_the_Matterhorn.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jean Schmitt",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-09 06:57:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sunrise Matterhorn full Moon.jpg",
+   "w": 4893,
+   "h": 3270,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sunrise_Matterhorn_full_Moon.jpg/330px-Sunrise_Matterhorn_full_Moon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sunrise_Matterhorn_full_Moon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunrise_Matterhorn_full_Moon.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nicojonesgodel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-09-04 06:06:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Alps of Switzerland Matterhorn (23979169808).jpg",
+   "w": 5752,
+   "h": 3835,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Alps_of_Switzerland_Matterhorn_%2823979169808%29.jpg/330px-Alps_of_Switzerland_Matterhorn_%2823979169808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Alps_of_Switzerland_Matterhorn_%2823979169808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alps_of_Switzerland_Matterhorn_(23979169808).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "kuhnmi",
+   "credito": "Matterhorn",
+   "nonfree": "",
+   "fecha": "2016-05-04 09:39",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
 }

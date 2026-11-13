@@ -1,5 +1,214 @@
 {
  "id": "brandeburgo",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q82425', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Brandenburg Gate",
+ "endesc": "Triumphal arch and gate in Berlin, Germany",
+ "qid": "Q82425",
+ "coord": [
+  52.516272222222,
+  13.377722222222
+ ],
+ "label_es": "Puerta de Brandeburgo",
+ "desc_es": "puerta triunfal clásica en Berlín",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1791-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1791-08-06T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 26.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q143912",
+  "Q2319498",
+  "Q757292",
+  "Q1128637",
+  "Q82117"
+ ],
+ "p17": [
+  "Q183"
+ ],
+ "unesco": false,
+ "eswiki": "Puerta de Brandeburgo",
+ "extracto_es": "La Puerta de Brandeburgo (en alemán: Brandenburger Tor; pronunciado /ˈbʁandn̩ˌbʊʁɡɐ ˈtoːɐ̯/ ()) es un monumento neoclásico del siglo xviii situado en Berlín, construido por orden del rey de Prusia, Federico Guillermo II, después de reprimir la revuelta popular holandesa y restaurar el poder orangista en los Países Bajos.​ Es uno de los monumentos más conocidos de Alemania, y fue construida en la ubicación de la antigua puerta de la ciudad en la que comenzaba la carretera que conducía de Berlín a la Ciudad de Brandeburgo (en alemán: Brandenburg an der Havel), que era la capital del Margraviato de Brandeburgo.\nEstá situada en la parte occidental del centro de Berlín, en Mitte, en la intersección de Unter den Linden y Ebertstraße, al oeste de la plaza de París. Una manzana al norte está el edificio del Reichstag, que alberga el Parlamento alemán (Bundestag). La puerta constituye la entrada monumental a Unter den Linden, un bulevar con tilos que conduce directamente al Palacio Real de los monarcas prusianos.\nA lo largo de toda su historia, en la Puerta de Brandeburgo se han producido importantes eventos históricos y en la actualidad es considerada un símbolo no solo de la tumultuosa historia de Alemania y de Europa, sino también de la paz y de la integración europea.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Brandenburger Tor morgens.jpg",
+   "w": 5009,
+   "h": 3347,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Brandenburger_Tor_morgens.jpg/330px-Brandenburger_Tor_morgens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Brandenburger_Tor_morgens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_morgens.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 10 July 201",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Brandenburger Tor abends.jpg",
+   "w": 1920,
+   "h": 1280,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-05-03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 12,
+   "origen": "en"
+  },
+  {
+   "file": "File:Berlin, Brandenburger Tor, 2014-07 CN-03.jpg",
+   "w": 2850,
+   "h": 1888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlin%2C_Brandenburger_Tor%2C_2014-07_CN-03.jpg/330px-Berlin%2C_Brandenburger_Tor%2C_2014-07_CN-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Berlin%2C_Brandenburger_Tor%2C_2014-07_CN-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Brandenburger_Tor,_2014-07_CN-03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kaʁstn – Steffen Schmitz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-07-11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Berlin, Brandenburger Tor, 2014-07 CN-01.jpg",
+   "w": 2850,
+   "h": 1888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Berlin%2C_Brandenburger_Tor%2C_2014-07_CN-01.jpg/330px-Berlin%2C_Brandenburger_Tor%2C_2014-07_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Berlin%2C_Brandenburger_Tor%2C_2014-07_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Brandenburger_Tor,_2014-07_CN-01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kaʁstn – Steffen Schmitz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-07-11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Berlin, Brandenburger Tor, 2014-07 CN-02.jpg",
+   "w": 2850,
+   "h": 1888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Berlin%2C_Brandenburger_Tor%2C_2014-07_CN-02.jpg/330px-Berlin%2C_Brandenburger_Tor%2C_2014-07_CN-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Berlin%2C_Brandenburger_Tor%2C_2014-07_CN-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Berlin,_Brandenburger_Tor,_2014-07_CN-02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kaʁstn – Steffen Schmitz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-07-11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Berlin - 0266 - 16052015 - Brandenburger Tor.jpg",
+   "w": 4963,
+   "h": 3309,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg/330px-Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Pierre-Selim Huard",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "2015-05-16",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Brandenburger Tor nachts.jpg",
+   "w": 5138,
+   "h": 2584,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Brandenburger_Tor_nachts.jpg/330px-Brandenburger_Tor_nachts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Brandenburger_Tor_nachts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_nachts.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 21 May 2012",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Brandenburger Tor by night.jpg",
+   "w": 2375,
+   "h": 1834,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Brandenburger_Tor_by_night.jpg/330px-Brandenburger_Tor_by_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Brandenburger_Tor_by_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_by_night.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Pudelek (Marcin Szala)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
 }

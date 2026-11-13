@@ -1,5 +1,206 @@
 {
  "id": "venecia",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q309243', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Grand Canal (Venice)",
+ "endesc": "Water channel in Venice, Italy",
+ "qid": "Q309243",
+ "label_es": "Gran Canal",
+ "desc_es": "Mayor canal de Venecia",
+ "coord": [
+  45.44222222222222,
+  12.32638888888889
+ ],
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 0.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 3.8,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q12284",
+  "Q83620"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Gran Canal de Venecia",
+ "extracto_es": "El Gran Canal es el mayor canal de la ciudad de Venecia, la mayor zona húmeda de este país gracias a los múltiples canales de distinta longitud y anchura que lo riegan, en Italia. Este recorre Venecia trazando una 'S' invertida y le sigue en tamaño e importancia el Canal de Cannaregio.",
+ "candidatas": [
+  {
+   "file": "File:Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg",
+   "w": 5387,
+   "h": 2394,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg/330px-Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Canal_Grande_and_Ponte_di_Rialto,_Venice_-_September_2017.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-09-23 13:28:21",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 19,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Ponte di Rialto Venice 1.jpg",
+   "w": 5100,
+   "h": 3385,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ponte_di_Rialto_Venice_1.jpg/330px-Ponte_di_Rialto_Venice_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ponte_di_Rialto_Venice_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ponte_di_Rialto_Venice_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-12-11 18:06:30",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:View of the Grand Canal from Rialto to Ca'Foscari.jpg",
+   "w": 7360,
+   "h": 4026,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg/330px-View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Didier Descouens",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 1 November ",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 13,
+   "origen": "en"
+  },
+  {
+   "file": "File:Basilica Santa Maria della Salute Venice 2.jpg",
+   "w": 5000,
+   "h": 3500,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Basilica_Santa_Maria_della_Salute_Venice_2.jpg/330px-Basilica_Santa_Maria_della_Salute_Venice_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Basilica_Santa_Maria_della_Salute_Venice_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Basilica_Santa_Maria_della_Salute_Venice_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-06-13 17:31",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ca' d'Oro facciata.jpg",
+   "w": 4272,
+   "h": 3750,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Ca%27_d%27Oro_facciata.jpg/330px-Ca%27_d%27Oro_facciata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ca%27_d%27Oro_facciata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ca%27_d%27Oro_facciata.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Didier Descouens",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 10 May 2011",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rialto 2025 4.jpg",
+   "w": 5100,
+   "h": 3400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Rialto_2025_4.jpg/330px-Rialto_2025_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Rialto_2025_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rialto_2025_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-06-13 17:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Venice Ponte dell'Accademia Grand Canal santa Maria della Salute 2.jpg",
+   "w": 5400,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Venice_Ponte_dell%27Accademia_Grand_Canal_santa_Maria_della_Salute_2.jpg/330px-Venice_Ponte_dell%27Accademia_Grand_Canal_santa_Maria_della_Salute_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Venice_Ponte_dell%27Accademia_Grand_Canal_santa_Maria_della_Salute_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Venice_Ponte_dell%27Accademia_Grand_Canal_santa_Maria_della_Salute_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-12-31 18:20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:VeniceCanalGrandeMariaSalute.jpg",
+   "w": 2978,
+   "h": 1986,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/VeniceCanalGrandeMariaSalute.jpg/330px-VeniceCanalGrandeMariaSalute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/VeniceCanalGrandeMariaSalute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:VeniceCanalGrandeMariaSalute.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Andreas Tille",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2003-05-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  }
+ ]
 }

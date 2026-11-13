@@ -1,5 +1,210 @@
 {
  "id": "trevi",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q185382', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Trevi Fountain",
+ "endesc": "Fountain in Rome, Italy",
+ "qid": "Q185382",
+ "coord": [
+  41.900932251961315,
+  12.48331263850277
+ ],
+ "label_es": "Fontana di Trevi",
+ "desc_es": "fuente barroca en Roma",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1732-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1762-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 26.3,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q860861",
+  "Q483453"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Fontana di Trevi",
+ "extracto_es": "La Fontana de Trevi (en italiano Fontana di Trevi), con casi 50 metros de frente, es una de las mayores fuentes monumentales del Barroco en Roma (Italia). Según la actual división administrativa del centro de Roma, está situada en el rione de Trevi. Ubicada en la fachada trasera del Palacio Poli, está estructurada como un arco de triunfo.",
+ "candidatas": [
+  {
+   "file": "File:Trevi Fountain - Roma.jpg",
+   "w": 8734,
+   "h": 4738,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Trevi_Fountain_-_Roma.jpg/330px-Trevi_Fountain_-_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Trevi_Fountain_-_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "NikonZ7II",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-02-13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Trevi-Brunnen abends.jpg",
+   "w": 4187,
+   "h": 3076,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Trevi-Brunnen_abends.jpg/330px-Trevi-Brunnen_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Trevi-Brunnen_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trevi-Brunnen_abends.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 30 May 2016",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Trevi fountain - details 1.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Trevi_fountain_-_details_1.jpg/330px-Trevi_fountain_-_details_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Trevi_fountain_-_details_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trevi_fountain_-_details_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Livioandronico2013",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-11-15 13:32:48",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Fontana di Trevi by TC.jpg",
+   "w": 4000,
+   "h": 6000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Fontana_di_Trevi_by_TC.jpg/330px-Fontana_di_Trevi_by_TC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Fontana_di_Trevi_by_TC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fontana_di_Trevi_by_TC.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tomascastelazo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-02-18 08:06:05",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Fuente de Trevi, Roma, Italia, 2022-09-15, DD 07.jpg",
+   "w": 8156,
+   "h": 5437,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Fuente_de_Trevi%2C_Roma%2C_Italia%2C_2022-09-15%2C_DD_07.jpg/330px-Fuente_de_Trevi%2C_Roma%2C_Italia%2C_2022-09-15%2C_DD_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fuente_de_Trevi%2C_Roma%2C_Italia%2C_2022-09-15%2C_DD_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fuente_de_Trevi,_Roma,_Italia,_2022-09-15,_DD_07.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 15 Septembe",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Fontana di Trevi 2023.jpg",
+   "w": 7568,
+   "h": 5668,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Fontana_di_Trevi_2023.jpg/330px-Fontana_di_Trevi_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Fontana_di_Trevi_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fontana_di_Trevi_2023.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fiat 500e",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-21 12:39:11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Panorama of Trevi fountain 2015.jpg",
+   "w": 6888,
+   "h": 4554,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_of_Trevi_fountain_2015.jpg/330px-Panorama_of_Trevi_fountain_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Panorama_of_Trevi_fountain_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Trevi_fountain_2015.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Livioandronico2013",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 1 December ",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Trevi Fountain detail amk.jpg",
+   "w": 2700,
+   "h": 1800,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Trevi_Fountain_detail_amk.jpg/330px-Trevi_Fountain_detail_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Trevi_Fountain_detail_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain_detail_amk.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "AngMoKio",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-08-07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  }
+ ]
 }

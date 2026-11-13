@@ -1,5 +1,239 @@
 {
  "id": "pisa",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q39054', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Leaning Tower of Pisa",
+ "endesc": "Bell tower in Pisa, Italy",
+ "qid": "Q39054",
+ "coord": [
+  43.72301,
+  10.396624
+ ],
+ "label_es": "Torre de Pisa",
+ "desc_es": "campanario de la catedral de Pisa, en Italia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1173-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1373-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 58.36,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 210.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 500.0,
+   "u": "Q25343"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 3200000.0,
+   "u": "1"
+  },
+  {
+   "v": 167393.0,
+   "u": "1"
+  },
+  {
+   "v": 564974.0,
+   "u": "1"
+  },
+  {
+   "v": 579842.0,
+   "u": "1"
+  },
+  {
+   "v": 215099.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q72926449",
+  "Q797765"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Torre de Pisa",
+ "extracto_es": "La torre de Pisa o torre inclinada de Pisa (en italiano: torre pendente di Pisa) es la torre campanario de la catedral de Pisa, situada en la plaza del Duomo de Pisa, en la ciudad del mismo nombre, municipio de la región italiana de la Toscana y capital de la provincia homónima de Italia. Su altura original era de 60 m aunque actualmente mide 56.67 m desde la base en el lado más alto y 55.86 m desde la base en su lado más bajo.​ Su peso se estima en 14 500 toneladas y su inclinación es de unos 4°, extendiéndose 4.0 m de la vertical. Tiene ocho niveles: una base de arcos ciegos con 15 columnas, seis niveles adornados con arcadas abiertas de medio punto, y un campanario en la cima. La escalera interna en espiral tiene 251 escalones. Está considerada, junto a la catedral de la que forma parte, una de las joyas del arte Románico.\nLa torre comenzó a inclinarse durante su construcción en agosto de 1173, debido a que el suelo era blando y no podía soportar adecuadamente el peso de la estructura. La inclinación empeoró hasta la finalización de la construcción en el siglo XIV. En 1990, la inclinación había alcanzado los 5,5 grados.​​​ La estructura se estabilizó mediante trabajos de reparación entre 1993 y 2001, que redujeron la inclinación a 3,97 grados.​\nEl gobierno italiano solicitó ayuda el 27 de febrero de 1964 para evitar su derrumbe, y el 7 de enero de 1990 fue cerrada al público como medida de seguridad. En mayo de 2008, después de la eliminación de 70 toneladas métricas (70 000 kg) de tierra, los ingenieros de la torre anunciaron que se había estabilizado de tal forma que había dejado de moverse por primera vez en su historia. Se indicó que iba a ser estable durante al menos 200 años. Se volvió a permitir la entrada al público el 16 de junio de 2011, después de la finalización de 20 años de trabajo. ( escuche el sonido de las campanas.).\nEn 1987, el conjunto patrimonial de la plaza del Duomo fue declarado Patrimonio de la Humanidad por la Unesco.​",
+ "candidatas": [
+  {
+   "file": "File:The Duomo and Tower of Pisa at sunrise.jpg",
+   "w": 4600,
+   "h": 2878,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg/330px-The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "MHoser",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 29 Septembe",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Piazza dei Miracoli (Pisa) 2023.jpg",
+   "w": 10153,
+   "h": 6087,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Piazza_dei_Miracoli_%28Pisa%29_2023.jpg/330px-Piazza_dei_Miracoli_%28Pisa%29_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Piazza_dei_Miracoli_%28Pisa%29_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Miracoli_(Pisa)_2023.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "PaestumPaestum",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-24 10:56:16",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Italy - Pisa - Leaning Tower.jpg",
+   "w": 3257,
+   "h": 4544,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg/330px-Italy_-_Pisa_-_Leaning_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Leaning_Tower.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Arne Müseler",
+   "credito": "own work\nhttp://www.arne-mueseler.com",
+   "nonfree": "",
+   "fecha": "2022-04-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Exterior of the Leaning Tower (Pisa) in April 2023.4.jpg",
+   "w": 5037,
+   "h": 7135,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Exterior_of_the_Leaning_Tower_%28Pisa%29_in_April_2023.4.jpg/330px-Exterior_of_the_Leaning_Tower_%28Pisa%29_in_April_2023.4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Exterior_of_the_Leaning_Tower_%28Pisa%29_in_April_2023.4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Leaning_Tower_(Pisa)_in_April_2023.4.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "PaestumPaestum",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-04-24 11:00:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Exterior of the Leaning Tower (Pisa) in April 2023.3.jpg",
+   "w": 4004,
+   "h": 5971,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Exterior_of_the_Leaning_Tower_%28Pisa%29_in_April_2023.3.jpg/330px-Exterior_of_the_Leaning_Tower_%28Pisa%29_in_April_2023.3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Exterior_of_the_Leaning_Tower_%28Pisa%29_in_April_2023.3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Leaning_Tower_(Pisa)_in_April_2023.3.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "PaestumPaestum",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-04-24 10:56:06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Pisa - Leaning Tower.jpg",
+   "w": 3381,
+   "h": 5035,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Pisa_-_Leaning_Tower.jpg/330px-Pisa_-_Leaning_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Pisa_-_Leaning_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pisa_-_Leaning_Tower.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ingo Mehling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-09-09 12:56:14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cos de campanes de la torre de Pisa.JPG",
+   "w": 3664,
+   "h": 2748,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Cos_de_campanes_de_la_torre_de_Pisa.JPG/330px-Cos_de_campanes_de_la_torre_de_Pisa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cos_de_campanes_de_la_torre_de_Pisa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cos_de_campanes_de_la_torre_de_Pisa.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Joanbanjo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-02-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Italy - Pisa - Cathedral Square.jpg",
+   "w": 5151,
+   "h": 2945,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Italy_-_Pisa_-_Cathedral_Square.jpg/330px-Italy_-_Pisa_-_Cathedral_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Italy_-_Pisa_-_Cathedral_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Cathedral_Square.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Arne Müseler",
+   "credito": "own work\nhttp://www.arne-mueseler.com",
+   "nonfree": "",
+   "fecha": "2022-04-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
 }

@@ -1,5 +1,202 @@
 {
  "id": "puentecarlos",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q204871', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Charles Bridge",
+ "endesc": "Medieval stone arch bridge across the Vltava river in Prague, Czechia",
+ "qid": "Q204871",
+ "coord": [
+  50.086388888889,
+  14.411944444444
+ ],
+ "label_es": "puente Carlos",
+ "desc_es": "puente en Praga, República Checa",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1357-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1402-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 13.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 515.76,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q3397526",
+  "Q158438",
+  "Q1068842",
+  "Q79007"
+ ],
+ "p17": [
+  "Q213"
+ ],
+ "unesco": false,
+ "eswiki": "Puente Carlos",
+ "extracto_es": "El puente de Carlos (en checo: ) es el puente más viejo de Praga y atraviesa el río Moldava de la Ciudad Vieja a la Ciudad Pequeña. Es el segundo puente más antiguo existente en la República Checa.\nSu construcción comenzó en 1357 con el visto bueno del rey Carlos IV y fue finalizado en 1402. Dado que en ese entonces constituía la única forma de cruzar el río, el puente de Carlos se transformó en la vía de comunicación más importante entre la Ciudad Vieja, el Castillo de Praga y las zonas adyacentes hasta 1841. El puente fue también una conexión importante para el comercio entre la Europa Oriental y la Occidental.\nOriginalmente esta vía de comunicación se llamaba puente de Piedra (Kamenný most) o puente de Praga (Pražský most), pero lleva su denominación actual desde 1870.\nEl puente tiene una longitud de 516 metros y la anchura es de casi 10 metros, al tiempo que se encuentra apoyado en 16 arcos. Está protegido por 3 torres distribuidas entre sus dos cabeceras, dos de ellas en Malá Strana y la restante en el extremo ubicado en la Ciudad Vieja. La torre localizada en la cabecera de la Ciudad Vieja es considerada por muchos como una de las obras más impresionantes de la arquitectura gótica en el mundo. El puente está decorado por 30 estatuas situadas a ambos lados del mismo, la mayor parte de las cuales son de estilo barroco y fueron esculpidas alrededor del 1700.\nDurante las noches, el puente de Carlos es un testigo silencioso de los tiempos medievales. Pero durante el día, su cara cambia completamente y se transforma en un sitio muy transitado. Artistas y comerciantes tratan de hacer dinero a expensas del importante flujo de turistas que todos los días visitan el lugar.",
+ "candidatas": [
+  {
+   "file": "File:Karlův most z Kampy.JPG",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Karl%C5%AFv_most_z_Kampy.JPG/330px-Karl%C5%AFv_most_z_Kampy.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Karl%C5%AFv_most_z_Kampy.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Karl%C5%AFv_most_z_Kampy.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "David Sedlecký",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-02-02 16:23:46",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Charles Bridge Night.jpg",
+   "w": 4272,
+   "h": 2856,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Charles_Bridge_Night.jpg/330px-Charles_Bridge_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Charles_Bridge_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Charles_Bridge_Night.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Teije Visser",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-01-01 22:18:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:In the Charles Bridge 05.jpg",
+   "w": 4096,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/In_the_Charles_Bridge_05.jpg/330px-In_the_Charles_Bridge_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/In_the_Charles_Bridge_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:In_the_Charles_Bridge_05.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Ferfive",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-05-18 19:22:52",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2022-12-23 Charles Bridge, Prague.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2022-12-23_Charles_Bridge%2C_Prague.jpg/330px-2022-12-23_Charles_Bridge%2C_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/2022-12-23_Charles_Bridge%2C_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-12-23_Charles_Bridge,_Prague.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Maxim75",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-12-23 13:49:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Charles Bridge (Karlův most), Vltava River, Prague, 2015.jpg",
+   "w": 3600,
+   "h": 2238,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Charles_Bridge_%28Karl%C5%AFv_most%29%2C_Vltava_River%2C_Prague%2C_2015.jpg/330px-Charles_Bridge_%28Karl%C5%AFv_most%29%2C_Vltava_River%2C_Prague%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Charles_Bridge_%28Karl%C5%AFv_most%29%2C_Vltava_River%2C_Prague%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Charles_Bridge_(Karl%C5%AFv_most),_Vltava_River,_Prague,_2015.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Peter K Burian",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-06-07 05:14:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:In the Charles Bridge 04.jpg",
+   "w": 4096,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/In_the_Charles_Bridge_04.jpg/330px-In_the_Charles_Bridge_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/In_the_Charles_Bridge_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:In_the_Charles_Bridge_04.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Ferfive",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-05-18 19:22:12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Charles Bridge - panoramio - Vip Ciacci (4).jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Charles_Bridge_-_panoramio_-_Vip_Ciacci_%284%29.jpg/330px-Charles_Bridge_-_panoramio_-_Vip_Ciacci_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Charles_Bridge_-_panoramio_-_Vip_Ciacci_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Charles_Bridge_-_panoramio_-_Vip_Ciacci_(4).jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Vip Ciacci",
+   "credito": "https://web.archive.org/web/20161012052814/http://www.panoramio.com/photo/17448196",
+   "nonfree": "",
+   "fecha": "Taken on 30 December",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Castle of Prague from the Charles Bridge.jpg",
+   "w": 2704,
+   "h": 1801,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Castle_of_Prague_from_the_Charles_Bridge.jpg/330px-Castle_of_Prague_from_the_Charles_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Castle_of_Prague_from_the_Charles_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castle_of_Prague_from_the_Charles_Bridge.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Unknown authorUnknown author",
+   "credito": "File:The Czechoslovak Review, vol3, 1919.djvu",
+   "nonfree": "",
+   "fecha": "1919",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  }
+ ]
 }

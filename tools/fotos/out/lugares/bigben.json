@@ -1,5 +1,223 @@
 {
  "id": "bigben",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q41225', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Big Ben",
+ "endesc": "Clock tower in London, England",
+ "qid": "Q41225",
+ "coord": [
+  51.50067,
+  -0.12457
+ ],
+ "label_es": "Big Ben",
+ "desc_es": "torre del Palacio de Westminster en Londres, Inglaterra",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1843-09-28T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P571",
+   "time": "+1858-04-10T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 96.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 17.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q3139104",
+  "Q1128637",
+  "Q1480017",
+  "Q391414",
+  "Q797765",
+  "Q853854",
+  "Q815448",
+  "Q5191724",
+  "Q138800422",
+  "Q101401"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": false,
+ "eswiki": "Big Ben",
+ "extracto_es": "Big Ben es el nombre con el que se conoce a la gran campana del reloj situado en el extremo noroeste del Palacio de Westminster, la sede del Parlamento del Reino Unido, en Londres.​​ Popularmente, este nombre se utiliza por extensión para referirse también al reloj de la torre. Su nombre oficial era Clock Tower​​ («Torre del Reloj»), hasta que en 2012 pasó a denominarse Elizabeth Tower («Torre de Isabel»), en honor al Jubileo de Diamante de la reina Isabel II.​​ Se trata de un reloj de sonería con cinco campanas y cuatro esferas. Es el más grande del mundo y la decimocuarta torre de reloj más alta del mundo.​ \nLa torre fue diseñada por los arquitectos Charles Barry y Augustus Pugin en estilo gótico perpendicular, y fue completada en 1859. Está decorada con piedra tallada y contiene símbolos de las naciones del Reino Unido y de la Casa de Tudor. Una inscripción en latín bajo cada uno de los cuatro relojes rinde homenaje a la reina Victoria, durante cuyo reinado se construyó el palacio.​ Tiene una altura de 96 metros y la subida desde el nivel del suelo hasta el campanario es de 334 escalones. Su base es cuadrada, de 12 metros de lado, y los cuatro relojes tienen un diámetro de 6,9 metros.\nEl reloj continúa utilizando su mecanismo original, y al finalizar su construcción fue el reloj de cuatro esferas con sonería y carillón más grande y preciso del mundo.​ Fue diseñado por Edmund Beckett y el astrónomo real George Biddell Airy, y construido por Edward John Dent y su hijastro Frederick Dent. El reloj es conocido por su fiabilidad y puede ajustarse añadiendo o quitando peniques del péndulo. La campana principal pesa 13,5 toneladas largas (13,7 t; 15,1 ST).​ Su apodo, «Big Ben», se debe al político Benjamin Hall, quien supervisó su instalación. También hay otras cuatro campanas menores que marcan los cuartos de hora.\nEl Big Ben es un icono cultural británico y uno de los símbolos más prominentes del Reino Unido y de la democracia parlamentaria.​ Frecuentemente aparece como plano de establecimiento en películas, series de televisión, programas o documentales ambientados en Londres.​ Las campanadas se transmiten en directo por BBC Radio 4 todos los días antes de las noticias a las 18:00 y a las 00:00, y también a las 22:00 los domingos.​ Forma parte de un monumento clasificado de Grado I desde 1970, el cual fue también declarado Patrimonio de la Humanidad por la Unesco en 1987.​ El reloj y la torre fueron restaurados entre 2017 y 2021, y durante ese tiempo, las c",
+ "candidatas": [
+  {
+   "file": "File:London Big Ben Inner Clock Face 1070925-PSD.jpg",
+   "w": 2811,
+   "h": 2720,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg/330px-London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-07-30 11:31:22",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Palace of Westminster seen from the north bank of the Thames, London.jpg",
+   "w": 12233,
+   "h": 6881,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Palace_of_Westminster_seen_from_the_north_bank_of_the_Thames%2C_London.jpg/330px-Palace_of_Westminster_seen_from_the_north_bank_of_the_Thames%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Palace_of_Westminster_seen_from_the_north_bank_of_the_Thames%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_seen_from_the_north_bank_of_the_Thames,_London.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-07-17 14:47:31",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Big Ben Elizabeth Tower London 2023 01 Detail.jpg",
+   "w": 3909,
+   "h": 3283,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Big_Ben_Elizabeth_Tower_London_2023_01_Detail.jpg/330px-Big_Ben_Elizabeth_Tower_London_2023_01_Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Big_Ben_Elizabeth_Tower_London_2023_01_Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Big_Ben_Elizabeth_Tower_London_2023_01_Detail.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Julian Herzog (Website)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-11-17 13:00:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Big Ben, Londres, Inglaterra, 2022-11-23, DD 70-72 HDR.jpg",
+   "w": 4705,
+   "h": 7058,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Big_Ben%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_70-72_HDR.jpg/330px-Big_Ben%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_70-72_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Big_Ben%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_70-72_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Big_Ben,_Londres,_Inglaterra,_2022-11-23,_DD_70-72_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-23 19:30:42",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Big Ben, Londres, Inglaterra, 2022-11-23, DD 73-75 HDR.jpg",
+   "w": 4731,
+   "h": 7097,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Big_Ben%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_73-75_HDR.jpg/330px-Big_Ben%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_73-75_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Big_Ben%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_73-75_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Big_Ben,_Londres,_Inglaterra,_2022-11-23,_DD_73-75_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-23 19:34:38",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Big Ben - 04.jpg",
+   "w": 1800,
+   "h": 2700,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Big_Ben_-_04.jpg/330px-Big_Ben_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Big_Ben_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Big_Ben_-_04.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Carlos Delgado",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-10-14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Big Ben, Londres, Inglaterra, 2014-08-07, DD 014.JPG",
+   "w": 3473,
+   "h": 5209,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Big_Ben%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_014.JPG/330px-Big_Ben%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Big_Ben%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Big_Ben,_Londres,_Inglaterra,_2014-08-07,_DD_014.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-07 13:33:08",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Big Ben 2018.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Big_Ben_2018.jpg/330px-Big_Ben_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Big_Ben_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Big_Ben_2018.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Miyagi165",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-08-19 11:59:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
 }

@@ -1,5 +1,204 @@
 {
  "id": "montsaintmichel",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q20892', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Mont-Saint-Michel",
+ "endesc": "Tidal island in Normandy, France",
+ "qid": "Q20892",
+ "coord": [
+  48.635833333333,
+  -1.5102777777778
+ ],
+ "label_es": "Monte Saint-Michel",
+ "desc_es": "comuna francesa",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 17.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 3.97,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q484170",
+  "Q64953083"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": false,
+ "eswiki": "Monte Saint-Michel (comuna)",
+ "extracto_es": "Monte Saint-Michel (en francés Le Mont-Saint-Michel)​ es una comuna francesa situada en el departamento de Mancha, de la región de Normandía que incluye tanto una porción de territorio continental como el famoso Monte Saint-Michel.\nLa posición de la comuna, en una isla a pocos cientos de metros de tierra, la hacía accesible con la marea baja para los numerosos peregrinos que acudían a la abadía del mismo nombre, pero defendible, ya que la subida de la marea hacía que los posibles asaltantes quedaran varados, expulsados o ahogados. La isla permaneció invicta durante la guerra de los Cien Años; una pequeña guarnición repelió un ataque total de los ingleses en 1433.​ Luis XI reconoció los beneficios inversos de su defensa natural y lo convirtió en una prisión. La abadía fue utilizada regularmente como prisión durante el Antiguo Régimen.\nEl Monte Saint-Michel y su bahía circundante fueron inscritos en la lista de Patrimonio de la Humanidad de la UNESCO en 1979 por su estética única y su importancia como lugar cristiano medieval.​ Es visitado por más de 3 millones de personas cada año. Más de 60 edificios del municipio están protegidos en Francia como monumentos históricos.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Mont St Michel at sunrise.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Mont_St_Michel_at_sunrise.jpg/330px-Mont_St_Michel_at_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mont_St_Michel_at_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_at_sunrise.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 11 August 2",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mont St Michel 3, Brittany, France - July 2011.jpg",
+   "w": 2811,
+   "h": 1993,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Mont_St_Michel_3%2C_Brittany%2C_France_-_July_2011.jpg/330px-Mont_St_Michel_3%2C_Brittany%2C_France_-_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Mont_St_Michel_3%2C_Brittany%2C_France_-_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_3,_Brittany,_France_-_July_2011.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-07-05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Mont-Saint-Michel vu du ciel.jpg",
+   "w": 4000,
+   "h": 2250,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/330px-Mont-Saint-Michel_vu_du_ciel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Mont-Saint-Michel_vu_du_ciel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Amaustan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-09 07:53:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Bridge to Mont St Michel (2).jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Bridge_to_Mont_St_Michel_%282%29.jpg/330px-Bridge_to_Mont_St_Michel_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bridge_to_Mont_St_Michel_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bridge_to_Mont_St_Michel_(2).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-08-11 10:48:33",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mont St Michel – ramparts (2).jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mont_St_Michel_%E2%80%93_ramparts_%282%29.jpg/330px-Mont_St_Michel_%E2%80%93_ramparts_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mont_St_Michel_%E2%80%93_ramparts_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_%E2%80%93_ramparts_(2).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-08-11 10:09:22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mont St Michel – ramparts (1).jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mont_St_Michel_%E2%80%93_ramparts_%281%29.jpg/330px-Mont_St_Michel_%E2%80%93_ramparts_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mont_St_Michel_%E2%80%93_ramparts_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_%E2%80%93_ramparts_(1).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-08-11 10:06:58",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:MSM sunset 02.JPG",
+   "w": 1944,
+   "h": 1282,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/MSM_sunset_02.JPG/330px-MSM_sunset_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/MSM_sunset_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:MSM_sunset_02.JPG",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Benh LIEU SONG",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-12-20",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Mont St Michel after sunrise.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Mont_St_Michel_after_sunrise.jpg/330px-Mont_St_Michel_after_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Mont_St_Michel_after_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_after_sunrise.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-08-11 07:54:04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
 }

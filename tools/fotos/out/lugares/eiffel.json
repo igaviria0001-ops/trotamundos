@@ -1,5 +1,226 @@
 {
  "id": "eiffel",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q243', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Eiffel Tower",
+ "endesc": "Tower in Paris, France",
+ "qid": "Q243",
+ "coord": [
+  48.858296,
+  2.294479
+ ],
+ "label_es": "torre Eiffel",
+ "desc_es": "monumento en París, Francia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1887-01-28T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1889-03-31T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1889-05-15T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 330.0,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 6207303.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q1440476",
+  "Q1440300",
+  "Q2319498"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": false,
+ "eswiki": "Torre Eiffel",
+ "extracto_es": "La torre Eiffel​ (en francés: Tour Eiffel, pronunciado /tuʁ ɛfɛl/; es de la propiedad del bar, «Torre de 300 metros») es una estructura de tipo torre de celosía de hierro pudelado, nombrada ante el ingeniero francés Gustave Eiffel, cuya empresa y sus colaboradores diseñaron y construyeron la torre para la Exposición Universal de 1889 en París (Francia).​\nUbicada en el extremo del Campo de Marte a la orilla del río Sena, este monumento parisino, símbolo de Francia y de su capital, es la estructura más alta de la ciudad y el monumento turístico más visitado del mundo, con 7,1 millones de turistas cada año.​ Con una altura de 300 metros, prolongada más tarde con una antena hasta los 324 metros, la torre Eiffel fue la estructura más elevada del mundo durante cuarenta y un años.​ Es el monumento de pago más visitado del mundo.​\nFue construida en dos años, dos meses y cinco días, y en su momento generó cierta controversia entre los artistas de la época, que la veían como un «monstruo» de hierro.​ Tras finalizar su función como parte de las Exposiciones Universales de 1889 y 1900, fue utilizada en pruebas del ejército francés con antenas de comunicación,​ y hoy en día sirve, además de atractivo turístico, como emisora de programas radiofónicos y televisivos.​ El 15 de marzo de 2022 se sustituyó la antena de radio con la ayuda de un helicóptero, pasando de 324 a 330 m de altura total.​",
+ "candidatas": [
+  {
+   "file": "File:Sous la Tour Eiffel 1.jpg",
+   "w": 2935,
+   "h": 2013,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sous_la_Tour_Eiffel_1.jpg/330px-Sous_la_Tour_Eiffel_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sous_la_Tour_Eiffel_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sous_la_Tour_Eiffel_1.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Jebulon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-10-23",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 17,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Paris - The Eiffel Tower in spring - 2307.jpg",
+   "w": 4368,
+   "h": 2912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg/330px-Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jorge Royan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Reflet-tour-Eiffel-Paris-Luc-Viatour.jpg",
+   "w": 2608,
+   "h": 3880,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Reflet-tour-Eiffel-Paris-Luc-Viatour.jpg/330px-Reflet-tour-Eiffel-Paris-Luc-Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Reflet-tour-Eiffel-Paris-Luc-Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Reflet-tour-Eiffel-Paris-Luc-Viatour.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Lviatour",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-07-09",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 14,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Eiffel Tower in 2022 02.jpg",
+   "w": 5898,
+   "h": 3932,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Eiffel_Tower_in_2022_02.jpg/330px-Eiffel_Tower_in_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Eiffel_Tower_in_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_in_2022_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Maksim Sokolov (maxergon.com)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-07-16 14:30:37",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Olympic rings on the Eiffel Tower 2024 (5).jpg",
+   "w": 5472,
+   "h": 3080,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Olympic_rings_on_the_Eiffel_Tower_2024_%285%29.jpg/330px-Olympic_rings_on_the_Eiffel_Tower_2024_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Olympic_rings_on_the_Eiffel_Tower_2024_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Olympic_rings_on_the_Eiffel_Tower_2024_(5).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Ibex73",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-07-06 17:51:55",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Details of Eiffel Tower structure, south pillar.jpg",
+   "w": 4928,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Details_of_Eiffel_Tower_structure%2C_south_pillar.jpg/330px-Details_of_Eiffel_Tower_structure%2C_south_pillar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Details_of_Eiffel_Tower_structure%2C_south_pillar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Details_of_Eiffel_Tower_structure,_south_pillar.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Yann Forget",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Olympic rings on the Eiffel Tower 2024 (7).jpg",
+   "w": 5472,
+   "h": 3080,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Olympic_rings_on_the_Eiffel_Tower_2024_%287%29.jpg/330px-Olympic_rings_on_the_Eiffel_Tower_2024_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Olympic_rings_on_the_Eiffel_Tower_2024_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Olympic_rings_on_the_Eiffel_Tower_2024_(7).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Ibex73",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-07-06 17:52:17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Olympic rings on the Eiffel Tower 2024 (11).jpg",
+   "w": 5472,
+   "h": 3080,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Olympic_rings_on_the_Eiffel_Tower_2024_%2811%29.jpg/330px-Olympic_rings_on_the_Eiffel_Tower_2024_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Olympic_rings_on_the_Eiffel_Tower_2024_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Olympic_rings_on_the_Eiffel_Tower_2024_(11).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Ibex73",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-07-06 17:55:21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
 }

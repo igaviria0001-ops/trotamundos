@@ -1,5 +1,202 @@
 {
  "id": "alhambra",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q47476', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Alhambra",
+ "endesc": "Palace and fortress complex in Granada, Spain",
+ "qid": "Q47476",
+ "coord": [
+  37.17634,
+  -3.58821
+ ],
+ "label_es": "Alhambra",
+ "desc_es": "conjunto palaciego en Granada",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1239-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 2600000.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q1497375",
+  "Q16560",
+  "Q16560",
+  "Q1107656",
+  "Q61760621"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Alhambra",
+ "extracto_es": "La Alhambra es un complejo monumental sobre una ciudad palatina andalusí situada en Granada, España. Consiste en un conjunto de antiguos palacios, jardines y fortalezas (alcazaba, del árabe: القصبة al-qaṣbah: 'ciudadela') inicialmente concebido para alojar al emir y la corte del reino Nazarí, más tarde como residencia de los reyes de Castilla y de sus representantes. Su singularidad artística radica en los interiores de los palacios nazaríes, cuya decoración está entre las cumbres del arte andalusí, así como en su localización y adaptación, que generó un paisaje nuevo pero totalmente integrado con la naturaleza preexistente. Además, alberga un museo de arte andalusí, la pinacoteca principal de la ciudad y un antiguo convento convertido en parador nacional.\nEl complejo es gestionado por la institución Patronato de la Alhambra y el Generalife. En 2016, recibió 2 615 188​ visitantes, el segundo espacio más visitado de España, tras la Sagrada Familia de Barcelona,​ \nEn 1984, fue el primer lugar de España declarado Patrimonio de la Humanidad por la Unesco, junto con el Generalife. Este nombramiento se extendió al barrio del Albaicín en 1994.​\nLa Alhambra también es un instrumento astronómico que funciona como el reloj de sol más grande del mundo. Gracias a la precisa orientación de sus muros, al mediodía solar se produce un fenómeno: la sombra proyectada por las estructuras divide las estancias de los Palacios Nazaríes de manera simétrica, cortando exactamente por la mitad los espacios y marcando con luz el cénit del día. Este diseño permitía a sus habitantes conocer las horas de oración y las estaciones mediante la gnomónica, una ciencia que los nazaríes dominaban a la perfección. En el Museo de la Alhambra se conserva un cuadrante solar de mármol del siglo XIV que servía de guía para este complejo sistema de medición del tiempo basado en el movimiento de los astros sobre la piedra.​",
+ "candidatas": [
+  {
+   "file": "File:Dawn Charles V Palace Alhambra Granada Andalusia Spain.jpg",
+   "w": 4592,
+   "h": 3056,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/330px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Jebulon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-06 20:55:20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Alhambra detail.jpg",
+   "w": 3007,
+   "h": 2038,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Alhambra_detail.jpg/330px-Alhambra_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Alhambra_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alhambra_detail.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Jebulon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-08-04 20:11:21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Patio de los Arrayanes Alhambra 02 2014.jpg",
+   "w": 4872,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Patio_de_los_Arrayanes_Alhambra_02_2014.jpg/330px-Patio_de_los_Arrayanes_Alhambra_02_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Patio_de_los_Arrayanes_Alhambra_02_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Patio_de_los_Arrayanes_Alhambra_02_2014.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Tuxyso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-03-10 09:47:58",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Alhambra palace and surrounding area.jpg",
+   "w": 2048,
+   "h": 1366,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Alhambra_palace_and_surrounding_area.jpg/330px-Alhambra_palace_and_surrounding_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Alhambra_palace_and_surrounding_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alhambra_palace_and_surrounding_area.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Er Komandante",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-09-04 22:50:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Alhambra Granada Spain.jpg",
+   "w": 4446,
+   "h": 2192,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Alhambra_Granada_Spain.jpg/330px-Alhambra_Granada_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Alhambra_Granada_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alhambra_Granada_Spain.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mgimelfarb",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-08-14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Alhambra, Alcazaba, Torre Quebrada 01 (4392663424).jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Alhambra%2C_Alcazaba%2C_Torre_Quebrada_01_%284392663424%29.jpg/330px-Alhambra%2C_Alcazaba%2C_Torre_Quebrada_01_%284392663424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Alhambra%2C_Alcazaba%2C_Torre_Quebrada_01_%284392663424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alhambra,_Alcazaba,_Torre_Quebrada_01_(4392663424).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "michael clarke stuff",
+   "credito": "Alhambra, Alcazaba, Torre Quebrada 01",
+   "nonfree": "",
+   "fecha": "2010-01-17 11:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Alhambra Hall of Two Sisters DSCF7585.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Alhambra_Hall_of_Two_Sisters_DSCF7585.jpg/330px-Alhambra_Hall_of_Two_Sisters_DSCF7585.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Alhambra_Hall_of_Two_Sisters_DSCF7585.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alhambra_Hall_of_Two_Sisters_DSCF7585.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "R Prazeres",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-06-21 10:23:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Baños de Comares. 19 September 2016.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Ba%C3%B1os_de_Comares._19_September_2016.JPG/330px-Ba%C3%B1os_de_Comares._19_September_2016.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ba%C3%B1os_de_Comares._19_September_2016.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ba%C3%B1os_de_Comares._19_September_2016.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kolforn (Kolforn)\nI'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope.\n\n\n\n This file is licensed under the Creative Commons Attri",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 19 July 201",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
 }

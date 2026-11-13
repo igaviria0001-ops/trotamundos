@@ -1,5 +1,208 @@
 {
  "id": "dubrovnik",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q1722', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Dubrovnik",
+ "endesc": "Coastal city in southern Croatia",
+ "qid": "Q1722",
+ "coord": [
+  42.640277777778,
+  18.108333333333
+ ],
+ "label_es": "Dubrovnik",
+ "desc_es": "ciudad costera en la región de Dalmacia en Croacia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0700-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 10.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 142.6,
+   "u": "Q712226"
+  },
+  {
+   "v": 12.1,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q15105893",
+  "Q2264924"
+ ],
+ "p17": [
+  "Q224"
+ ],
+ "unesco": false,
+ "eswiki": "Dubrovnik",
+ "extracto_es": "Dubrovnik (, antiguamente en español, Ragusa​) es una ciudad situada en la parte más meridional de Croacia. Edificada en una península de la costa dálmata fue una importante potencia marítima mediterránea desde el siglo XIII.​ En la actualidad es el centro administrativo y económico más relevante del condado de Dubrovnik-Neretva. Con una superficie de 143.35 km²​ en el censo de 2021 cuenta con una población de 41 562 habitantes.​ \nPese a sufrir un grave terremoto en 1667 y daños durante la guerra de Croacia en la década de 1990 Dubrovnik ha conservado sus monumentos –iglesias, monasterios, palacios y fuentes– de estilo gótico, renacentista y barroco.​ Denominada la \"Perla del Adriático\"​ o \"La Atenas Dálmata\"​ según datos de abril de 2023 es el principal destino del país​ para los turistas extranjeros.​ En 1979 el casco antiguo que se encuentra rodeado por una gran muralla obtuvo la declaración, ampliada en 1994, de Patrimonio de la Humanidad por la UNESCO.​",
+ "candidatas": [
+  {
+   "file": "File:Casco viejo de Dubrovnik, Croacia, 2014-04-13, DD 18.JPG",
+   "w": 5225,
+   "h": 3385,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Casco_viejo_de_Dubrovnik%2C_Croacia%2C_2014-04-13%2C_DD_18.JPG/330px-Casco_viejo_de_Dubrovnik%2C_Croacia%2C_2014-04-13%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Casco_viejo_de_Dubrovnik%2C_Croacia%2C_2014-04-13%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Casco_viejo_de_Dubrovnik,_Croacia,_2014-04-13,_DD_18.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-13 20:25:46",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:The walls of the fortress and View of the old city. panorama.jpg",
+   "w": 3543,
+   "h": 2198,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg/330px-The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Zysko serhii",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-22 11:32:39",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Casco viejo de Dubrovnik, Croacia, 2014-04-13, DD 03.JPG",
+   "w": 4848,
+   "h": 2819,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Casco_viejo_de_Dubrovnik%2C_Croacia%2C_2014-04-13%2C_DD_03.JPG/330px-Casco_viejo_de_Dubrovnik%2C_Croacia%2C_2014-04-13%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Casco_viejo_de_Dubrovnik%2C_Croacia%2C_2014-04-13%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Casco_viejo_de_Dubrovnik,_Croacia,_2014-04-13,_DD_03.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-13 19:31:23",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2011 Dubrownik, Stary port, mury miejskie i kościół Dominikanów (02).jpg",
+   "w": 2894,
+   "h": 4341,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2011_Dubrownik%2C_Stary_port%2C_mury_miejskie_i_ko%C5%9Bci%C3%B3%C5%82_Dominikan%C3%B3w_%2802%29.jpg/330px-2011_Dubrownik%2C_Stary_port%2C_mury_miejskie_i_ko%C5%9Bci%C3%B3%C5%82_Dominikan%C3%B3w_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/2011_Dubrownik%2C_Stary_port%2C_mury_miejskie_i_ko%C5%9Bci%C3%B3%C5%82_Dominikan%C3%B3w_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2011_Dubrownik,_Stary_port,_mury_miejskie_i_ko%C5%9Bci%C3%B3%C5%82_Dominikan%C3%B3w_(02).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hons084",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-08-23 14:51",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Clock Tower of Dubrovnik 04.jpg",
+   "w": 3411,
+   "h": 5117,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Clock_Tower_of_Dubrovnik_04.jpg/330px-Clock_Tower_of_Dubrovnik_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Clock_Tower_of_Dubrovnik_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Clock_Tower_of_Dubrovnik_04.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:The red roofs of Dubrovnik in 2014.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/The_red_roofs_of_Dubrovnik_in_2014.jpg/330px-The_red_roofs_of_Dubrovnik_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_red_roofs_of_Dubrovnik_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_red_roofs_of_Dubrovnik_in_2014.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Choinowski",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-09-24 08:37:37",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:A view to the Koločep island in Croatia (48612714753).jpg",
+   "w": 5363,
+   "h": 3573,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A_view_to_the_Kolo%C4%8Dep_island_in_Croatia_%2848612714753%29.jpg/330px-A_view_to_the_Kolo%C4%8Dep_island_in_Croatia_%2848612714753%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_view_to_the_Kolo%C4%8Dep_island_in_Croatia_%2848612714753%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_view_to_the_Kolo%C4%8Dep_island_in_Croatia_(48612714753).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "dronepicr",
+   "credito": "A view to the Koločep island in Croatia",
+   "nonfree": "",
+   "fecha": "2019-08-02 17:28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Bmibaby (G-TOYK), Dubrovnik Airport, August 2011 (03).JPG",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bmibaby_%28G-TOYK%29%2C_Dubrovnik_Airport%2C_August_2011_%2803%29.JPG/330px-Bmibaby_%28G-TOYK%29%2C_Dubrovnik_Airport%2C_August_2011_%2803%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bmibaby_%28G-TOYK%29%2C_Dubrovnik_Airport%2C_August_2011_%2803%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bmibaby_(G-TOYK),_Dubrovnik_Airport,_August_2011_(03).JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ardfern",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-08-07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
 }

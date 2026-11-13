@@ -1,5 +1,191 @@
 {
  "id": "santorini",
- "error": "fallo https://www.wikidata.org/w/api.php {'action': 'wbgetentities', 'ids': 'Q129296', 'props': 'claims|labels|descriptions|sitelinks', 'languages': 'es|en', 'sitefilter': 'eswiki|enwiki', 'format': 'json', 'formatversion': 2, 'maxlag': 5}: None",
- "candidatas": []
+ "enwiki": "Santorini",
+ "endesc": "Greek island in the Aegean Sea",
+ "qid": "Q129296",
+ "coord": [
+  36.415,
+  25.4325
+ ],
+ "label_es": "Santorini",
+ "desc_es": "isla en el sur del mar Egeo, Grecia",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 567.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 79.194,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q23442",
+  "Q1200957"
+ ],
+ "p17": [
+  "Q41"
+ ],
+ "unesco": false,
+ "eswiki": "Santorini",
+ "extracto_es": "Santorín, Santorini que es el nombre que aparece en los mapas; o Tera, Thera o Thira que es el nombre oficial​ (en griego: Σαντορίνη, Sandoríni o Θήρα, Thíra) es un pequeño archipiélago circular formado por islas volcánicas, ubicado en el sur del mar Egeo, a unos 200 km al sureste del territorio continental griego. Forma el grupo de islas más meridional de las Cícladas, con un área aproximada de unos 73 km² y una población de trece mil cuatrocientos dos habitantes en 2001.",
+ "candidatas": [
+  {
+   "file": "File:Santoríni aerial.jpg",
+   "w": 3830,
+   "h": 2375,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Santor%C3%ADni_aerial.jpg/330px-Santor%C3%ADni_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Santor%C3%ADni_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santor%C3%ADni_aerial.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-07-04 19:38:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Old vines at Domaine Sigalas in Santorini, Greece.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Old_vines_at_Domaine_Sigalas_in_Santorini%2C_Greece.jpg/330px-Old_vines_at_Domaine_Sigalas_in_Santorini%2C_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Old_vines_at_Domaine_Sigalas_in_Santorini%2C_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Old_vines_at_Domaine_Sigalas_in_Santorini,_Greece.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Treephoto",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-06-26 08:10:47",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Greek Easter - Pyrgos village - Santorini -1.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Greek_Easter_-_Pyrgos_village_-_Santorini_-1.jpg/330px-Greek_Easter_-_Pyrgos_village_-_Santorini_-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Greek_Easter_-_Pyrgos_village_-_Santorini_-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Greek_Easter_-_Pyrgos_village_-_Santorini_-1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Georgios Michos",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-04-06 21:09:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Akrotiri Spring Fresco room.jpg",
+   "w": 11907,
+   "h": 7461,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Akrotiri_Spring_Fresco_room.jpg/330px-Akrotiri_Spring_Fresco_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Akrotiri_Spring_Fresco_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Akrotiri_Spring_Fresco_room.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Gleb Simonov",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-01-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Fava (3711746562).jpg",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Fava_%283711746562%29.jpg/330px-Fava_%283711746562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Fava_%283711746562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fava_(3711746562).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Klearchos Kapoutsis from Santorini, Greece",
+   "credito": "Fava\n\nUploaded by Yarl",
+   "nonfree": "",
+   "fecha": "2009-06-01 18:12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Imerovigli 02.jpg",
+   "w": 3393,
+   "h": 2434,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Imerovigli_02.jpg/330px-Imerovigli_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Imerovigli_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Imerovigli_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Berard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-10-14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Santorini - Grecia - Vista Aerea del promontorio di Ancient Thira - agosto 2018.jpg",
+   "w": 3659,
+   "h": 2439,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Santorini_-_Grecia_-_Vista_Aerea_del_promontorio_di_Ancient_Thira_-_agosto_2018.jpg/330px-Santorini_-_Grecia_-_Vista_Aerea_del_promontorio_di_Ancient_Thira_-_agosto_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Santorini_-_Grecia_-_Vista_Aerea_del_promontorio_di_Ancient_Thira_-_agosto_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santorini_-_Grecia_-_Vista_Aerea_del_promontorio_di_Ancient_Thira_-_agosto_2018.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sidvics",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-08-22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Santorini pyrgos kastellkirche 160707.jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Santorini_pyrgos_kastellkirche_160707.jpg/330px-Santorini_pyrgos_kastellkirche_160707.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Santorini_pyrgos_kastellkirche_160707.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santorini_pyrgos_kastellkirche_160707.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "HpSchaefer Hans Peter Schaefer http://www.reserv-a-rt.de",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "2007-07-16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
 }
