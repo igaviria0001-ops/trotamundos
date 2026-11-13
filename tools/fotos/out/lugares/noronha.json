@@ -1,0 +1,207 @@
+{
+ "id": "noronha",
+ "enwiki": "Fernando de Noronha",
+ "endesc": "State district in Pernambuco, Brazil",
+ "qid": "Q175057",
+ "coord": [
+  -3.855,
+  -32.425
+ ],
+ "label_es": "Fernando de Noroña",
+ "desc_es": "archipiélago de Brasil",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 0.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 26.0,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 10.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q33837",
+  "Q6617741",
+  "Q10267322",
+  "Q386426"
+ ],
+ "p17": [
+  "Q155"
+ ],
+ "unesco": false,
+ "eswiki": "Fernando de Noroña",
+ "extracto_es": "El archipiélago de Fernando de Noroña​ (en portugués: Arquipélago de Fernando de Noronha) es un conjunto de islas volcánicas pertenecientes al estado de Pernambuco, en Brasil. Se encuentra en el océano Atlántico, a 710 km de Fortaleza (capital de Ceará), 360 km de Natal (capital de Río Grande del Norte), y a 545 km de Recife (capital de Pernambuco).\nEl archipiélago tiene 26 km² en total y está formado por 21 islas de las cuales solo está habitada la mayor de ellas (que tiene 17 km²), y la cual lleva el mismo nombre que el archipiélago. El resto han sido declaradas parque nacional marino por el gobierno del país, y por lo tanto está prohibida la presencia humana en ellas, salvo para fines de investigación científica. Su localización es 3° 50′ S, 32° 24′ W. En 2001, el archipiélago fue declarado Patrimonio de la Humanidad por la Unesco.\nJunto con el atolón de las Rocas y Abrojos, es considerado uno de los mejores puntos de buceo de Brasil, por lo que muchos ecoturistas viajan al archipiélago exclusivamente para bucear. Anteriormente, la infraestructura para el turismo era muy básica, consistente en posadas familiares, y pocos restaurantes; pero en los últimos años han mejorado mucho sus servicios y han surgido nuevas posadas para turistas más exigentes.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Parque Nacional Marinho de Fernando de Noronha - João Paulo Marques DAndretta 1-edited.jpg",
+   "w": 3937,
+   "h": 2625,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_1-edited.jpg/330px-Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_1-edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_1-edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_1-edited.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "João D'Andretta",
+   "credito": "File:Parque Nacional Marinho de Fernando de Noronha - João Paulo Marques DAndretta 1.jpg",
+   "nonfree": "",
+   "fecha": "2021-10-20 08:43:59",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Parque Nacional Marinho de Fernando de Noronha - João Paulo Marques DAndretta 12.jpg",
+   "w": 4698,
+   "h": 3132,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg/330px-Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "João D'Andretta",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-10-22 10:26:23",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Parque Nacional Marinho de Fernando de Noronha - João Paulo Marques DAndretta 17.jpg",
+   "w": 3797,
+   "h": 2531,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_17.jpg/330px-Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_17.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "João D'Andretta",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-10-23 08:43:46",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Fregattfågel Fernando de Noronha.jpg",
+   "w": 7098,
+   "h": 3481,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Fregattf%C3%A5gel_Fernando_de_Noronha.jpg/330px-Fregattf%C3%A5gel_Fernando_de_Noronha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Fregattf%C3%A5gel_Fernando_de_Noronha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fregattf%C3%A5gel_Fernando_de_Noronha.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "LG Nyqvist",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-02-18 14:08:34",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Raia da Atalaia Fernando de Noronha 05.jpg",
+   "w": 3227,
+   "h": 1295,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Raia_da_Atalaia_Fernando_de_Noronha_05.jpg/330px-Raia_da_Atalaia_Fernando_de_Noronha_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Raia_da_Atalaia_Fernando_de_Noronha_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Raia_da_Atalaia_Fernando_de_Noronha_05.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Hughes Leglise, Paris, France (Hugo*)",
+   "credito": "flickr",
+   "nonfree": "",
+   "fecha": "2005-12-16",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:EDUARDO MURUCI - BAIA DOS PORCOS-(recorte).jpg",
+   "w": 1636,
+   "h": 1100,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/EDUARDO_MURUCI_-_BAIA_DOS_PORCOS-%28recorte%29.jpg/330px-EDUARDO_MURUCI_-_BAIA_DOS_PORCOS-%28recorte%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/EDUARDO_MURUCI_-_BAIA_DOS_PORCOS-%28recorte%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:EDUARDO_MURUCI_-_BAIA_DOS_PORCOS-(recorte).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Eduardo Muruci",
+   "credito": "commons.wikimedia",
+   "nonfree": "",
+   "fecha": "2011-12-11 01:55:15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Parque Nacional Marinho de Fernando de Noronha por Fernandoantoniofotos (01) (cropped2).jpg",
+   "w": 4045,
+   "h": 1621,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Parque_Nacional_Marinho_de_Fernando_de_Noronha_por_Fernandoantoniofotos_%2801%29_%28cropped2%29.jpg/330px-Parque_Nacional_Marinho_de_Fernando_de_Noronha_por_Fernandoantoniofotos_%2801%29_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Parque_Nacional_Marinho_de_Fernando_de_Noronha_por_Fernandoantoniofotos_%2801%29_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Marinho_de_Fernando_de_Noronha_por_Fernandoantoniofotos_(01)_(cropped2).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fernandoantoniofotos",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-01-22 12:18:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "P18"
+  },
+  {
+   "file": "File:BRUNO LIMA PALACIO DE SAO MIGUEL FERNANDO DE NORONHA PE (40934087472).jpg",
+   "w": 4961,
+   "h": 3508,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/BRUNO_LIMA_PALACIO_DE_SAO_MIGUEL_FERNANDO_DE_NORONHA_PE_%2840934087472%29.jpg/330px-BRUNO_LIMA_PALACIO_DE_SAO_MIGUEL_FERNANDO_DE_NORONHA_PE_%2840934087472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/BRUNO_LIMA_PALACIO_DE_SAO_MIGUEL_FERNANDO_DE_NORONHA_PE_%2840934087472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:BRUNO_LIMA_PALACIO_DE_SAO_MIGUEL_FERNANDO_DE_NORONHA_PE_(40934087472).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "MTur Destinos",
+   "credito": "BRUNO LIMA_PALACIO DE SAO MIGUEL_FERNANDO DE NORONHA_PE",
+   "nonfree": "",
+   "fecha": "2018-03-12 00:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "id": "ushuaia",
+ "enwiki": "Ushuaia",
+ "endesc": "City and port in Tierra del Fuego, Argentina",
+ "qid": "Q44254",
+ "coord": [
+  -54.80722222222222,
+  -68.30805555555555
+ ],
+ "label_es": "Ushuaia",
+ "desc_es": "capital de la provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur, Argentina",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1884-10-12T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 23.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 23.0,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q515",
+  "Q15284",
+  "Q5770918"
+ ],
+ "p17": [
+  "Q414"
+ ],
+ "unesco": false,
+ "eswiki": "Ushuaia",
+ "extracto_es": "Ushuaia, oficialmente Ciudad de Ushuaia, es una ciudad de la Argentina y capital de la provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur. Se encuentra en la costa sur de la isla Grande de Tierra del Fuego, dentro del departamento homónimo, a orillas del canal Beagle y al pie de la Cordillera Martial.​​\nFue fundada oficialmente el 12 de octubre de 1884 por Augusto Lasserre como Fuerte Ushuaia sobre el asentamiento de la antigua misión anglicana de Thomas Bridges.​ \nOriginalmente establecida como colonia penal y asentamiento estratégico, Ushuaia se ha consolidado como el principal centro administrativo, comercial y turístico de la provincia. Actualmente es punto de partida de expediciones hacia la Antártida y un destino destacado de turismo de naturaleza y cruceros australes.​\nLa ciudad se ubica en la costa de la isla Grande de Tierra del Fuego, frente a la bahía de Ushuaia en el canal Beagle, y está rodeada por la cadena montañosa del glaciar Martial Además de ser un centro administrativo, constituye un nodo industrial, portuario y turístico.\nUshuaia, con una población de 79 538 habitantes, es considerada la ciudad más austral del mundo,​ título disputado con Puerto Williams que pertenece a Chile, en la isla Navarino.​​\nAl ser uno de los asentamientos más importantes de la subregión austral o sur de la Patagonia argentina, Ushuaia está hermanada con Hammerfest en Noruega -considerada una de las ciudades más boreales del mundo-, que tiene 10 415 habitantes al igual que con Utqiaġvik (en el estado de Alaska), que tiene 4514 habitantes y que disputa la calificación de ciudad más septentrional.",
+ "candidatas": [
+  {
+   "file": "File:Ushuaia aerial panorama.jpg",
+   "w": 3992,
+   "h": 2164,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ushuaia_aerial_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ushuaia_aerial_panorama.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Deensel",
+   "credito": "Ushuaia",
+   "nonfree": "",
+   "fecha": "2018-02-17 00:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Sea Lions Ushuaia.JPG",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sea_Lions_Ushuaia.JPG/330px-Sea_Lions_Ushuaia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sea_Lions_Ushuaia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sea_Lions_Ushuaia.JPG",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Carlos Ponte",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-09-25",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Town and mountains Ushuaia Argentina Coral Prines.jpg",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Town_and_mountains_Ushuaia_Argentina_Coral_Prines.jpg/330px-Town_and_mountains_Ushuaia_Argentina_Coral_Prines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Town_and_mountains_Ushuaia_Argentina_Coral_Prines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Town_and_mountains_Ushuaia_Argentina_Coral_Prines.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "amanderson2",
+   "credito": "https://www.flickr.com/photos/49399018@N00/49473706113/",
+   "nonfree": "",
+   "fecha": "2019-12-31 16:37:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Moored boats and edge of town Ushuaia Argentina Coral Prines.jpg",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Moored_boats_and_edge_of_town_Ushuaia_Argentina_Coral_Prines.jpg/330px-Moored_boats_and_edge_of_town_Ushuaia_Argentina_Coral_Prines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Moored_boats_and_edge_of_town_Ushuaia_Argentina_Coral_Prines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moored_boats_and_edge_of_town_Ushuaia_Argentina_Coral_Prines.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "amanderson2",
+   "credito": "https://www.flickr.com/photos/49399018@N00/49474413237/",
+   "nonfree": "",
+   "fecha": "2019-12-31 13:56:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Canal Beagle, Ushuaia, Tierra del Fuego, Argentina, 2026 (28399).jpg",
+   "w": 4096,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Beagle%2C_Ushuaia%2C_Tierra_del_Fuego%2C_Argentina%2C_2026_%2828399%29.jpg/330px-Canal_Beagle%2C_Ushuaia%2C_Tierra_del_Fuego%2C_Argentina%2C_2026_%2828399%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_Beagle%2C_Ushuaia%2C_Tierra_del_Fuego%2C_Argentina%2C_2026_%2828399%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Canal_Beagle,_Ushuaia,_Tierra_del_Fuego,_Argentina,_2026_(28399).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Vlasta x",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "25 February 2026 (ac",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Galeria Temática Ushuaia, ARG.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Galeria_Tem%C3%A1tica_Ushuaia%2C_ARG.JPG/330px-Galeria_Tem%C3%A1tica_Ushuaia%2C_ARG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Galeria_Tem%C3%A1tica_Ushuaia%2C_ARG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Galeria_Tem%C3%A1tica_Ushuaia,_ARG.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gastón Cuello",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-02-14 18:58:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Olivia and tres hermanos.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Olivia_and_tres_hermanos.jpg/330px-Olivia_and_tres_hermanos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Olivia_and_tres_hermanos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Olivia_and_tres_hermanos.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "WMB321",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-03-07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ushuaia - End of the World.jpg",
+   "w": 3764,
+   "h": 2512,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ushuaia_-_End_of_the_World.jpg/330px-Ushuaia_-_End_of_the_World.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ushuaia_-_End_of_the_World.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ushuaia_-_End_of_the_World.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Tanenhaus",
+   "credito": "https://www.flickr.com/photos/tanenhaus/2238354419",
+   "nonfree": "",
+   "fecha": "2008-01-26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

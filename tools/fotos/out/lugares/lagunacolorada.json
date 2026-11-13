@@ -1,0 +1,202 @@
+{
+ "id": "lagunacolorada",
+ "enwiki": "Laguna Colorada",
+ "endesc": "Shallow salt lake in the southwest of the altiplano of Bolivia",
+ "qid": "Q1327873",
+ "coord": [
+  -22.198611111111,
+  -67.781111111111
+ ],
+ "label_es": "Laguna Colorada",
+ "desc_es": "laguna salada de Bolivia",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 4278.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 60.0,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 10.7,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q23397",
+  "Q188025"
+ ],
+ "p17": [
+  "Q750"
+ ],
+ "unesco": false,
+ "eswiki": "Laguna Colorada",
+ "extracto_es": "La laguna Colorada es una laguna de Bolivia, ubicada en la región del Altiplano. Es un lugar de cría para los flamencos andinos, aves migratorias que se cuentan por miles en sus aguas ricas en minerales. Se encuentra dentro de la Reserva Nacional de Fauna Andina Eduardo Abaroa, en la provincia de Sud Lípez del departamento de Potosí.\nLa laguna recibe su nombre por su llamativo color rojo, provocado por el tipo de alga predominante y el alto contenido mineral de su agua.\nDebido a la ubicación remota de la laguna Colorada, solo se puede llegar a ella mediante excursiones en jeep desde Uyuni, Tupiza o San Pedro de Atacama.",
+ "candidatas": [
+  {
+   "file": "File:Lama glama Laguna Colorada 2.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Lama_glama_Laguna_Colorada_2.jpg/330px-Lama_glama_Laguna_Colorada_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lama_glama_Laguna_Colorada_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lama_glama_Laguna_Colorada_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 23 Septembe",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Laguna Colorada (15764090609).jpg",
+   "w": 4766,
+   "h": 3177,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Laguna_Colorada_%2815764090609%29.jpg/330px-Laguna_Colorada_%2815764090609%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Laguna_Colorada_%2815764090609%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Laguna_Colorada_(15764090609).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "madras91",
+   "credito": "Laguna Colorada",
+   "nonfree": "",
+   "fecha": "2014-09-19 20:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:James's Flamingoes in Laguna Colorada, Bolivia.jpg",
+   "w": 5145,
+   "h": 3430,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/James%27s_Flamingoes_in_Laguna_Colorada%2C_Bolivia.jpg/330px-James%27s_Flamingoes_in_Laguna_Colorada%2C_Bolivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/James%27s_Flamingoes_in_Laguna_Colorada%2C_Bolivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:James%27s_Flamingoes_in_Laguna_Colorada,_Bolivia.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Havardtl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-23 18:36:16",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Flamenco andino (Phoenicoparrus andinus), Laguna Colorada, Bolivia, 2016-02-02, DD 97.JPG",
+   "w": 5587,
+   "h": 8510,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Flamenco_andino_%28Phoenicoparrus_andinus%29%2C_Laguna_Colorada%2C_Bolivia%2C_2016-02-02%2C_DD_97.JPG/330px-Flamenco_andino_%28Phoenicoparrus_andinus%29%2C_Laguna_Colorada%2C_Bolivia%2C_2016-02-02%2C_DD_97.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flamenco_andino_%28Phoenicoparrus_andinus%29%2C_Laguna_Colorada%2C_Bolivia%2C_2016-02-02%2C_DD_97.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Flamenco_andino_(Phoenicoparrus_andinus),_Laguna_Colorada,_Bolivia,_2016-02-02,_DD_97.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-02-02 16:38:38",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Laguna Colorada durante el invierno.jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Laguna_Colorada_durante_el_invierno.jpg/330px-Laguna_Colorada_durante_el_invierno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Laguna_Colorada_durante_el_invierno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Laguna_Colorada_durante_el_invierno.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DanielGuzmanDuchen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-30 13:25:31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Laguna Colorada y flamencos Andinos.jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Laguna_Colorada_y_flamencos_Andinos.jpg/330px-Laguna_Colorada_y_flamencos_Andinos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Laguna_Colorada_y_flamencos_Andinos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Laguna_Colorada_y_flamencos_Andinos.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DanielGuzmanDuchen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-10-16 15:29:45",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Flamencos en Laguna Colorada 3.jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Flamencos_en_Laguna_Colorada_3.jpg/330px-Flamencos_en_Laguna_Colorada_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flamencos_en_Laguna_Colorada_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Flamencos_en_Laguna_Colorada_3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DanielGuzmanDuchen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-30 11:40:33",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Laguna Colorada desde el mirador.jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Laguna_Colorada_desde_el_mirador.jpg/330px-Laguna_Colorada_desde_el_mirador.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Laguna_Colorada_desde_el_mirador.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Laguna_Colorada_desde_el_mirador.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DanielGuzmanDuchen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-30 11:22:28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

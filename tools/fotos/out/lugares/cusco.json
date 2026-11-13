@@ -1,0 +1,200 @@
+{
+ "id": "cusco",
+ "enwiki": "Plaza de Armas (Cusco)",
+ "endesc": "Square in Cusco, Peru",
+ "qid": "Q9060929",
+ "label_es": "Plaza de Armas del Cusco",
+ "desc_es": "plaza pública y atractivo turístico en Perú",
+ "coord": [
+  -13.516711,
+  -71.978823
+ ],
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 3400.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 28728.0,
+   "u": "Q25343"
+  }
+ ],
+ "largo": [
+  {
+   "v": 155.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 141.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q174782"
+ ],
+ "p17": [
+  "Q419"
+ ],
+ "unesco": true,
+ "eswiki": "Plaza de Armas de Cusco",
+ "extracto_es": "La plaza de Armas de Cusco se encuentra en la ciudad de Cusco, Perú. Ubicada en pleno centro histórico de la ciudad es el principal espacio público de la localidad desde antes de su fundación española en 1534.\nEstudios geológicos realizados en ella demuestran que originalmente existía allí un pantano,​ atravesado por el río Saphy (actualmente canalizado y cubierto). Durante el imperio incaico dicho pantano fue secado y transformado en el centro administrativo, religioso y cultural de la capital imperial.​ Ahí se realizaba todo tipo de ceremonias y se celebraban las victorias del ejército inca. Después de la conquista española, fue transformada en una plaza por los nuevos gobernantes, quienes construyeron templos católicos y mansiones sobre las ruinas de los antiguos palacios incas. En esta plaza, fue ejecutado Túpac Amaru II en 1781 así como el cacique Bernardo Tambohuacso, Mateo Pumacahua y varios otros próceres de la independencia del Perú.\nActualmente es el núcleo central del Cusco moderno, rodeado por restaurantes turísticos, joyerías, agencias de viaje y las mismas iglesias católicas levantadas durante el periodo colonial y que constituyen dos de los monumentos más importantes de la ciudad: la Catedral del Cusco y la Iglesia de la Compañía de Jesús.\nDesde 1972 el inmueble forma parte de la Zona Monumental del Cusco declarada como Monumento Histórico del Perú.​ Asimismo, en 1983 al ser parte del casco histórico de la ciudad del Cusco, forma parte de la zona central declarada por la UNESCO como Patrimonio Cultural de la Humanidad.​",
+ "candidatas": [
+  {
+   "file": "File:00 1566 Cusco - Plaza de Armas.jpg",
+   "w": 3300,
+   "h": 2200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/00_1566_Cusco_-_Plaza_de_Armas.jpg/330px-00_1566_Cusco_-_Plaza_de_Armas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/00_1566_Cusco_-_Plaza_de_Armas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:00_1566_Cusco_-_Plaza_de_Armas.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "W. Bulach",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-02-24 17:29:30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:00 1563 Cosco - Compania de Jesus.jpg",
+   "w": 3300,
+   "h": 2200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/00_1563_Cosco_-_Compania_de_Jesus.jpg/330px-00_1563_Cosco_-_Compania_de_Jesus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/00_1563_Cosco_-_Compania_de_Jesus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:00_1563_Cosco_-_Compania_de_Jesus.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "W. Bulach",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-02-24 17:25:53",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Plaza de Cusco Allison Bellido.jpg",
+   "w": 2736,
+   "h": 1824,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Plaza_de_Cusco_Allison_Bellido.jpg/330px-Plaza_de_Cusco_Allison_Bellido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Plaza_de_Cusco_Allison_Bellido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Cusco_Allison_Bellido.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Allison Bellido",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Plaza Mayor de Cusco.jpg",
+   "w": 2500,
+   "h": 1298,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Plaza_Mayor_de_Cusco.jpg/330px-Plaza_Mayor_de_Cusco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Plaza_Mayor_de_Cusco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Cusco.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "FrederickCusco",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-07-09 02:24:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Monumento al Inca, Plaza de Armas, Cusco, Perú, 2015-07-31, DD 50.JPG",
+   "w": 4457,
+   "h": 6468,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Monumento_al_Inca%2C_Plaza_de_Armas%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_50.JPG/330px-Monumento_al_Inca%2C_Plaza_de_Armas%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_50.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Monumento_al_Inca%2C_Plaza_de_Armas%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_50.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monumento_al_Inca,_Plaza_de_Armas,_Cusco,_Per%C3%BA,_2015-07-31,_DD_50.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-31 11:43:41",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cusco Plaza de Armas from above 1979.jpg",
+   "w": 2952,
+   "h": 1968,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Cusco_Plaza_de_Armas_from_above_1979.jpg/330px-Cusco_Plaza_de_Armas_from_above_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cusco_Plaza_de_Armas_from_above_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cusco_Plaza_de_Armas_from_above_1979.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "D. Kammer",
+   "credito": "Eigenes Werk",
+   "nonfree": "",
+   "fecha": "1979",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cusco Plaza de Armas 6.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Cusco_Plaza_de_Armas_6.jpg/330px-Cusco_Plaza_de_Armas_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cusco_Plaza_de_Armas_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cusco_Plaza_de_Armas_6.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Chuck Moravec",
+   "credito": "https://www.flickr.com/photos/21822583@N08/15984477337/",
+   "nonfree": "",
+   "fecha": "2014-07-04 18:17:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Plaza de Armas on Independence day.jpg",
+   "w": 4288,
+   "h": 2685,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Plaza_de_Armas_on_Independence_day.jpg/330px-Plaza_de_Armas_on_Independence_day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Plaza_de_Armas_on_Independence_day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Armas_on_Independence_day.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "young shanahan",
+   "credito": "https://www.flickr.com/photos/youngshanahan/35454096244/",
+   "nonfree": "",
+   "fecha": "2017-07-29 23:27:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

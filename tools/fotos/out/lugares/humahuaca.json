@@ -1,0 +1,162 @@
+{
+ "id": "humahuaca",
+ "enwiki": "Quebrada de Humahuaca",
+ "endesc": "UNESCO World Heritage Site in Jujuy Province, Argentina",
+ "qid": "Q28061",
+ "label_es": "Quebrada de Humahuaca",
+ "desc_es": "profundo y angosto surco en el noroeste argentino",
+ "coord": [
+  -23.199861111111,
+  -65.348861111111
+ ],
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 3224.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 172116.4375,
+   "u": "Q35852"
+  },
+  {
+   "v": 369648.8125,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q150784",
+  "Q39816"
+ ],
+ "p17": [
+  "Q414"
+ ],
+ "unesco": true,
+ "eswiki": "Quebrada de Humahuaca",
+ "extracto_es": "La Quebrada de Humahuaca se ubica al noroeste de Argentina, en la provincia de Jujuy. Es un valle andino de 155 kilómetros de extensión, flanqueado por altas cadenas montañosas y cavado laboriosamente por el río Grande, ubicado a más de 2000 metros de altura. Fue declarada Patrimonio Cultural de la Humanidad por la UNESCO en el 2003.​​\nLa quebrada está recorrida por el río Grande, subafluente del río Paraguay. Pertenece a la subregión de la Cordillera Oriental, y se encuentra limitada por dos cordones: el occidental y el oriental.\nPresenta un marcado rumbo norte-sur, siendo cada vez mayor la altura hacia el norte. Por esto se la considera una vía de acceso natural hacia el Altiplano, función con la que fue utilizada desde tiempos precolombinos.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Serranía de Hornocal up close near Humahuaca.jpg",
+   "w": 5760,
+   "h": 3840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg/330px-Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Havardtl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-18 13:20:49",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:AR378-Quebrada de Humahuaca.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/AR378-Quebrada_de_Humahuaca.jpg/330px-AR378-Quebrada_de_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/AR378-Quebrada_de_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:AR378-Quebrada_de_Humahuaca.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-11-15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Cerro de los Siete Colores 05.jpg",
+   "w": 4995,
+   "h": 3330,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Cerro_de_los_Siete_Colores_05.jpg/330px-Cerro_de_los_Siete_Colores_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cerro_de_los_Siete_Colores_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cerro_de_los_Siete_Colores_05.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "15 November 2018 (ac",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Quebrada de Humahuaca (Argentine).JPG",
+   "w": 2807,
+   "h": 1871,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Quebrada_de_Humahuaca_%28Argentine%29.JPG/330px-Quebrada_de_Humahuaca_%28Argentine%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Quebrada_de_Humahuaca_%28Argentine%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Quebrada_de_Humahuaca_(Argentine).JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bachelot Pierre J-P",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-03-26 10:03:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Quebrada de Humahuaca - Argentinien (33439360624).jpg",
+   "w": 2340,
+   "h": 1755,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Quebrada_de_Humahuaca_-_Argentinien_%2833439360624%29.jpg/330px-Quebrada_de_Humahuaca_-_Argentinien_%2833439360624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Quebrada_de_Humahuaca_-_Argentinien_%2833439360624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Quebrada_de_Humahuaca_-_Argentinien_(33439360624).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "FLASHPACKER TRAVELGUIDE",
+   "credito": "Quebrada de Humahuaca | Argentinien",
+   "nonfree": "",
+   "fecha": "2015-02-20 12:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Pucará de Tilcara 01.JPG",
+   "w": 1600,
+   "h": 1200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Pucar%C3%A1_de_Tilcara_01.JPG/330px-Pucar%C3%A1_de_Tilcara_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Pucar%C3%A1_de_Tilcara_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pucar%C3%A1_de_Tilcara_01.JPG",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "art-en"
+  }
+ ]
+}

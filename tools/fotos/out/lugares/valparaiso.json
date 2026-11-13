@@ -1,0 +1,197 @@
+{
+ "id": "valparaiso",
+ "enwiki": "Valparaíso",
+ "endesc": "Second largest city in Chile",
+ "qid": "Q33986",
+ "coord": [
+  -33.04611111111111,
+  -71.61972222222222
+ ],
+ "label_es": "Valparaíso",
+ "desc_es": "capital legislativa de Chile y de la Región de Valparaíso",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1536-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 21.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 47.98,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q25412763",
+  "Q1549591",
+  "Q2264924",
+  "Q11204"
+ ],
+ "p17": [
+  "Q298"
+ ],
+ "unesco": false,
+ "eswiki": "Valparaíso",
+ "extracto_es": "Valparaíso es una comuna y ciudad capital de la provincia y Región de Valparaíso. Se sitúa en la zona central de Chile y es el centro histórico, institucional y universitario del Gran Valparaíso, que forma junto a los municipios de Viña del Mar, Quilpué, Villa Alemana y Concón. Como capital de la región, alberga a la Delegación Presidencial y al Gobierno Regional de Valparaíso, además de ser sede del Congreso Nacional, un importante terminal portuario y una de las tres urbes chilenas más pobladas.\nCuenta con una población cercana a 300 000 personas, y si se incluye su área metropolitana supera los 950 mil habitantes, siendo la más poblada de la región y la tercera urbe tras el Gran Santiago y el Gran Concepción.\nValparaíso es base de la Comandancia en Jefe de la Armada de Chile y de otras instituciones del Estado de carácter nacional como el Ministerio de las Culturas, las Artes y el Patrimonio, la Subsecretaría de Pesca y Acuicultura, el Servicio Nacional de Aduanas y el Servicio Nacional de Pesca y Acuicultura. Es uno de los puertos con mayor movimiento de Chile y uno de los más importantes del Pacífico Sur.​\nLa ciudad es reconocida por ser un gran centro de educación superior, ya que están establecidas algunas de las universidades más importantes de Chile, como la Universidad de Valparaíso, Universidad Técnica Federico Santa María, Pontificia Universidad Católica de Valparaíso y la Universidad de Playa Ancha.\nGeográficamente, Valparaíso se presenta en forma de un gran anfiteatro natural, emplazada en la bahía homónima y rodeada de numerosos cerros, en los cuales vive la mayor parte de la población.​ Entre el pie de los cerros y el mar se forma el Plan, centro administrativo, comercial y financiero de la ciudad; mientras el bordemar es ocupado por el puerto.\nDebido a su riqueza arquitectónica desarrollada principalmente a finales del siglo XIX,​ en 2003 su centro histórico fue declarado Patrimonio de la Humanidad por la Unesco, convirtiéndose en el tercer sitio chileno protegido por el organismo internacional, tras el parque nacional Rapa Nui y 16 iglesias de Chiloé.​",
+ "candidatas": [
+  {
+   "file": "File:Valparaíso 9451.jpg",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Valpara%C3%ADso_9451.jpg/330px-Valpara%C3%ADso_9451.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Valpara%C3%ADso_9451.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Valpara%C3%ADso_9451.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Draceane",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-01-19 18:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Intendencia3.JPG",
+   "w": 4000,
+   "h": 2416,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Intendencia3.JPG/330px-Intendencia3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Intendencia3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Intendencia3.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Fflemingl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-09-08 13:45:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Vista panorámica de Valparaíso 2.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Vista_panor%C3%A1mica_de_Valpara%C3%ADso_2.jpg/330px-Vista_panor%C3%A1mica_de_Valpara%C3%ADso_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Vista_panor%C3%A1mica_de_Valpara%C3%ADso_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_panor%C3%A1mica_de_Valpara%C3%ADso_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Pequeño mar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-09 13:39:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Vista panorámica de Valparaíso 1.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Vista_panor%C3%A1mica_de_Valpara%C3%ADso_1.jpg/330px-Vista_panor%C3%A1mica_de_Valpara%C3%ADso_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Vista_panor%C3%A1mica_de_Valpara%C3%ADso_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_panor%C3%A1mica_de_Valpara%C3%ADso_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Pequeño mar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-09 13:42:46",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ascensor Polanco Superior.jpg",
+   "w": 4615,
+   "h": 3213,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Ascensor_Polanco_Superior.jpg/330px-Ascensor_Polanco_Superior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ascensor_Polanco_Superior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ascensor_Polanco_Superior.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jpfergoy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-09-28 19:30:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Dique flotante Valparaíso III, en la bahía de Valparaíso (Chile), desde el cerro Alegre.jpg",
+   "w": 4896,
+   "h": 3672,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Dique_flotante_Valpara%C3%ADso_III%2C_en_la_bah%C3%ADa_de_Valpara%C3%ADso_%28Chile%29%2C_desde_el_cerro_Alegre.jpg/330px-Dique_flotante_Valpara%C3%ADso_III%2C_en_la_bah%C3%ADa_de_Valpara%C3%ADso_%28Chile%29%2C_desde_el_cerro_Alegre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dique_flotante_Valpara%C3%ADso_III%2C_en_la_bah%C3%ADa_de_Valpara%C3%ADso_%28Chile%29%2C_desde_el_cerro_Alegre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dique_flotante_Valpara%C3%ADso_III,_en_la_bah%C3%ADa_de_Valpara%C3%ADso_(Chile),_desde_el_cerro_Alegre.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "CARLOS TEIXIDOR CADENAS",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-02-14 16:19:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Iglesia La Matriz del Salvador, Valparaíso, Chile.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Iglesia_La_Matriz_del_Salvador%2C_Valpara%C3%ADso%2C_Chile.JPG/330px-Iglesia_La_Matriz_del_Salvador%2C_Valpara%C3%ADso%2C_Chile.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Iglesia_La_Matriz_del_Salvador%2C_Valpara%C3%ADso%2C_Chile.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Iglesia_La_Matriz_del_Salvador,_Valpara%C3%ADso,_Chile.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "KenPugh",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-09-23 06:39:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Vista panorámica de Valparaíso.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Vista_panor%C3%A1mica_de_Valpara%C3%ADso.jpg/330px-Vista_panor%C3%A1mica_de_Valpara%C3%ADso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vista_panor%C3%A1mica_de_Valpara%C3%ADso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_panor%C3%A1mica_de_Valpara%C3%ADso.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Pequeño mar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-09 13:49:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

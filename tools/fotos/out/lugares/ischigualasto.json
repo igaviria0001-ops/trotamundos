@@ -1,0 +1,200 @@
+{
+ "id": "ischigualasto",
+ "enwiki": "Ischigualasto Provincial Park",
+ "endesc": "Protected area in the San Juan Province, Argentina",
+ "qid": "Q639503",
+ "coord": [
+  -30.116778,
+  -67.911806
+ ],
+ "label_es": "Yacimiento de Ischigualasto",
+ "desc_es": "lugar declarado monumento histórico nacional de Argentina",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+2004-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 1291.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 275369.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q52063204",
+  "Q736917",
+  "Q22698",
+  "Q2434238"
+ ],
+ "p17": [
+  "Q414"
+ ],
+ "unesco": false,
+ "eswiki": "Ischigualasto",
+ "extracto_es": "El Parque Provincial de Ischigualasto​ o Valle de la Luna, está situado en Argentina, en el noreste de la provincia de San Juan y limita con la provincia de La Rioja al norte. Se encuentra a 324 km de la ciudad de San Juan​ por carretera y a 124 km del departamento Valle Fértil​ (también conocido como Villa San Agustín del Valle Fértil). Su altitud respecto al nivel del mar varía entre los 1200 hasta los 1800 metros en las cumbres de mayor altura. Es un área protegida de 275 369 ha y célebre a nivel científico, ya que resguarda una importante reserva paleontológica. Es el único lugar del mundo donde puede verse totalmente al descubierto y perfectamente diferenciado todo el período triásico en forma completa y ordenada. Se calcula que las formaciones geológicas de este sitio tienen una antigüedad de entre 200 y 250 millones de años, característica que comparte con el parque nacional Talampaya, con el que limita al oeste por estar situado en la provincia de La Rioja.\nSe puede acceder al Parque Provincial Ischigualasto a través de la ruta escénica: RN 150.​ El parque ofrece un extraño paisaje, por lo que comúnmente es llamado Valle de la Luna. Se caracteriza por presentar escasa vegetación y la más variada gama de colores en sus suelos. Las caprichosas formas de sus montes hacen que este lugar sea elegido por turistas nacionales y extranjeros. Si bien es un lugar científico, se puede recorrer realizando una visita guiada por un especialista en vehículos particulares. Durante el recorrido de este circuito tradicional, que demora aproximadamente tres horas, el visitante conoce geoformas como el Hongo, el Submarino, la Cancha de Bochas y Valle Pintado. Además, los interesados pueden acceder al Museo de Sitio Dr. William Sill​ que se encuentra ubicado en la base. Este es un centro de interpretación que presenta el trabajo científico que se lleva a cabo allí para el conocimiento y protección de las riquezas fosilíferas que convierten al Parque Provincial Ischigualasto en Patrimonio de la Humanidad.\nDentro del Parque se sitúa el Cerro Morado, una antigua chimenea de un volcán extinto. Se puede ascender a él contratando a un guía en la base del parque y obtener una vista privilegiada. El tiempo de ascensión es de 1h aproximadamente.\nEl nombre de «Valle de la Luna» fue mencionado por primera vez en un reportaje escrito por el periodista sanjuanino Rogelio Díaz Costa y en fotografías de Antonio Lago, ambos del Diario de Cuyo, el 3 de junio de 1958. \nAños más tarde com",
+ "candidatas": [
+  {
+   "file": "File:Anfiteatro, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 149.JPG",
+   "w": 8688,
+   "h": 4379,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Anfiteatro%2C_Valle_de_la_Luna%2C_San_Pedro_de_Atacama%2C_Chile%2C_2016-02-01%2C_DD_149.JPG/330px-Anfiteatro%2C_Valle_de_la_Luna%2C_San_Pedro_de_Atacama%2C_Chile%2C_2016-02-01%2C_DD_149.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Anfiteatro%2C_Valle_de_la_Luna%2C_San_Pedro_de_Atacama%2C_Chile%2C_2016-02-01%2C_DD_149.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_Valle_de_la_Luna,_San_Pedro_de_Atacama,_Chile,_2016-02-01,_DD_149.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-02-01 23:00:56",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:A - Valle de la Luna, el hongo, San Juan, Argentina.jpg",
+   "w": 2288,
+   "h": 1712,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/A_-_Valle_de_la_Luna%2C_el_hongo%2C_San_Juan%2C_Argentina.jpg/330px-A_-_Valle_de_la_Luna%2C_el_hongo%2C_San_Juan%2C_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/A_-_Valle_de_la_Luna%2C_el_hongo%2C_San_Juan%2C_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_-_Valle_de_la_Luna,_el_hongo,_San_Juan,_Argentina.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "M.Bustos",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-03-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Ischigualasto01.jpg",
+   "w": 1536,
+   "h": 1024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ischigualasto01.jpg/330px-Ischigualasto01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ischigualasto01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ischigualasto01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "user:idobi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Ischigualasto National Park.jpg",
+   "w": 4128,
+   "h": 3096,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ischigualasto_National_Park.jpg/330px-Ischigualasto_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ischigualasto_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ischigualasto_National_Park.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Candela Villani",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-07-19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Valle de la Luna - Parque Provincial Ischigualasto San Juan.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Valle_de_la_Luna_-_Parque_Provincial_Ischigualasto_San_Juan.JPG/330px-Valle_de_la_Luna_-_Parque_Provincial_Ischigualasto_San_Juan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Valle_de_la_Luna_-_Parque_Provincial_Ischigualasto_San_Juan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Valle_de_la_Luna_-_Parque_Provincial_Ischigualasto_San_Juan.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Silvanamisiones",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-09-27 13:29:30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Valle de la Luna - Bolivia.jpg",
+   "w": 4080,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Valle_de_la_Luna_-_Bolivia.jpg/330px-Valle_de_la_Luna_-_Bolivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Valle_de_la_Luna_-_Bolivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Valle_de_la_Luna_-_Bolivia.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jhulis",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-08-02 16:48:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Valle de la luna argentina.jpg",
+   "w": 5293,
+   "h": 3529,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Valle_de_la_luna_argentina.jpg/330px-Valle_de_la_luna_argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Valle_de_la_luna_argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Valle_de_la_luna_argentina.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Paulakindsvater",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-05-28 14:11:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Las Coloradas.JPG",
+   "w": 2576,
+   "h": 1932,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Las_Coloradas.JPG/330px-Las_Coloradas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Las_Coloradas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Las_Coloradas.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Matysilv",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-12-03 11:08:59",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  }
+ ]
+}

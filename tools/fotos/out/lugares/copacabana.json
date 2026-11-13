@@ -1,0 +1,188 @@
+{
+ "id": "copacabana",
+ "enwiki": "Copacabana, Rio de Janeiro",
+ "endesc": "Neighborhood of Rio de Janeiro, Rio de Janeiro, Brazil",
+ "qid": "Q202730",
+ "coord": [
+  -22.967033333333,
+  -43.180697222222
+ ],
+ "label_es": "Bairro de Copacabana",
+ "desc_es": "barrio de la ciudad de Río de Janeiro, Brasil",
+ "inicio": [],
+ "p31": [
+  "Q20683285",
+  "Q40080"
+ ],
+ "p17": [
+  "Q155"
+ ],
+ "unesco": false,
+ "eswiki": "Copacabana (Río de Janeiro)",
+ "extracto_es": "Copacabana es uno de los barrios más famosos de la ciudad de Río de Janeiro, Brasil. Antiguamente llamado Sacopenapã, debe su actual nombre a la visita de la Virgen de Copacabana. \nEn el contexto de la Virgen de Copacabana mencionada anteriormente, cuando los pescadores llevaron la devoción a Río de Janeiro en el siglo XVII o XVIII, se referían a ella como una virgen proveniente del Alto Perú o de la región de Charcas del Imperio Español. Hoy, dicho santuario se encuentra en Copacabana, Bolivia.\nLocalizada en la Zona Sur de la ciudad, Copacabana tiene una playa en forma de media luna y es apodada Princesita del Mar debido a su áurea en las décadas de los treinta, cuarenta y cincuenta. Barrio de bohemia, glamur y riqueza, Copacabana dio origen a numerosos eventos y movimientos artísticos, convirtiéndose en referencia turística.\nEl barrio tiene gran cantidad de restaurantes, cines, bancos, sinagogas (tradicionalmente abriga a la comunidad judía carioca), locales comerciales y teatros.\nA partir de la década de los sesenta, la fama creciente atrajo más moradores de lo que el área puede recibir de forma confortable y Copacabana sufrió con la especulación inmobiliaria hasta llenarse de precios altos con departamentos minúsculos. El lugar se convirtió en un microcosmos brasilero, uniendo familias de clases diferentes en esa ajustada porción de tierra entre el mar y la montaña.\n\nCopacabana está conformado por 109 calles en las que viven más de 147 mil personas de todas clases sociales, lo que da cuenta de la alta densidad poblacional de la zona. Con 358,51 habitantes por hectárea, es uno de los tres barrios con mayor densidad de Río, solo por debajo de Rocinha y Jacarezinho.​",
+ "candidatas": [
+  {
+   "file": "File:Top Down View of Copacabana Mosaic and Palm Trees 3.jpg",
+   "w": 3962,
+   "h": 2641,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Top_Down_View_of_Copacabana_Mosaic_and_Palm_Trees_3.jpg/330px-Top_Down_View_of_Copacabana_Mosaic_and_Palm_Trees_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Top_Down_View_of_Copacabana_Mosaic_and_Palm_Trees_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Top_Down_View_of_Copacabana_Mosaic_and_Palm_Trees_3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Donatas Dabravolskas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-04-09 09:49:12",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Boca da Baía de Guanabara e orlas artificiais - Parque do Flamengo, Fortes Históricos de Niterói, Monumento Natural do Pão de Açúcar, orla marítima de Copacabana - Rio de Janeiro - 20240623064031.jpg",
+   "w": 4611,
+   "h": 3054,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Boca_da_Ba%C3%ADa_de_Guanabara_e_orlas_artificiais_-_Parque_do_Flamengo%2C_Fortes_Hist%C3%B3ricos_de_Niter%C3%B3i%2C_Monumento_Natural_do_P%C3%A3o_de_A%C3%A7%C3%BAcar%2C_orla_mar%C3%ADtima_de_Copacabana_-_Rio_de_Janeiro_-_20240623064031.jpg/330px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Boca_da_Ba%C3%ADa_de_Guanabara_e_orlas_artificiais_-_Parque_do_Flamengo%2C_Fortes_Hist%C3%B3ricos_de_Niter%C3%B3i%2C_Monumento_Natural_do_P%C3%A3o_de_A%C3%A7%C3%BAcar%2C_orla_mar%C3%ADtima_de_Copacabana_-_Rio_de_Janeiro_-_20240623064031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boca_da_Ba%C3%ADa_de_Guanabara_e_orlas_artificiais_-_Parque_do_Flamengo,_Fortes_Hist%C3%B3ricos_de_Niter%C3%B3i,_Monumento_Natural_do_P%C3%A3o_de_A%C3%A7%C3%BAcar,_orla_mar%C3%ADtima_de_Copacabana_-_Rio_de_Janeiro_-_20240623064031.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Donatas Dabravolskas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 23 June 202",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Copacabana, Rio de Janeiro.jpg",
+   "w": 8256,
+   "h": 5504,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Copacabana%2C_Rio_de_Janeiro.jpg/330px-Copacabana%2C_Rio_de_Janeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Copacabana%2C_Rio_de_Janeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Copacabana,_Rio_de_Janeiro.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-16 15:16:19",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Hotel Copacabana Palace, Rio de Janeiro.jpg",
+   "w": 8256,
+   "h": 5504,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Hotel_Copacabana_Palace%2C_Rio_de_Janeiro.jpg/330px-Hotel_Copacabana_Palace%2C_Rio_de_Janeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Hotel_Copacabana_Palace%2C_Rio_de_Janeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_Copacabana_Palace,_Rio_de_Janeiro.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-16 16:50:33",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Nordest Restaurant close to CopaCabana, Rio de Janeiro, Brazil.jpg",
+   "w": 8073,
+   "h": 5382,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Nordest_Restaurant_close_to_CopaCabana%2C_Rio_de_Janeiro%2C_Brazil.jpg/330px-Nordest_Restaurant_close_to_CopaCabana%2C_Rio_de_Janeiro%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Nordest_Restaurant_close_to_CopaCabana%2C_Rio_de_Janeiro%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Nordest_Restaurant_close_to_CopaCabana,_Rio_de_Janeiro,_Brazil.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-04 11:48:23",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aerial view of Copacabana beach.jpg",
+   "w": 2407,
+   "h": 3596,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Aerial_view_of_Copacabana_beach.jpg/330px-Aerial_view_of_Copacabana_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Aerial_view_of_Copacabana_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Copacabana_beach.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Gustavo Facci from Argentina",
+   "credito": "Copacabana",
+   "nonfree": "",
+   "fecha": "2011-02-18 15:29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Copacabana 06 2016 2377.jpg",
+   "w": 2400,
+   "h": 1600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Copacabana_06_2016_2377.jpg/330px-Copacabana_06_2016_2377.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Copacabana_06_2016_2377.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Copacabana_06_2016_2377.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mariordo (Mario Roberto Durán Ortiz)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-06-11 07:50:54",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Calçadão de Copacabana.JPG",
+   "w": 4288,
+   "h": 2416,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Cal%C3%A7ad%C3%A3o_de_Copacabana.JPG/330px-Cal%C3%A7ad%C3%A3o_de_Copacabana.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Cal%C3%A7ad%C3%A3o_de_Copacabana.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cal%C3%A7ad%C3%A3o_de_Copacabana.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Mteixeira62",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-06-23 11:23:30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

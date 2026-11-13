@@ -1,0 +1,190 @@
+{
+ "id": "quito",
+ "enwiki": "Basílica del Voto Nacional",
+ "endesc": "Historic church in Quito, Ecuador",
+ "qid": "Q4868435",
+ "coord": [
+  -0.215,
+  -78.50738888888888
+ ],
+ "label_es": "Basílica del Voto Nacional",
+ "desc_es": "templo católico de estilo neogótico situado en Quito",
+ "inicio": [
+  {
+   "p": "P1619",
+   "time": "+1988-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 83.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q16970"
+ ],
+ "p17": [
+  "Q736"
+ ],
+ "unesco": false,
+ "eswiki": "Basílica del Voto Nacional",
+ "extracto_es": "La Basílica del Voto Nacional, también conocida como la Basílica de la Consagración de Jesús​ o Basílica de San Juan​ (por el sector en el que está ubicada) o simplemente La Basílica, es un edificio religioso de estilo neogótico del centro histórico de Quito. Por sus dimensiones y estilo se difundió el bulo de que era el templo neogótico más grande de América,​ y el templo religioso más alto de Hispanoamérica hasta el 2017 (al ser superado por la Catedral basílica de Nuestra Señora del Rosario de Manizales.​​), pero análisis confirman que la altura de sus torres es de 83 metros.​​ Se ubica en el sector conocido como Santa Prisca, en las calles Carchi y Venezuela, junto al convento de los padres Oblatos.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Quito calle Venezuela Basilica.jpg",
+   "w": 4256,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Quito_calle_Venezuela_Basilica.jpg/330px-Quito_calle_Venezuela_Basilica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Quito_calle_Venezuela_Basilica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Quito_calle_Venezuela_Basilica.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Cayambe",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-04-02",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Basílica del Voto Nacional, Quito - 4.jpg",
+   "w": 3180,
+   "h": 2120,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Bas%C3%ADlica_del_Voto_Nacional%2C_Quito_-_4.jpg/330px-Bas%C3%ADlica_del_Voto_Nacional%2C_Quito_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bas%C3%ADlica_del_Voto_Nacional%2C_Quito_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_del_Voto_Nacional,_Quito_-_4.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Maros M r a z (Maros)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Basílica del Voto Nacional - Clock towers.jpeg",
+   "w": 4240,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bas%C3%ADlica_del_Voto_Nacional_-_Clock_towers.jpeg/330px-Bas%C3%ADlica_del_Voto_Nacional_-_Clock_towers.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bas%C3%ADlica_del_Voto_Nacional_-_Clock_towers.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_del_Voto_Nacional_-_Clock_towers.jpeg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Basílica del Voto Nacional - Michael Shade.jpg",
+   "w": 4240,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bas%C3%ADlica_del_Voto_Nacional_-_Michael_Shade.jpg/330px-Bas%C3%ADlica_del_Voto_Nacional_-_Michael_Shade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bas%C3%ADlica_del_Voto_Nacional_-_Michael_Shade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_del_Voto_Nacional_-_Michael_Shade.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Michael Shade",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-11-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Basílica del Voto Nacional - catwalk.jpeg",
+   "w": 4240,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bas%C3%ADlica_del_Voto_Nacional_-_catwalk.jpeg/330px-Bas%C3%ADlica_del_Voto_Nacional_-_catwalk.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bas%C3%ADlica_del_Voto_Nacional_-_catwalk.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_del_Voto_Nacional_-_catwalk.jpeg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Basílica del Voto Nacional from El Panecillo.jpeg",
+   "w": 4240,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bas%C3%ADlica_del_Voto_Nacional_from_El_Panecillo.jpeg/330px-Bas%C3%ADlica_del_Voto_Nacional_from_El_Panecillo.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bas%C3%ADlica_del_Voto_Nacional_from_El_Panecillo.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_del_Voto_Nacional_from_El_Panecillo.jpeg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Basílica del Voto Nacional, Quito - 5.jpg",
+   "w": 2336,
+   "h": 3504,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bas%C3%ADlica_del_Voto_Nacional%2C_Quito_-_5.jpg/330px-Bas%C3%ADlica_del_Voto_Nacional%2C_Quito_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bas%C3%ADlica_del_Voto_Nacional%2C_Quito_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_del_Voto_Nacional,_Quito_-_5.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Maros M r a z (Maros)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Basilica of the National Vow.jpg",
+   "w": 2105,
+   "h": 1397,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Basilica_of_the_National_Vow.jpg/330px-Basilica_of_the_National_Vow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Basilica_of_the_National_Vow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Basilica_of_the_National_Vow.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Alejandro Quintanar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-08-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "art-en"
+  }
+ ]
+}
