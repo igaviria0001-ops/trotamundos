@@ -1,0 +1,99 @@
+/* ===== Trotamundos · base =====
+   Paleta de correo aéreo sobre cielo claro.
+   cielo #E6F4FA · nube #FFFFFF · tinta #24476B · azul correo #3E7CC4
+   rojo correo #EF6F5E (poco) · sol #FFC94D · mar #74C2DD · hoja #5DBB88 */
+:root {
+  --cielo: #E6F4FA;
+  --cielo2: #CFEAF6;
+  --cielo3: #F7FCFE;
+  --nube: #FFFFFF;
+  --tinta: #24476B;
+  --tinta2: #5A7591;
+  --tinta3: #93A7BB;
+  --azul: #3E7CC4;
+  --azul2: #2F64A6;
+  --azulsuave: #DCEAF8;
+  --rojo: #EF6F5E;
+  --rojosuave: #FDE6E1;
+  --sol: #FFC94D;
+  --sol2: #F2AE1C;
+  --solsuave: #FFF3D1;
+  --mar: #74C2DD;
+  --hoja: #5DBB88;
+  --hoja2: #3E9F6C;
+  --hojasuave: #DFF3E7;
+  --linea: rgba(36, 71, 107, .14);
+  --sombra1: 0 1px 2px rgba(36, 71, 107, .10), 0 4px 14px rgba(36, 71, 107, .10);
+  --sombra2: 0 2px 4px rgba(36, 71, 107, .08), 0 14px 34px rgba(36, 71, 107, .16);
+  --sombra3: 0 4px 10px rgba(36, 71, 107, .10), 0 30px 60px rgba(36, 71, 107, .22);
+  --f-titulo: 'Baloo 2', 'Nunito', system-ui, sans-serif;
+  --f-texto: 'Nunito', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --f-mano: 'Caveat', 'Segoe Print', cursive;
+  --sa-t: env(safe-area-inset-top, 0px);
+  --sa-b: env(safe-area-inset-bottom, 0px);
+  --sa-l: env(safe-area-inset-left, 0px);
+  --sa-r: env(safe-area-inset-right, 0px);
+  --ease: cubic-bezier(.2, .8, .2, 1);
+  --rebote: cubic-bezier(.34, 1.56, .64, 1);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: var(--f-texto);
+  font-size: 16px;
+  line-height: 1.45;
+  color: var(--tinta);
+  background: linear-gradient(180deg, #D3ECF8 0%, #E6F4FA 38%, #F4FAFC 100%);
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+img { display: block; max-width: 100%; }
+h1, h2, h3, h4 { font-family: var(--f-titulo); line-height: 1.1; margin: 0; font-weight: 800; letter-spacing: -.01em; }
+p { margin: 0; }
+:focus-visible { outline: 3px solid var(--azul); outline-offset: 3px; border-radius: 10px; }
+
+/* cielo con nubes que pasan despacio */
+#cielo { position: fixed; inset: 0; pointer-events: none; overflow: hidden; z-index: 0; }
+.nube {
+  position: absolute; width: 220px; height: 70px; border-radius: 60px;
+  background: rgba(255, 255, 255, .75); filter: blur(1px);
+  animation: nube 120s linear infinite;
+}
+.nube::before, .nube::after { content: ''; position: absolute; background: inherit; border-radius: 50%; }
+.nube::before { width: 110px; height: 110px; left: 30px; top: -55px; }
+.nube::after { width: 80px; height: 80px; left: 110px; top: -36px; }
+.nube.n1 { top: 9%; left: -260px; transform: scale(.9); animation-duration: 140s; }
+.nube.n2 { top: 26%; left: -260px; transform: scale(.6); opacity: .7; animation-duration: 190s; animation-delay: -80s; }
+.nube.n3 { top: 64%; left: -260px; transform: scale(1.2); opacity: .55; animation-duration: 230s; animation-delay: -150s; }
+.nube.n4 { top: 82%; left: -260px; transform: scale(.7); opacity: .6; animation-duration: 170s; animation-delay: -30s; }
+@keyframes nube { to { translate: calc(100vw + 520px) 0; } }
+
+#app { position: fixed; inset: 0; z-index: 1; }
+.pantalla {
+  position: absolute; inset: 0;
+  padding: calc(var(--sa-t) + 0px) var(--sa-r) var(--sa-b) var(--sa-l);
+  display: flex; flex-direction: column;
+  animation: entra .45s var(--ease) both;
+}
+.pantalla.sale { animation: sale .25s ease both; pointer-events: none; }
+@keyframes entra { from { opacity: 0; transform: translateY(14px) scale(.99); } }
+@keyframes sale { to { opacity: 0; transform: translateY(-8px); } }
+
+.scroll { overflow-y: auto; overflow-x: hidden; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; }
+.scroll::-webkit-scrollbar { width: 10px; }
+.scroll::-webkit-scrollbar-thumb { background: rgba(36, 71, 107, .18); border-radius: 10px; border: 3px solid transparent; background-clip: padding-box; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+  .nube { display: none; }
+}
+body.sin-mov *, body.sin-mov *::before, body.sin-mov *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+body.letra-grande { font-size: 18px; }

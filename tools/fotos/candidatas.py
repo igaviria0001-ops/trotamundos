@@ -265,13 +265,23 @@ def font(size):
     return ImageFont.load_default(size=size)
 
 
-def contact_sheets(rows, datos):
+def contact_sheets(rows, datos, changed=None):
     os.makedirs(os.path.join(OUT, 'hojas'), exist_ok=True)
-    TW, TH, LW, RH, PER = 250, 168, 190, 200, 6
+    TW, TH, LW, RH, PER, NC = 250, 168, 190, 200, 8, 6
     f1, f2, f3 = font(19), font(14), font(22)
     pages = [rows[i:i + PER] for i in range(0, len(rows), PER)]
+    vfile = os.path.join(OUT, 'hojas', 'formato.txt')
+    fmt = f'{PER}x{NC}'
+    if not os.path.exists(vfile) or open(vfile).read().strip() != fmt:
+        changed = None
+        for f in os.listdir(os.path.join(OUT, 'hojas')):
+            if f.endswith('.jpg'):
+                os.remove(os.path.join(OUT, 'hojas', f))
+        open(vfile, 'w').write(fmt)
     for n, page in enumerate(pages, 1):
-        W = LW + 8 * (TW + 8) + 8
+        if changed is not None and not any(r['id'] in changed for r in page) and os.path.exists(os.path.join(OUT, 'hojas', f'hoja-{n:02d}.jpg')):
+            continue
+        W = LW + NC * (TW + 8) + 8
         img = Image.new('RGB', (W, RH * len(page) + 10), (246, 244, 238))
         dr = ImageDraw.Draw(img)
         for r, row in enumerate(page):
@@ -280,7 +290,7 @@ def contact_sheets(rows, datos):
             dr.text((8, y + 4), row['id'], fill=(20, 40, 70), font=f1)
             dr.text((8, y + 30), row['nombre'][:22], fill=(60, 60, 60), font=f2)
             dr.text((8, y + 50), f"nivel {row['nivel']}  {row['cont']}", fill=(90, 90, 90), font=f2)
-            for k, c in enumerate(d.get('candidatas', [])):
+            for k, c in enumerate(d.get('candidatas', [])[:NC]):
                 x = LW + 8 + k * (TW + 8)
                 dr.rectangle([x, y, x + TW, y + TH], fill=(225, 225, 225))
                 try:
@@ -340,7 +350,7 @@ def main():
         countries()
     except Exception as e:
         print('PAISES FALLO', e)
-    datos, cambio = {}, False
+    datos, cambio, changed = {}, False, set()
     for row in rows:
         path = os.path.join(OUT, 'lugares', row['id'] + '.json')
         if os.path.exists(path) and not FORCE:
@@ -356,8 +366,9 @@ def main():
         datos[row['id']] = d
         json.dump(d, open(path, 'w'), ensure_ascii=False, indent=1)
         cambio = True
+        changed.add(row['id'])
     if cambio or FORCE or not os.path.exists(os.path.join(OUT, 'hojas')):
-        contact_sheets(rows, datos)
+        contact_sheets(rows, datos, None if FORCE else changed)
     sin = [r['id'] for r in rows if not datos[r['id']].get('candidatas')]
     print('sin candidatas:', sin)
 
