@@ -16,7 +16,7 @@ concurrency:
 jobs:
   candidatas:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
         with:
@@ -30,6 +30,10 @@ jobs:
           if [ -f tools/fotos/rehacer.txt ]; then
             for id in $(cat tools/fotos/rehacer.txt); do rm -f "tools/fotos/out/lugares/$id.json"; done
           fi
+      - name: Preparar git
+        run: |
+          git config user.name "trotamundos-bot"
+          git config user.email "actions@users.noreply.github.com"
       - run: python tools/fotos/candidatas.py
       - name: Guardar
         run: |

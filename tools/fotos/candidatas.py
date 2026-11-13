@@ -7,7 +7,7 @@ Lee tools/fotos/lugares.tsv y escribe en tools/fotos/out/:
   paises.json        capital, poblacion, idiomas y moneda en espanol
 Si un lugar ya tiene su json, no se vuelve a consultar (borra el json para rehacerlo).
 """
-import csv, json, os, re, sys, time, io, html, math
+import csv, json, os, re, sys, time, io, html, math, subprocess
 import requests
 from PIL import Image, ImageDraw, ImageFont
 
@@ -343,6 +343,42 @@ def countries():
     print('paises', len(out))
 
 
+def guardar_minis(pid, d):
+    """miniaturas pequenas de las candidatas para elegir a ojo (las hojas se arman fuera)"""
+    carpeta = os.path.join(OUT, 'cand', pid)
+    if os.path.isdir(carpeta) and len(os.listdir(carpeta)) >= min(6, len(d.get('candidatas', []))):
+        return False
+    os.makedirs(carpeta, exist_ok=True)
+    for k, c in enumerate(d.get('candidatas', [])[:6], 1):
+        dest = os.path.join(carpeta, f'{k}.jpg')
+        if os.path.exists(dest):
+            continue
+        try:
+            im = Image.open(io.BytesIO(get(c['thumb'], raw=True))).convert('RGB')
+            im.thumbnail((240, 180))
+            im.save(dest, quality=74)
+        except Exception as e:
+            print('   mini fallo', pid, k, e)
+        time.sleep(0.12)
+    return True
+
+
+def checkpoint(msg):
+    if not os.environ.get('GITHUB_ACTIONS'):
+        return
+    try:
+        subprocess.run(['git', 'add', OUT], check=True)
+        r = subprocess.run(['git', 'commit', '-m', msg + ' [bot]'], capture_output=True)
+        if r.returncode == 0:
+            for _ in range(5):
+                if subprocess.run(['git', 'pull', '--rebase', '-q']).returncode == 0 and subprocess.run(['git', 'push', '-q']).returncode == 0:
+                    break
+                time.sleep(4)
+        print('checkpoint', msg, flush=True)
+    except Exception as e:
+        print('checkpoint fallo', e)
+
+
 def main():
     rows = list(csv.DictReader(open(os.path.join(ROOT, 'lugares.tsv'), encoding='utf-8'), delimiter='\t'))
     os.makedirs(os.path.join(OUT, 'lugares'), exist_ok=True)
@@ -350,26 +386,27 @@ def main():
         countries()
     except Exception as e:
         print('PAISES FALLO', e)
-    datos, cambio, changed = {}, False, set()
+    hechos = 0
     for row in rows:
         path = os.path.join(OUT, 'lugares', row['id'] + '.json')
         if os.path.exists(path) and not FORCE:
-            datos[row['id']] = json.load(open(path))
-            continue
-        print('->', row['id'], flush=True)
-        try:
-            d, src = place_data(row)
-            d['candidatas'] = candidates(src) if src else []
-        except Exception as e:
-            print('   ERROR', e)
-            d = {'id': row['id'], 'error': str(e), 'candidatas': []}
-        datos[row['id']] = d
-        json.dump(d, open(path, 'w'), ensure_ascii=False, indent=1)
-        cambio = True
-        changed.add(row['id'])
-    if cambio or FORCE or not os.path.exists(os.path.join(OUT, 'hojas')):
-        contact_sheets(rows, datos, None if FORCE else changed)
-    sin = [r['id'] for r in rows if not datos[r['id']].get('candidatas')]
+            d = json.load(open(path))
+        else:
+            print('->', row['id'], flush=True)
+            try:
+                d, src = place_data(row)
+                d['candidatas'] = candidates(src) if src else []
+            except Exception as e:
+                print('   ERROR', e)
+                d = {'id': row['id'], 'error': str(e), 'candidatas': []}
+            json.dump(d, open(path, 'w'), ensure_ascii=False, indent=1)
+            hechos += 1
+        if guardar_minis(row['id'], d):
+            hechos += 1
+        if hechos >= 50:
+            checkpoint('Fotos: avance de candidatas')
+            hechos = 0
+    sin = [r['id'] for r in rows if not json.load(open(os.path.join(OUT, 'lugares', r['id'] + '.json'))).get('candidatas')]
     print('sin candidatas:', sin)
 
 

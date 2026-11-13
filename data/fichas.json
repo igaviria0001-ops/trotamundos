@@ -1,0 +1,407 @@
+{
+ "eiffel": {
+  "lugar": "París",
+  "porque": "El símbolo de París y uno de los monumentos más visitados del planeta.",
+  "anio": 1889,
+  "anioTxt": "1889",
+  "alto": 330,
+  "datos": [
+   "Se hizo para la Exposición Universal de 1889 y debía desmontarse a los 20 años.",
+   "Fue la estructura más alta del mundo hasta 1930.",
+   "Se repinta a mano más o menos cada siete años, con unas 60 toneladas de pintura."
+  ]
+ },
+ "coliseo": {
+  "lugar": "Roma",
+  "porque": "El anfiteatro más grande que construyó el Imperio romano.",
+  "anio": 80,
+  "anioTxt": "año 80",
+  "datos": [
+   "Se inauguró en el año 80 con 100 días de juegos.",
+   "Cabían entre 50 000 y 80 000 espectadores.",
+   "Tenía un toldo gigante, el velarium, para darle sombra al público."
+  ]
+ },
+ "pisa": {
+  "lugar": "Pisa, Toscana",
+  "porque": "Un campanario famoso en el mundo entero por estar inclinado.",
+  "anio": 1173,
+  "anioTxt": "1173",
+  "alto": 56,
+  "datos": [
+   "Empezó a inclinarse mientras lo construían, por el suelo blando.",
+   "Tiene ocho pisos y siete campanas.",
+   "Entre 1990 y 2001 lo enderezaron unos 45 cm para que no se cayera."
+  ]
+ },
+ "sagrada": {
+  "lugar": "Barcelona",
+  "porque": "La obra maestra de Antoni Gaudí, que todavía se está construyendo.",
+  "anio": 1882,
+  "anioTxt": "1882",
+  "datos": [
+   "Gaudí trabajó en ella más de 40 años, hasta su muerte en 1926.",
+   "Cuando esté terminada, su torre más alta medirá 172,5 m.",
+   "Sus columnas se ramifican como árboles: adentro parece un bosque de piedra."
+  ]
+ },
+ "bigben": {
+  "lugar": "Londres",
+  "porque": "La torre del reloj del Parlamento británico, símbolo de Londres.",
+  "anio": 1859,
+  "anioTxt": "1859",
+  "alto": 96,
+  "datos": [
+   "Big Ben es en realidad el nombre de la gran campana, que pesa más de 13 toneladas.",
+   "Desde 2012 la torre se llama oficialmente Torre Isabel.",
+   "Cada esfera del reloj mide 7 m de diámetro."
+  ]
+ },
+ "stonehenge": {
+  "lugar": "Wiltshire, Inglaterra",
+  "porque": "Un círculo de piedras gigantes levantado en la prehistoria.",
+  "anio": -2500,
+  "anioTxt": "hacia 2500 a. C.",
+  "datos": [
+   "Se construyó por etapas, hace entre unos 5000 y 4000 años.",
+   "Algunas de sus piedras viajaron más de 200 km desde Gales.",
+   "En el solsticio de verano, el sol sale alineado con su eje."
+  ]
+ },
+ "partenon": {
+  "lugar": "Acrópolis de Atenas",
+  "porque": "El templo más famoso de la antigua Grecia, dedicado a la diosa Atenea.",
+  "anio": -447,
+  "anioTxt": "447 a. C.",
+  "datos": [
+   "Se construyó entre los años 447 y 432 a. C.",
+   "Sus columnas se ensanchan un poco en el centro para verse rectas desde lejos.",
+   "En 1687 explotó la pólvora guardada adentro y quedó en ruinas."
+  ]
+ },
+ "santorini": {
+  "lugar": "Islas Cícladas, mar Egeo",
+  "porque": "Casas blancas y cúpulas azules sobre el borde de un volcán.",
+  "datos": [
+   "Tiene forma de media luna porque es lo que quedó de un volcán que explotó hace unos 3600 años.",
+   "El pueblo de Oía es famoso por sus atardeceres sobre la caldera.",
+   "Las casas se pintan con cal blanca para reflejar el sol y mantenerse frescas."
+  ]
+ },
+ "venecia": {
+  "lugar": "Venecia",
+  "porque": "La avenida de agua de una ciudad construida sobre una laguna.",
+  "datos": [
+   "Venecia se levanta sobre 118 islitas unidas por más de 400 puentes.",
+   "El Gran Canal mide unos 3,8 km y tiene forma de S.",
+   "Allí no hay carros: se anda a pie, en góndola o en vaporetto, el bus acuático."
+  ]
+ },
+ "neuschwanstein": {
+  "lugar": "Baviera",
+  "porque": "El castillo de cuento de hadas del rey Luis II de Baviera.",
+  "anio": 1869,
+  "anioTxt": "1869",
+  "datos": [
+   "Se empezó en 1869 y nunca se terminó por completo.",
+   "El rey solo alcanzó a vivir en él unos 172 días.",
+   "Inspiró el castillo de La Bella Durmiente de Disney."
+  ]
+ },
+ "sanbasilio": {
+  "lugar": "Plaza Roja, Moscú",
+  "porque": "Una catedral con cúpulas de colores que parecen caramelos.",
+  "anio": 1555,
+  "anioTxt": "1555",
+  "datos": [
+   "La mandó construir Iván el Terrible entre 1555 y 1561.",
+   "Tiene nueve capillas, cada una con su propia cúpula.",
+   "Celebra la conquista de la ciudad de Kazán."
+  ]
+ },
+ "notredame": {
+  "lugar": "París",
+  "porque": "Una de las catedrales góticas más famosas del mundo.",
+  "anio": 1163,
+  "anioTxt": "1163",
+  "datos": [
+   "Se empezó a construir en 1163, en una isla del río Sena.",
+   "En 2019 un incendio destruyó su techo y su aguja.",
+   "Reabrió restaurada en diciembre de 2024."
+  ]
+ },
+ "sanpedro": {
+  "lugar": "Ciudad del Vaticano",
+  "porque": "Una de las iglesias más grandes del mundo, en el país más pequeño del planeta.",
+  "anio": 1506,
+  "anioTxt": "1506",
+  "alto": 136.6,
+  "datos": [
+   "Su enorme cúpula la diseñó Miguel Ángel.",
+   "Se construyó durante 120 años, entre 1506 y 1626.",
+   "El Vaticano mide menos de medio kilómetro cuadrado."
+  ]
+ },
+ "louvre": {
+  "lugar": "París",
+  "porque": "El museo de arte más visitado del mundo, el hogar de la Mona Lisa.",
+  "anio": 1793,
+  "anioTxt": "1793",
+  "datos": [
+   "Antes de ser museo fue el palacio de los reyes de Francia.",
+   "La pirámide de vidrio de la entrada se inauguró en 1989.",
+   "Exhibe unas 35 000 obras de arte."
+  ]
+ },
+ "santasofia": {
+  "lugar": "Estambul",
+  "porque": "Fue la catedral más grande del mundo durante casi mil años.",
+  "anio": 537,
+  "anioTxt": "537",
+  "datos": [
+   "Se terminó en el año 537, en tiempos del emperador Justiniano.",
+   "Ha sido iglesia, mezquita, museo y otra vez mezquita.",
+   "Su cúpula de 31 m parece flotar sobre un anillo de ventanas."
+  ]
+ },
+ "granmuralla": {
+  "lugar": "Norte de China",
+  "porque": "Una muralla enorme construida durante siglos para proteger a China.",
+  "anioTxt": "siglo VII a. C.",
+  "anio": -700,
+  "datos": [
+   "Sumando todos sus tramos mide más de 21 000 km.",
+   "La parte más conocida la construyó la dinastía Ming hace unos 500 años.",
+   "Es un mito que se vea a simple vista desde el espacio."
+  ]
+ },
+ "tajmahal": {
+  "lugar": "Agra",
+  "porque": "Un mausoleo de mármol blanco considerado uno de los edificios más bellos del mundo.",
+  "anio": 1632,
+  "anioTxt": "1632",
+  "alto": 73,
+  "datos": [
+   "El emperador Shah Jahan lo mandó hacer en memoria de su esposa Mumtaz Mahal.",
+   "Se construyó entre 1632 y 1653, con unos 20 000 trabajadores.",
+   "Su mármol se ve rosado al amanecer, blanco al mediodía y dorado con la luna."
+  ]
+ },
+ "fuji": {
+  "lugar": "Isla de Honshu",
+  "porque": "La montaña más alta de Japón, un volcán de forma casi perfecta.",
+  "elev": 3776,
+  "datos": [
+   "Es un volcán activo: su última erupción fue en 1707.",
+   "Cada verano lo suben unas 200 000 personas.",
+   "Su nombre en japonés se escribe 富士山 y su cima es lugar sagrado."
+  ]
+ },
+ "angkor": {
+  "lugar": "Siem Riep",
+  "porque": "El monumento religioso más grande del mundo.",
+  "anio": 1113,
+  "anioTxt": "siglo XII",
+  "datos": [
+   "Se construyó en el siglo XII como templo hindú y después se volvió budista.",
+   "Aparece en la bandera de Camboya.",
+   "Lo rodea un foso de agua de más de 5 km."
+  ]
+ },
+ "petra": {
+  "lugar": "Desierto de Jordania",
+  "porque": "Una ciudad tallada en la roca rosada del desierto.",
+  "anio": -300,
+  "anioTxt": "hacia 300 a. C.",
+  "datos": [
+   "La construyeron los nabateos hace más de 2000 años.",
+   "Se entra por el Siq, un desfiladero estrecho de más de 1 km.",
+   "Su fachada más famosa, el Tesoro, mide unos 40 m de alto."
+  ]
+ },
+ "burjkhalifa": {
+  "lugar": "Dubái",
+  "porque": "El edificio más alto del mundo.",
+  "anio": 2010,
+  "anioTxt": "2010",
+  "alto": 828,
+  "datos": [
+   "Tiene más de 160 pisos.",
+   "Se inauguró en 2010.",
+   "Sus ascensores suben a unos 10 m por segundo."
+  ]
+ },
+ "everest": {
+  "lugar": "Cordillera del Himalaya",
+  "porque": "La montaña más alta de la Tierra.",
+  "elev": 8849,
+  "datos": [
+   "Edmund Hillary y Tenzing Norgay llegaron por primera vez a la cima en 1953.",
+   "En nepalí se llama Sagarmatha y en tibetano, Chomolungma.",
+   "Crece unos milímetros cada año porque la India sigue empujando contra Asia."
+  ]
+ },
+ "terracota": {
+  "lugar": "Xi'an",
+  "porque": "Un ejército de soldados de barro que cuidaba la tumba del primer emperador de China.",
+  "anio": -210,
+  "anioTxt": "hacia 210 a. C.",
+  "datos": [
+   "Lo descubrieron unos campesinos en 1974 mientras cavaban un pozo.",
+   "Hay más de 8000 soldados y no hay dos caras iguales.",
+   "Se hizo hace unos 2200 años para el emperador Qin Shi Huang."
+  ]
+ },
+ "giza": {
+  "lugar": "El Cairo",
+  "porque": "La única de las siete maravillas del mundo antiguo que sigue en pie.",
+  "anio": -2560,
+  "anioTxt": "hacia 2560 a. C.",
+  "alto": 138.5,
+  "datos": [
+   "La Gran Pirámide se construyó hacia 2560 a. C. para el faraón Keops.",
+   "Fue la construcción más alta del mundo durante casi 4000 años.",
+   "Tiene unos 2,3 millones de bloques de piedra."
+  ]
+ },
+ "esfinge": {
+  "lugar": "Guiza, El Cairo",
+  "porque": "Una estatua gigante con cuerpo de león y cabeza humana.",
+  "anio": -2500,
+  "anioTxt": "hacia 2500 a. C.",
+  "alto": 20,
+  "datos": [
+   "Se talló en una sola roca hace unos 4500 años.",
+   "Mide 73 m de largo: casi tanto como una cancha de fútbol pequeña.",
+   "Pasó siglos enterrada en la arena hasta los hombros."
+  ]
+ },
+ "kilimanjaro": {
+  "lugar": "Tanzania",
+  "porque": "La montaña más alta de África, con nieve muy cerca del ecuador.",
+  "elev": 5895,
+  "datos": [
+   "Es un volcán con tres conos: Kibo, Mawenzi y Shira.",
+   "Se puede subir caminando, sin escalar, en unos 6 a 8 días.",
+   "Su cima nevada se llama Uhuru, que en suajili significa «libertad»."
+  ]
+ },
+ "libertad": {
+  "lugar": "Nueva York",
+  "porque": "Un regalo de Francia que se volvió el símbolo de la libertad.",
+  "anio": 1886,
+  "anioTxt": "1886",
+  "alto": 93,
+  "datos": [
+   "Se inauguró en 1886.",
+   "Gustave Eiffel, el de la torre, diseñó su esqueleto interno.",
+   "Es de cobre: el color verde es el óxido que fue apareciendo con los años."
+  ]
+ },
+ "goldengate": {
+  "lugar": "San Francisco",
+  "porque": "El puente colgante más famoso del mundo.",
+  "anio": 1937,
+  "anioTxt": "1937",
+  "alto": 227,
+  "datos": [
+   "Se abrió en 1937 y mide 2,7 km de largo.",
+   "Su color, «naranja internacional», se eligió para que se viera entre la niebla.",
+   "Durante 27 años fue el puente colgante con el tramo más largo del mundo."
+  ]
+ },
+ "grancanon": {
+  "lugar": "Arizona",
+  "porque": "Un cañón gigantesco tallado por el río Colorado.",
+  "datos": [
+   "Mide unos 446 km de largo y hasta 1,8 km de profundidad.",
+   "Sus capas de roca guardan casi 2000 millones de años de historia de la Tierra.",
+   "Lo visitan unos 5 millones de personas al año."
+  ]
+ },
+ "niagara": {
+  "lugar": "Frontera entre Canadá y Estados Unidos",
+  "porque": "Tres cataratas famosas en la frontera de dos países.",
+  "datos": [
+   "Son tres: la Herradura, la Americana y el Velo de Novia.",
+   "Por la Herradura cae en un segundo casi el agua de una piscina olímpica.",
+   "Su fuerza produce electricidad para millones de personas."
+  ]
+ },
+ "chichenitza": {
+  "lugar": "Yucatán",
+  "porque": "Una gran ciudad maya con una pirámide que funciona como calendario.",
+  "anio": 600,
+  "anioTxt": "siglo VII",
+  "datos": [
+   "La pirámide de Kukulcán tiene 365 escalones, uno por cada día del año.",
+   "En los equinoccios, una sombra con forma de serpiente baja por su escalera.",
+   "Fue una de las ciudades mayas más poderosas entre los años 600 y 1200."
+  ]
+ },
+ "rushmore": {
+  "lugar": "Dakota del Sur",
+  "porque": "Cuatro presidentes de Estados Unidos tallados en una montaña.",
+  "anio": 1927,
+  "anioTxt": "1927",
+  "datos": [
+   "Muestra a Washington, Jefferson, Theodore Roosevelt y Lincoln.",
+   "Cada cara mide unos 18 m de alto.",
+   "Se talló entre 1927 y 1941, en buena parte con dinamita."
+  ]
+ },
+ "machupicchu": {
+  "lugar": "Cusco",
+  "porque": "La ciudad inca escondida entre las montañas de los Andes.",
+  "anio": 1450,
+  "anioTxt": "hacia 1450",
+  "datos": [
+   "Se construyó hacia 1450 para el inca Pachacútec.",
+   "Está a unos 2430 m de altura, sobre el río Urubamba.",
+   "Sus piedras encajan tan bien que no necesitaron mezcla para pegarlas."
+  ]
+ },
+ "cristo": {
+  "lugar": "Río de Janeiro",
+  "porque": "La estatua que abraza a Río desde lo alto del cerro Corcovado.",
+  "anio": 1931,
+  "anioTxt": "1931",
+  "alto": 30,
+  "datos": [
+   "Con los brazos abiertos mide 28 m de punta a punta.",
+   "Se inauguró en 1931.",
+   "Le caen varios rayos al año; tiene pararrayos en la cabeza y en las manos."
+  ]
+ },
+ "iguazu": {
+  "lugar": "Frontera entre Argentina y Brasil",
+  "porque": "Uno de los conjuntos de cataratas más grandes del mundo.",
+  "datos": [
+   "Son unos 275 saltos repartidos en casi 3 km.",
+   "El salto más impresionante se llama la Garganta del Diablo.",
+   "En guaraní, Iguazú significa «agua grande»."
+  ]
+ },
+ "moai": {
+  "lugar": "Isla de Pascua (Rapa Nui)",
+  "porque": "Estatuas gigantes de piedra en una de las islas habitadas más aisladas del mundo.",
+  "anio": 1250,
+  "anioTxt": "hacia 1250",
+  "datos": [
+   "Hay casi 1000 moáis en la isla.",
+   "Los tallaron los rapanui entre los años 1250 y 1500.",
+   "Casi todos miran hacia el interior de la isla, no hacia el mar."
+  ]
+ },
+ "operasydney": {
+  "lugar": "Sídney",
+  "porque": "Un edificio con techos como velas, símbolo de Australia.",
+  "anio": 1973,
+  "anioTxt": "1973",
+  "datos": [
+   "Se inauguró en 1973, después de 14 años de obras.",
+   "Su techo está cubierto por más de un millón de tejas.",
+   "La diseñó el arquitecto danés Jørn Utzon."
+  ]
+ }
+}

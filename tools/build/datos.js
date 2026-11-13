@@ -77,17 +77,20 @@ function anioTexto(y, prec) {
   return y < 0 ? `${a} a. C.` : String(a);
 }
 
+const nb = t => t.replace(/(\d) (?=\d{3}\b)/g, '$1\u00a0').replace(/ (a\. C\.)/g, '\u00a0$1').replace(/(\d) (m|km)\b/g, '$1\u00a0$2');
+
 function lugares() {
   const tsv = fs.readFileSync(R('tools/fotos/lugares.tsv'), 'utf8').trim().split('\n');
   const head = tsv.shift().split('\t');
   const fichas = jsonOr('data/fichas.json', {});
   const cred = jsonOr('fotos/creditos.json', {});
+  const resp = jsonOr('data/coords-respaldo.json', {});
   const out = [];
   for (const line of tsv) {
     const r = Object.fromEntries(line.split('\t').map((v, i) => [head[i], v]));
     const wd = jsonOr(`tools/fotos/out/lugares/${r.id}.json`, {});
     const f = fichas[r.id] || {};
-    const coord = f.coord || wd.coord;
+    const coord = f.coord || wd.coord || resp[r.id];
     if (!coord) continue;
     const fotos = Object.keys(cred).filter(k => k.startsWith(r.id + '-') && /^\d+$/.test(k.slice(r.id.length + 1)))
       .sort((a, b) => +a.split('-').pop() - +b.split('-').pop())
@@ -105,7 +108,7 @@ function lugares() {
       lat: +(+coord[0]).toFixed(4), lon: +(+coord[1]).toFixed(4),
       lugar: f.lugar || '', anio: anio == null ? null : anio, anioTxt: anioTxt || '',
       alto: alto == null ? null : Math.round(alto * 10) / 10, elev: f.elev || null,
-      datos: f.datos || [], porque: f.porque || '', pistas: f.pistas || [], unesco: !!wd.unesco,
+      datos: (f.datos || []).map(nb), porque: nb(f.porque || ''), pistas: f.pistas || [], unesco: !!wd.unesco,
       fotos,
     });
   }
