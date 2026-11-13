@@ -1,0 +1,199 @@
+{
+ "id": "relojpraga",
+ "enwiki": "Prague astronomical clock",
+ "endesc": "Medieval astronomical clock in the Czech Republic",
+ "qid": "Q729370",
+ "coord": [
+  50.08699,
+  14.4207
+ ],
+ "label_es": "Reloj astronómico de Praga",
+ "desc_es": "reloj astronómico en Praga",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1410-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q5275",
+  "Q1548498",
+  "Q200334"
+ ],
+ "p17": [
+  "Q213"
+ ],
+ "unesco": false,
+ "eswiki": "Reloj astronómico de Praga",
+ "extracto_es": "El Reloj Astronómico de Praga (en checo: Staroměstský orloj) es un reloj astronómico medieval localizado en Praga, la capital de la República Checa, situado en 50°5′13.23″N 14°25′15.30″E. El reloj se encuentra en la pared sur del Ayuntamiento de la Ciudad Vieja de Praga, siendo una popular atracción turística.",
+ "candidatas": [
+  {
+   "file": "File:Czech-2013-Prague-Astronomical clock face.jpg",
+   "w": 5000,
+   "h": 3763,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Czech-2013-Prague-Astronomical_clock_face.jpg/330px-Czech-2013-Prague-Astronomical_clock_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Czech-2013-Prague-Astronomical_clock_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Czech-2013-Prague-Astronomical_clock_face.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Godot13",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-28 09:56:37",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:The Prague Astronomical Clock in Old Town - 8559.jpg",
+   "w": 4368,
+   "h": 2912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Prague_Astronomical_Clock_in_Old_Town_-_8559.jpg/330px-The_Prague_Astronomical_Clock_in_Old_Town_-_8559.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Prague_Astronomical_Clock_in_Old_Town_-_8559.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Prague_Astronomical_Clock_in_Old_Town_-_8559.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jorge Royan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Prague Town Hall Clock 2021 16.jpg",
+   "w": 4346,
+   "h": 2893,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Prague_Town_Hall_Clock_2021_16.jpg/330px-Prague_Town_Hall_Clock_2021_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Prague_Town_Hall_Clock_2021_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Prague_Town_Hall_Clock_2021_16.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Scotch Mist",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-10-24 11:50:35",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Prague September 2016-14.jpg",
+   "w": 5703,
+   "h": 4358,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Prague_September_2016-14.jpg/330px-Prague_September_2016-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Prague_September_2016-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Prague_September_2016-14.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-24 15:44:39",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Prague September 2016-15.jpg",
+   "w": 6508,
+   "h": 4538,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Prague_September_2016-15.jpg/330px-Prague_September_2016-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Prague_September_2016-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Prague_September_2016-15.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-24 15:44:43",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Prague Astronomical Clock in Old Town - 8560.jpg",
+   "w": 4368,
+   "h": 2912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/The_Prague_Astronomical_Clock_in_Old_Town_-_8560.jpg/330px-The_Prague_Astronomical_Clock_in_Old_Town_-_8560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/The_Prague_Astronomical_Clock_in_Old_Town_-_8560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Prague_Astronomical_Clock_in_Old_Town_-_8560.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jorge Royan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Prague September 2016-13.jpg",
+   "w": 4110,
+   "h": 6798,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Prague_September_2016-13.jpg/330px-Prague_September_2016-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Prague_September_2016-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Prague_September_2016-13.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-24 15:44:29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Prague Astronomical Clock Detail.jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Prague_Astronomical_Clock_Detail.jpg/330px-Prague_Astronomical_Clock_Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Prague_Astronomical_Clock_Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Prague_Astronomical_Clock_Detail.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Gklka",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

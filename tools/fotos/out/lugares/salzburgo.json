@@ -1,0 +1,192 @@
+{
+ "id": "salzburgo",
+ "enwiki": "Hohensalzburg Fortress",
+ "endesc": "Medieval fortress in Salzburg, Austria",
+ "qid": "Q679292",
+ "coord": [
+  47.795,
+  13.0473
+ ],
+ "label_es": "Fortaleza de Hohensalzburg",
+ "desc_es": "castillo y museo de Salzburgo, Austria",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1077-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 540.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q33506",
+  "Q57831",
+  "Q23413"
+ ],
+ "p17": [
+  "Q40"
+ ],
+ "unesco": false,
+ "eswiki": "Fortaleza de Hohensalzburg",
+ "extracto_es": "La Fortaleza de Hohensalzburg,​ monumento característico de la ciudad de Salzburgo, es la más grande y mejor conservada en Europa. La construcción fue empezada en 1077 bajo el Príncipe-Arzobispo Gebhard von Helffenstein. Fue ampliada y reforzada con torres, bastiones, muros y trincheras hasta el siglo XVII. La fortaleza tomó su aspecto actual en el siglo XV bajo el Príncipe-Arzobispo Leonhard von Keutschach, que la hizo habitable, la decoró exquisitamente y le dio su aspecto gótico tardío. En todos los muros de la fortaleza se puede ver su símbolo: una remolacha. En el muro exterior de la capilla de la fortaleza se encuentra su relieve en mármol rojo de Adnet.\nLa fortaleza fue sitiada varias veces pero nunca fue tomada. Es famosa la historia de «El lavandero de toros salburgués», quien, durante un largo asedio, pintaba un mismo toro cada día con un color distinto y lo paseaba por los muros de defensa, y cada vez lo volvía a lavar. El atacante era así engañado, creyendo que disponían de un enorme almacén de reservas, por lo cual abandonaban desilusionados el sitio.",
+ "candidatas": [
+  {
+   "file": "File:Salzburg - Festung Hohensalzburg.JPG",
+   "w": 5460,
+   "h": 3641,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Salzburg_-_Festung_Hohensalzburg.JPG/330px-Salzburg_-_Festung_Hohensalzburg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Salzburg_-_Festung_Hohensalzburg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Salzburg_-_Festung_Hohensalzburg.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C.Stadler/Bwag",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-10-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Riegersburg - Burg, Westansicht.JPG",
+   "w": 4125,
+   "h": 2750,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Riegersburg_-_Burg%2C_Westansicht.JPG/330px-Riegersburg_-_Burg%2C_Westansicht.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Riegersburg_-_Burg%2C_Westansicht.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Riegersburg_-_Burg,_Westansicht.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C.Stadler/Bwag",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-10-04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hohensalzburg 1-2-2014 e Reißzug Stift Nonnberg.jpg",
+   "w": 4200,
+   "h": 2800,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Hohensalzburg_1-2-2014_e_Rei%C3%9Fzug_Stift_Nonnberg.jpg/330px-Hohensalzburg_1-2-2014_e_Rei%C3%9Fzug_Stift_Nonnberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hohensalzburg_1-2-2014_e_Rei%C3%9Fzug_Stift_Nonnberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hohensalzburg_1-2-2014_e_Rei%C3%9Fzug_Stift_Nonnberg.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Manfred Werner - Tsui",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-02-01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Aerial image of Hohensalzburg Fortress (view from the southwest).jpg",
+   "w": 5200,
+   "h": 3400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Hohensalzburg_Fortress_%28view_from_the_southwest%29.jpg/330px-Aerial_image_of_Hohensalzburg_Fortress_%28view_from_the_southwest%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Aerial_image_of_Hohensalzburg_Fortress_%28view_from_the_southwest%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Hohensalzburg_Fortress_(view_from_the_southwest).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Carsten Steger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-09-21 13:31:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:12-10-31-salzburg-by-RalfR-01.jpg",
+   "w": 4256,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/12-10-31-salzburg-by-RalfR-01.jpg/330px-12-10-31-salzburg-by-RalfR-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/12-10-31-salzburg-by-RalfR-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:12-10-31-salzburg-by-RalfR-01.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Ralf Roletschek",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-11-01 18:50:28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Hohensalzburg fortress and St. Peter's Abbey.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Hohensalzburg_fortress_and_St._Peter%27s_Abbey.jpg/330px-Hohensalzburg_fortress_and_St._Peter%27s_Abbey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hohensalzburg_fortress_and_St._Peter%27s_Abbey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hohensalzburg_fortress_and_St._Peter%27s_Abbey.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Prashanta.guha",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-10-02 03:26:16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Festung Hohensalzburg-IMG 5873.JPG",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_Hohensalzburg-IMG_5873.JPG/330px-Festung_Hohensalzburg-IMG_5873.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Festung_Hohensalzburg-IMG_5873.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Festung_Hohensalzburg-IMG_5873.JPG",
+   "licencia": "CC BY-SA 3.0 at",
+   "licurl": "cc-by-sa-3.0-at",
+   "autor": "PictureObelix",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-06-15 12:45:46",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Badramsdorf Ortenburg 02.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Badramsdorf_Ortenburg_02.jpg/330px-Badramsdorf_Ortenburg_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Badramsdorf_Ortenburg_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Badramsdorf_Ortenburg_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Johann Jaritz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-10-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

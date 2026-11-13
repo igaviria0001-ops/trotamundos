@@ -1,0 +1,202 @@
+{
+ "id": "krumlov",
+ "enwiki": "Český Krumlov",
+ "endesc": "Town in South Bohemian, Czech Republic",
+ "qid": "Q188082",
+ "coord": [
+  48.810990441614,
+  14.31520771066
+ ],
+ "label_es": "Český Krumlov",
+ "desc_es": "ciudad de República Checa",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 492.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 22.168455,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q5153359",
+  "Q15978299",
+  "Q8452914",
+  "Q7841907",
+  "Q7819319"
+ ],
+ "p17": [
+  "Q213"
+ ],
+ "unesco": false,
+ "eswiki": "Český Krumlov",
+ "extracto_es": "Český Krumlov (checo: , conocida hasta 1918 como Krummau) es una ciudad ubicada en la región de Bohemia Meridional, en la República Checa. El centro histórico de Český Krumlov, incluyendo su castillo, integra el listado del Patrimonio de la Humanidad de la Unesco desde 1992.​ La población de la ciudad en 2018 era de 13 028 habitantes​ y su área de unos 22 km².",
+ "candidatas": [
+  {
+   "file": "File:View over Český Krumlov in 2012.JPG",
+   "w": 4000,
+   "h": 2600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/View_over_%C4%8Cesk%C3%BD_Krumlov_in_2012.JPG/330px-View_over_%C4%8Cesk%C3%BD_Krumlov_in_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/View_over_%C4%8Cesk%C3%BD_Krumlov_in_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_over_%C4%8Cesk%C3%BD_Krumlov_in_2012.JPG",
+   "licencia": "CC BY 3.0 de",
+   "licurl": "cc-by-3.0-de",
+   "autor": "High Contrast",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "2012-08",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "es"
+  },
+  {
+   "file": "File:Český Krumlov, historické jádro.jpg",
+   "w": 3600,
+   "h": 2400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%C4%8Cesk%C3%BD_Krumlov%2C_historick%C3%A9_j%C3%A1dro.jpg/330px-%C4%8Cesk%C3%BD_Krumlov%2C_historick%C3%A9_j%C3%A1dro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/%C4%8Cesk%C3%BD_Krumlov%2C_historick%C3%A9_j%C3%A1dro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov,_historick%C3%A9_j%C3%A1dro.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Xth-Floor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-06-02 22:11:20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Blick auf das Stadtzentrum von Krumau (2026).jpg",
+   "w": 2040,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Blick_auf_das_Stadtzentrum_von_Krumau_%282026%29.jpg/330px-Blick_auf_das_Stadtzentrum_von_Krumau_%282026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Blick_auf_das_Stadtzentrum_von_Krumau_%282026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Blick_auf_das_Stadtzentrum_von_Krumau_(2026).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "DominikCK1999",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1.7.2026",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Český Krumlov (Krummau) - panorama.JPG",
+   "w": 3444,
+   "h": 1900,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_panorama.JPG/330px-%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_panorama.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_panorama.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov_(Krummau)_-_panorama.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Pudelek (Marcin Szala)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Český Krumlov (Krummau) - 1.JPG",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_1.JPG/330px-%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov_(Krummau)_-_1.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Pudelek (Marcin Szala)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Český Krumlov (Krummau) - panorama - old city.JPG",
+   "w": 3092,
+   "h": 1500,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_panorama_-_old_city.JPG/330px-%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_panorama_-_old_city.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_panorama_-_old_city.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov_(Krummau)_-_panorama_-_old_city.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Pudelek (Marcin Szala)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Český Krumlov (Krummau) - zámecká věž.jpg",
+   "w": 1650,
+   "h": 2200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_z%C3%A1meck%C3%A1_v%C4%9B%C5%BE.jpg/330px-%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_z%C3%A1meck%C3%A1_v%C4%9B%C5%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_z%C3%A1meck%C3%A1_v%C4%9B%C5%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov_(Krummau)_-_z%C3%A1meck%C3%A1_v%C4%9B%C5%BE.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Pudelek (Marcin Szala)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:05 2025 Český Krumlov IMG 2794.jpg",
+   "w": 5500,
+   "h": 3393,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/05_2025_%C4%8Cesk%C3%BD_Krumlov_IMG_2794.jpg/330px-05_2025_%C4%8Cesk%C3%BD_Krumlov_IMG_2794.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/05_2025_%C4%8Cesk%C3%BD_Krumlov_IMG_2794.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:05_2025_%C4%8Cesk%C3%BD_Krumlov_IMG_2794.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alexander Migl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-05-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

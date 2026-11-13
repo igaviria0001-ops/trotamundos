@@ -1,0 +1,213 @@
+{
+ "id": "granplace",
+ "enwiki": "Grand-Place",
+ "endesc": "Square and UNESCO World Heritage Site in Brussels, Belgium",
+ "qid": "Q215429",
+ "coord": [
+  50.84670775,
+  4.35253815
+ ],
+ "label_es": "Grand-Place",
+ "desc_es": "plaza central de Bruselas, Bélgica",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 30.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 1.48,
+   "u": "Q35852"
+  },
+  {
+   "v": 20.93,
+   "u": "Q35852"
+  }
+ ],
+ "largo": [
+  {
+   "v": 110.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q26987258"
+ ],
+ "p17": [
+  "Q31"
+ ],
+ "unesco": true,
+ "eswiki": "Grand-Place (Bruselas)",
+ "extracto_es": "La Grand-Place (pronunciación en francés: /ɡʁɑ̃ plas/) o Grote Markt (pronunciación en neerlandés: /ˌɣroːtə ˈmɑr(ə)kt/ ()) es la plaza central de Bruselas. Mundialmente conocida por su riqueza ornamental, está rodeada por las casas de los gremios, el ayuntamiento y la Casa del Rey (en neerlandés: Broodhuis, en francés: Maison du Roi). Está considerada una de las más bellas plazas del mundo. La Grand-Place de Bruselas fue inscrita en 1998 en la lista del Patrimonio de la Humanidad de la Unesco.​\nEste lugar histórico ha sido escenario de numerosos acontecimientos tanto alegres como trágicos. Por ejemplo, en 1523, los primeros mártires protestantes, Henri Voes y Jean Van Eschen, fueron quemados por la Inquisición en la Grand-Place. Cuarenta años más tarde, fueron decapitados el conde de Egmont y el conde de Horn.\nEn agosto de 1695, cuando la ciudad era parte de los Países Bajos Españoles, durante la Guerra de la Liga de Augsburgo, la mayor parte de las casas, la mayoría construidas en madera, fueron destruidas durante el bombardeo por las tropas francesas dirigidas por el mariscal de Villeroy. Solo la fachada y la torre del ayuntamiento, que servía de diana para la artillería, y algunos muros de piedra resistieron las bolas incendiarias. Las casas que rodeaban la plaza fueron reconstruidas en piedra por los distintos gremios. Entre ellas, la casa de la corporación de los cerveceros acoge hoy en día el Museo de los Cerveceros.\nLa Grand-Place acoge frecuentemente acontecimientos festivos y culturales. Entre ellos, en agosto de cada año par, la instalación en su centro de una inmensa alfombra de flores, de 25 por 75 metros, compuesta de más de 500 000 plantas de begonia.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Grand-Place, Brussels - panorama, June 2018.jpg",
+   "w": 10946,
+   "h": 6226,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/330px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand-Place,_Brussels_-_panorama,_June_2018.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Celuici",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Edificios en la Grand-Place, Bruselas, Bélgica, 2021-12-15, DD 184-186 HDR.jpg",
+   "w": 7169,
+   "h": 4795,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Edificios_en_la_Grand-Place%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_184-186_HDR.jpg/330px-Edificios_en_la_Grand-Place%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_184-186_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edificios_en_la_Grand-Place%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_184-186_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Edificios_en_la_Grand-Place,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_184-186_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-12-15 23:28:21",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Grand-Place Flower Carpet 2018 (18mm).jpg",
+   "w": 9361,
+   "h": 4225,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Grand-Place_Flower_Carpet_2018_%2818mm%29.jpg/330px-Grand-Place_Flower_Carpet_2018_%2818mm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Grand-Place_Flower_Carpet_2018_%2818mm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand-Place_Flower_Carpet_2018_(18mm).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Trougnouf",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-08-18 20:25:11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Edificios en la Grand-Place, Bruselas, Bélgica, 2021-12-15, DD 12.jpg",
+   "w": 5536,
+   "h": 3990,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Edificios_en_la_Grand-Place%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_12.jpg/330px-Edificios_en_la_Grand-Place%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Edificios_en_la_Grand-Place%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Edificios_en_la_Grand-Place,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_12.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-12-15 10:41:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Grand-Place (Brussels) - Row of historic Baroque guildhouses from number 1 to 7 with tourists in the square.jpg",
+   "w": 5476,
+   "h": 3080,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Grand-Place_%28Brussels%29_-_Row_of_historic_Baroque_guildhouses_from_number_1_to_7_with_tourists_in_the_square.jpg/330px-Grand-Place_%28Brussels%29_-_Row_of_historic_Baroque_guildhouses_from_number_1_to_7_with_tourists_in_the_square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grand-Place_%28Brussels%29_-_Row_of_historic_Baroque_guildhouses_from_number_1_to_7_with_tourists_in_the_square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand-Place_(Brussels)_-_Row_of_historic_Baroque_guildhouses_from_number_1_to_7_with_tourists_in_the_square.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "iMahesh",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-07-24 15:44:11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Brusel Grand-Place radnice 1a.jpg",
+   "w": 2000,
+   "h": 1554,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Brusel_Grand-Place_radnice_1a.jpg/330px-Brusel_Grand-Place_radnice_1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Brusel_Grand-Place_radnice_1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brusel_Grand-Place_radnice_1a.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "VitVit",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-12-07 18:49:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Grand-Place (Brussels) - Row of historic Baroque guildhouses from number 20-28 with visitors in the square.jpg",
+   "w": 4968,
+   "h": 3904,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Grand-Place_%28Brussels%29_-_Row_of_historic_Baroque_guildhouses_from_number_20-28_with_visitors_in_the_square.jpg/330px-Grand-Place_%28Brussels%29_-_Row_of_historic_Baroque_guildhouses_from_number_20-28_with_visitors_in_the_square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Grand-Place_%28Brussels%29_-_Row_of_historic_Baroque_guildhouses_from_number_20-28_with_visitors_in_the_square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand-Place_(Brussels)_-_Row_of_historic_Baroque_guildhouses_from_number_20-28_with_visitors_in_the_square.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "iMahesh",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-07-24 15:48:48",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Brussels, townhall oeg2043-00090 foto3 2015-06-07 08.38.jpg",
+   "w": 2921,
+   "h": 3899,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Brussels%2C_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg/330px-Brussels%2C_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Brussels%2C_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brussels,_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Michielverbeek",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-06-07 08:39:14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  }
+ ]
+}

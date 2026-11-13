@@ -1,0 +1,208 @@
+{
+ "id": "sanesteban",
+ "enwiki": "St. Stephen's Cathedral, Vienna",
+ "endesc": "Church in Vienna, Austria",
+ "qid": "Q5943",
+ "coord": [
+  48.208427,
+  16.373256
+ ],
+ "label_es": "Catedral de San Esteban",
+ "desc_es": "catedral católica de Viena",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1137-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 136.44,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 107.2,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q56242215"
+ ],
+ "p17": [
+  "Q40"
+ ],
+ "unesco": false,
+ "eswiki": "Catedral de San Esteban (Viena)",
+ "extracto_es": "La catedral de San Esteban (en alemán Domkirche St. Stephan, abreviado popularmente como Stephansdom) es la iglesia principal de la arquidiócesis de Viena (Austria) y la sede de su arzobispo. Está situada en la plaza de San Esteban (Stephansplatz), en pleno centro de la capital austríaca. La obra fue iniciada por Rodolfo IV de Austria y se levanta sobre las ruinas de dos iglesias anteriores, siendo la primera de ellas una parroquia consagrada en 1147. El edificio experimentó también varias reformas y ampliaciones a lo largo de su historia, siguiendo distintos estilos artísticos. Es el símbolo religioso más importante de Viena y ha sido testigo de multitud de eventos de la historia de Austria.\nEn el exterior del edificio se pueden observar el tejado, las dos torres campanario —la Sur y la Norte— y los pórticos de entrada al templo: el de los Cantores, el de las Torres, el del Obispo y el Gigante. La campana Pummerín es una versión reconstruida de la primitiva, que fue dañada por un incendio.\nEl interior de la catedral consta de tres naves y numerosos altares; cada uno de ellos alberga una variada cantidad de objetos y obras de arte que fueron recibiendo mediante donaciones de diferentes personalidades. Como en todo templo, antiguamente se realizaban entierros bajo sus suelos, por lo que el lugar conserva los sepulcros de varios nobles del país.",
+ "candidatas": [
+  {
+   "file": "File:Wien - Stephansdom (1).JPG",
+   "w": 2625,
+   "h": 3937,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wien_-_Stephansdom_%281%29.JPG/330px-Wien_-_Stephansdom_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wien_-_Stephansdom_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wien_-_Stephansdom_(1).JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C.Stadler/Bwag",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-09",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Wien, Stephansdom, Elle -- 2018 -- 3297.jpg",
+   "w": 6483,
+   "h": 4304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Wien%2C_Stephansdom%2C_Elle_--_2018_--_3297.jpg/330px-Wien%2C_Stephansdom%2C_Elle_--_2018_--_3297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Wien%2C_Stephansdom%2C_Elle_--_2018_--_3297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wien,_Stephansdom,_Elle_--_2018_--_3297.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dietmar Rabich",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 17 June 201",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:St. Stephen's Cathedral - Vienna - detail.jpg",
+   "w": 2353,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/St._Stephen%27s_Cathedral_-_Vienna_-_detail.jpg/330px-St._Stephen%27s_Cathedral_-_Vienna_-_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/St._Stephen%27s_Cathedral_-_Vienna_-_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St._Stephen%27s_Cathedral_-_Vienna_-_detail.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "MrPanyGoff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-06-08",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Wien - Stephansdom.JPG",
+   "w": 2624,
+   "h": 3937,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Wien_-_Stephansdom.JPG/330px-Wien_-_Stephansdom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Wien_-_Stephansdom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wien_-_Stephansdom.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C.Stadler/Bwag",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-07-26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:St. Stephen's Cathedral - Vienna - rose window.jpg",
+   "w": 2377,
+   "h": 2377,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/St._Stephen%27s_Cathedral_-_Vienna_-_rose_window.jpg/330px-St._Stephen%27s_Cathedral_-_Vienna_-_rose_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/St._Stephen%27s_Cathedral_-_Vienna_-_rose_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St._Stephen%27s_Cathedral_-_Vienna_-_rose_window.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Plamen Agov (Пламен Агов)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-05-24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Epitaph - St. Stephen's Cathedral - Vienna.jpg",
+   "w": 1700,
+   "h": 2711,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Epitaph_-_St._Stephen%27s_Cathedral_-_Vienna.jpg/330px-Epitaph_-_St._Stephen%27s_Cathedral_-_Vienna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Epitaph_-_St._Stephen%27s_Cathedral_-_Vienna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Epitaph_-_St._Stephen%27s_Cathedral_-_Vienna.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "MrPanyGoff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-06-07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:St. Stephen's Cathedral Sundial - Vienna.jpg",
+   "w": 2622,
+   "h": 2100,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/St._Stephen%27s_Cathedral_Sundial_-_Vienna.jpg/330px-St._Stephen%27s_Cathedral_Sundial_-_Vienna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/St._Stephen%27s_Cathedral_Sundial_-_Vienna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St._Stephen%27s_Cathedral_Sundial_-_Vienna.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "MrPanyGoff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "24 May 2012, 11:01:1",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Österreich, Wien. Der Stephansdom.jpg",
+   "w": 5210,
+   "h": 8306,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%96sterreich%2C_Wien._Der_Stephansdom.jpg/330px-%C3%96sterreich%2C_Wien._Der_Stephansdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/%C3%96sterreich%2C_Wien._Der_Stephansdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%96sterreich,_Wien._Der_Stephansdom.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Unknown authorUnknown author",
+   "credito": "Scanning - Dmitry Makeev",
+   "nonfree": "",
+   "fecha": "1857date QS:P571,+18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

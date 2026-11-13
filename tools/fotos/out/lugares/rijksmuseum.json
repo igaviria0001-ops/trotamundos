@@ -1,0 +1,207 @@
+{
+ "id": "rijksmuseum",
+ "enwiki": "Rijksmuseum",
+ "endesc": "National museum in Amsterdam, Netherlands",
+ "qid": "Q190804",
+ "coord": [
+  52.36,
+  4.885277777777778
+ ],
+ "label_es": "Rijksmuseum",
+ "desc_es": "museo nacional en Amsterdam, Países Bajos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1800-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1885-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 2406210.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q17431399",
+  "Q16735822",
+  "Q11396960",
+  "Q1172284"
+ ],
+ "p17": [
+  "Q55"
+ ],
+ "unesco": false,
+ "eswiki": "Rijksmuseum",
+ "extracto_es": "El Rijksmuseum /ˈrɛɪksmyˌzeːʏm/ (en español: Museo del Reino) o Museo Nacional de Ámsterdam se encuentra ubicado en Ámsterdam, Países Bajos. Está dedicado al arte, la artesanía y la historia. Posee la más famosa colección de pinturas del Siglo de Oro neerlandés así como una rica colección de arte asiático y egipcio.\nEl Rijksmuseum alberga obras significativas de casi todos los grandes maestros neerlandeses de los siglos XV al XVII: Geertgen tot Sint Jans, Lucas van Leyden, Hendrick Goltzius, Frans Hals, Jan Vermeer, Ferdinand Bol, Nicolaes Maes, Guerrit Dou, Jacob Ruysdael, y un repertorio generoso del maestro Rembrandt van Rijn. Cuenta también con pintores de otros países, como Fra Angélico, Piero di Cosimo, Paolo Veronese, Hugo van der Goes, Peter Paul Rubens y Francisco de Goya, así como con numerosos dibujos y grabados, porcelanas orientales, mobiliario y demás artes decorativas, pintura moderna (van Gogh, Mondrian, Karel Appel) y objetos de diseño del siglo XX.\nDe todas formas, el principal atractivo del museo radica en las 22 pinturas de Rembrandt, entre las que se cuentan: La ronda de noche, La novia judía, El árbol de Jesé, La muerte de los inocentes y varios paisajes de los antiguos Países Bajos.\nSometido a unas largas y difíciles obras de reforma con un coste de 375 millones de euros, el museo reabrió sus puertas en abril de 2013.\n\n",
+ "candidatas": [
+  {
+   "file": "File:South facade of the Rijksmuseum Amsterdam (DSCF0528).jpg",
+   "w": 4291,
+   "h": 3123,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg/330px-South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:South_facade_of_the_Rijksmuseum_Amsterdam_(DSCF0528).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Trougnouf (Benoit Brummer)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-05 13:26:04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:La ronda de noche, por Rembrandt van Rijn.jpg",
+   "w": 14168,
+   "h": 11528,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/330px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Rembrandt",
+   "credito": "https://www.rijksmuseum.nl/en/collection/SK-C-5",
+   "nonfree": "",
+   "fecha": "1642",
+   "calidad": [
+    "FP",
+    "VI"
+   ],
+   "qpts": 8,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rijksmuseum in Amsterdam.jpg",
+   "w": 3872,
+   "h": 2400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Rijksmuseum_in_Amsterdam.jpg/330px-Rijksmuseum_in_Amsterdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Rijksmuseum_in_Amsterdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rijksmuseum_in_Amsterdam.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Marco Almbauer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-06-24 19:07:17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Museo Nacional, Ámsterdam, Países Bajos, 2016-05-30, DD 16-18 HDR.jpg",
+   "w": 5872,
+   "h": 3683,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Museo_Nacional%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_16-18_HDR.jpg/330px-Museo_Nacional%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_16-18_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Museo_Nacional%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_16-18_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Museo_Nacional,_%C3%81msterdam,_Pa%C3%ADses_Bajos,_2016-05-30,_DD_16-18_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-05-30 23:00:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Rijks Museum Library.jpg",
+   "w": 8688,
+   "h": 5680,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Rijks_Museum_Library.jpg/330px-Rijks_Museum_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Rijks_Museum_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rijks_Museum_Library.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Michael D Beckwith",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-01-24 12:18:34",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rijksmuseum stoa 7213.jpg",
+   "w": 4413,
+   "h": 3309,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Rijksmuseum_stoa_7213.jpg/330px-Rijksmuseum_stoa_7213.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Rijksmuseum_stoa_7213.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rijksmuseum_stoa_7213.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C messier",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-02-04 09:52:31",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Amsterdam rijkmuseum.JPG",
+   "w": 2673,
+   "h": 1792,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Amsterdam_rijkmuseum.JPG/330px-Amsterdam_rijkmuseum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Amsterdam_rijkmuseum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amsterdam_rijkmuseum.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Velvet",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-12 15:06:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:20220525.Rijksmuseum Amsterdam.-012.jpg",
+   "w": 8000,
+   "h": 6000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/20220525.Rijksmuseum_Amsterdam.-012.jpg/330px-20220525.Rijksmuseum_Amsterdam.-012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/20220525.Rijksmuseum_Amsterdam.-012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20220525.Rijksmuseum_Amsterdam.-012.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bybbisch94, Christian Gebhardt",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-05-25 16:39:21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

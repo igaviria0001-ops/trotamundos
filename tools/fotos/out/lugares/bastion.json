@@ -1,0 +1,188 @@
+{
+ "id": "bastion",
+ "enwiki": "Fisherman's Bastion",
+ "endesc": "Fortification in Budapest, Hungary",
+ "qid": "Q493117",
+ "coord": [
+  47.50222,
+  19.03472
+ ],
+ "label_es": "Bastión de los Pescadores",
+ "desc_es": "Una atracción famosa en Budapest, Hungría",
+ "inicio": [],
+ "p31": [
+  "Q81851",
+  "Q641406",
+  "Q20057033"
+ ],
+ "p17": [
+  "Q28"
+ ],
+ "unesco": false,
+ "eswiki": "Bastión de los Pescadores",
+ "extracto_es": "El Bastión de los Pescadores (en húngaro: Halászbástya, pronunciación ˈhɒlaːzbaːʃcɒ) es una terraza de estilo neogótico y neorrománico situada en la ribera de Buda del Danubio, en la colina del castillo real de Budapest, Hungría, cerca de la Iglesia de Matías. \nSe diseñó y construyó entre 1895 y 1902 según los planos de Frigyes Schulek. Las siete torres que forman el conjunto representan a las siete tribus magiares que se establecieron en la cuenca carpatiana en el año 896. Recibe el nombre del grupo de pescadores responsables de defender este enclave de las murallas de la ciudad en la Edad Media. Se trata de un mirador con numerosas escaleras y paseos.\nEntre el Bastión y la Iglesia de Matías (Budapest) se alza una escultura ecuestre en bronce del rey Esteban I de Hungría, erigida en 1906. El pedestal fue construido por Alajos Stróbl, basado en el proyecto de Frigyes Schulek en estilo neorrománico y con episodios que ilustran la vida del monarca.\nHoy la obra sólo tiene función decorativa, desde aquí se contempla una maravillosa vista de Pest.",
+ "candidatas": [
+  {
+   "file": "File:Budapest Fisherman's Bastion-20080321-RM-100000.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Budapest_Fisherman%27s_Bastion-20080321-RM-100000.jpg/330px-Budapest_Fisherman%27s_Bastion-20080321-RM-100000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Budapest_Fisherman%27s_Bastion-20080321-RM-100000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Budapest_Fisherman%27s_Bastion-20080321-RM-100000.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-03-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Budapest Fisherman's Bastion-20080321-RM-120519.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Budapest_Fisherman%27s_Bastion-20080321-RM-120519.jpg/330px-Budapest_Fisherman%27s_Bastion-20080321-RM-120519.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Budapest_Fisherman%27s_Bastion-20080321-RM-120519.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Budapest_Fisherman%27s_Bastion-20080321-RM-120519.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-03-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Halászbástya 2017.jpg",
+   "w": 3456,
+   "h": 4608,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Hal%C3%A1szb%C3%A1stya_2017.jpg/330px-Hal%C3%A1szb%C3%A1stya_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hal%C3%A1szb%C3%A1stya_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hal%C3%A1szb%C3%A1stya_2017.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Brian Adamson",
+   "credito": "https://www.flickr.com/photos/66391503@N00/34921058146",
+   "nonfree": "",
+   "fecha": "2017-04-04 06:23:18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Budapest Fisherman's Bastion-20080321-RM-102153.jpg",
+   "w": 2445,
+   "h": 3588,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Budapest_Fisherman%27s_Bastion-20080321-RM-102153.jpg/330px-Budapest_Fisherman%27s_Bastion-20080321-RM-102153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Budapest_Fisherman%27s_Bastion-20080321-RM-102153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Budapest_Fisherman%27s_Bastion-20080321-RM-102153.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-03-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Budapest Fisherman's Bastion Tower-20080321-RM-102159.jpg",
+   "w": 2555,
+   "h": 3407,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Budapest_Fisherman%27s_Bastion_Tower-20080321-RM-102159.jpg/330px-Budapest_Fisherman%27s_Bastion_Tower-20080321-RM-102159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Budapest_Fisherman%27s_Bastion_Tower-20080321-RM-102159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Budapest_Fisherman%27s_Bastion_Tower-20080321-RM-102159.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-03-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Budapest Fisherman's Bastion Treppe-20080321-RM-102544.jpg",
+   "w": 2736,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Budapest_Fisherman%27s_Bastion_Treppe-20080321-RM-102544.jpg/330px-Budapest_Fisherman%27s_Bastion_Treppe-20080321-RM-102544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Budapest_Fisherman%27s_Bastion_Treppe-20080321-RM-102544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Budapest_Fisherman%27s_Bastion_Treppe-20080321-RM-102544.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-03-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Budapest, Halászbástya. - fortepan 82646.jpg",
+   "w": 6056,
+   "h": 4264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Budapest%2C_Hal%C3%A1szb%C3%A1stya._-_fortepan_82646.jpg/330px-Budapest%2C_Hal%C3%A1szb%C3%A1stya._-_fortepan_82646.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Budapest%2C_Hal%C3%A1szb%C3%A1stya._-_fortepan_82646.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Budapest,_Hal%C3%A1szb%C3%A1stya._-_fortepan_82646.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Fortepan / Budapest Főváros Levéltára. Levéltári jelzet: HU.BFL.XV.19.d.1.08.121",
+   "credito": "FOTO:Fortepan — ID 82646:  \n\n http://www.fortepan.hu/?tags=&x=0&y=0&view=query&lang=hu&q=82646",
+   "nonfree": "",
+   "fecha": "1900",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Halászbástya épülete díszlépcsővel (103. számú műemlék) 28.jpg",
+   "w": 1157,
+   "h": 1600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hal%C3%A1szb%C3%A1stya_%C3%A9p%C3%BClete_d%C3%ADszl%C3%A9pcs%C5%91vel_%28103._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_28.jpg/330px-Hal%C3%A1szb%C3%A1stya_%C3%A9p%C3%BClete_d%C3%ADszl%C3%A9pcs%C5%91vel_%28103._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hal%C3%A1szb%C3%A1stya_%C3%A9p%C3%BClete_d%C3%ADszl%C3%A9pcs%C5%91vel_%28103._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hal%C3%A1szb%C3%A1stya_%C3%A9p%C3%BClete_d%C3%ADszl%C3%A9pcs%C5%91vel_(103._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k)_28.jpg",
+   "licencia": "CC BY-SA 2.5 hu",
+   "licurl": "cc-by-sa-2.5-hu",
+   "autor": "TUX",
+   "credito": "Indafotó",
+   "nonfree": "",
+   "fecha": "2011-06-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P18"
+  }
+ ]
+}

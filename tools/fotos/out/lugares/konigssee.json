@@ -1,0 +1,205 @@
+{
+ "id": "konigssee",
+ "enwiki": "Königssee",
+ "endesc": "Lake in Schönau am Königsee, Bavaria, Germany",
+ "qid": "Q156715",
+ "coord": [
+  47.55,
+  12.975
+ ],
+ "label_es": "Königssee",
+ "desc_es": "lago del municipio de Schönau am Königssee, Baviera",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 603.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 5.22,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 7.195,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q23397"
+ ],
+ "p17": [
+  "Q183"
+ ],
+ "unesco": false,
+ "eswiki": "Lago del Rey",
+ "extracto_es": "El lago del Rey (en alemán Königssee) está localizado en el extremo sur de Alemania y en el sureste del estado federado de Baviera. Es un lago alargado, rodeado de altas montañas, que le dan la apariencia de un fiordo. Con una profundidad máxima de 190 m, es el tercer lago más profundo de Alemania.",
+ "candidatas": [
+  {
+   "file": "File:Aerial image of Königssee (view from the south).jpg",
+   "w": 5200,
+   "h": 3700,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Aerial_image_of_K%C3%B6nigssee_%28view_from_the_south%29.jpg/330px-Aerial_image_of_K%C3%B6nigssee_%28view_from_the_south%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Aerial_image_of_K%C3%B6nigssee_%28view_from_the_south%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_K%C3%B6nigssee_(view_from_the_south).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Carsten Steger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-04-24 10:58:38",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Lago del Rey, Alemania, 2019-05-17, DD 25.jpg",
+   "w": 8364,
+   "h": 5453,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lago_del_Rey%2C_Alemania%2C_2019-05-17%2C_DD_25.jpg/330px-Lago_del_Rey%2C_Alemania%2C_2019-05-17%2C_DD_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lago_del_Rey%2C_Alemania%2C_2019-05-17%2C_DD_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lago_del_Rey,_Alemania,_2019-05-17,_DD_25.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-17 11:20:12",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Koenigssee - Hirschau Peninsula 02.jpg",
+   "w": 5732,
+   "h": 3365,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Koenigssee_-_Hirschau_Peninsula_02.jpg/330px-Koenigssee_-_Hirschau_Peninsula_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Koenigssee_-_Hirschau_Peninsula_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Koenigssee_-_Hirschau_Peninsula_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-05-26 13:55:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Koenigssee - St. Bartholomew's Church 01.jpg",
+   "w": 4105,
+   "h": 2502,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Koenigssee_-_St._Bartholomew%27s_Church_01.jpg/330px-Koenigssee_-_St._Bartholomew%27s_Church_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Koenigssee_-_St._Bartholomew%27s_Church_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Koenigssee_-_St._Bartholomew%27s_Church_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-05-26 12:28:06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Königssee mirror view from Malerwinkel.jpg",
+   "w": 3072,
+   "h": 2048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/K%C3%B6nigssee_mirror_view_from_Malerwinkel.jpg/330px-K%C3%B6nigssee_mirror_view_from_Malerwinkel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/K%C3%B6nigssee_mirror_view_from_Malerwinkel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigssee_mirror_view_from_Malerwinkel.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Bobak Ha'Eri",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-07-01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Königsee in Bayern.jpg",
+   "w": 3000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/K%C3%B6nigsee_in_Bayern.jpg/330px-K%C3%B6nigsee_in_Bayern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/K%C3%B6nigsee_in_Bayern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigsee_in_Bayern.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mtt1734",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-06-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Koenigssee - passenger boat.jpg",
+   "w": 3932,
+   "h": 4431,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Koenigssee_-_passenger_boat.jpg/330px-Koenigssee_-_passenger_boat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Koenigssee_-_passenger_boat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Koenigssee_-_passenger_boat.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-05-26 12:27:22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Königssee und Watzmann.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/K%C3%B6nigssee_und_Watzmann.jpg/330px-K%C3%B6nigssee_und_Watzmann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/K%C3%B6nigssee_und_Watzmann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigssee_und_Watzmann.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rosa-Maria Rinkl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-05-23 10:28:33",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "id": "reichstag",
+ "enwiki": "Reichstag building",
+ "endesc": "Seat of the federal parliament of Germany",
+ "qid": "Q151897",
+ "coord": [
+  52.51861111111111,
+  13.376111111111111
+ ],
+ "label_es": "Edificio del Reichstag",
+ "desc_es": "sede del parlamento alemán",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1894-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1894-12-00T00:00:00Z",
+   "prec": 10
+  }
+ ],
+ "altura": [
+  {
+   "v": 47.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 61166.0,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q16831714",
+  "Q7138926"
+ ],
+ "p17": [
+  "Q183"
+ ],
+ "unesco": false,
+ "eswiki": "Edificio del Reichstag",
+ "extracto_es": "El edificio del Reichstag (en alemán: Reichstagsgebäude, pronunciado /ˈʁaɪ̯çstaːksɡəˌbɔɪ̯də/ (), abreviado en alemán: Reichstag, pronunciado /ˈʁaɪ̯çsˌtaːk/ ()) se encuentra en el barrio del Tiergarten, en el distrito Mitte de Berlín, capital de Alemania. Fue la sede del Reichstag en tiempos del II Imperio alemán (1871-1918) y más tarde del parlamento de la República de Weimar (1919-1933). Desde 1994 se reúne allí cada cinco años la Asamblea Federal (Bundesversammlung) para elegir al presidente de Alemania (Bundespräsident) y desde 1999 es el lugar de reunión del parlamento alemán (Bundestag).\nEl edificio, diseñado por Paul Wallot, terminó de construirse en 1894 siguiendo un estilo neorrenacentista. En 1933 fue víctima de un incendio provocado cuya autoría no llegó a esclarecerse del todo. Al final de la Segunda Guerra Mundial, durante la batalla de Berlín, fue escenario de cruentos combates y resultó seriamente dañado. En la década de 1960 se realizaron las reformas más urgentes. El aspecto que tiene en la actualidad lo adquirió durante unas obras en los años 1990, responsabilidad del arquitecto británico Norman Foster.",
+ "candidatas": [
+  {
+   "file": "File:Reichstagsgebäude von Westen.jpg",
+   "w": 8483,
+   "h": 5000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg/330px-Reichstagsgeb%C3%A4ude_von_Westen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_von_Westen.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jörg Braukmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-08-02 16:49:44",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Reichstagsgebäude, Berlin-Mitte, 170402, ako.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Reichstagsgeb%C3%A4ude%2C_Berlin-Mitte%2C_170402%2C_ako.jpg/330px-Reichstagsgeb%C3%A4ude%2C_Berlin-Mitte%2C_170402%2C_ako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Reichstagsgeb%C3%A4ude%2C_Berlin-Mitte%2C_170402%2C_ako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude,_Berlin-Mitte,_170402,_ako.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Ansgar Koreng",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-04-02 08:04:29",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:The Reichstag in Berlin.jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/The_Reichstag_in_Berlin.jpg/330px-The_Reichstag_in_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Reichstag_in_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Reichstag_in_Berlin.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jawed Karim",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-27 11:37:24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Berlin reichstag west panorama 2.jpg",
+   "w": 5980,
+   "h": 2664,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/330px-Berlin_reichstag_west_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Berlin_reichstag_west_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Berlin_reichstag_west_panorama_2.jpg",
+   "licencia": "GFDL 1.2",
+   "licurl": "",
+   "autor": "Mfield, Matthew Field, http://www.photography.mattfield.com; edit by Waugsberg (rotation 0,4°)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 15 November",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Brandenburger Tor nachts.jpg",
+   "w": 5138,
+   "h": 2584,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Brandenburger_Tor_nachts.jpg/330px-Brandenburger_Tor_nachts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Brandenburger_Tor_nachts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_nachts.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 21 May 2012",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Reichstag building façade.jpg",
+   "w": 5184,
+   "h": 2920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Reichstag_building_fa%C3%A7ade.jpg/330px-Reichstag_building_fa%C3%A7ade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Reichstag_building_fa%C3%A7ade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Reichstag_building_fa%C3%A7ade.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Gravitatas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-10-16 17:30:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:13-04-29-potsdamer-platz-by-RalfR-49.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/13-04-29-potsdamer-platz-by-RalfR-49.jpg/330px-13-04-29-potsdamer-platz-by-RalfR-49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/13-04-29-potsdamer-platz-by-RalfR-49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:13-04-29-potsdamer-platz-by-RalfR-49.jpg",
+   "licencia": "GFDL 1.2",
+   "licurl": "",
+   "autor": "Ralf Roletschek",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-04-29 16:24:17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:RIAN 2569121 Памятные надписи на стенах Рейхстага, оставленные советскими солдатами после взятия Берлина.jpg",
+   "w": 5416,
+   "h": 3543,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/RIAN_2569121_%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B5%D0%BD%D0%B0%D1%85_%D0%A0%D0%B5%D0%B9%D1%85%D1%81%D1%82%D0%B0%D0%B3%D0%B0%2C_%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%BC%D0%B8_%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D0%B0%D0%BC%D0%B8_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D1%8F_%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B0.jpg/330px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/RIAN_2569121_%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B5%D0%BD%D0%B0%D1%85_%D0%A0%D0%B5%D0%B9%D1%85%D1%81%D1%82%D0%B0%D0%B3%D0%B0%2C_%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%BC%D0%B8_%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D0%B0%D0%BC%D0%B8_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D1%8F_%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:RIAN_2569121_%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B5%D0%BD%D0%B0%D1%85_%D0%A0%D0%B5%D0%B9%D1%85%D1%81%D1%82%D0%B0%D0%B3%D0%B0,_%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%BC%D0%B8_%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D0%B0%D0%BC%D0%B8_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D1%8F_%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B0.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Евгений Тиханов (ТАСС)",
+   "credito": "https://rg.ru/2020/05/20/rusist-iz-mongolii-ded-byl-schastliv-kogda-po-radio-peredali-o-pobede.htmlГазета «Вечерняя Москва» № 128 от 2 июня 1945 г.",
+   "nonfree": "",
+   "fecha": "1945-05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

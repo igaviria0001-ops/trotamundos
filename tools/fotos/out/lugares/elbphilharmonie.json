@@ -1,0 +1,211 @@
+{
+ "id": "elbphilharmonie",
+ "enwiki": "Elbphilharmonie",
+ "endesc": "Concert hall in Hamburg, Germany",
+ "qid": "Q673223",
+ "coord": [
+  53.54141667,
+  9.98419444
+ ],
+ "label_es": "Filarmónica del Elba",
+ "desc_es": "sala de conciertos de Hamburgo",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1963-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+2017-01-11T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 110.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 120000.0,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q1060829",
+  "Q27686",
+  "Q39919471"
+ ],
+ "p17": [
+  "Q183"
+ ],
+ "unesco": false,
+ "eswiki": "Filarmónica del Elba",
+ "extracto_es": "La Filarmónica del Elba (en alemán: Elbphilharmonie), conocida también por su sobrenombre Elphi,​​ es una sala de conciertos en la zona portuaria de HafenCity, ciudad de Hamburgo, Alemania. Se considera una de las más grandes y acústicamente avanzadas salas de conciertos del mundo.​ Pese a su corta vida (inaugurada en 2017, aunque previamente sumida en un largo proceso de construcción), su silueta ya es emblemática de Hamburgo y forma parte inseparable del skyline de la ciudad.​\nLa construcción del edificio, proyectado por el prestigioso estudio de arquitectura Herzog & de Meuron como complejo cultural y residencial,​ se dio por concluida el 31 de octubre de 2016. Su consiguiente inauguración tuvo lugar el 11 de enero de 2017, con un concierto de la NDR Elbphilharmonie Orchester​ (anteriormente conocida como Orquesta Sinfónica de la NDR), que ha pasado a ser la orquesta residente del auditorio.​",
+ "candidatas": [
+  {
+   "file": "File:2019-05-10 Elbphilharmonie Hamburg.jpg",
+   "w": 5309,
+   "h": 2988,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2019-05-10_Elbphilharmonie_Hamburg.jpg/330px-2019-05-10_Elbphilharmonie_Hamburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/2019-05-10_Elbphilharmonie_Hamburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2019-05-10_Elbphilharmonie_Hamburg.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Burkhard Mücke",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-10 15:01:20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:\"Cap San Diego\" & Elbphilharmonie (Hamburg, 2019).jpg",
+   "w": 4800,
+   "h": 3200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%22Cap_San_Diego%22_%26_Elbphilharmonie_%28Hamburg%2C_2019%29.jpg/330px-%22Cap_San_Diego%22_%26_Elbphilharmonie_%28Hamburg%2C_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%22Cap_San_Diego%22_%26_Elbphilharmonie_%28Hamburg%2C_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Cap_San_Diego%22_%26_Elbphilharmonie_(Hamburg,_2019).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "JoachimKohler-HB",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-17 16:14:11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Hamburg, Schwedische Gustaf-Adolfs-Kirche (und Elbphilharmonie) -- 2016 -- 3171.jpg",
+   "w": 5390,
+   "h": 3621,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hamburg%2C_Schwedische_Gustaf-Adolfs-Kirche_%28und_Elbphilharmonie%29_--_2016_--_3171.jpg/330px-Hamburg%2C_Schwedische_Gustaf-Adolfs-Kirche_%28und_Elbphilharmonie%29_--_2016_--_3171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hamburg%2C_Schwedische_Gustaf-Adolfs-Kirche_%28und_Elbphilharmonie%29_--_2016_--_3171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hamburg,_Schwedische_Gustaf-Adolfs-Kirche_(und_Elbphilharmonie)_--_2016_--_3171.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dietmar Rabich",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 11 June 201",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Reflections of the Elbphilharmonie in the Kehrwiederfleet 01.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Reflections_of_the_Elbphilharmonie_in_the_Kehrwiederfleet_01.jpg/330px-Reflections_of_the_Elbphilharmonie_in_the_Kehrwiederfleet_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Reflections_of_the_Elbphilharmonie_in_the_Kehrwiederfleet_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Reflections_of_the_Elbphilharmonie_in_the_Kehrwiederfleet_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kritzolina",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-20 13:29:36",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Reflections of the Elbphilharmonie in the Kehrwiederfleet 02.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Reflections_of_the_Elbphilharmonie_in_the_Kehrwiederfleet_02.jpg/330px-Reflections_of_the_Elbphilharmonie_in_the_Kehrwiederfleet_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Reflections_of_the_Elbphilharmonie_in_the_Kehrwiederfleet_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Reflections_of_the_Elbphilharmonie_in_the_Kehrwiederfleet_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kritzolina",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-20 13:29:48",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Elbphilharmonie 2025.jpg",
+   "w": 1920,
+   "h": 1280,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Elbphilharmonie_2025.jpg/330px-Elbphilharmonie_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Elbphilharmonie_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Elbphilharmonie_2025.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Evgenii Salganik",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-09-19 15:41:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Hamburg Elbphilharmonie Dach.jpg",
+   "w": 3937,
+   "h": 2968,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Hamburg_Elbphilharmonie_Dach.jpg/330px-Hamburg_Elbphilharmonie_Dach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hamburg_Elbphilharmonie_Dach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hamburg_Elbphilharmonie_Dach.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Palauenc05",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-06-19",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hamburg Elbphilharmonie 2016.jpg",
+   "w": 1895,
+   "h": 1090,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hamburg_Elbphilharmonie_2016.jpg/330px-Hamburg_Elbphilharmonie_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Hamburg_Elbphilharmonie_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hamburg_Elbphilharmonie_2016.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Maddl79",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-05-07 17:27:16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  }
+ ]
+}

@@ -1,0 +1,207 @@
+{
+ "id": "malbork",
+ "enwiki": "Malbork Castle",
+ "endesc": "Teutonic castle in Poland",
+ "qid": "Q71279",
+ "coord": [
+  54.039722222222,
+  19.027777777778
+ ],
+ "label_es": "Castillo de Malbork",
+ "desc_es": "Fortaleza militar de la Orden Teutónica",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1270-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 18.038,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q23413",
+  "Q365216",
+  "Q811165"
+ ],
+ "p17": [
+  "Q36"
+ ],
+ "unesco": true,
+ "eswiki": "Castillo de Malbork",
+ "extracto_es": "El castillo de Malbork o castillo de Mariemburgo en castellano (en alemán Ordensburg Marienburg, en polaco Zamek w Malborku), ubicado en Polonia, fue construido por la Orden Teutónica como una fortaleza militar al servicio de la Orden y denominado originalmente Marienburg (literalmente «Castillo de María»). La ciudad creció alrededor del castillo y recibió el mismo nombre, Malbork en la actualidad.\nEl castillo es un ejemplo clásico de fortaleza medieval; es el castillo más grande del mundo construido con ladrillo, en estilo gótico báltico, y uno de los más impresionantes de su tipo en Europa. El castillo y su museo forman parte de la lista Patrimonio de la Humanidad de la Unesco, añadido en diciembre de 1997.\nEl período de construcción es objeto de debate, pero la mayoría de los historiadores generalmente aceptan los 132 años transcurridos entre 1274 y 1406 como el tiempo de construcción. El castillo es un ejemplo clásico de fortaleza medieval y, tras su finalización en 1406, se convirtió en el castillo de ladrillo más grande del mundo.​El castillo fue sede de la orden entre 1309 y 1457.​\nEl castillo tuvo que ampliarse para albergar hasta 3000 hermanos, convirtiéndose pronto en el edificio gótico fortificado más grande de Europa.​",
+ "candidatas": [
+  {
+   "file": "File:Panorama of Malbork Castle, part 4.jpg",
+   "w": 4138,
+   "h": 2706,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Panorama_of_Malbork_Castle%2C_part_4.jpg/330px-Panorama_of_Malbork_Castle%2C_part_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Panorama_of_Malbork_Castle%2C_part_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Malbork_Castle,_part_4.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "DerHexer; derivate work: Carschten",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-07-14",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Castillo de Malbork, Polonia, 2013-05-19, DD 13.jpg",
+   "w": 5072,
+   "h": 2880,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_13.jpg/330px-Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Malbork,_Polonia,_2013-05-19,_DD_13.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-19 15:21:35",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Castillo de Malbork, Polonia, 2013-05-19, DD 17.jpg",
+   "w": 4489,
+   "h": 3627,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_17.jpg/330px-Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Malbork,_Polonia,_2013-05-19,_DD_17.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-19 15:32:02",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 14,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Castillo de Malbork, Polonia, 2013-05-19, DD 24.jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_24.jpg/330px-Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Malbork,_Polonia,_2013-05-19,_DD_24.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-19 15:46:29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Castillo de Malbork, Polonia, 2013-05-19, DD 41.jpg",
+   "w": 4949,
+   "h": 3038,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_41.jpg/330px-Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Malbork,_Polonia,_2013-05-19,_DD_41.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-19 16:24:55",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Castillo de Malbork, Polonia, 2013-05-19, DD 59.jpg",
+   "w": 5516,
+   "h": 3710,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_59.jpg/330px-Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_59.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_59.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Malbork,_Polonia,_2013-05-19,_DD_59.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-19 17:50:20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Zespół Zamku Krzyżackiego MALBORK 01.jpg",
+   "w": 1300,
+   "h": 822,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Zesp%C3%B3%C5%82_Zamku_Krzy%C5%BCackiego_MALBORK_01.jpg/330px-Zesp%C3%B3%C5%82_Zamku_Krzy%C5%BCackiego_MALBORK_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Zesp%C3%B3%C5%82_Zamku_Krzy%C5%BCackiego_MALBORK_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Zesp%C3%B3%C5%82_Zamku_Krzy%C5%BCackiego_MALBORK_01.jpg",
+   "licencia": "CC BY-SA 3.0 pl",
+   "licurl": "cc-by-sa-3.0-pl",
+   "autor": "Gregy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-09-19 17:39:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Castillo de Malbork, Polonia, 2013-05-19, DD 18.jpg",
+   "w": 3672,
+   "h": 5508,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_18.jpg/330px-Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Castillo_de_Malbork%2C_Polonia%2C_2013-05-19%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Malbork,_Polonia,_2013-05-19,_DD_18.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-19 15:32:31",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "id": "keukenhof",
+ "enwiki": "Keukenhof",
+ "endesc": "Flower garden in the Netherlands",
+ "qid": "Q18769666",
+ "coord": [
+  52.268889,
+  4.547222
+ ],
+ "label_es": "Keukenhof",
+ "desc_es": "parque floral holandés",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1950-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 32.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q2994840"
+ ],
+ "p17": [
+  "Q55"
+ ],
+ "unesco": false,
+ "eswiki": "Keukenhof",
+ "extracto_es": "Keukenhof (\"Jardín de la cocina\", en neerlandés), es un extenso parque de más de 32 hectáreas con inmensos jardines de tulipanes, situado entre las localidades de Lisse e Hillegom, en los Países Bajos. También conocido como \"el jardín de Europa\", es uno de los lugares más bellos del país. Posee una impresionante colección de flores e híbridos de diferentes especies, invernaderos (donde se venden flores, bulbos y semillas), molinos antiguos, lagos, fuentes y grandes paseos. Todo el complejo tiene un bello tratamiento artístico por lo que las flores y lagos se convierten en la base de sus inmensas avenidas.",
+ "candidatas": [
+  {
+   "file": "File:Keukenhof 2018 DSC 0508.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Keukenhof_2018_DSC_0508.jpg/330px-Keukenhof_2018_DSC_0508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Keukenhof_2018_DSC_0508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Keukenhof_2018_DSC_0508.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Atamari",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-04-14 13:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:NL-keukenhof-12.jpg",
+   "w": 4928,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/NL-keukenhof-12.jpg/330px-NL-keukenhof-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/NL-keukenhof-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:NL-keukenhof-12.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Balou46",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:NL-keukenhof-10.jpg",
+   "w": 4928,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/NL-keukenhof-10.jpg/330px-NL-keukenhof-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/NL-keukenhof-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:NL-keukenhof-10.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Balou46",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-22 10:52:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:26Y 1599 2.jpg",
+   "w": 6048,
+   "h": 4032,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/26Y_1599_2.jpg/330px-26Y_1599_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/26Y_1599_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:26Y_1599_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Urdulife",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-04-13 16:21:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Keukenhof - panoramio (82).jpg",
+   "w": 4928,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Keukenhof_-_panoramio_%2882%29.jpg/330px-Keukenhof_-_panoramio_%2882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Keukenhof_-_panoramio_%2882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Keukenhof_-_panoramio_(82).jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "ngocchat1014",
+   "credito": "https://web.archive.org/web/20161030105628/http://www.panoramio.com/photo/90143019",
+   "nonfree": "",
+   "fecha": "Taken on 9 May 2013",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:NL-keukenhof-01.jpg",
+   "w": 4928,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/NL-keukenhof-01.jpg/330px-NL-keukenhof-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/NL-keukenhof-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:NL-keukenhof-01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Balou46",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-22 09:14:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Keukenhof 2018 DSC 0190.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Keukenhof_2018_DSC_0190.jpg/330px-Keukenhof_2018_DSC_0190.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Keukenhof_2018_DSC_0190.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Keukenhof_2018_DSC_0190.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Atamari",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-04-14 12:11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Keukenhof Garden3.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Keukenhof_Garden3.jpg/330px-Keukenhof_Garden3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Keukenhof_Garden3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Keukenhof_Garden3.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Kent Wang",
+   "credito": "https://www.flickr.com/photos/kentwang/27178492625/",
+   "nonfree": "",
+   "fecha": "2016-05-01 13:36:34",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

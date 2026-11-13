@@ -1,0 +1,207 @@
+{
+ "id": "etna",
+ "enwiki": "Mount Etna",
+ "endesc": "Active volcano on the east coast of Sicily, Italy",
+ "qid": "Q16990",
+ "coord": [
+  37.7508345148182,
+  14.993220288812111
+ ],
+ "label_es": "Monte Etna",
+ "desc_es": "volcán proveniente de Sicilia, Italia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-300000-00-00T00:00:00Z",
+   "prec": 4
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 3357.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 19237.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q169358",
+  "Q107539372"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Etna",
+ "extracto_es": "El Etna es un volcán activo en la costa este de Sicilia,​ en el territorio de la ciudad metropolitana de Catania, Italia. Tiene alrededor de 3357 metros de altura, aunque esta varía debido a las constantes erupciones. Es el volcán activo con mayor altura de la placa Euroasiática, el primero en referencia a la Europa geográfica y la montaña más alta de Italia al sur de los Alpes. El Etna cubre un área de 1190 km², con una circunferencia basal de 140 kilómetros.​\nHasta inicios del siglo XX, por lo menos, era frecuente que la población siciliana llamara Gibellu a este célebre volcán; tal denominación local deriva de la presencia árabe en el lugar durante la Edad Media. En efecto, Gibellu o Gibello deriva de la palabra árabe جبل ŷébel («monte», «montaña»). Aún hoy, se llama en Sicilia Gibello o Mongibelo a la montaña, quedando la denominación «Etna» para el cono volcánico.​\nEn la mitología griega, el Etna era el volcán en cuyo interior se situaban las fraguas de Hefesto, que trabajaba en compañía de cíclopes y gigantes. El monstruoso Tifón yacía debajo de esta montaña, lo que causaba frecuentes terremotos y erupciones de humo y lava. También es uno de los volcanes más activos del mundo.\nSu nombre derivaba de la ninfa Etna, hija del gigante Briareo y de Cimopolia, o de Urano y Gea, que se convirtió en la deidad de este famoso volcán. Por ello, fue la juez que resolvió la disputa sobre la posesión de Sicilia entre Deméter y Hefesto.\nUniéndose con este último fue madre de los pálicos, los dos dioses de sendos géiseres famosos en la isla.\nHaciendo abstracción de la mitología, el nombre deriva de la palabra cananea (o del fenicio) attanu («arder») y luego de la griega aithos (con el mismo significado de «arder»). Durante la ocupación árabe de Sicilia en la Edad Media, el Etna fue llamado Ŷébel Uhamat («montaña de fuego»), pasando a ser llamado durante siglos por gran parte de los italianos con la palabra mixta (románica-arábiga) Mongibello.\nSegún una parte de la tradición cristiana, el Etna era uno de los lugares del sur de Italia donde se localizaba la puerta del infierno. El papa Gregorio Magno, ya a finales del siglo VI, ubicaba en Sicilia aquellos lugares donde se permitía inferir que se practicaban los «tormentos infernales». El Itinerario de Jerusalén, en el siglo VIII, describe la «cumbre de la montaña donde se abría, por encima, el infierno», en Catania. A mediados del siglo XII, el predicador Julián de Vézelay afirma en uno de sus sermones que los que arde",
+ "candidatas": [
+  {
+   "file": "File:Etna eruption seen from the International Space Station.jpg",
+   "w": 2720,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Etna_eruption_seen_from_the_International_Space_Station.jpg/330px-Etna_eruption_seen_from_the_International_Space_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Etna_eruption_seen_from_the_International_Space_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Etna_eruption_seen_from_the_International_Space_Station.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "NASA",
+   "credito": "http://spaceflight.nasa.gov/gallery/images/station/crew-5/html/iss005e19024.html or http://earth.jsc.nasa.gov/newsletter/PhotographyfromISS/ISS005-E-19024.htm",
+   "nonfree": "",
+   "fecha": "Taken on 30 October ",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 14,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:View of Mount Etna from Reggio Calabria - Italy - 10 Feb. 2017 - (1).jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/View_of_Mount_Etna_from_Reggio_Calabria_-_Italy_-_10_Feb._2017_-_%281%29.jpg/330px-View_of_Mount_Etna_from_Reggio_Calabria_-_Italy_-_10_Feb._2017_-_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/View_of_Mount_Etna_from_Reggio_Calabria_-_Italy_-_10_Feb._2017_-_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Etna_from_Reggio_Calabria_-_Italy_-_10_Feb._2017_-_(1).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jacopo Werther",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-02-10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Mount Etna 2024 21.jpg",
+   "w": 6605,
+   "h": 4403,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mount_Etna_2024_21.jpg/330px-Mount_Etna_2024_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mount_Etna_2024_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Etna_2024_21.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Cayambe",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-09-21 14:20:11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mount Etna 2024 28.jpg",
+   "w": 7759,
+   "h": 4075,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mount_Etna_2024_28.jpg/330px-Mount_Etna_2024_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Mount_Etna_2024_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Etna_2024_28.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Cayambe",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-09-21 14:49:53",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mount Etna 2024 30.jpg",
+   "w": 8256,
+   "h": 4029,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Mount_Etna_2024_30.jpg/330px-Mount_Etna_2024_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mount_Etna_2024_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Etna_2024_30.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Cayambe",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-09-21 15:21:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mount Etna 2024a – Visitors transport.jpg",
+   "w": 6605,
+   "h": 3121,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Mount_Etna_2024a_%E2%80%93_Visitors_transport.jpg/330px-Mount_Etna_2024a_%E2%80%93_Visitors_transport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mount_Etna_2024a_%E2%80%93_Visitors_transport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Etna_2024a_%E2%80%93_Visitors_transport.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Cayambe",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-09-21 12:19:23",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mount Etna 2024 25.jpg",
+   "w": 6605,
+   "h": 3425,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Mount_Etna_2024_25.jpg/330px-Mount_Etna_2024_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mount_Etna_2024_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Etna_2024_25.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Cayambe",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-09-21 14:46:10",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mt Etna and Catania1.jpg",
+   "w": 3008,
+   "h": 1225,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Mt_Etna_and_Catania1.jpg/330px-Mt_Etna_and_Catania1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Mt_Etna_and_Catania1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mt_Etna_and_Catania1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "BenAveling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-12-18 00:45:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "en"
+  }
+ ]
+}

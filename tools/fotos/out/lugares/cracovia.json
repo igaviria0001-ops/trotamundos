@@ -1,0 +1,194 @@
+{
+ "id": "cracovia",
+ "enwiki": "Main Square, Kraków",
+ "endesc": "Urban square in the Old Town of Kraków, Poland",
+ "qid": "Q770631",
+ "coord": [
+  50.06167,
+  19.93722
+ ],
+ "label_es": "Plaza del Mercado",
+ "desc_es": "plaza en el centro histórico de Cracovia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1257-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 3.8,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q13033698"
+ ],
+ "p17": [
+  "Q36"
+ ],
+ "unesco": false,
+ "eswiki": "Plaza del Mercado de Cracovia",
+ "extracto_es": "La Plaza Mayor del Mercado (en polaco: Rynek Główny) es la plaza más importante de Cracovia y de Polonia. Se sitúa en el Casco Antiguo, en el centro de la ciudad. Su origen se remonta al siglo XIII, y tiene alrededor de 40.000 m² (430.000 pies cuadrados). Siendo la plaza medieval más grande de Europa​ \nLa \"Rynek Główny\" es una amplia plaza rodeada de casas antiguas e históricas (kamienice), palacios e iglesias. El centro de la plaza está dominado por el Sukiennice (en su interior, entre otras cosas, hay un museo de arte Polaca del siglo XIX), reconstruida en 1555 en estilo renacentista, rematada por un bonito ático o parapeto polaco, decorado con máscaras talladas. A un lado de la Sukiennice está la torre del ayuntamiento (Wieża Ratuszowa), en el otro lado se localiza la iglesia de San Adalberto (San Wojciech) del siglo X y, a su lado desde 1898, el monumento a Adam Mickiewicz. Por encima de la plaza resaltan las torres góticas de la basílica de Santa María (Kościół Mariacki).",
+ "candidatas": [
+  {
+   "file": "File:Krakow - Cloth Hall from Basilica - 1.jpg",
+   "w": 6409,
+   "h": 4212,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Krakow_-_Cloth_Hall_from_Basilica_-_1.jpg/330px-Krakow_-_Cloth_Hall_from_Basilica_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Krakow_-_Cloth_Hall_from_Basilica_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Krakow_-_Cloth_Hall_from_Basilica_-_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ingo Mehling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-10-15 10:23:43",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Sukiennice and Main Market Square Krakow Poland.JPG",
+   "w": 4095,
+   "h": 2790,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG/330px-Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Jorge Lascar",
+   "credito": "Sukiennice and Main Square as seen from St. Mary's Basilica",
+   "nonfree": "",
+   "fecha": "Taken on 7 August 20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Pod Trzema Gwiazdami house, 32 Main Market Square, portal, Old Town, Krakow,Poland.jpg",
+   "w": 3366,
+   "h": 4700,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Pod_Trzema_Gwiazdami_house%2C_32_Main_Market_Square%2C_portal%2C_Old_Town%2C_Krakow%2CPoland.jpg/330px-Pod_Trzema_Gwiazdami_house%2C_32_Main_Market_Square%2C_portal%2C_Old_Town%2C_Krakow%2CPoland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pod_Trzema_Gwiazdami_house%2C_32_Main_Market_Square%2C_portal%2C_Old_Town%2C_Krakow%2CPoland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pod_Trzema_Gwiazdami_house,_32_Main_Market_Square,_portal,_Old_Town,_Krakow,Poland.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Igor123121",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-02",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Empty Old Town Market Square in Kraków during the COVID-19 pandemic in Poland, April 2020.jpg",
+   "w": 2067,
+   "h": 1369,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Empty_Old_Town_Market_Square_in_Krak%C3%B3w_during_the_COVID-19_pandemic_in_Poland%2C_April_2020.jpg/330px-Empty_Old_Town_Market_Square_in_Krak%C3%B3w_during_the_COVID-19_pandemic_in_Poland%2C_April_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Empty_Old_Town_Market_Square_in_Krak%C3%B3w_during_the_COVID-19_pandemic_in_Poland%2C_April_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Empty_Old_Town_Market_Square_in_Krak%C3%B3w_during_the_COVID-19_pandemic_in_Poland,_April_2020.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Krzysztof Zgłobicki",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-04-29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Church of Our Lady Assumed into Heaven, view from SW, 5 Mariacki square, Old Town, Kraków, Poland.jpg",
+   "w": 5646,
+   "h": 3784,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Church_of_Our_Lady_Assumed_into_Heaven%2C_view_from_SW%2C_5_Mariacki_square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/330px-Church_of_Our_Lady_Assumed_into_Heaven%2C_view_from_SW%2C_5_Mariacki_square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Church_of_Our_Lady_Assumed_into_Heaven%2C_view_from_SW%2C_5_Mariacki_square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Church_of_Our_Lady_Assumed_into_Heaven,_view_from_SW,_5_Mariacki_square,_Old_Town,_Krak%C3%B3w,_Poland.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Zygmunt Put",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-05-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Church of St. Wojciech (St. Adalbert), 2 Main Market Square, Old Town, Kraków, Poland.jpg",
+   "w": 5388,
+   "h": 3568,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Church_of_St._Wojciech_%28St._Adalbert%29%2C_2_Main_Market_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/330px-Church_of_St._Wojciech_%28St._Adalbert%29%2C_2_Main_Market_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Church_of_St._Wojciech_%28St._Adalbert%29%2C_2_Main_Market_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Church_of_St._Wojciech_(St._Adalbert),_2_Main_Market_Square,_Old_Town,_Krak%C3%B3w,_Poland.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jeremiah Z. Cockroach",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-01-14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gallery of 19th-Century Polish Art in the Sukiennice, 2022, 07.jpg",
+   "w": 3709,
+   "h": 2654,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Gallery_of_19th-Century_Polish_Art_in_the_Sukiennice%2C_2022%2C_07.jpg/330px-Gallery_of_19th-Century_Polish_Art_in_the_Sukiennice%2C_2022%2C_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Gallery_of_19th-Century_Polish_Art_in_the_Sukiennice%2C_2022%2C_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gallery_of_19th-Century_Polish_Art_in_the_Sukiennice,_2022,_07.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Jan Matejko",
+   "credito": "Chris Olszewski",
+   "nonfree": "",
+   "fecha": "from 1879 until 1882",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Grey (Szara) House, 6 Main Market Square, Old Town, Kraków, Poland.jpg",
+   "w": 5549,
+   "h": 3611,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Grey_%28Szara%29_House%2C_6_Main_Market_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/330px-Grey_%28Szara%29_House%2C_6_Main_Market_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Grey_%28Szara%29_House%2C_6_Main_Market_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grey_(Szara)_House,_6_Main_Market_Square,_Old_Town,_Krak%C3%B3w,_Poland.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Zygmunt Put",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-04-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

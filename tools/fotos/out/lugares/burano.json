@@ -1,0 +1,202 @@
+{
+ "id": "burano",
+ "enwiki": "Burano",
+ "endesc": "Island in the Venetian Lagoon, Italy",
+ "qid": "Q52439",
+ "coord": [
+  45.485555555556,
+  12.4175
+ ],
+ "label_es": "Burano",
+ "desc_es": "isla de la laguna de Venecia",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 1.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 0.2108,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 0.675,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q23442"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Burano",
+ "extracto_es": "Burano (en veneciano Buran 1 y ocasionalmente Buràn) es una isla de la laguna de Venecia, situada a 7 kilómetros de Venecia, Italia, distancia que se recorre en 42 minutos en vaporetto. Su población actual ronda los 7000 habitantes.\nDestacan sus fachadas de colores, así como la única iglesia de la isla, dedicada a San Martín (\"San Martino\" en italiano) de la cual es famoso su campanario (\"campanile\" en italiano), recientemente restaurado, inclinado desde que los cimientos fundados como toda Venecia sobre palafitos cedieran. La isla es famosa por la producción de encaje de hilo, y es patria del compositor Baldassare Galuppi que da nombre a la vía principal de la isla y a la única plaza del lugar.",
+ "candidatas": [
+  {
+   "file": "File:Burano Venice 17.jpg",
+   "w": 5400,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Burano_Venice_17.jpg/330px-Burano_Venice_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Burano_Venice_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Burano_Venice_17.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-12-11 16:43",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Burano Vendig Aug 2021 4.jpg",
+   "w": 5452,
+   "h": 3513,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Burano_Vendig_Aug_2021_4.jpg/330px-Burano_Vendig_Aug_2021_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Burano_Vendig_Aug_2021_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Burano_Vendig_Aug_2021_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kasa Fue",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-07-31 12:53:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Burano Venice 14.jpg",
+   "w": 5200,
+   "h": 3265,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Burano_Venice_14.jpg/330px-Burano_Venice_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Burano_Venice_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Burano_Venice_14.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-12-11 15:44",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rio Giudecca in Burano.jpg",
+   "w": 5318,
+   "h": 3540,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Rio_Giudecca_in_Burano.jpg/330px-Rio_Giudecca_in_Burano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rio_Giudecca_in_Burano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rio_Giudecca_in_Burano.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marco Ober",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-06-28 11:22:51",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rio Pontinello in Burano.jpg",
+   "w": 5435,
+   "h": 3618,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Rio_Pontinello_in_Burano.jpg/330px-Rio_Pontinello_in_Burano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Rio_Pontinello_in_Burano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rio_Pontinello_in_Burano.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marco Ober",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-06-28 11:48:16",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:BuranoAir.jpg",
+   "w": 1280,
+   "h": 960,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/BuranoAir.jpg/330px-BuranoAir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/BuranoAir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:BuranoAir.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:\"Luce che viene e luce che va\".jpg",
+   "w": 5092,
+   "h": 3395,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/%22Luce_che_viene_e_luce_che_va%22.jpg/330px-%22Luce_che_viene_e_luce_che_va%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/%22Luce_che_viene_e_luce_che_va%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Luce_che_viene_e_luce_che_va%22.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gianfranco Zanovello",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:0 Burano, Fondamenta di Cao Moleca, Rio San Mauro et Fondamenta Cavanella (1).jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/0_Burano%2C_Fondamenta_di_Cao_Moleca%2C_Rio_San_Mauro_et_Fondamenta_Cavanella_%281%29.jpg/330px-0_Burano%2C_Fondamenta_di_Cao_Moleca%2C_Rio_San_Mauro_et_Fondamenta_Cavanella_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/0_Burano%2C_Fondamenta_di_Cao_Moleca%2C_Rio_San_Mauro_et_Fondamenta_Cavanella_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:0_Burano,_Fondamenta_di_Cao_Moleca,_Rio_San_Mauro_et_Fondamenta_Cavanella_(1).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Jean-Pol GRANDMONT",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

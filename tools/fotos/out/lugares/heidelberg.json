@@ -1,0 +1,194 @@
+{
+ "id": "heidelberg",
+ "enwiki": "Heidelberg Castle",
+ "endesc": "Ruin in Heidelberg, Baden-Württemberg, Germany",
+ "qid": "Q327265",
+ "label_es": "Castillo de Heidelberg",
+ "desc_es": null,
+ "coord": [
+  49.410555555556,
+  8.7158333333333
+ ],
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 213.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q23413",
+  "Q33506"
+ ],
+ "p17": [
+  "Q183"
+ ],
+ "unesco": false,
+ "eswiki": "Castillo de Heidelberg",
+ "extracto_es": "El palacio de Heidelberg o castillo de Heidelberg (del alemán: Heidelberger Schloss) es un gran castillo y un schloss de origen medieval, parcialmente en ruinas, de Heidelberg, Baden-Wurtemberg, Alemania. Sus edificaciones figuran entre las más importantes estructuras renacentistas al norte de los Alpes.\nEl complejo ha sido reconstruido solo parcialmente desde que fuera destruido en los siglos XVII y XVIII. Se encuentra 80 metros arriba de la ladera septentrional del Königstuhl, y por lo tanto domina la vista de la vieja ciudad. Se llega a él por una estación intermedia del funicular Heidelberger Bergbahn que va desde el Kornmarkt de Heidelberg hasta la cumbre del Königstuhl.\nLa edificación más antigua data de antes del año 1214 y más tarde fue ampliada a dos castillos hacia 1294. En 1537, un rayo destruyó el castillo superior. Las edificaciones actuales habían sido ampliadas en 1650, antes de los daños causados por guerras e incendios posteriores. En 1764, otro rayo destruyó algunas de las secciones reconstruidas.",
+ "candidatas": [
+  {
+   "file": "File:Heidelberg Castle - Friedrichsbau Facade - 3.jpg",
+   "w": 4587,
+   "h": 5258,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Heidelberg_Castle_-_Friedrichsbau_Facade_-_3.jpg/330px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Heidelberg_Castle_-_Friedrichsbau_Facade_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Heidelberg_Castle_-_Friedrichsbau_Facade_-_3.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "imehling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-03-08 11:01",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Heidelberg-2726936.jpg",
+   "w": 5919,
+   "h": 3365,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Heidelberg-2726936.jpg/330px-Heidelberg-2726936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Heidelberg-2726936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Heidelberg-2726936.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Motatcho",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:20230315 Hotel Holländer Hof Heidelberg 01.jpg",
+   "w": 5768,
+   "h": 3850,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/20230315_Hotel_Holl%C3%A4nder_Hof_Heidelberg_01.jpg/330px-20230315_Hotel_Holl%C3%A4nder_Hof_Heidelberg_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/20230315_Hotel_Holl%C3%A4nder_Hof_Heidelberg_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20230315_Hotel_Holl%C3%A4nder_Hof_Heidelberg_01.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Flocci Nivis",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 15 March 20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Heidelberg Altstadt Schloss Luftbild.JPG",
+   "w": 4074,
+   "h": 2834,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Heidelberg_Altstadt_Schloss_Luftbild.JPG/330px-Heidelberg_Altstadt_Schloss_Luftbild.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Heidelberg_Altstadt_Schloss_Luftbild.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Heidelberg_Altstadt_Schloss_Luftbild.JPG",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Schlurcher",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-06-30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Schlossbeleuchtung 10.jpg",
+   "w": 4288,
+   "h": 2550,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossbeleuchtung_10.jpg/330px-Schlossbeleuchtung_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Schlossbeleuchtung_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Schlossbeleuchtung_10.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Schlurcher",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-09-03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Heidelberg-Schloß.JPG",
+   "w": 1222,
+   "h": 918,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schlo%C3%9F.JPG/330px-Heidelberg-Schlo%C3%9F.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Heidelberg-Schlo%C3%9F.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Heidelberg-Schlo%C3%9F.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Pumuckel42 (Reinhard Wolf) at de:Wikipedia",
+   "credito": "Own workReinhard Wolf, Talstraße 13, 63128 Dietzenbach (selbst fotografiert)",
+   "nonfree": "",
+   "fecha": "2005-05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Heidelberg Castle - Friedrichsbau Facade - 1.jpg",
+   "w": 7513,
+   "h": 7081,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/330px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "imehling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-03-08 10:56",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Heidelberg Castle by night.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Heidelberg_Castle_by_night.jpg/330px-Heidelberg_Castle_by_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Heidelberg_Castle_by_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Heidelberg_Castle_by_night.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gianluca Miscione",
+   "credito": "Gianluca Miscione",
+   "nonfree": "",
+   "fecha": "Taken on 12 March 20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

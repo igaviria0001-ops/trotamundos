@@ -1,0 +1,191 @@
+{
+ "id": "vesubio",
+ "enwiki": "Mount Vesuvius",
+ "endesc": "Active stratovolcano in the Gulf of Naples, Italy",
+ "qid": "Q524",
+ "coord": [
+  40.82261,
+  14.42919
+ ],
+ "label_es": "Vesubio",
+ "desc_es": "volcán de la provincia de Nápoles, Italia",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 1281.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q1330974",
+  "Q169358",
+  "Q8502"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Monte Vesubio",
+ "extracto_es": "El monte Vesubio (italiano: Monte Vesuvio; latín: Mons Vesuvius) es un volcán activo del tipo estratovolcán situado frente a la bahía de Nápoles y a unos 9 km de distancia de la ciudad de Nápoles. Se encuentra en la ciudad metropolitana de Nápoles, perteneciente a la región italiana de la Campania. Tiene una altura máxima de 1281 m s. n. m. y se alza al sur de la cadena principal de los Apeninos.​\nEs famoso por su erupción en el año 79 d. C., que tradicionalmente se ha datado en la noche del 24 de agosto, aunque distintos estudios y hallazgos arqueológicos han probado que debió acontecer en otoño o invierno, en concreto el 24 de octubre.​ En dicha erupción fueron sepultados varios núcleos urbanos, entre ellos las ciudades de Pompeya y parte de Herculano. Tras aquel episodio, el volcán ha entrado en erupción en numerosas ocasiones. Está considerado como uno de los volcanes más peligrosos del mundo, ya que en sus alrededores viven unas tres millones de personas y varias de sus erupciones han sido violentas; se trata de la zona volcánica más densamente poblada del mundo. Además, es el único volcán situado en la parte continental de Europa que ha sufrido una erupción en el siglo XX. Los otros dos volcanes italianos que han entrado en erupción en las últimas centurias se encuentran en islas: el Etna en Sicilia y el Estrómboli en las islas Eolias.\nLa última erupción del Vesubio tuvo lugar en 1944, destruyendo buena parte de la ciudad de San Sebastiano.​\nLos griegos y los romanos consideraban que se trataba de un lugar sagrado dedicado al héroe y semidiós Heracles/Hércules, del cual tomó el nombre la ciudad de Herculano, situada en la base del monte. El Vesubio fue designado como uno de los 16 Volcanes de la Década, es decir, como uno de los volcanes más peligrosos del mundo.",
+ "candidatas": [
+  {
+   "file": "File:Naples from the Castello Sant Elmo with Abbazia San Martino the port and the Vesuv.jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg/330px-Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-30",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Il cratere del Vulcano - panoramio.jpg",
+   "w": 3648,
+   "h": 2048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Il_cratere_del_Vulcano_-_panoramio.jpg/330px-Il_cratere_del_Vulcano_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Il_cratere_del_Vulcano_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Il_cratere_del_Vulcano_-_panoramio.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "pietro scerrato",
+   "credito": "https://web.archive.org/web/20161021013349/http://www.panoramio.com/photo/64577681",
+   "nonfree": "",
+   "fecha": "Taken on 7 January 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Tenorite from Mount Vesuvius 02.jpg",
+   "w": 4621,
+   "h": 3081,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Tenorite_from_Mount_Vesuvius_02.jpg/330px-Tenorite_from_Mount_Vesuvius_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tenorite_from_Mount_Vesuvius_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tenorite_from_Mount_Vesuvius_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kritzolina",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-03-16 16:41:56",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Boat and Mount Vesuvius in the gulf of Naples.jpg",
+   "w": 7864,
+   "h": 4168,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Boat_and_Mount_Vesuvius_in_the_gulf_of_Naples.jpg/330px-Boat_and_Mount_Vesuvius_in_the_gulf_of_Naples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Boat_and_Mount_Vesuvius_in_the_gulf_of_Naples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boat_and_Mount_Vesuvius_in_the_gulf_of_Naples.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "PaestumPaestum",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-05-19 16:06:51",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mount Vesuvius with fog and sea 1.jpg",
+   "w": 9504,
+   "h": 6336,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Mount_Vesuvius_with_fog_and_sea_1.jpg/330px-Mount_Vesuvius_with_fog_and_sea_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mount_Vesuvius_with_fog_and_sea_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Vesuvius_with_fog_and_sea_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Commonists",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-05-03 07:44:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Vesuvius from plane.jpg",
+   "w": 1200,
+   "h": 831,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Vesuvius_from_plane.jpg/330px-Vesuvius_from_plane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Vesuvius_from_plane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vesuvius_from_plane.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Pastorius",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-08-07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Mount Vesuvius.jpg",
+   "w": 5163,
+   "h": 2905,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Mount_Vesuvius.jpg/330px-Mount_Vesuvius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Mount_Vesuvius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Vesuvius.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Purnawibawa",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-01 01:44:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Vesuvius from Pompeii March 2025.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Vesuvius_from_Pompeii_March_2025.jpg/330px-Vesuvius_from_Pompeii_March_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Vesuvius_from_Pompeii_March_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vesuvius_from_Pompeii_March_2025.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "LeftSocks",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-03-11 19:35:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

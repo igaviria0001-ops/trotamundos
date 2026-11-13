@@ -1,0 +1,205 @@
+{
+ "id": "rothenburg",
+ "enwiki": "Rothenburg ob der Tauber",
+ "endesc": "Town in Bavaria, Germany",
+ "qid": "Q153494",
+ "coord": [
+  49.377222222222,
+  10.178888888889
+ ],
+ "label_es": "Rothenburg ob der Tauber",
+ "desc_es": "ciudad de Alemania",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 430.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 41.67,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q448801",
+  "Q42744322"
+ ],
+ "p17": [
+  "Q183"
+ ],
+ "unesco": false,
+ "eswiki": "Rothenburg ob der Tauber",
+ "extracto_es": "Rotemburgo (en alemán: Rothenburg ob der Tauber) es una ciudad del distrito de Ansbach en el estado federado de Baviera, Alemania. Hasta el año de 1803 fue una ciudad imperial libre y hoy en día es una atracción turística de fama mundial por su bien conservado centro medieval.",
+ "candidatas": [
+  {
+   "file": "File:Rothenburg BW 4.JPG",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rothenburg_BW_4.JPG/330px-Rothenburg_BW_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rothenburg_BW_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rothenburg_BW_4.JPG",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Berthold Werner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-07-01",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 14,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Burggasse, Rothenburg ob der Tauber, Alemania, 2023-06-17, DD 29.jpg",
+   "w": 7865,
+   "h": 5243,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Burggasse%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_29.jpg/330px-Burggasse%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Burggasse%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Burggasse,_Rothenburg_ob_der_Tauber,_Alemania,_2023-06-17,_DD_29.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-17 15:59:30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Plaza del Mercado, Rothenburg ob der Tauber, Alemania, 2023-06-17, DD 11.jpg",
+   "w": 7682,
+   "h": 5121,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Plaza_del_Mercado%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_11.jpg/330px-Plaza_del_Mercado%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Plaza_del_Mercado%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Plaza_del_Mercado,_Rothenburg_ob_der_Tauber,_Alemania,_2023-06-17,_DD_11.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-17 15:48:30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Prinzhotel Rothenburg, Rothenburg ob der Tauber, Alemania, 2023-06-17, DD 48.jpg",
+   "w": 8324,
+   "h": 5549,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Prinzhotel_Rothenburg%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_48.jpg/330px-Prinzhotel_Rothenburg%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Prinzhotel_Rothenburg%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Prinzhotel_Rothenburg,_Rothenburg_ob_der_Tauber,_Alemania,_2023-06-17,_DD_48.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-17 16:38:55",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Hotel Eisenhut, Rothenburg ob der Tauber, Alemania, 2023-06-17, DD 25.jpg",
+   "w": 5683,
+   "h": 4065,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Hotel_Eisenhut%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_25.jpg/330px-Hotel_Eisenhut%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hotel_Eisenhut%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_Eisenhut,_Rothenburg_ob_der_Tauber,_Alemania,_2023-06-17,_DD_25.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-17 15:53:02",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Hotel Tilman Riemenschneider, Rothenburg ob der Tauber, Alemania, 2023-06-17, DD 08.jpg",
+   "w": 4389,
+   "h": 3257,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Hotel_Tilman_Riemenschneider%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_08.jpg/330px-Hotel_Tilman_Riemenschneider%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hotel_Tilman_Riemenschneider%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_Tilman_Riemenschneider,_Rothenburg_ob_der_Tauber,_Alemania,_2023-06-17,_DD_08.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-17 15:44:36",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Galgengasse, Rothenburg ob der Tauber, Alemania, 2023-06-17, DD 05.jpg",
+   "w": 7893,
+   "h": 5262,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Galgengasse%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_05.jpg/330px-Galgengasse%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Galgengasse%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Galgengasse,_Rothenburg_ob_der_Tauber,_Alemania,_2023-06-17,_DD_05.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-17 15:39:53",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Plönlein, Rothenburg ob der Tauber, Alemania, 2023-06-17, DD 37.jpg",
+   "w": 8492,
+   "h": 5661,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pl%C3%B6nlein%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_37.jpg/330px-Pl%C3%B6nlein%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pl%C3%B6nlein%2C_Rothenburg_ob_der_Tauber%2C_Alemania%2C_2023-06-17%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pl%C3%B6nlein,_Rothenburg_ob_der_Tauber,_Alemania,_2023-06-17,_DD_37.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-17 16:15:38",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

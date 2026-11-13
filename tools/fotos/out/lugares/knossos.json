@@ -1,0 +1,197 @@
+{
+ "id": "knossos",
+ "enwiki": "Knossos",
+ "endesc": "Archaeological site and Minoan palace complex in Heraklion, Crete",
+ "qid": "Q173527",
+ "coord": [
+  35.297961111111,
+  25.163155555556
+ ],
+ "label_es": "Cnosos",
+ "desc_es": "ciudad de la civilización minoica",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-7000-01-01T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 611455.0,
+   "u": "1"
+  },
+  {
+   "v": 634710.0,
+   "u": "1"
+  },
+  {
+   "v": 855663.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q120964921",
+  "Q148837"
+ ],
+ "p17": [
+  "Q41"
+ ],
+ "unesco": false,
+ "eswiki": "Cnosos",
+ "extracto_es": "Cnosos o Cnoso (en lineal B, ko-no-so; en griego, Κνωσσός, Knōssós) fue una de las ciudades más importantes de Creta (junto con Festo) durante la civilización minoica, que alcanzó su máximo esplendor en el segundo milenio a. C., siendo el complejo palacial más antiguo de Europa. Está situada a unos 5 km al sudeste de la actual ciudad de Heraclión y al oeste del río Kairatos. En ella se alzan los restos del palacio de Cnosos, el más importante del periodo minoico y el más conocido de los complejos arqueológicos desde su descubrimiento en 1878.  \nAsociada a la leyenda del rey Minos, su importancia, su aspecto y su tamaño han hecho de ella un lugar reseñable e ineludible de las civilizaciones de la Europa arcaica. Recibe medio millón de visitantes anualmente.​ \nLos reyes de Cnosos alcanzaron su mayor poder hacia 1600 a. C., debido a que controlaban la zona del mar Egeo y comerciaban con el rico Egipto. La caída de la civilización minoica y la destrucción de Cnosos acontecieron al comienzo del periodo de mayor prosperidad de la civilización micénica, en Grecia. Esta circunstancia sugiere la hipótesis de que los reyes micénicos atacaron y destruyeron las ciudades de la floreciente civilización minoica.\nEn 2025, el yacimiento arqueológico fue inscrito Patrimonio Mundial de la Unesco, con el código 1733-001, como parte del sitio \"Centros palaciegos minoicos\".​",
+ "candidatas": [
+  {
+   "file": "File:Knossos - North Portico 02.jpg",
+   "w": 3456,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Knossos_-_North_Portico_02.jpg/330px-Knossos_-_North_Portico_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Knossos_-_North_Portico_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Knossos_-_North_Portico_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-10-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:+Der Palast von Knossos verkörpert die Blüte der minoischen Kultur. 10.jpg",
+   "w": 5906,
+   "h": 3993,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%2BDer_Palast_von_Knossos_verk%C3%B6rpert_die_Bl%C3%BCte_der_minoischen_Kultur._10.jpg/330px-%2BDer_Palast_von_Knossos_verk%C3%B6rpert_die_Bl%C3%BCte_der_minoischen_Kultur._10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/%2BDer_Palast_von_Knossos_verk%C3%B6rpert_die_Bl%C3%BCte_der_minoischen_Kultur._10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%2BDer_Palast_von_Knossos_verk%C3%B6rpert_die_Bl%C3%BCte_der_minoischen_Kultur._10.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Holger Uwe Schmitt",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-10-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Armon Knossos P1060030.JPG",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Armon_Knossos_P1060030.JPG/330px-Armon_Knossos_P1060030.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Armon_Knossos_P1060030.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Armon_Knossos_P1060030.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Deror_avi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-24 12:42:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Armon Knossos P1060093.JPG",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Armon_Knossos_P1060093.JPG/330px-Armon_Knossos_P1060093.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Armon_Knossos_P1060093.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Armon_Knossos_P1060093.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Deror_avi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-24 13:23:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Armon Knossos P1060104.JPG",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Armon_Knossos_P1060104.JPG/330px-Armon_Knossos_P1060104.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Armon_Knossos_P1060104.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Armon_Knossos_P1060104.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Deror_avi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-24 13:26:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Facade of Philip II tomb Vergina Greece.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Facade_of_Philip_II_tomb_Vergina_Greece.jpg/330px-Facade_of_Philip_II_tomb_Vergina_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Facade_of_Philip_II_tomb_Vergina_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Facade_of_Philip_II_tomb_Vergina_Greece.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Panegyrics of Granovetter (Sarah Murray)",
+   "credito": "https://www.flickr.com/photos/sarah_c_murray/4084466491/",
+   "nonfree": "",
+   "fecha": "2009-05-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Heraklion — Blue birds fresco.jpg",
+   "w": 4425,
+   "h": 3248,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Heraklion_%E2%80%94_Blue_birds_fresco.jpg/330px-Heraklion_%E2%80%94_Blue_birds_fresco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Heraklion_%E2%80%94_Blue_birds_fresco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Heraklion_%E2%80%94_Blue_birds_fresco.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Gsimonov",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-01-30 15:16:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Heraklion — Dolphin fresco.jpg",
+   "w": 4290,
+   "h": 3018,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Heraklion_%E2%80%94_Dolphin_fresco.jpg/330px-Heraklion_%E2%80%94_Dolphin_fresco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Heraklion_%E2%80%94_Dolphin_fresco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Heraklion_%E2%80%94_Dolphin_fresco.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Gsimonov",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-01-30 15:46:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

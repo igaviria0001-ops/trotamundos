@@ -1,0 +1,196 @@
+{
+ "id": "wieliczka",
+ "enwiki": "Wieliczka Salt Mine",
+ "endesc": "Polish salt mine operated for 700 years",
+ "qid": "Q454019",
+ "coord": [
+  49.983053,
+  20.055655
+ ],
+ "label_es": "Minas de sal de Wieliczka",
+ "desc_es": "mina de sal y museo de minería en Wieliczka cerca de Cracovia, Polonia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1300-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "area": [
+  {
+   "v": 969.0,
+   "u": "Q35852"
+  },
+  {
+   "v": 244.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q811165",
+  "Q820477"
+ ],
+ "p17": [
+  "Q36"
+ ],
+ "unesco": false,
+ "eswiki": "Minas de sal de Wieliczka",
+ "extracto_es": "Las minas de sal de Wieliczka, en la ciudad polaca de Wieliczka, perteneciente al área metropolitana de Cracovia. Han sido explotadas sin interrupción desde el siglo XIII, y aún hoy en día siguen produciendo sal de mesa. Alcanzan una profundidad de 327 metros y su longitud supera los trescientos kilómetros. Reciben el sobrenombre de \"la catedral subterránea de la sal de Polonia\".\nEs una de las minas de sal activas más antiguas del mundo. La más antigua está en Bochnia, también en Polonia, a veinte kilómetros de Wieliczka. Estas minas incluyen un recorrido turístico de 3,5 kilómetros que contiene estatuas de personajes míticos e históricos, esculpidas en la roca de sal por los mineros. Incluso los cristales de los candelabros están hechos de sal. También hay cámaras y capillas excavadas en la sal, un lago subterráneo y exposiciones que ilustran la historia de la minería de la sal. Recibe unos 800.000 visitantes al año.  \nA lo largo de los siglos, célebres personajes han visitado las minas, entre los que cabe citar a Nicolás Copérnico, Johann Wolfgang von Goethe, Alexander von Humboldt, Dimitri Mendeleyev, Ignacy Jan Paderewski, Robert Baden-Powell, Karol Wojtyła, Bill Clinton, así como muchas testas coronadas.",
+ "candidatas": [
+  {
+   "file": "File:Wieliczka, Jana Matejki; Kopalnia soli- kierat konny węgierski; A-580; 01.jpg",
+   "w": 3845,
+   "h": 2841,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wieliczka%2C_Jana_Matejki%3B_Kopalnia_soli-_kierat_konny_w%C4%99gierski%3B_A-580%3B_01.jpg/330px-Wieliczka%2C_Jana_Matejki%3B_Kopalnia_soli-_kierat_konny_w%C4%99gierski%3B_A-580%3B_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Wieliczka%2C_Jana_Matejki%3B_Kopalnia_soli-_kierat_konny_w%C4%99gierski%3B_A-580%3B_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wieliczka,_Jana_Matejki;_Kopalnia_soli-_kierat_konny_w%C4%99gierski;_A-580;_01.jpg",
+   "licencia": "CC BY-SA 3.0 pl",
+   "licurl": "cc-by-sa-3.0-pl",
+   "autor": "Kriskros",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Αλατωρυχεία Βιελίτσκα 5021.jpg",
+   "w": 4443,
+   "h": 2962,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5021.jpg/330px-%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5021.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C messier",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-10-30 19:37:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Αλατωρυχεία Βιελίτσκα 5074.jpg",
+   "w": 4514,
+   "h": 3386,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5074.jpg/330px-%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5074.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5074.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5074.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C messier",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-10-30 19:57:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Wieliczka Salt Mine 2024-07-08 (17).jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Wieliczka_Salt_Mine_2024-07-08_%2817%29.jpg/330px-Wieliczka_Salt_Mine_2024-07-08_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Wieliczka_Salt_Mine_2024-07-08_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wieliczka_Salt_Mine_2024-07-08_(17).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Renata3",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-07-08 11:04:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Wieliczka Salt Mine 2024-07-08 (18).jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Wieliczka_Salt_Mine_2024-07-08_%2818%29.jpg/330px-Wieliczka_Salt_Mine_2024-07-08_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Wieliczka_Salt_Mine_2024-07-08_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wieliczka_Salt_Mine_2024-07-08_(18).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Renata3",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-07-08 11:04:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Wieliczka Salt Mine 2024-07-08 (23).jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Wieliczka_Salt_Mine_2024-07-08_%2823%29.jpg/330px-Wieliczka_Salt_Mine_2024-07-08_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Wieliczka_Salt_Mine_2024-07-08_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wieliczka_Salt_Mine_2024-07-08_(23).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Renata3",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-07-08 11:18:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Wieliczka kolaż 1.jpg",
+   "w": 11184,
+   "h": 8698,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Wieliczka_kola%C5%BC_1.jpg/330px-Wieliczka_kola%C5%BC_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Wieliczka_kola%C5%BC_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wieliczka_kola%C5%BC_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Willem Hondius",
+   "credito": "This file was derived from: \n\n Wieliczka Salt Mines 1.jpg\nWieliczka Salt Mines 2.jpg\nWieliczka Salt Mines 3.jpg\nWieliczka Salt Mines 4.jpg",
+   "nonfree": "",
+   "fecha": "2015-01-10 17:25:21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Wieliczka, Kopalnia Soli Wieliczka - fotopolska.eu (338416).jpg",
+   "w": 1300,
+   "h": 866,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Wieliczka%2C_Kopalnia_Soli_Wieliczka_-_fotopolska.eu_%28338416%29.jpg/330px-Wieliczka%2C_Kopalnia_Soli_Wieliczka_-_fotopolska.eu_%28338416%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Wieliczka%2C_Kopalnia_Soli_Wieliczka_-_fotopolska.eu_%28338416%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wieliczka,_Kopalnia_Soli_Wieliczka_-_fotopolska.eu_(338416).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Andrzej G",
+   "credito": "Fotopolska.eu",
+   "nonfree": "",
+   "fecha": "2012-08-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "busqueda"
+  }
+ ]
+}
