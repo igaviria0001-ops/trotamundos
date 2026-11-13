@@ -1,0 +1,200 @@
+{
+ "id": "torrelondres",
+ "enwiki": "Tower of London",
+ "endesc": "Castle in London, England",
+ "qid": "Q62378",
+ "coord": [
+  51.5082,
+  -0.076198055555556
+ ],
+ "label_es": "Torre de Londres",
+ "desc_es": "castillo histórico situado en la ribera norte del río Támesis en el centro de Londres, Inglaterra",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1066-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 2741126.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q23413",
+  "Q33506",
+  "Q839954",
+  "Q115154402"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": true,
+ "eswiki": "Torre de Londres",
+ "extracto_es": "La Torre de Londres, oficialmente llamada Palacio Real y Fortaleza de su Majestad, es un castillo histórico situado en la ribera norte del río Támesis en el centro de Londres, Inglaterra. Se encuentra dentro del distrito londinense de Tower Hamlets, separado del límite norte de la ciudad por un espacio abierto conocido como Tower Hill. Se fundó hacia finales de 1066 como parte de la conquista normanda de Inglaterra. La Torre Blanca, que da nombre al castillo entero, fue construida por Guillermo el Conquistador en 1078, convirtiéndose en símbolo de la opresión en Londres por parte de la nueva élite gobernante. Desde 1100 al menos, el castillo fue usado como prisión, aunque no era este el propósito primario.\nEn conjunto, la Torre es un complejo de varios edificios situado dentro de dos anillos concéntricos de muros defensivos y un foso; el castillo se amplió en varias fases, sobre todo bajo el mandato de Ricardo Corazón de León, Enrique III y Eduardo I en los siglos XII y XIII. La disposición general de finales del siglo XIII se ha mantenido a pesar de la actividad posterior.\nLa Torre de Londres ha representado un destacado papel en la historia de Inglaterra. Fue sitiada en varias ocasiones y poseerla era importante para dominar el país. La torre ha servido como armería, tesorería, casa de fieras, Real Casa de la Moneda, registros públicos y casa de las joyas de la Corona del Reino Unido. \nDesde inicios del siglo XIV hasta el reinado de Carlos II, se organizaba una procesión desde la torre hasta la abadía de Westminster en la coronación de un nuevo monarca. Cabe destacar que en ausencia del monarca, el guardia de la torre es el encargado del castillo (la de guardia era una posición de confianza en el periodo medieval). A finales del siglo XV, el castillo se convirtió en prisión. Bajo el reinado de los Tudor, la torre se usó menos como residencia, y a pesar de los intentos por refortificar y reparar el castillo, las mejoras en sus defensas quedaron relegadas ante el desarrollo de la artillería.\nEl apogeo del castillo como prisión sobrevino en los siglos XVI y XVII, cuando personajes, como Isabel I (antes de convertirse en reina), cayeron en desgracia y fueron retenidos entre estos muros. Este uso ha derivado en el dicho «enviar a la Torre» como sinónimo de «enviar a prisión». A pesar de su reputación como lugar de tortura y muerte, popularizada por los religiosos del siglo XVI y los escritores del siglo XIX, solo siete personas fueron ejecutadas dentro de la ",
+ "candidatas": [
+  {
+   "file": "File:Tower of London viewed from the River Thames.jpg",
+   "w": 3948,
+   "h": 2479,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Tower_of_London_viewed_from_the_River_Thames.jpg/330px-Tower_of_London_viewed_from_the_River_Thames.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tower_of_London_viewed_from_the_River_Thames.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tower_of_London_viewed_from_the_River_Thames.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bob Collowan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-22 12:13:18",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 24,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Puente de la Torre, Londres, Inglaterra, 2014-08-11, DD 092.JPG",
+   "w": 5369,
+   "h": 3579,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Puente_de_la_Torre%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_092.JPG/330px-Puente_de_la_Torre%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_092.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Puente_de_la_Torre%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_092.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puente_de_la_Torre,_Londres,_Inglaterra,_2014-08-11,_DD_092.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-11 10:23:41",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Tower of London from the Shard (8515883950).jpg",
+   "w": 4728,
+   "h": 3069,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Tower_of_London_from_the_Shard_%288515883950%29.jpg/330px-Tower_of_London_from_the_Shard_%288515883950%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tower_of_London_from_the_Shard_%288515883950%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tower_of_London_from_the_Shard_(8515883950).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "[Duncan] from Nottingham, UK",
+   "credito": "Tower of London from the Shard",
+   "nonfree": "",
+   "fecha": "2013-02-18 15:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Tower of London (Foto Hilarmont).jpg",
+   "w": 5172,
+   "h": 3396,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Tower_of_London_%28Foto_Hilarmont%29.jpg/330px-Tower_of_London_%28Foto_Hilarmont%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Tower_of_London_%28Foto_Hilarmont%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tower_of_London_(Foto_Hilarmont).jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Hilarmont",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Jubilee and Munin, Ravens, Tower of London 2016-04-30.jpg",
+   "w": 2723,
+   "h": 2723,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg/330px-Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Jubilee_and_Munin,_Ravens,_Tower_of_London_2016-04-30.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Colin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-04-30 11:43:45",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Elephant sculpture by Kendra Haste, Tower of London.jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Elephant_sculpture_by_Kendra_Haste%2C_Tower_of_London.jpg/330px-Elephant_sculpture_by_Kendra_Haste%2C_Tower_of_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Elephant_sculpture_by_Kendra_Haste%2C_Tower_of_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Elephant_sculpture_by_Kendra_Haste,_Tower_of_London.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Rachelle Haun",
+   "credito": "https://www.flickr.com/photos/137802499@N06/52162804707/",
+   "nonfree": "",
+   "fecha": "2022-06-18 09:18:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:London-10-2 (48189346536).jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/London-10-2_%2848189346536%29.jpg/330px-London-10-2_%2848189346536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/London-10-2_%2848189346536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:London-10-2_(48189346536).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Rachelle Haun",
+   "credito": "London-10-2",
+   "nonfree": "",
+   "fecha": "2019-06-20 05:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Skull of a Barbary Lion (25297910567).jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Skull_of_a_Barbary_Lion_%2825297910567%29.jpg/330px-Skull_of_a_Barbary_Lion_%2825297910567%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Skull_of_a_Barbary_Lion_%2825297910567%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Skull_of_a_Barbary_Lion_(25297910567).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Thomas Quine",
+   "credito": "Skull of a Barbary Lion",
+   "nonfree": "",
+   "fecha": "2017-11-07 17:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

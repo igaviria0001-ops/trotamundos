@@ -1,0 +1,207 @@
+{
+ "id": "windsor",
+ "enwiki": "Windsor Castle",
+ "endesc": "Official country residence of British monarch",
+ "qid": "Q42646",
+ "coord": [
+  51.48388888888889,
+  -0.6044444444444445
+ ],
+ "label_es": "Castillo de Windsor",
+ "desc_es": "palacio y residencia de la monarca del Reino Unido y de la Mancomunidad de Naciones",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1070-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 180.0,
+   "u": "Q3710"
+  }
+ ],
+ "p31": [
+  "Q131986827",
+  "Q23413",
+  "Q53536964",
+  "Q16560",
+  "Q1343246",
+  "Q2087181",
+  "Q751876"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": false,
+ "eswiki": "Castillo de Windsor",
+ "extracto_es": "El castillo de Windsor es un palacio y residencia real situado en Windsor, en el condado de Berkshire, Reino Unido, notable por su antigua relación con la familia real británica y porque encarna casi un milenio de historia arquitectónica.\nEl castillo original se construyó en el siglo XI, tras la conquista normanda de Inglaterra por Guillermo I el Conquistador. Desde tiempos de Enrique I de Inglaterra (r. 1100-1135) ha sido habitado por todos los monarcas británicos, hecho que lo convierte en la segunda residencia real europea de ocupación más antigua solo superado por el Real Alcázar de Sevilla.​​​ Algunas de sus lujosas estancias, como los «Apartamentos de Estado», son arquitectónicamente muy interesantes y han sido descritas por el historiador Hugh Roberts como «una secuencia magnífica e inigualable de habitaciones ampliamente reconocidas como la mejor y más completa expresión del estilo del periodo georgiano tardío».​ El castillo incluye la Capilla de San Jorge, del siglo XV, considerada por el historiador John Robinson como uno «de los logros supremos del diseño del gótico perpendicular inglés».​\nEsta fortificación fue diseñada originalmente sobre una mota y con tres murallas en torno a un montículo central para servir como baluarte de los conquistadores normandos en las afueras de Londres y dominar una zona estratégicamente importante del río Támesis. Su fábrica fue gradualmente sustituida por piedra, y a comienzos del siglo XIII sufrió un largo asedio durante la primera guerra de los Barones (1215-1217). Enrique III construyó un lujoso palacio real dentro del recinto a mediados de ese siglo y Eduardo III fue más allá con la reconstrucción del palacio, que creó un conjunto mayor de edificios que se convertiría en «el proyecto arquitectónico secular más caro de toda la Edad Media en Inglaterra».​ El núcleo de la obra de Eduardo pervivió hasta el período Tudor (siglo XVI), cuando Enrique VIII e Isabel I le dieron al castillo un uso mayor como corte real y centro de entretenimiento diplomático.\nEl complejo sobrevivió al turbulento período de la guerra civil inglesa, en que fue usado como cuartel militar por las fuerzas parlamentarias y como prisión de Carlos I. Durante la Restauración de los Estuardo, Carlos II reconstruyó gran parte del castillo con ayuda del arquitecto Hugh May y creó una serie de extravagantes interiores barrocos que todavía hoy causan admiración. Tras un período de negligencia en el siglo XVIII, los reyes Jorge III y Jorge IV renovar",
+ "candidatas": [
+  {
+   "file": "File:Windsor Castle Upper Ward Quadrangle 2 - Nov 2006.jpg",
+   "w": 3898,
+   "h": 2054,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg/330px-Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-11-04",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Windsor Castle at Sunset - Nov 2006.jpg",
+   "w": 3990,
+   "h": 2659,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Windsor_Castle_at_Sunset_-_Nov_2006.jpg/330px-Windsor_Castle_at_Sunset_-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Windsor_Castle_at_Sunset_-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Windsor_Castle_at_Sunset_-_Nov_2006.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-11-05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Castillo de Windsor, Inglaterra, 2014-08-12, DD 14.JPG",
+   "w": 5183,
+   "h": 3233,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_14.JPG/330px-Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Windsor,_Inglaterra,_2014-08-12,_DD_14.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12 11:22:44",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Windsor Castle (39968064392).jpg",
+   "w": 5289,
+   "h": 3050,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Windsor_Castle_%2839968064392%29.jpg/330px-Windsor_Castle_%2839968064392%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Windsor_Castle_%2839968064392%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Windsor_Castle_(39968064392).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Mike McBey",
+   "credito": "Windsor Castle",
+   "nonfree": "",
+   "fecha": "2015-03-20 13:29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Castillo de Windsor, Inglaterra, 2014-08-12, DD 16.JPG",
+   "w": 3933,
+   "h": 2975,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_16.JPG/330px-Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Windsor,_Inglaterra,_2014-08-12,_DD_16.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12 11:28:29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Castillo de Windsor, Inglaterra, 2014-08-12, DD 15.JPG",
+   "w": 4225,
+   "h": 3149,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_15.JPG/330px-Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Windsor,_Inglaterra,_2014-08-12,_DD_15.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12 11:25:15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Castillo de Windsor, Inglaterra, 2014-08-12, DD 18.JPG",
+   "w": 5216,
+   "h": 3598,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_18.JPG/330px-Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Castillo_de_Windsor%2C_Inglaterra%2C_2014-08-12%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Windsor,_Inglaterra,_2014-08-12,_DD_18.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-12 11:29:52",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Windsor Castle Upper Ward Quadrangle Corrected 2- Nov 2006.jpg",
+   "w": 4626,
+   "h": 1966,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Windsor_Castle_Upper_Ward_Quadrangle_Corrected_2-_Nov_2006.jpg/330px-Windsor_Castle_Upper_Ward_Quadrangle_Corrected_2-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Windsor_Castle_Upper_Ward_Quadrangle_Corrected_2-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Windsor_Castle_Upper_Ward_Quadrangle_Corrected_2-_Nov_2006.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-11-04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  }
+ ]
+}

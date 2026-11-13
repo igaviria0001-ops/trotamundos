@@ -1,0 +1,199 @@
+{
+ "id": "londoneye",
+ "enwiki": "London Eye",
+ "endesc": "Observation wheel in London, England",
+ "qid": "Q160659",
+ "coord": [
+  51.50333333333333,
+  -0.11972222222222223
+ ],
+ "label_es": "London Eye",
+ "desc_es": "noria en Londres, Inglaterra",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1999-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1999-12-31T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 135.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q202570",
+  "Q570116"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": false,
+ "eswiki": "London Eye",
+ "extracto_es": "El London Eye es una gran noria situada en el South Bank del río Támesis en Londres, Reino Unido. Es la noria más alta de Europa​ y la atracción turística más popular del Reino Unido con más de 3,75 millones de visitantes al año.​\nTiene 135 m de altura y el círculo de la noria tiene un diámetro de 120 m. Cuando abrió al público en el año 2000 era la noria más alta del mundo. Sin embargo, su altura fue superada por la Estrella de Nanchang (160 m) en 2006, por el Singapore Flyer (165 m) en 2008, y por el High Roller de Las Vegas (168 m) en 2014. Sostenida por una estructura con forma de A solo por un lado, al contrario que las norias más altas de Nanchang y Singapur, el London Eye es descrito por sus propietarios como «la noria en voladizo más alta del mundo».​\nEl London Eye era el mirador público más alto de Londres​ hasta que fue superado por el mirador situado en la planta 72 de The Shard, a 245 m de altura,​ que abrió al público el 1 de febrero de 2013.​\nEl London Eye linda con el lado oeste de los Jubilee Gardens (que previamente albergaron el antiguo Dome of Discovery), y está situado en el South Bank del río Támesis entre el Puente de Westminster y el Puente de Hungerford, junto al Salón Condal, en el Municipio de Lambeth.\n\n",
+ "candidatas": [
+  {
+   "file": "File:London Eye at sunset 2013-07-19.jpg",
+   "w": 2368,
+   "h": 3857,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/London_Eye_at_sunset_2013-07-19.jpg/330px-London_Eye_at_sunset_2013-07-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/London_Eye_at_sunset_2013-07-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:London_Eye_at_sunset_2013-07-19.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bob Collowan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-19 20:23:54",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 14,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:London Eye seen from the north bank of the Thames, London.jpg",
+   "w": 6869,
+   "h": 5152,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/London_Eye_seen_from_the_north_bank_of_the_Thames%2C_London.jpg/330px-London_Eye_seen_from_the_north_bank_of_the_Thames%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/London_Eye_seen_from_the_north_bank_of_the_Thames%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:London_Eye_seen_from_the_north_bank_of_the_Thames,_London.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-07-17 14:38:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:London-Eye-2009.JPG",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/London-Eye-2009.JPG/330px-London-Eye-2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/London-Eye-2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:London-Eye-2009.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Khamtran",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-04-04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Ojo de Londres, Londres, Inglaterra, 2014-08-07, DD 028.JPG",
+   "w": 3484,
+   "h": 5100,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ojo_de_Londres%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_028.JPG/330px-Ojo_de_Londres%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_028.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ojo_de_Londres%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_028.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ojo_de_Londres,_Londres,_Inglaterra,_2014-08-07,_DD_028.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-07 14:07:08",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:London Eye and a boat going down the Thames.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/London_Eye_and_a_boat_going_down_the_Thames.jpg/330px-London_Eye_and_a_boat_going_down_the_Thames.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/London_Eye_and_a_boat_going_down_the_Thames.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:London_Eye_and_a_boat_going_down_the_Thames.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mattsjc",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-07-13 16:34:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Odd One Out - geograph.org.uk - 2942583.jpg",
+   "w": 4288,
+   "h": 3216,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Odd_One_Out_-_geograph.org.uk_-_2942583.jpg/330px-Odd_One_Out_-_geograph.org.uk_-_2942583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Odd_One_Out_-_geograph.org.uk_-_2942583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Odd_One_Out_-_geograph.org.uk_-_2942583.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Colin Smith",
+   "credito": "Geograph Britain and Ireland",
+   "nonfree": "",
+   "fecha": "2012-05-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:London Eye, Big Ben from the southbank centre.jpg",
+   "w": 3840,
+   "h": 2160,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/London_Eye%2C_Big_Ben_from_the_southbank_centre.jpg/330px-London_Eye%2C_Big_Ben_from_the_southbank_centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/London_Eye%2C_Big_Ben_from_the_southbank_centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:London_Eye,_Big_Ben_from_the_southbank_centre.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "0ChrisLambert0",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Eye Pod 1.jpg",
+   "w": 2981,
+   "h": 2236,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Eye_Pod_1.jpg/330px-Eye_Pod_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Eye_Pod_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eye_Pod_1.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Misterweiss at English Wikipedia",
+   "credito": "Transferred from en.wikipedia to Commons.",
+   "nonfree": "",
+   "fecha": "30 October 2007 (ori",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  }
+ ]
+}

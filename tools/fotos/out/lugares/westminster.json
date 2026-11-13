@@ -1,0 +1,199 @@
+{
+ "id": "westminster",
+ "enwiki": "Westminster Abbey",
+ "endesc": "Church in London, England",
+ "qid": "Q5933",
+ "coord": [
+  51.4994,
+  -0.127367
+ ],
+ "label_es": "Abadía de Westminster",
+ "desc_es": "iglesia de la abadía en la ciudad de Westminster, Londres, Inglaterra",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0901-01-17T00:00:00Z",
+   "prec": 7
+  },
+  {
+   "p": "P571",
+   "time": "+1540-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q56242250",
+  "Q4586781",
+  "Q334383",
+  "Q56242045",
+  "Q1509716"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": false,
+ "eswiki": "Abadía de Westminster",
+ "extracto_es": "La abadía de Westminster (en inglés: Westminster Abbey), formalmente colegiata de San Pedro en Westminster (en inglés: Collegiate Church of Saint Peter at Westminster), es una gran iglesia abacial de estilo predominantemente gótico situada en la Ciudad de Westminster de Londres (Reino Unido), justo al oeste del Palacio de Westminster. Es uno de los edificios religiosos más significativos del Reino Unido y el lugar de sepultura de numerosos monarcas ingleses y, posteriormente, británicos. Desde la coronación de Guillermo el Conquistador en 1066, las coronaciones de todos los monarcas ingleses y británicos se han realizado en la abadía de Westminster.​​ Desde 1100, se han celebrado dieciséis bodas reales en la abadía.​\nSegún la tradición transmitida por el monje Sulcard en torno al 1080, se fundó una iglesia en su ubicación (entonces conocida como Thorney Island) en el siglo vii, en la época de Melito, el primer obispo de Londres. La construcción de la iglesia actual empezó en 1245 bajo las órdenes de Enrique III.​\nOriginalmente, la iglesia formaba parte de una abadía católica benedictina, que fue disuelta en 1539. A continuación, sirvió como catedral de la diócesis de Westminster hasta 1550, y posteriormente fue una segunda catedral de la diócesis de Londres hasta 1556. La abadía fue devuelta a los benedictinos por María I en 1556, y en 1559 Isabel I la convirtió en una royal peculiar (una iglesia responsable directamente ante el monarca).\nLa abadía es el lugar de sepultura de más de tres mil trescientas personas, en su mayoría de prominencia en la historia británica, entre los que se encuentran al menos dieciséis monarcas, ocho primeros ministros, poetas laureados, actores, científicos, líderes militares y la tumba del soldado desconocido.​",
+ "candidatas": [
+  {
+   "file": "File:Abadía de Westminster, Londres, Inglaterra, 2022-11-23, DD 67-69 HDR.jpg",
+   "w": 6870,
+   "h": 4580,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Abad%C3%ADa_de_Westminster%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_67-69_HDR.jpg/330px-Abad%C3%ADa_de_Westminster%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_67-69_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abad%C3%ADa_de_Westminster%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_67-69_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Abad%C3%ADa_de_Westminster,_Londres,_Inglaterra,_2022-11-23,_DD_67-69_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-23 19:17:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Westminster Abbey - 02.jpg",
+   "w": 2800,
+   "h": 2100,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Westminster_Abbey_-_02.jpg/330px-Westminster_Abbey_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Westminster_Abbey_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Westminster_Abbey_-_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Carlos Delgado",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-10-14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Westminster-Abbey.JPG",
+   "w": 3000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Westminster-Abbey.JPG/330px-Westminster-Abbey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Westminster-Abbey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Westminster-Abbey.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Σπάρτακος",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-26 15:12:28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:London UK Sculptures-at-Westminster-Abbey-Westgate-01.jpg",
+   "w": 3500,
+   "h": 2725,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/London_UK_Sculptures-at-Westminster-Abbey-Westgate-01.jpg/330px-London_UK_Sculptures-at-Westminster-Abbey-Westgate-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/London_UK_Sculptures-at-Westminster-Abbey-Westgate-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:London_UK_Sculptures-at-Westminster-Abbey-Westgate-01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "CEphoto, Uwe Aranas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Abadía de Westminster, Londres, Inglaterra, 2022-11-23, DD 58-60 HDR.jpg",
+   "w": 3535,
+   "h": 5602,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Abad%C3%ADa_de_Westminster%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_58-60_HDR.jpg/330px-Abad%C3%ADa_de_Westminster%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_58-60_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Abad%C3%ADa_de_Westminster%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_58-60_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Abad%C3%ADa_de_Westminster,_Londres,_Inglaterra,_2022-11-23,_DD_58-60_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-23 19:05:41",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Westminster Abbey St Peter.jpg",
+   "w": 2811,
+   "h": 3497,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Westminster_Abbey_St_Peter.jpg/330px-Westminster_Abbey_St_Peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Westminster_Abbey_St_Peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Westminster_Abbey_St_Peter.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Σπάρτακος (changes by Rabanus Flavus)",
+   "credito": "File:Westminster-Abbey.JPG",
+   "nonfree": "",
+   "fecha": "2013-05-26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Cosmati pavement by high altar, Westminster Abbey 02.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cosmati_pavement_by_high_altar%2C_Westminster_Abbey_02.jpg/330px-Cosmati_pavement_by_high_altar%2C_Westminster_Abbey_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cosmati_pavement_by_high_altar%2C_Westminster_Abbey_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cosmati_pavement_by_high_altar,_Westminster_Abbey_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "14GTR",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-11 12:46:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Jerusalem Chamber.jpg",
+   "w": 6333,
+   "h": 4003,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Jerusalem_Chamber.jpg/330px-Jerusalem_Chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jerusalem_Chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Jerusalem_Chamber.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Unknown authorUnknown author",
+   "credito": "https://www.flickr.com/photos/november_song/8347914400/",
+   "nonfree": "",
+   "fecha": "1914",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

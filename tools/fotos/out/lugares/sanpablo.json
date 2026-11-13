@@ -1,0 +1,213 @@
+{
+ "id": "sanpablo",
+ "enwiki": "St Paul's Cathedral",
+ "endesc": "Anglican cathedral in London, England",
+ "qid": "Q173882",
+ "coord": [
+  51.513777777777776,
+  -0.09830555555555556
+ ],
+ "label_es": "Catedral de San Pablo de Londres",
+ "desc_es": "catedral en Londres, Inglaterra, Reino Unido",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1675-01-17T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 111.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 67.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 158.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q56242250",
+  "Q1236923"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": false,
+ "eswiki": "Catedral de San Pablo (Londres)",
+ "extracto_es": "La catedral de San Pablo (en inglés: Saint Paul's Cathedral) es la catedral anglicana de Londres, Inglaterra, sede de la diócesis y del obispo de Londres, perteneciente a la denominada Iglesia de Inglaterra. Se encuentra en Ludgate Hill, el punto más alto de la ciudad.\nSu dedicación al apóstol San Pablo data de la iglesia original erigida en el mismo lugar, fundada en el año 604 d. C.​ La iglesia actual fue diseñada en estilo barroco inglés por el arquitecto sir Christopher Wren y construida entre 1676 y 1710, fue parte de un gran programa de reconstrucción de la ciudad después del Gran incendio de 1666.\nLa catedral de San Pablo es uno de los más famosos y más reconocibles lugares de interés de Londres. Su cúpula, enmarcada por las dos torres de la fachada principal, domina el horizonte de la ciudad desde hace 300 años.​ Con 111 metros de altura, fue el edificio más alto de Londres desde 1710 hasta 1962. Su cúpula fue construida utilizando un método constructivo concebido por Hooke y se encuentra entre las más grandes del mundo. Desde el s. XX la catedral de San Pablo es la segunda catedral más grande de Inglaterra, después de la catedral de Liverpool.\nSan Pablo ocupa un lugar especial en la identidad nacional inglesa​ y en ella se han celebrado acontecimientos muy importantes de la historia británica, como los funerales de Horatio Nelson, del Duque de Wellington, de Winston Churchill y de Margaret Thatcher; el aniversario de las reinas Victoria e Isabel II; los servicios de paz que marcaron el final de la Primera y Segunda Guerra Mundial; o la boda del príncipe Carlos con Diana de Gales.\nLa catedral de San Pablo es una iglesia en funcionamiento, con misas y servicios diario.",
+ "candidatas": [
+  {
+   "file": "File:St. Paul's Cathedral, London, by Red Star News Co. (postmarked 1910-05-07), obverse.jpg",
+   "w": 6445,
+   "h": 4165,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/St._Paul%27s_Cathedral%2C_London%2C_by_Red_Star_News_Co._%28postmarked_1910-05-07%29%2C_obverse.jpg/330px-St._Paul%27s_Cathedral%2C_London%2C_by_Red_Star_News_Co._%28postmarked_1910-05-07%29%2C_obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/St._Paul%27s_Cathedral%2C_London%2C_by_Red_Star_News_Co._%28postmarked_1910-05-07%29%2C_obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St._Paul%27s_Cathedral,_London,_by_Red_Star_News_Co._(postmarked_1910-05-07),_obverse.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Red Star News Co., London",
+   "credito": "Scanned from document in my collection",
+   "nonfree": "",
+   "fecha": "1910-05-07",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:St Paul's Cathedral, 2017-05-27.jpg",
+   "w": 3654,
+   "h": 3036,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/St_Paul%27s_Cathedral%2C_2017-05-27.jpg/330px-St_Paul%27s_Cathedral%2C_2017-05-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/St_Paul%27s_Cathedral%2C_2017-05-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral,_2017-05-27.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lewis Hulbert",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-05-27 14:56:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 12,
+   "origen": "es"
+  },
+  {
+   "file": "File:St Paul's Cathedral Nave, London, UK - Diliff.jpg",
+   "w": 6000,
+   "h": 5230,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/St_Paul%27s_Cathedral_Nave%2C_London%2C_UK_-_Diliff.jpg/330px-St_Paul%27s_Cathedral_Nave%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/St_Paul%27s_Cathedral_Nave%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_Nave,_London,_UK_-_Diliff.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-05-30",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:St Paul Cathedral - Thames Night Long Exposure 02.jpg",
+   "w": 5184,
+   "h": 2916,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/St_Paul_Cathedral_-_Thames_Night_Long_Exposure_02.jpg/330px-St_Paul_Cathedral_-_Thames_Night_Long_Exposure_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/St_Paul_Cathedral_-_Thames_Night_Long_Exposure_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Paul_Cathedral_-_Thames_Night_Long_Exposure_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rafa Esteve",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-08-21 22:34:35",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:St Pauls aerial (cropped).jpg",
+   "w": 1833,
+   "h": 1259,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/St_Pauls_aerial_%28cropped%29.jpg/330px-St_Pauls_aerial_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/St_Pauls_aerial_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Pauls_aerial_(cropped).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Mark Fosh",
+   "credito": "originally posted to Flickr as St Pauls",
+   "nonfree": "",
+   "fecha": "2008-08-17 10:39:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:St Paul's Cathedral Dome from One New Change - Square Crop.jpg",
+   "w": 7514,
+   "h": 7514,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/St_Paul%27s_Cathedral_Dome_from_One_New_Change_-_Square_Crop.jpg/330px-St_Paul%27s_Cathedral_Dome_from_One_New_Change_-_Square_Crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/St_Paul%27s_Cathedral_Dome_from_One_New_Change_-_Square_Crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_Dome_from_One_New_Change_-_Square_Crop.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Colin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-01-24 11:34:40",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:St Paul's Cathedral High Altar, London, UK - Diliff.jpg",
+   "w": 5992,
+   "h": 8584,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/St_Paul%27s_Cathedral_High_Altar%2C_London%2C_UK_-_Diliff.jpg/330px-St_Paul%27s_Cathedral_High_Altar%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/St_Paul%27s_Cathedral_High_Altar%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_High_Altar,_London,_UK_-_Diliff.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-05-30",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:St Paul's Cathedral Interior Dome 3, London, UK - Diliff.jpg",
+   "w": 6000,
+   "h": 6009,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/St_Paul%27s_Cathedral_Interior_Dome_3%2C_London%2C_UK_-_Diliff.jpg/330px-St_Paul%27s_Cathedral_Interior_Dome_3%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/St_Paul%27s_Cathedral_Interior_Dome_3%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_Interior_Dome_3,_London,_UK_-_Diliff.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-05-30",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  }
+ ]
+}
