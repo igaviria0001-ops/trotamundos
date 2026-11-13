@@ -12,7 +12,7 @@ def font(s):
     return ImageFont.load_default()
 rows = list(csv.DictReader(open(os.path.join(ROOT, 'lugares.tsv'), encoding='utf-8'), delimiter='\t'))
 if len(sys.argv) > 1: rows = [r for r in rows if r['id'] in sys.argv[1].split(',')]
-PER, NC, TW, TH, LW = 7, 6, 240, 180, 170
+PER, NC, TW, TH, LW = int(os.environ.get("PER", 8)), int(os.environ.get("NC", 5)), 240, 180, 150
 f1, f2, f3 = font(17), font(13), font(20)
 for n in range(0, len(rows), PER):
     page = rows[n:n + PER]
