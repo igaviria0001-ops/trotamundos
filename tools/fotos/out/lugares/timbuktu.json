@@ -1,0 +1,194 @@
+{
+ "id": "timbuktu",
+ "enwiki": "Djinguereber Mosque",
+ "endesc": "Learning center in Timbuktu, Mali",
+ "qid": "Q2480949",
+ "coord": [
+  16.771388888889,
+  -3.01
+ ],
+ "label_es": "Mezquita de Djinguereber",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1327-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 16.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 75.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q32815"
+ ],
+ "p17": [
+  "Q912"
+ ],
+ "unesco": false,
+ "eswiki": "Mezquita de Djingareyber",
+ "extracto_es": "La Mezquita de Djingareyber o Djinguereber (Masjid) de Tombuctú es un famoso personaje de aprendizaje de Malí, construido en 1327. Su diseño se atribuye al arquitecto granadino Abu Haq Es Saheli a quien se le pagaron 200 kg (40.000 mithqals) de oro por el Mansa (emperador de Malí) Musa.​\nA excepción de una pequeña parte de la fachada norte, que está hecha de piedra caliza, la Mezquita de Djingareyber está hecha de tierra y materiales orgánicos tales como fibras, paja y madera. Tiene tres tribunas interiores, veinticinco hileras de pilares alineados en dirección este-oeste, un espacio para la oración con cabida para 2000 personas y dos minaretes.\nDjinguereber es una de las tres madrazas que componen la Universidad de Sankore. Fue inscrita en la lista del Patrimonio de la Humanidad por la Unesco en 1988,​ junto a la mezquita Sidi Yahya y a la mezquita de Sankore. En 1990 se consideró en peligro debido a las tormentas de arena,​ por esta razón se está llevando a cabo un proyecto para la restauración y rehabilitación de la mezquita que se inició en junio de 2006, financiado por el Aga Khan Trust for Culture, por medio del Programa de Apoyo a Ciudades Históricas.​",
+ "candidatas": [
+  {
+   "file": "File:ASC Leiden - van Achterberg Collection - 05 - 41 - Une entrée de la Mosquée de Sankoré - Tombouctou, Mali - Novembre-décembre 1993.jpg",
+   "w": 6756,
+   "h": 4450,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_41_-_Une_entr%C3%A9e_de_la_Mosqu%C3%A9e_de_Sankor%C3%A9_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg/330px-ASC_Leiden_-_van_Achterberg_Collection_-_05_-_41_-_Une_entr%C3%A9e_de_la_Mosqu%C3%A9e_de_Sankor%C3%A9_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_41_-_Une_entr%C3%A9e_de_la_Mosqu%C3%A9e_de_Sankor%C3%A9_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_41_-_Une_entr%C3%A9e_de_la_Mosqu%C3%A9e_de_Sankor%C3%A9_-_Tombouctou,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Angeline A. van Achterberg",
+   "credito": "Angeline van Achterberg collection",
+   "nonfree": "",
+   "fecha": "November-December 19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Djingareiber cour.jpg",
+   "w": 1200,
+   "h": 1600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Djingareiber_cour.jpg/330px-Djingareiber_cour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Djingareiber_cour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+   "licencia": "CC BY-SA 2.0 fr",
+   "licurl": "cc-by-sa-2.0-fr",
+   "autor": "KaTeznik",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2005-01-07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P18"
+  },
+  {
+   "file": "File:ASC Leiden - van Achterberg Collection - 05 - 37 - La mosquée de Sidi Yahya - Tombouctou, Mali - Novembre-décembre 1993.jpg",
+   "w": 6756,
+   "h": 4450,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_37_-_La_mosqu%C3%A9e_de_Sidi_Yahya_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg/330px-ASC_Leiden_-_van_Achterberg_Collection_-_05_-_37_-_La_mosqu%C3%A9e_de_Sidi_Yahya_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_37_-_La_mosqu%C3%A9e_de_Sidi_Yahya_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_37_-_La_mosqu%C3%A9e_de_Sidi_Yahya_-_Tombouctou,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Angeline A. van Achterberg",
+   "credito": "Angeline van Achterberg collection",
+   "nonfree": "",
+   "fecha": "November-December 19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:ASC Leiden - van Achterberg Collection - 05 - 40 - La mosquée de Sidi Yahya. Hommes assis - Tombouctou, Mali - Novembre-décembre 1993.jpg",
+   "w": 6756,
+   "h": 4450,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_40_-_La_mosqu%C3%A9e_de_Sidi_Yahya._Hommes_assis_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg/330px-ASC_Leiden_-_van_Achterberg_Collection_-_05_-_40_-_La_mosqu%C3%A9e_de_Sidi_Yahya._Hommes_assis_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_40_-_La_mosqu%C3%A9e_de_Sidi_Yahya._Hommes_assis_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_40_-_La_mosqu%C3%A9e_de_Sidi_Yahya._Hommes_assis_-_Tombouctou,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Angeline A. van Achterberg",
+   "credito": "Angeline van Achterberg collection",
+   "nonfree": "",
+   "fecha": "November-December 19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Djinguereber in Timbuktu.jpg",
+   "w": 2796,
+   "h": 1804,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Djinguereber_in_Timbuktu.jpg/330px-Djinguereber_in_Timbuktu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Djinguereber_in_Timbuktu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Djinguereber_in_Timbuktu.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "upyernoz from Haverford, USA",
+   "credito": "Djinguereber Mosque, Timbuktu",
+   "nonfree": "",
+   "fecha": "2001-10-16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Mosqueetombou 04.JPG",
+   "w": 1280,
+   "h": 960,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Mosqueetombou_04.JPG/330px-Mosqueetombou_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mosqueetombou_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mosqueetombou_04.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:ASC Leiden - van Achterberg Collection - 05 - 43 - Une entrée de la mosquée de Sankoré - Tombouctou, Mali - Novembre-décembre 1993.jpg",
+   "w": 4450,
+   "h": 6756,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_43_-_Une_entr%C3%A9e_de_la_mosqu%C3%A9e_de_Sankor%C3%A9_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg/330px-ASC_Leiden_-_van_Achterberg_Collection_-_05_-_43_-_Une_entr%C3%A9e_de_la_mosqu%C3%A9e_de_Sankor%C3%A9_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_43_-_Une_entr%C3%A9e_de_la_mosqu%C3%A9e_de_Sankor%C3%A9_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_43_-_Une_entr%C3%A9e_de_la_mosqu%C3%A9e_de_Sankor%C3%A9_-_Tombouctou,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Angeline A. van Achterberg",
+   "credito": "Angeline van Achterberg collection",
+   "nonfree": "",
+   "fecha": "November-December 19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:ASC Leiden - van Achterberg Collection - 05 - 36 - La mosquée de Sidi Yahya avec un tombeau - Tombouctou, Mali - Novembre-décembre 1993.jpg",
+   "w": 4555,
+   "h": 6756,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_36_-_La_mosqu%C3%A9e_de_Sidi_Yahya_avec_un_tombeau_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg/330px-ASC_Leiden_-_van_Achterberg_Collection_-_05_-_36_-_La_mosqu%C3%A9e_de_Sidi_Yahya_avec_un_tombeau_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_36_-_La_mosqu%C3%A9e_de_Sidi_Yahya_avec_un_tombeau_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_36_-_La_mosqu%C3%A9e_de_Sidi_Yahya_avec_un_tombeau_-_Tombouctou,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Angeline A. van Achterberg",
+   "credito": "Angeline van Achterberg collection",
+   "nonfree": "",
+   "fecha": "November-December 19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "busqueda"
+  }
+ ]
+}

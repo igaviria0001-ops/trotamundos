@@ -1,0 +1,195 @@
+{
+ "id": "lagorosa",
+ "enwiki": "Lake Retba",
+ "endesc": "Pink-colored lake in Senegal",
+ "qid": "Q1522557",
+ "coord": [
+  14.838888888889,
+  -17.234444444444
+ ],
+ "label_es": "Lago Rosa",
+ "desc_es": "lago en Senegal",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 0.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 3.0,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 3.85,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q188025",
+  "Q188040"
+ ],
+ "p17": [
+  "Q1041"
+ ],
+ "unesco": false,
+ "eswiki": "Lago Rosa",
+ "extracto_es": "El lago Rosa (conocido localmente como Lac Retba) se encuentra al norte de la península senegalesa de Cabo Verde, al noreste del país africano. Dista 35 kilómetros de Dakar.​ Cubre una superficie de 3 km².​\n\nEl adjetivo rosa proviene del color de sus aguas, que se tornan especialmente rosáceas durante la estación seca. Esto se debe a un alga llamada Dunaliella salina​ que fabrica un pigmento rojo para absorber la luz del sol.​​ El alto nivel de salinidad permite que, al igual que sucede en el mar Muerto, las personas floten con facilidad. En torno al lago se encuentran pequeñas explotaciones extractivas de sal que comenzaron en los años 70. Los hombres, con el agua hasta el pecho, rompen con bastones la sal depositada en el fondo antes de recogerla con palas y llenar piraguas de una capacidad de hasta una tonelada. Las mujeres descargan las piraguas y acumulan la sal en el borde del lago para secarla y blanquearla al sol. Tanto hombres como mujeres se protegen de la salinidad corrosiva untándose con manteca de karité. La sal es destinada a las conservas de pescado o a la exportación.\nEl lago es conocido a nivel mundial por haber sido la llegada del rally París Dakar en casi todas sus ediciones hasta 2008, cuando la organización decidió suspender la competición y trasladarla a Sudamérica a partir del 2008.",
+ "candidatas": [
+  {
+   "file": "File:RetbaLakeShore.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/RetbaLakeShore.jpg/330px-RetbaLakeShore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/RetbaLakeShore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:RetbaLakeShore.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jjm2311",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-12-26 13:58:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Lac Rose in Senegal.jpg",
+   "w": 2048,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Lac_Rose_in_Senegal.jpg/330px-Lac_Rose_in_Senegal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lac_Rose_in_Senegal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lac_Rose_in_Senegal.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Arnault",
+   "credito": "originally posted to Flickr as Lac rose",
+   "nonfree": "",
+   "fecha": "2004-04-16 16:59:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Ngeej bu Retba.jpg",
+   "w": 3264,
+   "h": 1840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ngeej_bu_Retba.jpg/330px-Ngeej_bu_Retba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ngeej_bu_Retba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ngeej_bu_Retba.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DebyDB93",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-12-20 11:19:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Lac-rose sénégal.jpg",
+   "w": 1593,
+   "h": 1062,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lac-rose_s%C3%A9n%C3%A9gal.jpg/330px-Lac-rose_s%C3%A9n%C3%A9gal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lac-rose_s%C3%A9n%C3%A9gal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lac-rose_s%C3%A9n%C3%A9gal.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Manu25",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Lake Retba (Lac Rose), worker is digging the salt in the lake.jpg",
+   "w": 3412,
+   "h": 1920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Lake_Retba_%28Lac_Rose%29%2C_worker_is_digging_the_salt_in_the_lake.jpg/330px-Lake_Retba_%28Lac_Rose%29%2C_worker_is_digging_the_salt_in_the_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lake_Retba_%28Lac_Rose%29%2C_worker_is_digging_the_salt_in_the_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Retba_(Lac_Rose),_worker_is_digging_the_salt_in_the_lake.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "林戈亮",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-01-01 10:47:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lac Rose 1995.jpg",
+   "w": 2000,
+   "h": 1283,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lac_Rose_1995.jpg/330px-Lac_Rose_1995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lac_Rose_1995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lac_Rose_1995.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Erakules",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lac Rose 013 (45718926805).jpg",
+   "w": 1280,
+   "h": 960,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Lac_Rose_013_%2845718926805%29.jpg/330px-Lac_Rose_013_%2845718926805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lac_Rose_013_%2845718926805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lac_Rose_013_(45718926805).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "John  Crane from Prague, Czech Republic",
+   "credito": "Lac Rose 013",
+   "nonfree": "",
+   "fecha": "2018-12-25 13:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lac Rose 005 (45718931605).jpg",
+   "w": 1280,
+   "h": 895,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Lac_Rose_005_%2845718931605%29.jpg/330px-Lac_Rose_005_%2845718931605%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lac_Rose_005_%2845718931605%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lac_Rose_005_(45718931605).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "John  Crane from Prague, Czech Republic",
+   "credito": "Lac Rose 005",
+   "nonfree": "",
+   "fecha": "2018-12-25 13:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "busqueda"
+  }
+ ]
+}

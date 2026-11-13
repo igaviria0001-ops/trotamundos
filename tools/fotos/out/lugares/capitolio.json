@@ -1,0 +1,219 @@
+{
+ "id": "capitolio",
+ "enwiki": "United States Capitol",
+ "endesc": "Meeting place of the United States Congress",
+ "qid": "Q54109",
+ "coord": [
+  38.889722222222225,
+  -77.00916666666667
+ ],
+ "label_es": "Capitolio de los Estados Unidos",
+ "desc_es": "edificio que alberga las dos cámaras del Congreso de los Estados Unidos de América",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1793-09-18T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 88.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 1500000.0,
+   "u": "Q857027"
+  }
+ ],
+ "largo": [
+  {
+   "v": 500.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q3284499"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Capitolio de los Estados Unidos",
+ "extracto_es": "El Capitolio de los Estados Unidos (en inglés: United States Capitol), a menudo llamado El Capitolio (The Capitol) o el Edificio del Capitolio (Capitol Building), es la sede del Congreso de los Estados Unidos, el poder legislativo del gobierno federal. Está ubicado en Capitol Hill, en el extremo este de la Explanada Nacional, en Washington D. C.. Aunque ya no está en el centro geográfico del distrito federal, el Capitolio constituye el punto de origen del sistema de numeración de calles del distrito, así como de sus cuatro cuadrantes.\nLas secciones centrales del edificio actual se completaron en 1800. Fueron parcialmente destruidas en el incendio de Washington en 1814 y luego fueron completamente restauradas a lo largo de cinco años. El edificio fue ampliado en 1850, así como las alas para las cámaras de la legislatura bicameral, la Cámara de Representantes en el ala sur y el Senado en el ala norte. La enorme cúpula se completó en 1866, justo después de la Guerra de Secesión. Al igual que los edificios principales de los poderes ejecutivo y judicial, el Capitolio está construido en estilo neoclásico y tiene un exterior blanco. Tanto su elevación este como oeste se denominan formalmente frentes, aunque sólo el frente este estaba destinado a la recepción de visitantes y dignatarios.",
+ "candidatas": [
+  {
+   "file": "File:US Capitol east side.JPG",
+   "w": 4515,
+   "h": 2397,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/US_Capitol_east_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:US_Capitol_east_side.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-09-02 08:01:49",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 23,
+   "origen": "en"
+  },
+  {
+   "file": "File:Capitol at Dusk 2.jpg",
+   "w": 5152,
+   "h": 2585,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Capitol_at_Dusk_2.jpg/330px-Capitol_at_Dusk_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Capitol_at_Dusk_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Capitol_at_Dusk_2.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-09-03 20:06:45",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 17,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:US Capitol 1814c.jpg",
+   "w": 4729,
+   "h": 2774,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/US_Capitol_1814c.jpg/330px-US_Capitol_1814c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/US_Capitol_1814c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:US_Capitol_1814c.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "George Munger",
+   "credito": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID ppmsca.02160.This tag does not indicate the copyright status of the attached ",
+   "nonfree": "",
+   "fecha": "1814",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:US Capitol dome Jan 2006.jpg",
+   "w": 6831,
+   "h": 7614,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/330px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Diliff",
+   "credito": "Uploaded by Diliff",
+   "nonfree": "",
+   "fecha": "2006-01",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Capitol, Washington, D.C. USA12.jpg",
+   "w": 2448,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Capitol%2C_Washington%2C_D.C._USA12.jpg/330px-Capitol%2C_Washington%2C_D.C._USA12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Capitol%2C_Washington%2C_D.C._USA12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Capitol,_Washington,_D.C._USA12.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-03-29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Capitol Washington October 2016-3.jpg",
+   "w": 7037,
+   "h": 4675,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/330px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Capitol_Washington_October_2016-3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-05 12:19:08",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:United States Capitol west front edit2.jpg",
+   "w": 2953,
+   "h": 1529,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/United_States_Capitol_west_front_edit2.jpg/330px-United_States_Capitol_west_front_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/United_States_Capitol_west_front_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_west_front_edit2.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "United_States_Capitol_-_west_front.jpg: Architect of the Capitol\nderivative work: O.J.",
+   "credito": "United_States_Capitol_-_west_front.jpg",
+   "nonfree": "",
+   "fecha": "1997",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:US Capitol 2012 02.jpg",
+   "w": 3456,
+   "h": 5184,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/US_Capitol_2012_02.jpg/330px-US_Capitol_2012_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/US_Capitol_2012_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:US_Capitol_2012_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Photograph by Mike Peel (www.mikepeel.net).",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-07-11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
+}

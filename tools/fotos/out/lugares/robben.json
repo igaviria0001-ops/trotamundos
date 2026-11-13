@@ -1,0 +1,201 @@
+{
+ "id": "robben",
+ "enwiki": "Robben Island",
+ "endesc": "Island in Table Bay, South Africa",
+ "qid": "Q192493",
+ "coord": [
+  -33.805,
+  18.37
+ ],
+ "label_es": "Isla Robben",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 17.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 5.18,
+   "u": "Q712226"
+  },
+  {
+   "v": 475.0,
+   "u": "Q35852"
+  }
+ ],
+ "largo": [
+  {
+   "v": 3.2,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q1498174",
+  "Q23442"
+ ],
+ "p17": [
+  "Q258"
+ ],
+ "unesco": true,
+ "eswiki": "Isla Robben",
+ "extracto_es": "La isla Robben (en inglés: Robben Island, en afrikáans: Robbeneiland) es una isla en Table Bay, a 12 km de la costa de Ciudad del Cabo, la provincia Occidental del Cabo, Sudáfrica.​ El nombre en neerlandés significa ‘isla de las focas’.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Robben Island - Cape Town, South Africa (3883849594).jpg",
+   "w": 3000,
+   "h": 2322,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg/330px-Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Robben_Island_-_Cape_Town,_South_Africa_(3883849594).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "South African Tourism from South Africa",
+   "credito": "Robben Island - Cape Town, South Africa",
+   "nonfree": "",
+   "fecha": "2006-02-17 11:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:World War II Guard Pillbox, Robben Island (01).jpg",
+   "w": 4160,
+   "h": 2352,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/World_War_II_Guard_Pillbox%2C_Robben_Island_%2801%29.jpg/330px-World_War_II_Guard_Pillbox%2C_Robben_Island_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/World_War_II_Guard_Pillbox%2C_Robben_Island_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:World_War_II_Guard_Pillbox,_Robben_Island_(01).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Moheen Reeyad",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 17 July 201",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:SafrikaIMG 8414.JPG",
+   "w": 1600,
+   "h": 1200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/SafrikaIMG_8414.JPG/330px-SafrikaIMG_8414.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/SafrikaIMG_8414.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:SafrikaIMG_8414.JPG",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "User:Rüdiger Wölk",
+   "credito": "photo taken by Rüdiger Wölk",
+   "nonfree": "",
+   "fecha": "2004-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Maximum Security Prison, Robben Island (01).jpg",
+   "w": 3872,
+   "h": 2574,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Maximum_Security_Prison%2C_Robben_Island_%2801%29.jpg/330px-Maximum_Security_Prison%2C_Robben_Island_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Maximum_Security_Prison%2C_Robben_Island_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Maximum_Security_Prison,_Robben_Island_(01).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Moheen Reeyad",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 17 July 201",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Moturu Kramat.jpg",
+   "w": 5135,
+   "h": 3383,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Moturu_Kramat.jpg/330px-Moturu_Kramat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Moturu_Kramat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moturu_Kramat.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "HelenOnline",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-11-28 12:54:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Table Bay from Robben Island (01).jpg",
+   "w": 3872,
+   "h": 2574,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Table_Bay_from_Robben_Island_%2801%29.jpg/330px-Table_Bay_from_Robben_Island_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Table_Bay_from_Robben_Island_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Table_Bay_from_Robben_Island_(01).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Moheen Reeyad",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 17 July 201",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Robben Island and Blouberg.jpg",
+   "w": 3000,
+   "h": 1946,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Robben_Island_and_Blouberg.jpg/330px-Robben_Island_and_Blouberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Robben_Island_and_Blouberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Robben_Island_and_Blouberg.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "M J Hurter",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-12-04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Robben Island Prison 24.jpg",
+   "w": 4932,
+   "h": 3288,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Robben_Island_Prison_24.jpg/330px-Robben_Island_Prison_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Robben_Island_Prison_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Robben_Island_Prison_24.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "HelenOnline",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-11-28 13:35:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "id": "brooklyn",
+ "enwiki": "Brooklyn Bridge",
+ "endesc": "Bridge in New York City",
+ "qid": "Q125006",
+ "coord": [
+  40.705666666666666,
+  -73.99633333333334
+ ],
+ "label_es": "Puente de Brooklyn",
+ "desc_es": "puente en la ciudad de Nueva York, Estados Unidos, que cruza sobre el río Este",
+ "inicio": [
+  {
+   "p": "P1619",
+   "time": "+1883-05-24T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 84.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 5989.0,
+   "u": "Q3710"
+  }
+ ],
+ "p31": [
+  "Q12570",
+  "Q158555",
+  "Q1243306",
+  "Q12042110",
+  "Q537127",
+  "Q1210334"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Puente de Brooklyn",
+ "extracto_es": "El puente de Brooklyn (conocido inicialmente como puente de Nueva York y Brooklyn) une los distritos de Manhattan y Brooklyn en la ciudad de Nueva York, Estados Unidos.​​​ Se construyó entre 1870 y 1883, y en el momento de su inauguración era el puente colgante más grande del mundo (mide 1825 metros de largo, y la luz entre pilares es de 486,3 metros), récord de luz hasta que en 1889 se construye el puente de Forth, en Escocia, con una luz máxima de 521 m. También fue el primero suspendido mediante cables de acero. Desde entonces, se ha convertido en uno de los símbolos más reconocibles de Nueva York.\nEs un emblema de la ingeniería del siglo XIX por lo innovador que fue en aquel entonces el uso del acero como material constructivo a gran escala. Actualmente todavía se encuentra en uso. La figura del puente se utiliza en fotografías tipo skyline (tipo perfil urbano u horizonte) para representar a la ciudad de Nueva York.\nEl 12 de abril de 2017, el parque fue incluido en la Lista indicativa de Estados Unidos, los bienes que el país remite a la UNESCO al considerarlos candidatos a ser declarados Patrimonio de la Humanidad.​",
+ "candidatas": [
+  {
+   "file": "File:Brooklyn Bridge August 2017.jpg",
+   "w": 5803,
+   "h": 3874,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Brooklyn_Bridge_August_2017.jpg/330px-Brooklyn_Bridge_August_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Brooklyn_Bridge_August_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_August_2017.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Arild Vågen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 15 August 2",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Currier and Ives Brooklyn Bridge2.jpg",
+   "w": 7948,
+   "h": 5707,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Currier_and_Ives_Brooklyn_Bridge2.jpg/330px-Currier_and_Ives_Brooklyn_Bridge2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Currier_and_Ives_Brooklyn_Bridge2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Currier_and_Ives_Brooklyn_Bridge2.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Currier and Ives",
+   "credito": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID pga.00757.This tag does not indicate the copyright status of the attached wor",
+   "nonfree": "",
+   "fecha": "1883",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Brooklyn Bridge August 2017 04.jpg",
+   "w": 6016,
+   "h": 4016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Brooklyn_Bridge_August_2017_04.jpg/330px-Brooklyn_Bridge_August_2017_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Brooklyn_Bridge_August_2017_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_August_2017_04.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Arild Vågen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 15 August 2",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Brooklyn Bridge August 2017 03.jpg",
+   "w": 6016,
+   "h": 4016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Brooklyn_Bridge_August_2017_03.jpg/330px-Brooklyn_Bridge_August_2017_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Brooklyn_Bridge_August_2017_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_August_2017_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Arild Vågen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 15 August 2",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:NY city skyline and Brooklyn Bridge-20090518-RM-203224.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/NY_city_skyline_and_Brooklyn_Bridge-20090518-RM-203224.jpg/330px-NY_city_skyline_and_Brooklyn_Bridge-20090518-RM-203224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/NY_city_skyline_and_Brooklyn_Bridge-20090518-RM-203224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:NY_city_skyline_and_Brooklyn_Bridge-20090518-RM-203224.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Brooklyn Bridge August 2017 02.jpg",
+   "w": 5950,
+   "h": 3972,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Brooklyn_Bridge_August_2017_02.jpg/330px-Brooklyn_Bridge_August_2017_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Brooklyn_Bridge_August_2017_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_August_2017_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Arild Vågen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 15 August 2",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Brooklyn Bridge August 2017 01.jpg",
+   "w": 5219,
+   "h": 3484,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Brooklyn_Bridge_August_2017_01.jpg/330px-Brooklyn_Bridge_August_2017_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Brooklyn_Bridge_August_2017_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_August_2017_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Arild Vågen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 16 August 2",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:NYC Brooklyn Bridge western ramp.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/NYC_Brooklyn_Bridge_western_ramp.jpg/330px-NYC_Brooklyn_Bridge_western_ramp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NYC_Brooklyn_Bridge_western_ramp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:NYC_Brooklyn_Bridge_western_ramp.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Arnoldius",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "2008-04-02",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  }
+ ]
+}

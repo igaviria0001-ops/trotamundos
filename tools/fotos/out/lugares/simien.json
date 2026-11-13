@@ -1,0 +1,106 @@
+{
+ "id": "simien",
+ "enwiki": "Simien Mountains",
+ "endesc": "Mountain range in the Ethiopian Highlands",
+ "qid": "Q1982017",
+ "coord": [
+  13.4928,
+  38.4436
+ ],
+ "label_es": "Montañas Simen",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 4550.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q46831"
+ ],
+ "p17": [
+  "Q115"
+ ],
+ "unesco": false,
+ "eswiki": "Montañas Simen",
+ "extracto_es": "Las montañas Simen son un sistema montañoso que se extiende al norte de Etiopía, en la región Amhara. Está ubicado en la zona de Gondar, al noreste de la ciudad homónima. Constituyen un sitio declarado Patrimonio de la Humanidad por la Unesco, e incluye además el parque nacional de Simen.",
+ "candidatas": [
+  {
+   "file": "File:Simienské hory.jpg",
+   "w": 3456,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Simiensk%C3%A9_hory.jpg/330px-Simiensk%C3%A9_hory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Simiensk%C3%A9_hory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Simiensk%C3%A9_hory.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Ondřej Žváček",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-02-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Bwahit, view onto Kidis Yared 4453m.JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bwahit%2C_view_onto_Kidis_Yared_4453m.JPG/330px-Bwahit%2C_view_onto_Kidis_Yared_4453m.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bwahit%2C_view_onto_Kidis_Yared_4453m.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bwahit,_view_onto_Kidis_Yared_4453m.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Florian Fell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-01-14 10:02:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:SemienWaterfall.jpg",
+   "w": 2848,
+   "h": 2136,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/SemienWaterfall.jpg/330px-SemienWaterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/SemienWaterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:SemienWaterfall.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Semien Mountains 4.jpg",
+   "w": 1300,
+   "h": 867,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Semien_Mountains_4.jpg/330px-Semien_Mountains_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Semien_Mountains_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Semien_Mountains_4.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Hulivili",
+   "credito": "https://www.flickr.com/photos/hulivili/3966745614/in/photostream/",
+   "nonfree": "",
+   "fecha": "2009-09-20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "id": "nakuru",
+ "enwiki": "Lake Nakuru",
+ "endesc": "Alkaline lake in Nairobi",
+ "qid": "Q849508",
+ "coord": [
+  -0.36666666666667,
+  36.083333333333
+ ],
+ "label_es": "Lago Nakuru",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 1758.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 188.0,
+   "u": "Q712226"
+  },
+  {
+   "v": 18800.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q11349558"
+ ],
+ "p17": [
+  "Q114"
+ ],
+ "unesco": false,
+ "eswiki": "Lago Nakuru",
+ "extracto_es": "El lago Nakuru es uno de los lagos alcalinos del Gran Valle del Rift, situado a una altitud de 1.754 m sobre el nivel del mar. Se encuentra al sur de Nakuru, en la Kenia central. Tiene una superficie de 5 a 45 km². Está protegido por el pequeño Parque Nacional del Lago Nakuru, que forma parte de los Parques nacionales de Kenia. Abundan las algas que atraen grandes cantidades de flamencos, que famosamente bordean la costa. También hay otras aves en la zona, al igual que los jabalíes, babuinos y otros mamíferos grandes. También se han introducido los rinocerontes blancos y negros.",
+ "candidatas": [
+  {
+   "file": "File:Lake-Nakuru-Baboon-Hill-View.JPG",
+   "w": 4607,
+   "h": 2837,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Lake-Nakuru-Baboon-Hill-View.JPG/330px-Lake-Nakuru-Baboon-Hill-View.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lake-Nakuru-Baboon-Hill-View.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake-Nakuru-Baboon-Hill-View.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bjørn Christian Tørrissen",
+   "credito": "Own work (Original text: Own work by uploader, https://bjornfree.com/galleries.html)",
+   "nonfree": "",
+   "fecha": "24 August 2012, 09:5",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Overview lakenakuru.jpg",
+   "w": 1280,
+   "h": 960,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Overview_lakenakuru.jpg/330px-Overview_lakenakuru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Overview_lakenakuru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Overview_lakenakuru.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jasper1976 at Dutch Wikipedia",
+   "credito": "Transferred from nl.wikipedia to Commons.",
+   "nonfree": "",
+   "fecha": "25 May 2006 (origina",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Lake Nakuru National Park Zebras 05.jpg",
+   "w": 5712,
+   "h": 4284,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Lake_Nakuru_National_Park_Zebras_05.jpg/330px-Lake_Nakuru_National_Park_Zebras_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lake_Nakuru_National_Park_Zebras_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Nakuru_National_Park_Zebras_05.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Letherian3",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-08-13 17:06:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lake Nakuru National Park Zebras 01.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Lake_Nakuru_National_Park_Zebras_01.jpg/330px-Lake_Nakuru_National_Park_Zebras_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lake_Nakuru_National_Park_Zebras_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Nakuru_National_Park_Zebras_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Letherian3",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-08-13 17:06:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lake Nakuru National Park 2025.jpg",
+   "w": 5712,
+   "h": 4284,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Lake_Nakuru_National_Park_2025.jpg/330px-Lake_Nakuru_National_Park_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lake_Nakuru_National_Park_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Nakuru_National_Park_2025.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Letherian3",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-08-14 07:19:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lake-Nakuru-National-Park-Entrance.JPG",
+   "w": 4369,
+   "h": 3225,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Lake-Nakuru-National-Park-Entrance.JPG/330px-Lake-Nakuru-National-Park-Entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lake-Nakuru-National-Park-Entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake-Nakuru-National-Park-Entrance.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bjørn Christian Tørrissen",
+   "credito": "Own work by uploader, http://bjornfree.com/galleries.html",
+   "nonfree": "",
+   "fecha": "2012-08-24 14:41:07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lake Nakuru National Park, Kenya - 51955018528.jpg",
+   "w": 4536,
+   "h": 2891,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Lake_Nakuru_National_Park%2C_Kenya_-_51955018528.jpg/330px-Lake_Nakuru_National_Park%2C_Kenya_-_51955018528.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lake_Nakuru_National_Park%2C_Kenya_-_51955018528.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Nakuru_National_Park,_Kenya_-_51955018528.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Ninara",
+   "credito": "https://www.flickr.com/photos/37583176@N00/51955018528/",
+   "nonfree": "",
+   "fecha": "Taken on 1 March 202",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lake Nakuru National Park-Kenya.jpg",
+   "w": 6720,
+   "h": 4480,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Lake_Nakuru_National_Park-Kenya.jpg/330px-Lake_Nakuru_National_Park-Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lake_Nakuru_National_Park-Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Nakuru_National_Park-Kenya.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Queen Asali",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-10-18 16:58:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "id": "kruger",
+ "enwiki": "Kruger National Park",
+ "endesc": "First national park in South Africa",
+ "qid": "Q24451",
+ "coord": [
+  -24.011389,
+  31.485278
+ ],
+ "label_es": "Parque Nacional Kruger",
+ "desc_es": "reserva de caza más grande de Sudáfrica",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1926-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 370.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 19623.0,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q1364273"
+ ],
+ "p17": [
+  "Q258"
+ ],
+ "unesco": false,
+ "eswiki": "Parque nacional Kruger",
+ "extracto_es": "El Parque nacional Kruger es un parque nacional situado en el extremo noreste de Sudáfrica. Constituye la reserva de animales más importante del Sur de África, con 18 989 km², extendiéndose 350 km de norte a sur y 60 km de este a oeste.\nAl oeste y al sur del parque nacional Kruger hay dos provincias sudafricanas: Mpumalanga y Limpopo. Al norte está Zimbabue y al este se encuentra Mozambique. \nAhora es parte del Parque transfronterizo del Gran Limpopo, un parque de la paz que vincula al parque nacional Kruger con el parque nacional de Gonarezhou en Zimbabue y al parque nacional Limpopo en Mozambique. \nLos cañones del parque Kruger han sido nombrados reserva de la biosfera por la Unesco.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Rhino, Kruger National Park (7826798766).jpg",
+   "w": 4752,
+   "h": 3168,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Rhino%2C_Kruger_National_Park_%287826798766%29.jpg/330px-Rhino%2C_Kruger_National_Park_%287826798766%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rhino%2C_Kruger_National_Park_%287826798766%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rhino,_Kruger_National_Park_(7826798766).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "flowcomm",
+   "credito": "Rhino, Kruger National Park",
+   "nonfree": "",
+   "fecha": "2012-08-15 09:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Kruger Zebra.JPG",
+   "w": 2256,
+   "h": 1496,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Kruger_Zebra.JPG/330px-Kruger_Zebra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Kruger_Zebra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kruger_Zebra.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Nithin bolar k",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-04-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Leopardo (Panthera pardus) devorando un antílope, parque nacional Kruger, Sudáfrica, 2018-07-26, DD 06.jpg",
+   "w": 2867,
+   "h": 1911,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Leopardo_%28Panthera_pardus%29_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_06.jpg/330px-Leopardo_%28Panthera_pardus%29_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Leopardo_%28Panthera_pardus%29_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Leopardo_(Panthera_pardus)_devorando_un_ant%C3%ADlope,_parque_nacional_Kruger,_Sud%C3%A1frica,_2018-07-26,_DD_06.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-26 07:38:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Elefante africano de sabana (Loxodonta africana), parque nacional Kruger, Sudáfrica, 2018-07-25, DD 16.jpg",
+   "w": 8688,
+   "h": 5792,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_16.jpg/330px-Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Elefante_africano_de_sabana_(Loxodonta_africana),_parque_nacional_Kruger,_Sud%C3%A1frica,_2018-07-25,_DD_16.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-25 07:26:52",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Leopardo (Panthera pardus) devorando un antílope, parque nacional Kruger, Sudáfrica, 2018-07-26, DD 09.jpg",
+   "w": 4060,
+   "h": 2707,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Leopardo_%28Panthera_pardus%29_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_09.jpg/330px-Leopardo_%28Panthera_pardus%29_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Leopardo_%28Panthera_pardus%29_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Leopardo_(Panthera_pardus)_devorando_un_ant%C3%ADlope,_parque_nacional_Kruger,_Sud%C3%A1frica,_2018-07-26,_DD_09.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-26 07:46:11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Elefante africano de sabana (Loxodonta africana), parque nacional Kruger, Sudáfrica, 2018-07-25, DD 20.jpg",
+   "w": 8688,
+   "h": 5792,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_20.jpg/330px-Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Elefante_africano_de_sabana_(Loxodonta_africana),_parque_nacional_Kruger,_Sud%C3%A1frica,_2018-07-25,_DD_20.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-25 07:51:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rhinoceros in Kruger National Park 03.jpg",
+   "w": 3440,
+   "h": 2293,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Rhinoceros_in_Kruger_National_Park_03.jpg/330px-Rhinoceros_in_Kruger_National_Park_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rhinoceros_in_Kruger_National_Park_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rhinoceros_in_Kruger_National_Park_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-11-14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Landscape kruger-park.jpg",
+   "w": 3008,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Landscape_kruger-park.jpg/330px-Landscape_kruger-park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Landscape_kruger-park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Landscape_kruger-park.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Amada44",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-08-31 12:50",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  }
+ ]
+}

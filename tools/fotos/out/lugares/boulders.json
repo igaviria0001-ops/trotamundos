@@ -1,0 +1,190 @@
+{
+ "id": "boulders",
+ "enwiki": "Boulders Beach",
+ "endesc": "Beach in Cape Town, South Africa",
+ "qid": "Q895056",
+ "coord": [
+  -34.197,
+  18.451
+ ],
+ "label_es": "Playa de Boulders",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 6.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q40080"
+ ],
+ "p17": [
+  "Q258"
+ ],
+ "unesco": false,
+ "eswiki": "Playa de Boulders",
+ "extracto_es": "La playa de Boulders (en inglés: Boulders Beach) es una playa protegida formada por entradas entre rocas de granito, de las cuales se deriva su nombre en inglés. Se encuentra ubicada en la Península del Cabo, cerca de la localidad de Simon's Town hacia el Cabo Point, cerca de Ciudad del Cabo, en la provincia del Cabo Occidental de Sudáfrica. También es comúnmente conocida como la Bahía de Boulders.\nSe trata de una parada turística popular debido a una colonia de pingüinos africanos que se establecieron allí en 1982. La playa de Boulders forma parte del parque nacional Table Mountain.\nAunque situada en medio de una zona residencial, es uno de los pocos sitios donde pueden ser observadas aves como la Spheniscus demersus que están a menudo vagando libremente en un entorno natural protegido.\nSe localiza específicamente en las coordenadas geográficas 34°11′49″S 18°27′03″E.​",
+ "candidatas": [
+  {
+   "file": "File:Boulders Beach Suedafrika.jpg",
+   "w": 4704,
+   "h": 3233,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Boulders_Beach_Suedafrika.jpg/330px-Boulders_Beach_Suedafrika.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Boulders_Beach_Suedafrika.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boulders_Beach_Suedafrika.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Olga Ernst",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-01-05 17:15:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Playa de Boulders, Simon's Town, Sudáfrica, 2018-07-23, DD 47.jpg",
+   "w": 8664,
+   "h": 5784,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Playa_de_Boulders%2C_Simon%27s_Town%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_47.jpg/330px-Playa_de_Boulders%2C_Simon%27s_Town%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Playa_de_Boulders%2C_Simon%27s_Town%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Playa_de_Boulders,_Simon%27s_Town,_Sud%C3%A1frica,_2018-07-23,_DD_47.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-23 11:19:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Boulders Beach 2019 2.jpg",
+   "w": 4630,
+   "h": 3100,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Boulders_Beach_2019_2.jpg/330px-Boulders_Beach_2019_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Boulders_Beach_2019_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boulders_Beach_2019_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-02-16 18:00:17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Simon's Town - Boulder Beach Penguins.jpg",
+   "w": 4000,
+   "h": 2517,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Simon%27s_Town_-_Boulder_Beach_Penguins.jpg/330px-Simon%27s_Town_-_Boulder_Beach_Penguins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Simon%27s_Town_-_Boulder_Beach_Penguins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Simon%27s_Town_-_Boulder_Beach_Penguins.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sumit Surai",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-23 17:11:21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Swimmers at Boulders Beach, Cape Town.jpg",
+   "w": 1600,
+   "h": 1200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Swimmers_at_Boulders_Beach%2C_Cape_Town.jpg/330px-Swimmers_at_Boulders_Beach%2C_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Swimmers_at_Boulders_Beach%2C_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Swimmers_at_Boulders_Beach,_Cape_Town.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Self",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2004-12-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Boulders Beach, South Africa.jpg",
+   "w": 5883,
+   "h": 2968,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Boulders_Beach%2C_South_Africa.jpg/330px-Boulders_Beach%2C_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Boulders_Beach%2C_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boulders_Beach,_South_Africa.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "jeffgreenca",
+   "credito": "https://www.flickr.com/photos/jeffgreenca/39906897873/",
+   "nonfree": "",
+   "fecha": "2017-05-01 02:40:54",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Boulders-Beach.jpg",
+   "w": 5774,
+   "h": 3850,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Boulders-Beach.jpg/330px-Boulders-Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Boulders-Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boulders-Beach.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Octagon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-12-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Boulders-Beach2.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Boulders-Beach2.jpg/330px-Boulders-Beach2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Boulders-Beach2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boulders-Beach2.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Octagon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-12-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

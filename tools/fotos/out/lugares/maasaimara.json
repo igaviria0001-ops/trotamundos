@@ -1,0 +1,193 @@
+{
+ "id": "maasaimara",
+ "enwiki": "Maasai Mara",
+ "endesc": "National Reserve in Narok County, Kenya",
+ "qid": "Q207724",
+ "coord": [
+  -1.49,
+  35.14
+ ],
+ "label_es": "Masái Mara",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1961-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 580.0,
+   "u": "Q232291"
+  }
+ ],
+ "p31": [
+  "Q20626607"
+ ],
+ "p17": [
+  "Q114"
+ ],
+ "unesco": false,
+ "eswiki": "Masái Mara",
+ "extracto_es": "Masái Mara (o Massai Mara o Maasai Mara) es una reserva natural nacional situada al sudoeste de Kenia, en el condado de Narok. Forma parte de la región del Serengueti y es en realidad una continuación del parque nacional del Serengueti. Se llama así porque la tribu masái habita dicha zona y por el río Mara que lo cruza. Es famosa por su fauna excepcional.",
+ "candidatas": [
+  {
+   "file": "File:Three zebras in Masai Mara National Park, Kenya.jpg",
+   "w": 4256,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Three_zebras_in_Masai_Mara_National_Park%2C_Kenya.jpg/330px-Three_zebras_in_Masai_Mara_National_Park%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Three_zebras_in_Masai_Mara_National_Park%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Three_zebras_in_Masai_Mara_National_Park,_Kenya.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Volodymyr Burdiak",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-08-09 09:03:22",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Masai Mara National Reserve 20 - Mara river crossing.jpg",
+   "w": 5760,
+   "h": 3840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Masai_Mara_National_Reserve_20_-_Mara_river_crossing.jpg/330px-Masai_Mara_National_Reserve_20_-_Mara_river_crossing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Masai_Mara_National_Reserve_20_-_Mara_river_crossing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Masai_Mara_National_Reserve_20_-_Mara_river_crossing.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Thomas Fuhrmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-09-10 14:20:22",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Mara River Massai Mara.jpg",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mara_River_Massai_Mara.jpg/330px-Mara_River_Massai_Mara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mara_River_Massai_Mara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mara_River_Massai_Mara.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Morris Pügner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "06.09.2005",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Masai Mara.JPG",
+   "w": 1536,
+   "h": 1024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Masai_Mara.JPG/330px-Masai_Mara.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Masai_Mara.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Masai_Mara.JPG",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Self",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2004-06-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Masai Mara at Sunset.jpg",
+   "w": 2400,
+   "h": 1120,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Masai_Mara_at_Sunset.jpg/330px-Masai_Mara_at_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Masai_Mara_at_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Masai_Mara_at_Sunset.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Danijel Mihajlovic",
+   "credito": "https://thenextcrossing.com/the-ultimate-guide-to-the-masai-mara-safari\"",
+   "nonfree": "",
+   "fecha": "2020-09-15 06:38:23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "en"
+  },
+  {
+   "file": "File:Cheetah with cubs.jpg",
+   "w": 4272,
+   "h": 2292,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Cheetah_with_cubs.jpg/330px-Cheetah_with_cubs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Cheetah_with_cubs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cheetah_with_cubs.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Siddharth Maheshwari",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Maasai Mara Game reserve.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Maasai_Mara_Game_reserve.jpg/330px-Maasai_Mara_Game_reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maasai_Mara_Game_reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Maasai_Mara_Game_reserve.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Brian Gitonga",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-02-04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Masai Mara Giraffe.jpg",
+   "w": 9528,
+   "h": 6328,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Masai_Mara_Giraffe.jpg/330px-Masai_Mara_Giraffe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Masai_Mara_Giraffe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Masai_Mara_Giraffe.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "HasselbladWhisperer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-12-26 07:19:39",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "id": "assal",
+ "enwiki": "Lake Assal (Djibouti)",
+ "endesc": "Salt lake below sea level",
+ "qid": "Q81239",
+ "coord": [
+  11.65,
+  42.416667
+ ],
+ "label_es": "Lago Assal",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": -153.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 54.0,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 19.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q192810",
+  "Q9019918"
+ ],
+ "p17": [
+  "Q977"
+ ],
+ "unesco": false,
+ "eswiki": "Lago Assal",
+ "extracto_es": "El lago Assal  (en árabe: بحيرة عسل‎, Buḥayrah ʿAsal, literalmente «lago de miel»)  es un lago ubicado en la cavidad de un cráter volcánico en la zona central de Yibuti. Más concretamente, se encuentra en la zona sur de la región de Tadjoura, cerca de la región de Dikhil, unos 120 km al oeste de la ciudad de Yibuti. Se encuentra a 155 m por debajo del nivel del mar en la depresión de Afar y sus costas son el punto más bajo del territorio de África. Mide 19 km de largo y 7 km de ancho, y su superficie es de unos 54 km². Su profundidad máxima es de 40 m, mientras que su profundidad media es de 7,4 m, su volumen de agua se estima en 400 millones de metros cúbicos. Su cuenca abarca unos 900 km², y hay un muy pequeño aporte de aguas de superficie hacia el lago. \nEl lago Assal es considerado el cuerpo de agua con mayor salinidad fuera de la Antártida. Su concentración de sal es del 34,8%, siendo del 40% a una profundidad de 20 m, comparable con la del Garabogazköl y superior al 33,7% que se registra en el mar Muerto (a menudo considerado incorrectamente el lago más salado del mundo), y una salinidad promedio del 3,5% en los océanos de la Tierra. Solo unos pocos lagos hipersalinos en los valles secos de McMurdo de la Antártida, como la laguna Don Juan, lo superan en salinidad.\nLas fuentes del lago son vertientes calientes cuya salinidad es parecida a la del agua de mar, las cuales son alimentados por el golfo de Tadjoura, la extensión oriental del golfo de Adén, específicamente la bahía casi cerrada de Ghoubet Kharab, a unos 10 km al sureste del lago.\nLa zona es salvaje y desértica, y no se presenta ni flora ni fauna en las aguas pastosas del lago. La elevada temperatura del agua (33-34 °C) favorece la evaporación, y se encuentra rodeado por una salina, la cual se extiende hacia el oeste y el noroeste.  La sal es extraída y transportada mediante caravanas hacia Etiopía.\nEl lago está situado en una zona muy seca y poderosamente caliente, y está rodeado de una serie de fuentes termales de diferente salinidad y piscinas en el que las personas de Yibuti habitan. Sirve como base para la industria del turismo en el área local; sumergida en el agua del lago, son recuerdos populares, y penetran en los mercados turísticos de la ciudad de Yibuti. El lago en sí, mientras que altamente salina, no es insoportable para nadar o bucear, por lo que generalmente no tiene complicaciones.",
+ "candidatas": [
+  {
+   "file": "File:Lake Assal 1-Djibouti.jpg",
+   "w": 2816,
+   "h": 2112,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Lake_Assal_1-Djibouti.jpg/330px-Lake_Assal_1-Djibouti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Lake_Assal_1-Djibouti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Assal_1-Djibouti.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Fishercd",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Afar Salt Miners.jpg",
+   "w": 4128,
+   "h": 3096,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Afar_Salt_Miners.jpg/330px-Afar_Salt_Miners.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Afar_Salt_Miners.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Afar_Salt_Miners.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "D4vtr0",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-11-08 10:52:38",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lake Assal 3-Djibouti.jpg",
+   "w": 2272,
+   "h": 1704,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Lake_Assal_3-Djibouti.jpg/330px-Lake_Assal_3-Djibouti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Lake_Assal_3-Djibouti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Assal_3-Djibouti.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Fishercd",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2005-02-26 15:40:07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lake Assal 2-Djibouti.jpg",
+   "w": 2272,
+   "h": 1704,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Lake_Assal_2-Djibouti.jpg/330px-Lake_Assal_2-Djibouti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Lake_Assal_2-Djibouti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Assal_2-Djibouti.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Fishercd",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2005-02-26 15:30:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Assal Lake, 2024.jpg",
+   "w": 7952,
+   "h": 5304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Assal_Lake%2C_2024.jpg/330px-Assal_Lake%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Assal_Lake%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Assal_Lake,_2024.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Mheidegger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-02-27 14:43:50",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lac assal (cropped).JPG",
+   "w": 3026,
+   "h": 1702,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lac_assal_%28cropped%29.JPG/330px-Lac_assal_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Lac_assal_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lac_assal_(cropped).JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benlilkon93",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-12-28 14:41:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  }
+ ]
+}

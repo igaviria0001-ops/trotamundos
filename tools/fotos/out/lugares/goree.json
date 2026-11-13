@@ -1,0 +1,195 @@
+{
+ "id": "goree",
+ "enwiki": "Gorée",
+ "endesc": "Island and district of Dakar, Senegal",
+ "qid": "Q244347",
+ "coord": [
+  14.666944444444,
+  -17.398333333333
+ ],
+ "label_es": "Isla de Gorea",
+ "desc_es": "isla de Senegal",
+ "inicio": [],
+ "area": [
+  {
+   "v": 0.182,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q23442",
+  "Q210272",
+  "Q2989468",
+  "Q702492",
+  "Q64953083",
+  "Q9259"
+ ],
+ "p17": [
+  "Q1041"
+ ],
+ "unesco": true,
+ "eswiki": "Isla de Gorea",
+ "extracto_es": "La Isla de Gorea​ (en francés, Île de Gorée; en portugués, Ilha de Goreia) es una isla de Senegal. Tiene una superficie de 17 hectáreas y está situada cerca de la costa, a tres kilómetros frente a Dakar, la capital. Como lugar simbólico de recuerdo de la trata de esclavos en África fue declarada Patrimonio de la Humanidad por la Unesco en 1978.​",
+ "candidatas": [
+  {
+   "file": "File:Côtes de l'île de Gorée au Sénégal 11.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/C%C3%B4tes_de_l%27%C3%AEle_de_Gor%C3%A9e_au_S%C3%A9n%C3%A9gal_11.jpg/330px-C%C3%B4tes_de_l%27%C3%AEle_de_Gor%C3%A9e_au_S%C3%A9n%C3%A9gal_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/C%C3%B4tes_de_l%27%C3%AEle_de_Gor%C3%A9e_au_S%C3%A9n%C3%A9gal_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:C%C3%B4tes_de_l%27%C3%AEle_de_Gor%C3%A9e_au_S%C3%A9n%C3%A9gal_11.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fawaz.tairou",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-12 11:25:35",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Gorée 2024 - coucher de soleil sur Dakar - 25.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Gor%C3%A9e_2024_-_coucher_de_soleil_sur_Dakar_-_25.jpg/330px-Gor%C3%A9e_2024_-_coucher_de_soleil_sur_Dakar_-_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gor%C3%A9e_2024_-_coucher_de_soleil_sur_Dakar_-_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gor%C3%A9e_2024_-_coucher_de_soleil_sur_Dakar_-_25.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Fawaz.tairou",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-09-11 19:50:35",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Côtes de l'île de Gorée au Sénégal 05.jpg",
+   "w": 3888,
+   "h": 2916,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/C%C3%B4tes_de_l%27%C3%AEle_de_Gor%C3%A9e_au_S%C3%A9n%C3%A9gal_05.jpg/330px-C%C3%B4tes_de_l%27%C3%AEle_de_Gor%C3%A9e_au_S%C3%A9n%C3%A9gal_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/C%C3%B4tes_de_l%27%C3%AEle_de_Gor%C3%A9e_au_S%C3%A9n%C3%A9gal_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:C%C3%B4tes_de_l%27%C3%AEle_de_Gor%C3%A9e_au_S%C3%A9n%C3%A9gal_05.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fawaz.tairou",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-12 11:24:00",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Île de Gorée vue de la chaloupe 15.jpg",
+   "w": 3883,
+   "h": 2912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/%C3%8Ele_de_Gor%C3%A9e_vue_de_la_chaloupe_15.jpg/330px-%C3%8Ele_de_Gor%C3%A9e_vue_de_la_chaloupe_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%C3%8Ele_de_Gor%C3%A9e_vue_de_la_chaloupe_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%8Ele_de_Gor%C3%A9e_vue_de_la_chaloupe_15.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fawaz.tairou",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-12 11:20:19",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Ile-de-goree.jpg",
+   "w": 4117,
+   "h": 3091,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ile-de-goree.jpg/330px-Ile-de-goree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ile-de-goree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ile-de-goree.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gregor Rom",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-11-07 18:24:47",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Gorée - Vue mer (3).JPG",
+   "w": 1280,
+   "h": 853,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Gor%C3%A9e_-_Vue_mer_%283%29.JPG/330px-Gor%C3%A9e_-_Vue_mer_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gor%C3%A9e_-_Vue_mer_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gor%C3%A9e_-_Vue_mer_(3).JPG",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Remi Jouan",
+   "credito": "Photo taken by Remi Jouan",
+   "nonfree": "",
+   "fecha": "2010-03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Dakar, glavni grad Senegala.jpg",
+   "w": 4096,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Dakar%2C_glavni_grad_Senegala.jpg/330px-Dakar%2C_glavni_grad_Senegala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Dakar%2C_glavni_grad_Senegala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dakar,_glavni_grad_Senegala.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "August Dominus",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-02-26 11:12:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Memorial to slavery (Île de Gorée, Senegal).jpg",
+   "w": 3908,
+   "h": 2320,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Memorial_to_slavery_%28%C3%8Ele_de_Gor%C3%A9e%2C_Senegal%29.jpg/330px-Memorial_to_slavery_%28%C3%8Ele_de_Gor%C3%A9e%2C_Senegal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Memorial_to_slavery_%28%C3%8Ele_de_Gor%C3%A9e%2C_Senegal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Memorial_to_slavery_(%C3%8Ele_de_Gor%C3%A9e,_Senegal).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Adrian Turner",
+   "credito": "https://www.flickr.com/photos/up70mm/53887084952/",
+   "nonfree": "",
+   "fecha": "2024-05-04 10:10:54",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

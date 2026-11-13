@@ -1,0 +1,195 @@
+{
+ "id": "stonetown",
+ "enwiki": "Stone Town",
+ "endesc": "Old town of Zanzibar City, Tanzania",
+ "qid": "Q844417",
+ "coord": [
+  -6.1649444444444,
+  39.198788888889
+ ],
+ "label_es": "Stone Town",
+ "desc_es": "ciudad capital de Zanzíbar",
+ "inicio": [],
+ "area": [
+  {
+   "v": 96.0,
+   "u": "Q35852"
+  },
+  {
+   "v": 84.79,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q515",
+  "Q702492"
+ ],
+ "p17": [
+  "Q924"
+ ],
+ "unesco": true,
+ "eswiki": "Stone Town",
+ "extracto_es": "Stone Town (en suajili: Mji Mkongwe; en español: Ciudad de Piedra de Zanzíbar), es la parte antigua de la Ciudad de Zanzíbar, la capital del archipiélago de Zanzíbar, que forma parte de Tanzania. Antigua capital del Sultanato de Zanzíbar y centro floreciente del comercio de especias así como del comercio de esclavos en el siglo XIX, mantuvo su importancia como la principal ciudad de Zanzíbar durante el período del protectorado británico.​ Cuando Tanganica y Zanzíbar se unieron para formar la República Unida de Tanzania, Zanzíbar mantuvo un estado semiautónomo, con Stone Town como sede del gobierno local. La ciudad vieja se asienta sobre una península de forma triangular en la costa oeste de la isla, abarca una superficie de 96 ha. Fue declarada Patrimonio de la Humanidad por la Unesco en el año 2000, al ser una de las ciudades más importantes de la cultura suajili. Entre los atractivos turísticos de la zona están la Casa de las Maravillas, el Palacio del Sultán y el Fuerte Viejo.",
+ "candidatas": [
+  {
+   "file": "File:Beach Stone Town Zanzibar Oct26 A7CR 14408.jpg",
+   "w": 8653,
+   "h": 5769,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Beach_Stone_Town_Zanzibar_Oct26_A7CR_14408.jpg/330px-Beach_Stone_Town_Zanzibar_Oct26_A7CR_14408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Beach_Stone_Town_Zanzibar_Oct26_A7CR_14408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Beach_Stone_Town_Zanzibar_Oct26_A7CR_14408.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-10-11 17:09:57",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Tembo Hotel Stone Town Zanzibar Oct26 A7CR 14409.jpg",
+   "w": 8359,
+   "h": 5845,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Tembo_Hotel_Stone_Town_Zanzibar_Oct26_A7CR_14409.jpg/330px-Tembo_Hotel_Stone_Town_Zanzibar_Oct26_A7CR_14409.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tembo_Hotel_Stone_Town_Zanzibar_Oct26_A7CR_14409.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tembo_Hotel_Stone_Town_Zanzibar_Oct26_A7CR_14409.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-10-11 17:13:37",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Zanzibar sultan palace.jpg",
+   "w": 1536,
+   "h": 1024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Zanzibar_sultan_palace.jpg/330px-Zanzibar_sultan_palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Zanzibar_sultan_palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Zanzibar_sultan_palace.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "No machine-readable author provided. Mbz1 assumed (based on copyright claims).",
+   "credito": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "nonfree": "",
+   "fecha": "25 April 2007 (origi",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Rectangular Carved Door Stone Town Oct26 A7CR 14405.jpg",
+   "w": 5205,
+   "h": 8328,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rectangular_Carved_Door_Stone_Town_Oct26_A7CR_14405.jpg/330px-Rectangular_Carved_Door_Stone_Town_Oct26_A7CR_14405.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Rectangular_Carved_Door_Stone_Town_Oct26_A7CR_14405.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rectangular_Carved_Door_Stone_Town_Oct26_A7CR_14405.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-10-11 17:06:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Renovated Wall Coral Stone Town Oct26 A7CR 14677.jpg",
+   "w": 6326,
+   "h": 6326,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Renovated_Wall_Coral_Stone_Town_Oct26_A7CR_14677.jpg/330px-Renovated_Wall_Coral_Stone_Town_Oct26_A7CR_14677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Renovated_Wall_Coral_Stone_Town_Oct26_A7CR_14677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Renovated_Wall_Coral_Stone_Town_Oct26_A7CR_14677.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-10-18 10:15:19",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Beit al Ajaib, 2010.jpg",
+   "w": 4320,
+   "h": 3240,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Beit_al_Ajaib%2C_2010.jpg/330px-Beit_al_Ajaib%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Beit_al_Ajaib%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Beit_al_Ajaib,_2010.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Willem van der Horst",
+   "credito": "https://www.flickr.com/photos/willemvdh/5335717482/",
+   "nonfree": "",
+   "fecha": "2010-11-18 12:20:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Cine Afrique - Art Deco Cinema - Kiponda District - Stone Town - Zanzibar - Tanzania (8830689498).jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Cine_Afrique_-_Art_Deco_Cinema_-_Kiponda_District_-_Stone_Town_-_Zanzibar_-_Tanzania_%288830689498%29.jpg/330px-Cine_Afrique_-_Art_Deco_Cinema_-_Kiponda_District_-_Stone_Town_-_Zanzibar_-_Tanzania_%288830689498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Cine_Afrique_-_Art_Deco_Cinema_-_Kiponda_District_-_Stone_Town_-_Zanzibar_-_Tanzania_%288830689498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cine_Afrique_-_Art_Deco_Cinema_-_Kiponda_District_-_Stone_Town_-_Zanzibar_-_Tanzania_(8830689498).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Adam Jones from Kelowna, BC, Canada",
+   "credito": "Cine Afrique - Art Deco Cinema - Kiponda District - Stone Town - Zanzibar - Tanzania",
+   "nonfree": "",
+   "fecha": "2013-05-25 07:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:People's Bank of Zanzibar.jpg",
+   "w": 3823,
+   "h": 2548,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/People%27s_Bank_of_Zanzibar.jpg/330px-People%27s_Bank_of_Zanzibar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/People%27s_Bank_of_Zanzibar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:People%27s_Bank_of_Zanzibar.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "missy from Cardiff, UK",
+   "credito": "Zanzibar stone town",
+   "nonfree": "",
+   "fecha": "2009-04-17 14:54",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}
