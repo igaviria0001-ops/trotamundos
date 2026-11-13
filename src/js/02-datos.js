@@ -6,13 +6,13 @@ const LUGAR = Object.fromEntries(LUGARES.map(l => [l.id, l]));
 const PAIS = Object.fromEntries(PAISES.map(p => [p.iso, p]));
 
 const CONTINENTES = {
-  EU: { n: 'Europa', color: '#F5C29E' },
-  AS: { n: 'Asia', color: '#F3D98F' },
-  AF: { n: 'África', color: '#EDB088' },
-  NA: { n: 'Norteamérica y Centroamérica', corto: 'Norteamérica', color: '#A6D7A3' },
-  SA: { n: 'Suramérica', color: '#99D3C0' },
-  OC: { n: 'Oceanía', color: '#E5B6D3' },
-  AN: { n: 'Antártida', color: '#F3F7F9' },
+  EU: { n: 'Europa', color: '#FFB27C' },
+  AS: { n: 'Asia', color: '#FFD45E' },
+  AF: { n: 'África', color: '#F79A6E' },
+  NA: { n: 'Norteamérica y Centroamérica', corto: 'Norteamérica', color: '#86D77E' },
+  SA: { n: 'Suramérica', color: '#4FCB9E' },
+  OC: { n: 'Oceanía', color: '#F59ACB' },
+  AN: { n: 'Antártida', color: '#F4FBFF' },
 };
 const NIVELES = {
   1: { n: 'Famosos', d: 'Los íconos que todo el mundo conoce' },

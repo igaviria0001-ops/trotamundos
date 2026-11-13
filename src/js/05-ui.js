@@ -10,6 +10,7 @@ const UI = {
     const pant = Pantallas[nombre](...args);
     pant.el.classList.add('pantalla');
     pant.el.dataset.pantalla = nombre;
+    document.body.dataset.p = nombre;
     if (vieja) { vieja.classList.add('sale'); setTimeout(() => vieja.remove(), 260); }
     app.append(pant.el);
     this.actual = pant.el;

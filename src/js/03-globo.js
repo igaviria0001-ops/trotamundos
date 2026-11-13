@@ -44,7 +44,7 @@ const Mapa = {
 function colorPais(iso) {
   const p = PAIS[iso];
   const base = (CONTINENTES[p ? p.c : 'AN'] || CONTINENTES.AN).color;
-  const k = [0, .06, -.05, .1, -.02][hash(iso || 'x') % 5];
+  const k = [0, .09, -.06, .16, -.03, .05][hash(iso || 'x') % 6];
   return ajustaColor(base, k);
 }
 function ajustaColor(hex, k) {
@@ -79,6 +79,10 @@ class Globo {
     this.loop = this.loop.bind(this);
     requestAnimationFrame(this.loop);
   }
+  get colores() { return this._col; }
+  set colores(v) { this._col = v || {}; this.colV = (this.colV || 0) + 1; this.sucio = true; }
+  get resalte() { return this._res; }
+  set resalte(v) { this._res = v; this.sucio = true; }
   on(ev, fn) { (this.oyentes[ev] = this.oyentes[ev] || []).push(fn); return this; }
   emit(ev, ...a) { (this.oyentes[ev] || []).forEach(f => f(...a)); }
   destruir() { this.vivo = false; this.ro.disconnect(); this.cv.remove(); }
@@ -238,34 +242,63 @@ class Globo {
       this.vel = [this.vel[0] * .93, this.vel[1] * .93];
     }
     const animando = this.pines.some(p => p.t0 && now - p.t0 < 700) || this.arcos.some(a => a.prog < 1) || this.pines.some(p => p.pulso);
-    if (this.sucio || animando) { this.pinta(now); this.sucio = false; }
+    const lento = this.nubesVivas && now - (this.ultPinta || 0) > 33;
+    if (this.sucio || animando || lento) { this.pinta(now); this.sucio = false; this.ultPinta = now; }
     requestAnimationFrame(this.loop);
   }
   pinta(now = performance.now()) {
     const ctx = this.ctx, d = this.dpr;
-    ctx.setTransform(d, 0, 0, d, 0, 0);
-    ctx.clearRect(0, 0, this.w, this.h);
     const g = this.aplicar();
     const { R, cx, cy } = g;
     const m = (R > 700 && Mapa.hi) ? Mapa.hi : Mapa.lo;
+    const clave = [this.centro[0].toFixed(3), this.centro[1].toFixed(3), R.toFixed(2), cx.toFixed(1), cy.toFixed(1), this.w, this.h, d, this.colV, this.resalte, m === Mapa.hi].join('|');
+    if (clave !== this.baseClave) {
+      if (!this.bcv) { this.bcv = document.createElement('canvas'); this.bctx = this.bcv.getContext('2d'); }
+      if (this.bcv.width !== this.cv.width || this.bcv.height !== this.cv.height) { this.bcv.width = this.cv.width; this.bcv.height = this.cv.height; }
+      this.ctx = this.bctx; this.path.context(this.bctx);
+      this.bctx.setTransform(d, 0, 0, d, 0, 0); this.bctx.clearRect(0, 0, this.w, this.h);
+      this.pintaBase(m, R, cx, cy);
+      this.ctx = ctx; this.path.context(ctx);
+      this.baseClave = clave;
+    }
+    ctx.setTransform(1, 0, 0, 1, 0, 0);
+    ctx.clearRect(0, 0, this.cv.width, this.cv.height);
+    ctx.drawImage(this.bcv, 0, 0);
+    ctx.setTransform(d, 0, 0, d, 0, 0);
+    // nubes que flotan
+    if (this.op.nubes !== false) this.pintaNubes(now, cx, cy, R);
+    this.pintaEncima(now);
+  }
+  pintaBase(m, R, cx, cy) {
+    const ctx = this.ctx;
     if (R > 600 && !Mapa.hi) Mapa.cargarHi().then(() => { this.sucio = true; });
 
+    const k = clamp(R / 230, .6, 1.8);
+    const entero = R * 1.2 < Math.min(this.w, this.h - (this.pad.top || 0) - (this.pad.bottom || 0)) * .62;
+    // sombra del globo "flotando" sobre la mesa
+    if (entero) {
+      const sy = cy + R * 1.1, sg = ctx.createRadialGradient(cx, sy, 0, cx, sy, R * .8);
+      sg.addColorStop(0, 'rgba(30,70,110,.26)'); sg.addColorStop(1, 'rgba(30,70,110,0)');
+      ctx.save(); ctx.translate(cx, sy); ctx.scale(1, .16); ctx.translate(-cx, -sy);
+      ctx.fillStyle = sg; ctx.beginPath(); ctx.arc(cx, sy, R * .8, 0, 7); ctx.fill(); ctx.restore();
+    }
     // halo de atmósfera
-    const halo = ctx.createRadialGradient(cx, cy, R * .96, cx, cy, R * 1.13);
-    halo.addColorStop(0, 'rgba(160,214,236,.75)'); halo.addColorStop(.35, 'rgba(190,228,244,.35)'); halo.addColorStop(1, 'rgba(220,240,250,0)');
-    ctx.fillStyle = halo; ctx.beginPath(); ctx.arc(cx, cy, R * 1.13, 0, 7); ctx.fill();
+    const halo = ctx.createRadialGradient(cx, cy, R * .97, cx, cy, R * 1.12);
+    halo.addColorStop(0, 'rgba(150,220,255,.7)'); halo.addColorStop(.4, 'rgba(190,236,255,.32)'); halo.addColorStop(1, 'rgba(220,245,255,0)');
+    ctx.fillStyle = halo; ctx.beginPath(); ctx.arc(cx, cy, R * 1.12, 0, 7); ctx.fill();
 
-    // océano
+    // océano con textura de olitas
     const mar = ctx.createRadialGradient(cx - R * .35, cy - R * .42, R * .05, cx, cy, R);
-    mar.addColorStop(0, '#B4E4F2'); mar.addColorStop(.55, '#7FC7E0'); mar.addColorStop(1, '#5AAED0');
-    ctx.fillStyle = mar; ctx.beginPath(); this.path({ type: 'Sphere' }); ctx.fill();
-
+    mar.addColorStop(0, '#8FE0FA'); mar.addColorStop(.5, '#45B5E8'); mar.addColorStop(1, '#1F86C9');
+    ctx.fillStyle = mar; ctx.beginPath(); ctx.arc(cx, cy, R, 0, 7); ctx.fill();
     ctx.save(); ctx.beginPath(); ctx.arc(cx, cy, R, 0, 7); ctx.clip();
-    // retícula
-    ctx.beginPath(); this.path(this.grat); ctx.strokeStyle = 'rgba(255,255,255,.28)'; ctx.lineWidth = .7; ctx.stroke();
-    // sombra de papel bajo la tierra
-    ctx.save(); ctx.translate(.8, 1.8);
-    ctx.beginPath(); this.path(m.tierra); ctx.fillStyle = 'rgba(28,92,128,.28)'; ctx.fill();
+    ctx.globalAlpha = .55; ctx.fillStyle = patronOlas(ctx); ctx.fillRect(cx - R, cy - R, R * 2, R * 2); ctx.globalAlpha = 1;
+    // retícula muy suave
+    ctx.beginPath(); this.path(this.grat); ctx.strokeStyle = 'rgba(255,255,255,.14)'; ctx.lineWidth = .7; ctx.stroke();
+    // sombra blandita debajo de la tierra (relieve de plastilina)
+    ctx.save(); ctx.translate(1.2 * k, 3.2 * k);
+    ctx.beginPath(); this.path(m.tierra); ctx.fillStyle = 'rgba(8,60,110,.22)'; ctx.fill();
+    ctx.translate(.6 * k, 1.6 * k); ctx.fillStyle = 'rgba(8,60,110,.12)'; ctx.fill();
     ctx.restore();
     // países por color
     const grupos = new Map();
@@ -275,17 +308,35 @@ class Globo {
       grupos.get(c).push(f);
     }
     for (const [c, fs] of grupos) { ctx.beginPath(); for (const f of fs) this.path(f); ctx.fillStyle = c; ctx.fill(); }
+    // bisel: luz arriba a la izquierda y sombra abajo a la derecha, por dentro de cada costa
+    ctx.save(); ctx.beginPath(); this.path(m.tierra); ctx.clip();
+    ctx.lineJoin = 'round';
+    ctx.save(); ctx.translate(2 * k, 2.6 * k); ctx.beginPath(); this.path(m.tierra);
+    ctx.strokeStyle = 'rgba(255,255,255,.5)'; ctx.lineWidth = 4.2 * k; ctx.stroke(); ctx.restore();
+    ctx.save(); ctx.translate(-2 * k, -2.6 * k); ctx.beginPath(); this.path(m.tierra);
+    ctx.strokeStyle = 'rgba(70,40,10,.16)'; ctx.lineWidth = 4.2 * k; ctx.stroke(); ctx.restore();
+    ctx.restore();
     // fronteras y costa
-    ctx.beginPath(); this.path(m.bordes); ctx.strokeStyle = 'rgba(255,255,255,.9)'; ctx.lineWidth = R > 900 ? 1.1 : .75; ctx.stroke();
-    ctx.beginPath(); this.path(m.tierra); ctx.strokeStyle = 'rgba(42,98,128,.38)'; ctx.lineWidth = .7; ctx.stroke();
+    ctx.beginPath(); this.path(m.bordes); ctx.strokeStyle = 'rgba(255,255,255,.85)'; ctx.lineWidth = R > 900 ? 1.2 : .8; ctx.stroke();
+    ctx.beginPath(); this.path(m.tierra); ctx.strokeStyle = 'rgba(20,80,130,.35)'; ctx.lineWidth = .8; ctx.stroke();
     if (this.resalte) { ctx.beginPath(); for (const f of m.features) if (f.iso === this.resalte) this.path(f); ctx.strokeStyle = '#24476B'; ctx.lineWidth = 2; ctx.stroke(); }
     ctx.restore();
 
-    // luz y volumen
+    // volumen: oscurece el borde y aclara arriba
     const luz = ctx.createRadialGradient(cx - R * .38, cy - R * .45, 0, cx, cy, R * 1.02);
-    luz.addColorStop(0, 'rgba(255,255,255,.30)'); luz.addColorStop(.45, 'rgba(255,255,255,0)'); luz.addColorStop(.82, 'rgba(18,60,92,.06)'); luz.addColorStop(1, 'rgba(18,60,92,.24)');
+    luz.addColorStop(0, 'rgba(255,255,255,.26)'); luz.addColorStop(.42, 'rgba(255,255,255,0)'); luz.addColorStop(.8, 'rgba(10,50,100,.07)'); luz.addColorStop(1, 'rgba(10,50,100,.32)');
     ctx.fillStyle = luz; ctx.beginPath(); ctx.arc(cx, cy, R, 0, 7); ctx.fill();
-
+    // brillo de juguete
+    if (R < 1600) {
+      ctx.save(); ctx.translate(cx - R * .42, cy - R * .5); ctx.rotate(-.62);
+      const br = ctx.createRadialGradient(0, 0, 0, 0, 0, R * .3);
+      br.addColorStop(0, 'rgba(255,255,255,.5)'); br.addColorStop(.5, 'rgba(255,255,255,.16)'); br.addColorStop(1, 'rgba(255,255,255,0)');
+      ctx.scale(1, .5); ctx.fillStyle = br; ctx.beginPath(); ctx.arc(0, 0, R * .3, 0, 7); ctx.fill(); ctx.restore();
+      ctx.beginPath(); ctx.arc(cx, cy, R - .8, Math.PI * .95, Math.PI * 1.55);
+      ctx.strokeStyle = 'rgba(255,255,255,.55)'; ctx.lineWidth = 2.2 * k; ctx.lineCap = 'round'; ctx.stroke();
+    }
+  }
+  pintaEncima(now) {
     for (const a of this.arcos) this.pintaArco(a, now);
     const pines = this.pines.filter(p => this.visible(p.ll)).sort((a, b) => this.proj(a.ll)[1] - this.proj(b.ll)[1]);
     for (const p of pines) this.pintaPin(p, now);
@@ -304,33 +355,61 @@ class Globo {
     }
     const col = p.color || '#EF6F5E';
     // sombra en el suelo
-    ctx.fillStyle = 'rgba(20,50,70,.22)'; ctx.beginPath(); ctx.ellipse(x, y0 + 1, 7 * esc, 2.6 * esc, 0, 0, 7); ctx.fill();
+    const sg = ctx.createRadialGradient(x, y0 + 1, 0, x, y0 + 1, 10 * esc);
+    sg.addColorStop(0, 'rgba(15,45,75,.38)'); sg.addColorStop(1, 'rgba(15,45,75,0)');
+    ctx.save(); ctx.translate(x, y0 + 1); ctx.scale(1, .38); ctx.translate(-x, -(y0 + 1));
+    ctx.fillStyle = sg; ctx.beginPath(); ctx.arc(x, y0 + 1, 10 * esc, 0, 7); ctx.fill(); ctx.restore();
     if (p.pulso) {
       const t = (now % 1600) / 1600;
-      ctx.strokeStyle = col; ctx.globalAlpha = 1 - t; ctx.lineWidth = 2.5;
-      ctx.beginPath(); ctx.ellipse(x, y0, 8 + t * 26, (8 + t * 26) * .45, 0, 0, 7); ctx.stroke(); ctx.globalAlpha = 1;
+      ctx.strokeStyle = col; ctx.globalAlpha = 1 - t; ctx.lineWidth = 3;
+      ctx.beginPath(); ctx.ellipse(x, y0, 8 + t * 26, (8 + t * 26) * .42, 0, 0, 7); ctx.stroke(); ctx.globalAlpha = 1;
     }
     if (p.tipo === 'foto' && p.img) {
       const r = 19 * esc;
       ctx.save(); ctx.translate(x, y - 30 * esc);
-      ctx.fillStyle = '#fff'; ctx.shadowColor = 'rgba(20,50,70,.3)'; ctx.shadowBlur = 8; ctx.shadowOffsetY = 3;
+      ctx.fillStyle = '#fff'; ctx.shadowColor = 'rgba(20,50,70,.32)'; ctx.shadowBlur = 8; ctx.shadowOffsetY = 3;
       ctx.beginPath(); ctx.moveTo(-6 * esc, r - 2); ctx.lineTo(0, 30 * esc); ctx.lineTo(6 * esc, r - 2); ctx.fill();
-      ctx.beginPath(); ctx.arc(0, 0, r + 3, 0, 7); ctx.fill(); ctx.shadowColor = 'transparent';
-      ctx.beginPath(); ctx.arc(0, 0, r, 0, 7); ctx.clip();
+      ctx.beginPath(); ctx.arc(0, 0, r + 3.5, 0, 7); ctx.fill(); ctx.shadowColor = 'transparent';
+      ctx.save(); ctx.beginPath(); ctx.arc(0, 0, r, 0, 7); ctx.clip();
       const im = p.img, s = Math.max(2 * r / im.width, 2 * r / im.height);
       ctx.drawImage(im, -im.width * s / 2, -im.height * s / 2, im.width * s, im.height * s);
+      const gl = ctx.createLinearGradient(0, -r, 0, r);
+      gl.addColorStop(0, 'rgba(255,255,255,.45)'); gl.addColorStop(.45, 'rgba(255,255,255,0)');
+      ctx.fillStyle = gl; ctx.fillRect(-r, -r, 2 * r, 2 * r);
+      ctx.restore();
+      ctx.beginPath(); ctx.arc(0, 0, r + 1.7, 0, 7); ctx.strokeStyle = 'rgba(36,71,107,.12)'; ctx.lineWidth = 1; ctx.stroke();
       ctx.restore();
       return;
     }
-    ctx.save(); ctx.translate(x, y); ctx.scale(esc, esc);
-    ctx.shadowColor = 'rgba(20,50,70,.28)'; ctx.shadowBlur = 6; ctx.shadowOffsetY = 2;
-    ctx.fillStyle = col;
-    ctx.beginPath(); ctx.moveTo(0, 0); ctx.bezierCurveTo(-4, -9, -12, -15, -12, -25); ctx.arc(0, -25, 12, Math.PI, 0); ctx.bezierCurveTo(12, -15, 4, -9, 0, 0); ctx.fill();
-    ctx.shadowColor = 'transparent';
-    ctx.fillStyle = '#fff'; ctx.beginPath(); ctx.arc(0, -25, 5.2, 0, 7); ctx.fill();
-    if (p.icono === 'estrella') { ctx.fillStyle = col; ctx.beginPath(); ctx.arc(0, -25, 2.4, 0, 7); ctx.fill(); }
-    ctx.restore();
-    if (p.texto) this.pintaEtiqueta({ ll: p.ll, texto: p.texto, dy: -44 * esc, color: p.colorTexto || '#24476B' }, x, y);
+    const sp = spritePin(col);
+    const w = 30 * esc, hh = 42 * esc;
+    ctx.drawImage(sp, x - w / 2, y - hh + 1.5 * esc, w, hh);
+    if (p.texto) this.pintaEtiqueta({ ll: p.ll, texto: p.texto, dy: -52 * esc, color: p.colorTexto || '#24476B' }, x, y);
+  }
+  pintaNubes(now, cx, cy, R) {
+    const ctx = this.ctx;
+    if (!this.nubes) {
+      const rnd = rng(7 + (this.op.semillaNubes || 0)), n = this.op.cuantasNubes || 11;
+      this.nubes = Array.from({ length: n }, (_, i) => ({ lon: rnd() * 360 - 180, lat: rnd() * 120 - 60, s: .7 + rnd() * .7, v: .6 + rnd() * .8, t: i % 3 }));
+    }
+    const dt = this.ultNubes ? Math.min(60, now - this.ultNubes) : 16; this.ultNubes = now;
+    const alfa = this.op.alfaNubes || .92;
+    for (const nb of this.nubes) {
+      nb.lon = ((nb.lon + nb.v * dt * .004 + 540) % 360) - 180;
+      const ll = [nb.lon, nb.lat];
+      const d = D3.geoDistance(ll, this.centro);
+      if (d > Math.PI / 2 - .08) continue;
+      const [x, y] = this.proj(ll);
+      const f = Math.cos(d);
+      const ex = cx + (x - cx) * 1.05, ey = cy + (y - cy) * 1.05;
+      const tam = R * .2 * nb.s * (.55 + .45 * f) * clamp(1.6 / this.zoom, .25, 1);
+      const spr = spriteNube(nb.t);
+      const w = tam * 2, h2 = w * spr.height / spr.width;
+      ctx.globalAlpha = .16 * f * alfa; ctx.drawImage(spriteNube(nb.t, true), ex - w / 2 + tam * .12, ey - h2 / 2 + tam * .22, w, h2);
+      ctx.globalAlpha = (.5 + .5 * f) * alfa; ctx.drawImage(spr, ex - w / 2, ey - h2 / 2, w, h2);
+      ctx.globalAlpha = 1;
+    }
+    this.nubesVivas = true;
   }
   pintaEtiqueta(e, x, y) {
     const ctx = this.ctx;
@@ -388,4 +467,67 @@ class Globo {
   quitaPin(p) { this.pines = this.pines.filter(x => x !== p); this.sucio = true; }
   arco(de, a, o = {}) { const x = Object.assign({ de, a, t0: performance.now(), ms: 1400, prog: 0 }, o); this.arcos.push(x); this.sucio = true; return new Promise(r => setTimeout(r, x.ms)); }
   limpiar() { this.pines = []; this.arcos = []; this.etiquetas = []; this.colores = {}; this.resalte = null; this.sucio = true; }
+}
+
+// ---- sprites dibujados una sola vez ----
+let _olas = null;
+function patronOlas(ctx) {
+  if (!_olas) {
+    const c = document.createElement('canvas'); c.width = c.height = 96;
+    const g = c.getContext('2d');
+    g.strokeStyle = 'rgba(255,255,255,.32)'; g.lineWidth = 2; g.lineCap = 'round';
+    const ola = (x, y) => { g.beginPath(); g.moveTo(x, y); g.quadraticCurveTo(x + 5, y - 5, x + 10, y); g.quadraticCurveTo(x + 15, y + 5, x + 20, y); g.stroke(); };
+    ola(8, 20); ola(56, 44); ola(20, 74); ola(70, 86);
+    g.fillStyle = 'rgba(255,255,255,.18)'; [[40, 12], [86, 22], [6, 50], [44, 64], [88, 62]].forEach(([x, y]) => { g.beginPath(); g.arc(x, y, 1.6, 0, 7); g.fill(); });
+    _olas = c;
+  }
+  return ctx.createPattern(_olas, 'repeat');
+}
+const _pines = {};
+function spritePin(col) {
+  if (_pines[col]) return _pines[col];
+  const S = 4, c = document.createElement('canvas'); c.width = 30 * S; c.height = 42 * S;
+  const g = c.getContext('2d'); g.scale(S, S); g.translate(15, 40.5);
+  const forma = () => { g.beginPath(); g.moveTo(0, 0); g.bezierCurveTo(-4.5, -9, -13, -15, -13, -26); g.arc(0, -26, 13, Math.PI, 0); g.bezierCurveTo(13, -15, 4.5, -9, 0, 0); g.closePath(); };
+  const cu = g.createRadialGradient(-5, -32, 1, 0, -24, 22);
+  cu.addColorStop(0, ajustaColor(col, .55)); cu.addColorStop(.45, col); cu.addColorStop(1, ajustaColor(col, -.42));
+  forma(); g.fillStyle = cu; g.fill();
+  g.lineWidth = .9; g.strokeStyle = ajustaColor(col, -.5); g.globalAlpha = .45; g.stroke(); g.globalAlpha = 1;
+  // hueco con profundidad
+  const hu = g.createLinearGradient(0, -31, 0, -21);
+  hu.addColorStop(0, ajustaColor(col, -.6)); hu.addColorStop(1, ajustaColor(col, -.15));
+  g.beginPath(); g.arc(0, -26, 5, 0, 7); g.fillStyle = hu; g.fill();
+  g.beginPath(); g.arc(0, -26, 5, .15 * Math.PI, .85 * Math.PI); g.strokeStyle = 'rgba(255,255,255,.55)'; g.lineWidth = 1; g.stroke();
+  // brillos
+  g.save(); g.translate(-5.5, -33); g.rotate(-.7); g.scale(1, .55);
+  const b1 = g.createRadialGradient(0, 0, 0, 0, 0, 5.5); b1.addColorStop(0, 'rgba(255,255,255,.95)'); b1.addColorStop(1, 'rgba(255,255,255,0)');
+  g.fillStyle = b1; g.beginPath(); g.arc(0, 0, 5.5, 0, 7); g.fill(); g.restore();
+  g.save(); g.translate(5.5, -14); g.rotate(-.5); g.scale(1, .5);
+  const b2 = g.createRadialGradient(0, 0, 0, 0, 0, 3); b2.addColorStop(0, 'rgba(255,255,255,.45)'); b2.addColorStop(1, 'rgba(255,255,255,0)');
+  g.fillStyle = b2; g.beginPath(); g.arc(0, 0, 3, 0, 7); g.fill(); g.restore();
+  return (_pines[col] = c);
+}
+const _nubes = {};
+function spriteNube(tipo, sombra = false) {
+  const key = tipo + (sombra ? 's' : '');
+  if (_nubes[key]) return _nubes[key];
+  const c = document.createElement('canvas'); c.width = 240; c.height = 140;
+  const g = c.getContext('2d');
+  const bolas = [
+    [[70, 86, 34], [112, 66, 44], [158, 82, 36], [190, 96, 24], [44, 100, 22], [120, 104, 30]],
+    [[60, 92, 28], [98, 72, 36], [140, 64, 42], [182, 88, 30], [120, 104, 28]],
+    [[80, 84, 38], [130, 76, 40], [172, 98, 26], [52, 104, 20], [118, 108, 26]],
+  ][tipo % 3];
+  g.beginPath(); for (const [x, y, r] of bolas) { g.moveTo(x + r, y); g.arc(x, y, r, 0, 7); }
+  if (sombra) { g.fillStyle = 'rgba(8,50,95,1)'; g.fill(); return (_nubes[key] = c); }
+  const gr = g.createLinearGradient(0, 30, 0, 135);
+  gr.addColorStop(0, '#FFFFFF'); gr.addColorStop(.6, '#F3FAFF'); gr.addColorStop(1, '#C9E1F2');
+  g.fillStyle = gr; g.fill();
+  // brillitos arriba de cada bola
+  for (const [x, y, r] of bolas) {
+    const b = g.createRadialGradient(x - r * .3, y - r * .45, 0, x - r * .3, y - r * .45, r * .8);
+    b.addColorStop(0, 'rgba(255,255,255,.9)'); b.addColorStop(1, 'rgba(255,255,255,0)');
+    g.fillStyle = b; g.beginPath(); g.arc(x, y, r, 0, 7); g.fill();
+  }
+  return (_nubes[key] = c);
 }
