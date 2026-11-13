@@ -1,0 +1,235 @@
+{
+ "id": "lincoln",
+ "enwiki": "Lincoln Memorial",
+ "endesc": "National memorial in Washington, DC",
+ "qid": "Q213559",
+ "coord": [
+  38.889277777778,
+  -77.050138888889
+ ],
+ "label_es": "Monumento a Lincoln",
+ "desc_es": "monumento nacional de los Estados Unidos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1922-05-30T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 16.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 11.0,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 1538573.0,
+   "u": "1"
+  },
+  {
+   "v": 2065586.0,
+   "u": "1"
+  },
+  {
+   "v": 2488200.0,
+   "u": "1"
+  },
+  {
+   "v": 2782000.0,
+   "u": "1"
+  },
+  {
+   "v": 3307585.0,
+   "u": "1"
+  },
+  {
+   "v": 1265085.0,
+   "u": "1"
+  },
+  {
+   "v": 4009145.0,
+   "u": "1"
+  },
+  {
+   "v": 6042315.0,
+   "u": "1"
+  },
+  {
+   "v": 2980075.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q1967454",
+  "Q5003624"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Monumento a Lincoln",
+ "extracto_es": "El Monumento a Lincoln (Lincoln Memorial en inglés) es un monumento conmemorativo dedicado a Abraham Lincoln, el decimosexto presidente de los Estados Unidos. Está situado en el extremo occidental del National Mall, en Washington D. C., y fue diseñado por el arquitecto Henry Bacon en estilo neoclásico, con la forma de un templo griego de orden dórico. En su interior alberga una monumental escultura sedente de Lincoln, obra de Daniel Chester French y tallada en mármol por los hermanos Piccirilli, así como inscripciones del Discurso de Gettysburg y del segundo discurso inaugural de Abraham Lincoln.\nInaugurado el 30 de mayo de 1922, el monumento es uno de los principales símbolos nacionales de Estados Unidos y una de las atracciones más visitadas de Washington D. C. Asimismo, ha desempeñado un destacado papel en la historia del movimiento por los derechos civiles, al haber sido escenario de numerosos actos y discursos históricos, entre ellos el pronunciado por Martin Luther King Jr. el 28 de agosto de 1963 durante la Marcha sobre Washington por el trabajo y la libertad, conocido como «I Have a Dream».\nAl igual que otros monumentos del National Mall, entre ellos el Monumento a los Veteranos de Vietnam, el Monumento a los Veteranos de la Guerra de Corea y el Monumento Nacional a la Segunda Guerra Mundial, el Monumento a Lincoln está administrado por el Servicio de Parques Nacionales a través de la unidad National Mall and Memorial Parks. Fue inscrito en el Registro Nacional de Lugares Históricos el 15 de octubre de 1966. El monumento está abierto al público las 24 horas del día y recibe más de siete millones de visitas anuales.​",
+ "candidatas": [
+  {
+   "file": "File:Lincoln Memorial east side.JPG",
+   "w": 5467,
+   "h": 2362,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lincoln_Memorial_east_side.JPG/330px-Lincoln_Memorial_east_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Lincoln_Memorial_east_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_east_side.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 3 September",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 20,
+   "origen": "en"
+  },
+  {
+   "file": "File:Aerial view of Lincoln Memorial - east side EDIT.jpeg",
+   "w": 3222,
+   "h": 2158,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Aerial_view_of_Lincoln_Memorial_-_east_side_EDIT.jpeg/330px-Aerial_view_of_Lincoln_Memorial_-_east_side_EDIT.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Aerial_view_of_Lincoln_Memorial_-_east_side_EDIT.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lincoln_Memorial_-_east_side_EDIT.jpeg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Aerial_view_of_Lincoln_Memorial_-_east_side.jpg: Carol M. Highsmith\nderivative work: upstateNYer",
+   "credito": "Aerial_view_of_Lincoln_Memorial_-_east_side.jpg",
+   "nonfree": "",
+   "fecha": "2010-05-16 00:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Lincoln memorial dc 20041011 095847 1.3008x2000.jpg",
+   "w": 3008,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Lincoln_memorial_dc_20041011_095847_1.3008x2000.jpg/330px-Lincoln_memorial_dc_20041011_095847_1.3008x2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lincoln_memorial_dc_20041011_095847_1.3008x2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lincoln_memorial_dc_20041011_095847_1.3008x2000.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Photo taken by user G. Edward Johnson",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "October 11, 2004 ; 1",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Exterior of the Lincoln Memorial (north side) 20240601.jpg",
+   "w": 3840,
+   "h": 2880,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Exterior_of_the_Lincoln_Memorial_%28north_side%29_20240601.jpg/330px-Exterior_of_the_Lincoln_Memorial_%28north_side%29_20240601.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Exterior_of_the_Lincoln_Memorial_%28north_side%29_20240601.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Lincoln_Memorial_(north_side)_20240601.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "颐园居",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-06-01 18:37:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Abraham Lincoln seated at the Lincoln Memorial 20240601.jpg",
+   "w": 3840,
+   "h": 2880,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Abraham_Lincoln_seated_at_the_Lincoln_Memorial_20240601.jpg/330px-Abraham_Lincoln_seated_at_the_Lincoln_Memorial_20240601.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Abraham_Lincoln_seated_at_the_Lincoln_Memorial_20240601.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_seated_at_the_Lincoln_Memorial_20240601.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "颐园居",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-06-01 18:03:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Concrete pylons, Lincoln Memorial Undercroft.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Concrete_pylons%2C_Lincoln_Memorial_Undercroft.jpg/330px-Concrete_pylons%2C_Lincoln_Memorial_Undercroft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Concrete_pylons%2C_Lincoln_Memorial_Undercroft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Concrete_pylons,_Lincoln_Memorial_Undercroft.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Northern-Virginia-Photographer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-06-20 18:04:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Signed copies of the 13th Amendment and Emancipation Proclamation.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Signed_copies_of_the_13th_Amendment_and_Emancipation_Proclamation.jpg/330px-Signed_copies_of_the_13th_Amendment_and_Emancipation_Proclamation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Signed_copies_of_the_13th_Amendment_and_Emancipation_Proclamation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Signed_copies_of_the_13th_Amendment_and_Emancipation_Proclamation.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Northern-Virginia-Photographer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-06-20 18:25:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Taft Harding Robert Lincoln 1922.jpg",
+   "w": 4970,
+   "h": 3776,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Taft_Harding_Robert_Lincoln_1922.jpg/330px-Taft_Harding_Robert_Lincoln_1922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Taft_Harding_Robert_Lincoln_1922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taft_Harding_Robert_Lincoln_1922.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "National Photo Company",
+   "credito": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID npcc.06391.This tag does not indicate the copyright status of the attached wo",
+   "nonfree": "",
+   "fecha": "1922-05-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

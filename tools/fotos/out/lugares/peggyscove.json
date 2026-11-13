@@ -1,0 +1,195 @@
+{
+ "id": "peggyscove",
+ "enwiki": "Peggys Cove, Nova Scotia",
+ "endesc": "Rural community in Nova Scotia, Canada",
+ "qid": "Q1021695",
+ "coord": [
+  44.492777777777775,
+  -63.9175
+ ],
+ "label_es": null,
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1811-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 10.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q3957",
+  "Q39594"
+ ],
+ "p17": [
+  "Q16"
+ ],
+ "unesco": false,
+ "candidatas": [
+  {
+   "file": "File:Peggys Cove - NS - Leuchtturm.jpg",
+   "w": 3685,
+   "h": 2470,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Peggys_Cove_-_NS_-_Leuchtturm.jpg/330px-Peggys_Cove_-_NS_-_Leuchtturm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Peggys_Cove_-_NS_-_Leuchtturm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peggys_Cove_-_NS_-_Leuchtturm.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Taxiarchos228",
+   "credito": "Transferred from the German Wikipedia. Original file is/was here. (Original upload log available below.)",
+   "nonfree": "",
+   "fecha": "2008-09-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Peggys Cove - NS - Leuchtturm bei Sonnenuntergang.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Peggys_Cove_-_NS_-_Leuchtturm_bei_Sonnenuntergang.jpg/330px-Peggys_Cove_-_NS_-_Leuchtturm_bei_Sonnenuntergang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Peggys_Cove_-_NS_-_Leuchtturm_bei_Sonnenuntergang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peggys_Cove_-_NS_-_Leuchtturm_bei_Sonnenuntergang.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "– Wladyslaw [Disk.]",
+   "credito": "selbst fotografiert, aus einer Belichtungsreihe von vier Einzelaufnahmen zusammengesetzt",
+   "nonfree": "",
+   "fecha": "2008-09-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Peggys Cove Harbour 01.jpg",
+   "w": 1600,
+   "h": 1200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Peggys_Cove_Harbour_01.jpg/330px-Peggys_Cove_Harbour_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Peggys_Cove_Harbour_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peggys_Cove_Harbour_01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Aconcagua",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2005-07-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Peggys Cove - NS - Leuchtturm 3.jpg",
+   "w": 2500,
+   "h": 1296,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Peggys_Cove_-_NS_-_Leuchtturm_3.jpg/330px-Peggys_Cove_-_NS_-_Leuchtturm_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Peggys_Cove_-_NS_-_Leuchtturm_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peggys_Cove_-_NS_-_Leuchtturm_3.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Wladyslaw",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-09-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Peggys Cove - NS - Gesamtansicht.jpg",
+   "w": 3759,
+   "h": 1673,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Peggys_Cove_-_NS_-_Gesamtansicht.jpg/330px-Peggys_Cove_-_NS_-_Gesamtansicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Peggys_Cove_-_NS_-_Gesamtansicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peggys_Cove_-_NS_-_Gesamtansicht.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "– Wladyslaw [Disk.]",
+   "credito": "selbst fotografiert, aus zwei Einzelaufnahmen zusammengefügt",
+   "nonfree": "",
+   "fecha": "2008-09-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Peggys Cove, Nova Scotia (6333818068).jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Peggys_Cove%2C_Nova_Scotia_%286333818068%29.jpg/330px-Peggys_Cove%2C_Nova_Scotia_%286333818068%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Peggys_Cove%2C_Nova_Scotia_%286333818068%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peggys_Cove,_Nova_Scotia_(6333818068).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "TravelingOtter from Houston, Texas, USA",
+   "credito": "Peggys Cove, Nova Scotia",
+   "nonfree": "",
+   "fecha": "Taken on 2 July 2011",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Wreck in Peggy’s Cove, Nova Scotia.jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Wreck_in_Peggy%E2%80%99s_Cove%2C_Nova_Scotia.jpg/330px-Wreck_in_Peggy%E2%80%99s_Cove%2C_Nova_Scotia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Wreck_in_Peggy%E2%80%99s_Cove%2C_Nova_Scotia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wreck_in_Peggy%E2%80%99s_Cove,_Nova_Scotia.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marc-Lautenbacher",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-29 14:16:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Peggys Cove, Nova Scotia (6333066885).jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Peggys_Cove%2C_Nova_Scotia_%286333066885%29.jpg/330px-Peggys_Cove%2C_Nova_Scotia_%286333066885%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Peggys_Cove%2C_Nova_Scotia_%286333066885%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peggys_Cove,_Nova_Scotia_(6333066885).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "TravelingOtter from Houston, Texas, USA",
+   "credito": "Peggys Cove, Nova Scotia",
+   "nonfree": "",
+   "fecha": "Taken on 2 July 2011",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "id": "zion",
+ "enwiki": "Zion National Park",
+ "endesc": "National park in Utah, United States",
+ "qid": "Q205325",
+ "coord": [
+  37.202619444444,
+  -112.98785
+ ],
+ "label_es": "Parque nacional Zion",
+ "desc_es": "parque nacional localizado en el estado de Utah (Estados Unidos), cerca de la localidad de Springdale",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1919-11-19T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "area": [
+  {
+   "v": 595.8699,
+   "u": "Q712226"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 3648846.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q34918903"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Parque nacional Zion",
+ "extracto_es": "El Parque Nacional Zion (en inglés: Zion National Park) es un parque nacional de los Estados Unidos localizado en el estado de Utah, cerca de la localidad de Springdale. El área total comprende 593,26 km². La principal atracción del parque es el cañón Zion, una hendidura de 24 kilómetros de longitud y hasta 800 metros de profundidad excavada por el brazo norte del río Virgen sobre terrenos de arenisca roja. Otros puntos de interés son el Gran Trono Blanco, los estrechos del Río Virgen y el arco Kolob. En el área de los cañones Zion y Kolob se encuentran nueve formaciones geológicas con una edad datada de 150 millones de años, provenientes de sedimentaciones ocurridas durante la Era Mesozoica. Durante todo ese tiempo, la región ha estado cubierta por pantanos, riachuelos, estanques, lagos, vastos desiertos y lechos secos. Las elevaciones provocadas por la placa del Colorado elevaron la región unos 3.000 m hace 13 millones de años.\nLos primeros humanos llegaron a la zona hace 8000 años. Eran pequeños grupos familiares de amerindios que se asentaron en la región como por ejemplo los tejedores de cestas anasazi que llegaron en el 300 de nuestra era. Los hábitos cada vez menos nómadas impulsaron a este pueblo a trasladarse a lo que actualmente se conoce como Virgin Anasazi en el 500 después de Cristo. Otro grupo, los Parowan Fremont también habitaron el área. Alrededor del siglo XIV se produjo la misteriosa desaparición de ambos grupos, llegando a la zona los Parrusits y otras tribus del sur. El cañón fue descubierto por los mormones en 1850, habitándolo dos años más tarde. En 1909 se creó el Monumento Nacional Mukuntuweap, destinado a la protección del cañón. En 1919 se decidió ampliar la protección creándose así el parque nacional Zion. Zion significa en antiguo hebreo lugar de refugio o santuario. La sección Kolob se proclamó Monumento Nacional Zion en 1937 pero se unió al parque en 1956.\nEstá localizado en la unión de la placa del Colorado, la Gran Cuenca y el desierto de Mojave. La geografía única y la variedad de ecosistemas permiten la existencia de una importante diversidad de flora y fauna. Se contabilizan 289 especies de aves, 75 de mamíferos (incluyendo 19 especies de murciélagos), 32 especies de reptiles así como un gran número de plantas. La biodiversidad se distribuye a través de cuatro zonas: desierto, riberas, bosques y bosques de coníferas. Entre la fauna aparecen el puma, los ciervos, las águilas, el Cóndor de California y las cabras montesas.",
+ "candidatas": [
+  {
+   "file": "File:Zion National Park, United States (Unsplash R2HlismuruI).jpg",
+   "w": 6720,
+   "h": 4480,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Zion_National_Park%2C_United_States_%28Unsplash_R2HlismuruI%29.jpg/330px-Zion_National_Park%2C_United_States_%28Unsplash_R2HlismuruI%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zion_National_Park%2C_United_States_%28Unsplash_R2HlismuruI%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Zion_National_Park,_United_States_(Unsplash_R2HlismuruI).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Anubhav Saxena anubhav",
+   "credito": "https://unsplash.com/photos/R2HlismuruI\n\narchive copy at the Wayback Machine",
+   "nonfree": "",
+   "fecha": "2017-02-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Zion National Park, the Narrows.jpg",
+   "w": 2448,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Zion_National_Park%2C_the_Narrows.jpg/330px-Zion_National_Park%2C_the_Narrows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Zion_National_Park%2C_the_Narrows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Zion_National_Park,_the_Narrows.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Trougnouf",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 2 June 2016",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Zion National Park from Angel's Landing.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Zion_National_Park_from_Angel%27s_Landing.jpg/330px-Zion_National_Park_from_Angel%27s_Landing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Zion_National_Park_from_Angel%27s_Landing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Zion_National_Park_from_Angel%27s_Landing.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "KadenMP",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-02-03 20:57:18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Zion National Park - HCP - October 02, 2022 - 025 - Zion Canyon Scenic Drive.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Zion_National_Park_-_HCP_-_October_02%2C_2022_-_025_-_Zion_Canyon_Scenic_Drive.jpg/330px-Zion_National_Park_-_HCP_-_October_02%2C_2022_-_025_-_Zion_Canyon_Scenic_Drive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Zion_National_Park_-_HCP_-_October_02%2C_2022_-_025_-_Zion_Canyon_Scenic_Drive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Zion_National_Park_-_HCP_-_October_02,_2022_-_025_-_Zion_Canyon_Scenic_Drive.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Vulturesong",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-10-02 17:46:37",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Crossbeds in Navajo Sandstone Zion NP Utah USA.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Crossbeds_in_Navajo_Sandstone_Zion_NP_Utah_USA.jpg/330px-Crossbeds_in_Navajo_Sandstone_Zion_NP_Utah_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Crossbeds_in_Navajo_Sandstone_Zion_NP_Utah_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Crossbeds_in_Navajo_Sandstone_Zion_NP_Utah_USA.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Roy Luck (roy.luck on Flickr) https://www.flickr.com/people/royluck/",
+   "credito": "https://www.flickr.com/photos/royluck/5204382480/",
+   "nonfree": "",
+   "fecha": "2010-11-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Subway Zion1.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Subway_Zion1.JPG/330px-Subway_Zion1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Subway_Zion1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Subway_Zion1.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Doc James",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Zion National Park - HCP - October 03, 2022 - 128 - Zion Canyon Scenic Drive.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Zion_National_Park_-_HCP_-_October_03%2C_2022_-_128_-_Zion_Canyon_Scenic_Drive.jpg/330px-Zion_National_Park_-_HCP_-_October_03%2C_2022_-_128_-_Zion_Canyon_Scenic_Drive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Zion_National_Park_-_HCP_-_October_03%2C_2022_-_128_-_Zion_Canyon_Scenic_Drive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Zion_National_Park_-_HCP_-_October_03,_2022_-_128_-_Zion_Canyon_Scenic_Drive.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Vulturesong",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-10-03 18:17:33",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Zion National Park - HCP - October 02, 2022 - 016 - Zion Canyon Scenic Drive.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Zion_National_Park_-_HCP_-_October_02%2C_2022_-_016_-_Zion_Canyon_Scenic_Drive.jpg/330px-Zion_National_Park_-_HCP_-_October_02%2C_2022_-_016_-_Zion_Canyon_Scenic_Drive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Zion_National_Park_-_HCP_-_October_02%2C_2022_-_016_-_Zion_Canyon_Scenic_Drive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Zion_National_Park_-_HCP_-_October_02,_2022_-_016_-_Zion_Canyon_Scenic_Drive.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Vulturesong",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-10-02 17:28:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

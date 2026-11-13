@@ -1,0 +1,198 @@
+{
+ "id": "cratera",
+ "enwiki": "Crater Lake",
+ "endesc": "Caldera lake in Oregon, United States",
+ "qid": "Q329266",
+ "coord": [
+  42.943611111111,
+  -122.10666666667
+ ],
+ "label_es": "Lago del Cráter",
+ "desc_es": "lago de cráter situado en el estado de Oregón, Estados Unidos",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 1883.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 53.2,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 9.6,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q204324",
+  "Q23397",
+  "Q66716634"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Lago del Cráter",
+ "extracto_es": "El lago del Cráter (del inglés: Crater Lake) es un lago de cráter situado en el estado de Oregón (Estados Unidos) que forma parte de la cordillera de las Cascadas. Es el principal accidente geográfico del parque nacional del Lago del Cráter (Crater Lake National Park) y es famoso por su intenso color azul y la transparencia de sus aguas, siendo además el lago más profundo del país.​ El lago llena parcialmente una caldera volcánica de unos 1.220 metros de profundidad que se formó hace unos 6.850 años por el hundimiento del volcán Mazama.​\nEl primer estadounidense de origen europeo del que se tiene constancia que llegó al lago fue John Wesley Hillman, quien lo vio el 12 de junio de 1853, y lo llamó Deep Blue Lake (lago Azul Intenso). El lago ha sido rebautizado al menos en tres ocasiones con los nombres de Blue Lake (lago Azul), Lake Majesty (lago Majestad) y finalmente Crater Lake (lago del Cráter).​​\nEl lago del Cráter es conocido por su famosa pieza de madera a la deriva llamada \"Old Man of the Lake\" (\"Viejo hombre del Lago\"). Se trata de un árbol de tamaño normal que había estado en posición vertical durante más de un siglo.​ Debido a la baja temperatura del agua, el árbol se mantuvo en relativo buen estado.\nAunque el lago no contaba con presencia de peces autóctonos, entre 1888 y 1941 fue poblado con variedad de especies, algunas de las cuales han logrado asentarse. En concreto se han identificado cuatro especies.​ El State Quarters conmemorativo de Oregón, acuñado por la Casa de Moneda de los Estados Unidos en 2005, muestra una imagen del lago del Cráter en su reverso.​",
+ "candidatas": [
+  {
+   "file": "File:Crater Lake National Park (2023).jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Crater_Lake_National_Park_%282023%29.jpg/330px-Crater_Lake_National_Park_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Crater_Lake_National_Park_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_National_Park_(2023).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "John Manard",
+   "credito": "https://www.flickr.com/photos/145739041@N05/53121011766/",
+   "nonfree": "",
+   "fecha": "2023-06-16 18:52:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Crater Lake winter pano2.jpg",
+   "w": 6260,
+   "h": 3100,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Crater_Lake_winter_pano2.jpg/330px-Crater_Lake_winter_pano2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Crater_Lake_winter_pano2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_winter_pano2.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "WolfmanSF",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 14 November",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Crater Lake, Oregon by Planet Labs.jpg",
+   "w": 6415,
+   "h": 4811,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Crater_Lake%2C_Oregon_by_Planet_Labs.jpg/330px-Crater_Lake%2C_Oregon_by_Planet_Labs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Crater_Lake%2C_Oregon_by_Planet_Labs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake,_Oregon_by_Planet_Labs.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Planet Labs, Inc.",
+   "credito": "https://www.planet.com/gallery/crater-lake-20160728/ (direct link)",
+   "nonfree": "",
+   "fecha": "Taken on 28 July 201",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Crater Lake July 2024-4.jpg",
+   "w": 8064,
+   "h": 5376,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Crater_Lake_July_2024-4.jpg/330px-Crater_Lake_July_2024-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Crater_Lake_July_2024-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_July_2024-4.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Stephen Foiles",
+   "credito": "https://www.flickr.com/photos/184433751@N04/53897682758/",
+   "nonfree": "",
+   "fecha": "2024-08-02 08:58:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Crater Lake July 2024-5.jpg",
+   "w": 6192,
+   "h": 4128,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Crater_Lake_July_2024-5.jpg/330px-Crater_Lake_July_2024-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Crater_Lake_July_2024-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_July_2024-5.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Stephen Foiles",
+   "credito": "https://www.flickr.com/photos/184433751@N04/53897782119/",
+   "nonfree": "",
+   "fecha": "2024-08-02 08:58:23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Crater Lake National Park - HCP - October 13, 2022 - 155.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Crater_Lake_National_Park_-_HCP_-_October_13%2C_2022_-_155.jpg/330px-Crater_Lake_National_Park_-_HCP_-_October_13%2C_2022_-_155.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Crater_Lake_National_Park_-_HCP_-_October_13%2C_2022_-_155.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_National_Park_-_HCP_-_October_13,_2022_-_155.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Vulturesong",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-10-13 18:19:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Crater Lake National Park - HCP - October 13, 2022 - 153.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Crater_Lake_National_Park_-_HCP_-_October_13%2C_2022_-_153.jpg/330px-Crater_Lake_National_Park_-_HCP_-_October_13%2C_2022_-_153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Crater_Lake_National_Park_-_HCP_-_October_13%2C_2022_-_153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_National_Park_-_HCP_-_October_13,_2022_-_153.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Vulturesong",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-10-13 18:19:16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Crater Lake National Park - HCP - October 13, 2022 - 018.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Crater_Lake_National_Park_-_HCP_-_October_13%2C_2022_-_018.jpg/330px-Crater_Lake_National_Park_-_HCP_-_October_13%2C_2022_-_018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Crater_Lake_National_Park_-_HCP_-_October_13%2C_2022_-_018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_National_Park_-_HCP_-_October_13,_2022_-_018.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Vulturesong",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-10-13 15:18:39",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

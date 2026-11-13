@@ -1,0 +1,202 @@
+{
+ "id": "centralpark",
+ "enwiki": "Central Park",
+ "endesc": "Public park in Manhattan, New York",
+ "qid": "Q160409",
+ "coord": [
+  40.7825,
+  -73.966111111111
+ ],
+ "label_es": "Central Park",
+ "desc_es": "parque público en el centro de Manhattan, Nueva York, Estados Unidos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1856-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 843.0,
+   "u": "Q81292"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 40000000.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q22746"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Central Park",
+ "extracto_es": "Central Park es un parque urbano público situado en el distrito metropolitano de Manhattan, en la ciudad de Nueva York, Estados Unidos. El parque tiene forma rectangular y dimensiones aproximadas de 4000 x 800 m, siendo casi dos veces más grande que Mónaco y casi ocho veces más que la Ciudad del Vaticano.​​​\nCon unos 37,5 millones de visitantes al año, Central Park es el parque más visitado de Estados Unidos​ (aunque el Fairmount Park de Filadelfia es diez veces más grande, Central Park tiene 2,5 veces más visitantes,​ y los 37,5 millones de visitantes anuales que recibe Central Park quintuplican los que visitan el parque nacional del Gran Cañón, en Arizona).​ Además, su aparición en numerosas películas y en programas de televisión lo ha convertido en uno de los parques urbanos más famosos del mundo.​ El parque está administrado por la Central Park Conservancy, una empresa privada sin ánimo de lucro, que tiene un contrato con el Departamento de Parques y Ocio de Nueva York.​\nCentral Park limita por el norte con la Calle 110, por el oeste con la calle Central Park West, por el sur con la Calle 59 y por el este con la Quinta Avenida. Los tramos de estas calles que pasan alrededor de Central Park son conocidas normalmente con el nombre de Central Park North, Central Park South y Central Park West, respectivamente; aunque la Quinta Avenida conserva su nombre a su paso por el lado este del parque.​ Central Park tiene su propia sección censal en Estados Unidos, la número 143. Según el Censo del 2000, la población del parque es de dieciocho personas, doce hombres y seis mujeres, con una media de edad de 38,5 años.​ El actual valor inmobiliario de Central Park se estima que es de unos 528 783 552 000 dólares según la apreciación de Miller Samuel.​\nEl parque fue diseñado por Frederick Law Olmsted y Calvert Vaux, quienes más tarde crearon el Prospect Park de Brooklyn.​\nMientras que gran parte del parque parece natural, contiene varios lagos artificiales, dos pistas de patinaje sobre hielo y áreas de hierba usadas para diversas actividades deportivas.​\nEl parque es un popular oasis para aves migratorias, lo que lo convierte en un lugar concurrido por observadores de pájaros.​\nEl 12 de abril de 2017, el parque fue incluido en la Lista indicativa de Estados Unidos, los bienes que el país remite a la UNESCO al considerarlos candidatos a ser declarados Patrimonio de la Humanidad.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:2024-11-19-Central Park-0669.jpg",
+   "w": 6657,
+   "h": 4438,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2024-11-19-Central_Park-0669.jpg/330px-2024-11-19-Central_Park-0669.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/2024-11-19-Central_Park-0669.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2024-11-19-Central_Park-0669.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Superbass",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-11-19",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Northern cardinal female in CP (02035).jpg",
+   "w": 3269,
+   "h": 3259,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Northern_cardinal_female_in_CP_%2802035%29.jpg/330px-Northern_cardinal_female_in_CP_%2802035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Northern_cardinal_female_in_CP_%2802035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Northern_cardinal_female_in_CP_(02035).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rhododendrites",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-02-20 15:39:41",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Southwest corner of Central Park, looking east, NYC.jpg",
+   "w": 4226,
+   "h": 2798,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Southwest_corner_of_Central_Park%2C_looking_east%2C_NYC.jpg/330px-Southwest_corner_of_Central_Park%2C_looking_east%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Southwest_corner_of_Central_Park%2C_looking_east%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Southwest_corner_of_Central_Park,_looking_east,_NYC.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Ed Yourdon from New York City, USA",
+   "credito": "Central Park foliage photo-walk, Nov 2009 - 10\n\nUploaded by Ekabhishek",
+   "nonfree": "",
+   "fecha": "Taken on 7 November ",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Global Citizen Festival Central Park New York City from NYonAir (15351915006).jpg",
+   "w": 5369,
+   "h": 3579,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg/330px-Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_(15351915006).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Anthony Quintano from Hillsborough, NJ, United States",
+   "credito": "Global Citizen Festival Central Park New York City from NYonAir",
+   "nonfree": "",
+   "fecha": "Taken on 27 Septembe",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Central Park New York October 2016 004.jpg",
+   "w": 5880,
+   "h": 3920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Central_Park_New_York_October_2016_004.jpg/330px-Central_Park_New_York_October_2016_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Central_Park_New_York_October_2016_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Central_Park_New_York_October_2016_004.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "King of Hearts",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-29 15:46:50",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Manhattan02 ST 07 crop.JPG",
+   "w": 1918,
+   "h": 1213,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Manhattan02_ST_07_crop.JPG/330px-Manhattan02_ST_07_crop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Manhattan02_ST_07_crop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Manhattan02_ST_07_crop.JPG",
+   "licencia": "Attribution",
+   "licurl": "",
+   "autor": "This file is a work by Ester Inbar (user:ST or he:user:ST).\nMore of my work can be found in Category:Files by User:ST.\n\nIf you use my work outside Wikimedia I would appreciate being notified and refer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 10 May 2007",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Central Park (Summer) MET MM22125.jpg",
+   "w": 4000,
+   "h": 2674,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Central_Park_%28Summer%29_MET_MM22125.jpg/330px-Central_Park_%28Summer%29_MET_MM22125.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Central_Park_%28Summer%29_MET_MM22125.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Central_Park_(Summer)_MET_MM22125.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "John Bachmann / Julius Bien",
+   "credito": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy",
+   "nonfree": "",
+   "fecha": "1865date QS:P571,+18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2886-Central Park-The Ramble.JPG",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2886-Central_Park-The_Ramble.JPG/330px-2886-Central_Park-The_Ramble.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/2886-Central_Park-The_Ramble.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2886-Central_Park-The_Ramble.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ingfbruno",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-04-28 11:04:33",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

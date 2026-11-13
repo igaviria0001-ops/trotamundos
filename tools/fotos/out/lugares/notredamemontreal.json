@@ -1,0 +1,214 @@
+{
+ "id": "notredamemontreal",
+ "enwiki": "Notre-Dame Basilica (Montreal)",
+ "endesc": "Catholic church in Montreal, Quebec",
+ "qid": "Q887686",
+ "coord": [
+  45.504444444444445,
+  -73.55611111111111
+ ],
+ "label_es": "basílica Notre-Dame de Montreal",
+ "desc_es": "basílica menor en Montreal",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1829-00-00T00:00:00Z",
+   "prec": 8
+  }
+ ],
+ "altura": [
+  {
+   "v": 60.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 68.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q120560"
+ ],
+ "p17": [
+  "Q16"
+ ],
+ "unesco": false,
+ "eswiki": "Basílica de Notre-Dame (Montreal)",
+ "extracto_es": "Notre-Dame de Montreal, situada en el distrito de Ville-Marie en la ciudad de Montreal, es la iglesia-madre de Montreal. Auténtica galería de arte religioso, la riqueza de sus adornos no tiene equivalente en Montreal. Pertenece a la arquidiócesis de Montreal.",
+ "candidatas": [
+  {
+   "file": "File:Notre-Dame de Montréal Basilica 12.jpg",
+   "w": 8256,
+   "h": 5504,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Notre-Dame_de_Montr%C3%A9al_Basilica_12.jpg/330px-Notre-Dame_de_Montr%C3%A9al_Basilica_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Notre-Dame_de_Montr%C3%A9al_Basilica_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Montr%C3%A9al_Basilica_12.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Louis-Philippe Hébert",
+   "credito": "Wilfredor",
+   "nonfree": "",
+   "fecha": "Taken on 3 September",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Basílica de Notre-Dame, Montreal, Canadá, 2017-08-12, DD 07-09 HDR.jpg",
+   "w": 6811,
+   "h": 5109,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_07-09_HDR.jpg/330px-Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_07-09_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_07-09_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Notre-Dame,_Montreal,_Canad%C3%A1,_2017-08-12,_DD_07-09_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-12 08:09:15",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Basílica de Notre-Dame, Montreal, Canadá, 2017-08-12, DD 22-24 HDR.jpg",
+   "w": 7730,
+   "h": 5153,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_22-24_HDR.jpg/330px-Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_22-24_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_22-24_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Notre-Dame,_Montreal,_Canad%C3%A1,_2017-08-12,_DD_22-24_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-12 08:23:17",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Basílica de Notre-Dame, Montreal, Canadá, 2017-08-12, DD 28-30 HDR.jpg",
+   "w": 6439,
+   "h": 4592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_28-30_HDR.jpg/330px-Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_28-30_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_28-30_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Notre-Dame,_Montreal,_Canad%C3%A1,_2017-08-12,_DD_28-30_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-12 08:27:44",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Basílica de Notre-Dame, Montreal, Canadá, 2017-08-11, DD 26-28 HDR.jpg",
+   "w": 6577,
+   "h": 4978,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-11%2C_DD_26-28_HDR.jpg/330px-Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-11%2C_DD_26-28_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-11%2C_DD_26-28_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Notre-Dame,_Montreal,_Canad%C3%A1,_2017-08-11,_DD_26-28_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-11 21:00:50",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Basílica de Notre-Dame, Montreal, Canadá, 2017-08-11, DD 20-22 HDR alt.jpg",
+   "w": 4920,
+   "h": 4557,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-11%2C_DD_20-22_HDR_alt.jpg/330px-Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-11%2C_DD_20-22_HDR_alt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-11%2C_DD_20-22_HDR_alt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Notre-Dame,_Montreal,_Canad%C3%A1,_2017-08-11,_DD_20-22_HDR_alt.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-11 20:48:22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "es"
+  },
+  {
+   "file": "File:Notre Dame of Montreal, Canada.jpg",
+   "w": 5399,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Notre_Dame_of_Montreal%2C_Canada.jpg/330px-Notre_Dame_of_Montreal%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Notre_Dame_of_Montreal%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Notre_Dame_of_Montreal,_Canada.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-14 13:07:25",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Wood Sculptures Christ sitting and teaching Saint Peter and Saint Paul on Notre-Dame de Montréal Basilica.jpg",
+   "w": 6000,
+   "h": 4050,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Wood_Sculptures_Christ_sitting_and_teaching_Saint_Peter_and_Saint_Paul_on_Notre-Dame_de_Montr%C3%A9al_Basilica.jpg/330px-Wood_Sculptures_Christ_sitting_and_teaching_Saint_Peter_and_Saint_Paul_on_Notre-Dame_de_Montr%C3%A9al_Basilica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Wood_Sculptures_Christ_sitting_and_teaching_Saint_Peter_and_Saint_Paul_on_Notre-Dame_de_Montr%C3%A9al_Basilica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wood_Sculptures_Christ_sitting_and_teaching_Saint_Peter_and_Saint_Paul_on_Notre-Dame_de_Montr%C3%A9al_Basilica.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-14 12:56:17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

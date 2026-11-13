@@ -1,0 +1,234 @@
+{
+ "id": "washington",
+ "enwiki": "Washington Monument",
+ "endesc": "U.S. national memorial in Washington, D.C.",
+ "qid": "Q178114",
+ "coord": [
+  38.889475,
+  -77.035244444444
+ ],
+ "label_es": "Monumento a Washington",
+ "desc_es": "obelisco conmemorativo de Washington D. C.",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1848-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1886-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 169.046,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 959624.0,
+   "u": "1"
+  },
+  {
+   "v": 906661.0,
+   "u": "1"
+  },
+  {
+   "v": 1392900.0,
+   "u": "1"
+  },
+  {
+   "v": 1541600.0,
+   "u": "1"
+  },
+  {
+   "v": 1305760.0,
+   "u": "1"
+  },
+  {
+   "v": 1245479.0,
+   "u": "1"
+  },
+  {
+   "v": 185085.0,
+   "u": "1"
+  },
+  {
+   "v": 628665.0,
+   "u": "1"
+  },
+  {
+   "v": 83585.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q170980",
+  "Q1967454"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Monumento a Washington",
+ "extracto_es": "El monumento a Washington (en inglés Washington Monument) es un obelisco blanco localizado en el extremo al oeste del National Mall de Washington D.C. Es un monumento conmemorativo al primer presidente de los Estados Unidos y líder del revolucionario Ejército Continental, George Washington, que ganó la independencia del país frente Gran Bretaña en la Guerra de la Independencia. En 1884 era la estructura más alta del mundo, hasta que se construyó la Torre Eiffel en 1889.\nEl monumento está elaborado en mármol, granito, piedra arenisca, acero y tiene una altura de 169 metros y 14 centímetros. Fue diseñado por Robert Mills, un prominente arquitecto estadounidense de la década de 1840. La construcción comenzó en 1848 y se terminó en 1884, casi 30 años después de la muerte del arquitecto. Esta tardanza se debió a la falta de fondos originados por la guerra civil estadounidense. La diferencia en el tipo de mármol (visible aproximadamente a partir de una altura de unos 50 m) delimita la construcción inicial de la segunda etapa de construcción.",
+ "candidatas": [
+  {
+   "file": "File:Washington 250424 Washington Monument 01.jpg",
+   "w": 2800,
+   "h": 4200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Washington_250424_Washington_Monument_01.jpg/330px-Washington_250424_Washington_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Washington_250424_Washington_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Washington_250424_Washington_Monument_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Oren Rozen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-04-25 16:07:50",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Washington Monument 2022.jpg",
+   "w": 3024,
+   "h": 4032,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Washington_Monument_2022.jpg/330px-Washington_Monument_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Washington_Monument_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Washington_Monument_2022.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Greyfiveys",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-06-05 10:23:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Washington Monument Dusk Jan 2006.jpg",
+   "w": 1400,
+   "h": 1984,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Washington_Monument_Dusk_Jan_2006.jpg/330px-Washington_Monument_Dusk_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Washington_Monument_Dusk_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Washington_Monument_Dusk_Jan_2006.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-01-12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "es"
+  },
+  {
+   "file": "File:Boonsboro Washington Monument.JPG",
+   "w": 4928,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Boonsboro_Washington_Monument.JPG/330px-Boonsboro_Washington_Monument.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Boonsboro_Washington_Monument.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boonsboro_Washington_Monument.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Warrenfish",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-04-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Washington Monument (Western Maryland).jpg",
+   "w": 5869,
+   "h": 3913,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/The_Washington_Monument_%28Western_Maryland%29.jpg/330px-The_Washington_Monument_%28Western_Maryland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Washington_Monument_%28Western_Maryland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Washington_Monument_(Western_Maryland).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Patorjk",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-22 12:00:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Jefferson Pier and Washington Monument.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Jefferson_Pier_and_Washington_Monument.jpg/330px-Jefferson_Pier_and_Washington_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Jefferson_Pier_and_Washington_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Jefferson_Pier_and_Washington_Monument.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Something Original (talk)",
+   "credito": "Own work (Original text: I (Something Original (talk)) created this work entirely by myself.)",
+   "nonfree": "",
+   "fecha": "2012-01-16 20:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Three-lightning-strikes-washingtondc-night - West Virginia - ForestWander.jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Three-lightning-strikes-washingtondc-night_-_West_Virginia_-_ForestWander.jpg/330px-Three-lightning-strikes-washingtondc-night_-_West_Virginia_-_ForestWander.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Three-lightning-strikes-washingtondc-night_-_West_Virginia_-_ForestWander.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Three-lightning-strikes-washingtondc-night_-_West_Virginia_-_ForestWander.jpg",
+   "licencia": "CC BY-SA 3.0 us",
+   "licurl": "cc-by-sa-3.0-us",
+   "autor": "ForestWander",
+   "credito": "http://www.forestwander.com/2011/04/three-lighting-strikes-washingtondc-night/",
+   "nonfree": "",
+   "fecha": "2011-04-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Western Maryland's Washington Monument.jpg",
+   "w": 4855,
+   "h": 3237,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Western_Maryland%27s_Washington_Monument.jpg/330px-Western_Maryland%27s_Washington_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Western_Maryland%27s_Washington_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Western_Maryland%27s_Washington_Monument.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Patorjk",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-22 12:00:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

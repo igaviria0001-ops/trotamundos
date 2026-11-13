@@ -1,0 +1,199 @@
+{
+ "id": "lakelouise",
+ "enwiki": "Lake Louise (Alberta)",
+ "endesc": "Glacial lake in Banff National Park, Alberta, Canada",
+ "qid": "Q1367398",
+ "coord": [
+  51.41167,
+  -116.22806
+ ],
+ "label_es": "Lago Louise",
+ "desc_es": "lago de Canadá",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 1731.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 0.8,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 2.4,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q211302"
+ ],
+ "p17": [
+  "Q16"
+ ],
+ "unesco": false,
+ "eswiki": "Lago Louise",
+ "extracto_es": "El lago Louise es un lago en Alberta, Canadá. Es un lago glaciar localizado a tan solo 5 km del pueblo homónimo y de la Carretera transcanadiense (en este tramo también conocida como Carretera de los campos de hielo), en el parque nacional Banff, en las Montañas Rocosas canadienses. \nEl lago Louise recibe su nombre en honor de la Princesa Luisa Carolina Alberta (1848-1939), la cuarta hija de la Reina Victoria y también esposa del Marqués de Lorne, que fue Gobernador General de Canadá entre 1878 y 1883. \nEl color del lago se debe al polvo de roca que llega hasta allí por el agua que se ha derretido del glaciar Lefroy y de los dos glaciares Victoria, que dominan el lago. Otros famosos lagos de la zona, como el Moraine, el Peyto o el Bow también presentan una coloración parecida, igual de impresionante. \nEl lago, situado a 1750 metros sobre el nivel del mar, tiene una superficie de 0,8 km² y sus aguas van a dar al río Bow a través del Louise Creek (riachuelo Louise), de unos 3 km de longitud. La anchura máxima del lago es de 500 metros, que es la cuarta parte de su longitud máxima. \nEn la orilla este del lago se encuentra el Château Lake Louise, uno de los grandes hoteles de la compañía de ferrocarril canadiense. Es un complejo de lujo construido a principios del siglo XX por la Canadian Pacific Railway.",
+ "candidatas": [
+  {
+   "file": "File:1 lake louise pano 2019.jpg",
+   "w": 14102,
+   "h": 7912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/1_lake_louise_pano_2019.jpg/330px-1_lake_louise_pano_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/1_lake_louise_pano_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Chensiyuan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-16 00:00:34",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Lake Louise 03.jpg",
+   "w": 5560,
+   "h": 3707,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Lake_Louise_03.jpg/330px-Lake_Louise_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Lake_Louise_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Louise_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Thomas Fuhrmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-06-30 07:26:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Horseshoe Bend TC 27-09-2012 15-34-14.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg/330px-Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Paul Hermans",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-09-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Steller's Jay, Lake Louise, Alberta.jpg",
+   "w": 3914,
+   "h": 5871,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Steller%27s_Jay%2C_Lake_Louise%2C_Alberta.jpg/330px-Steller%27s_Jay%2C_Lake_Louise%2C_Alberta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Steller%27s_Jay%2C_Lake_Louise%2C_Alberta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Steller%27s_Jay,_Lake_Louise,_Alberta.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "IgorMatias3",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-10-23 15:01:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lake-Louise-Banff.jpg",
+   "w": 3024,
+   "h": 4032,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Lake-Louise-Banff.jpg/330px-Lake-Louise-Banff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Lake-Louise-Banff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake-Louise-Banff.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nilayjha99",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-12 19:15:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lake-Louise-Banff-2.jpg",
+   "w": 3024,
+   "h": 4032,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Lake-Louise-Banff-2.jpg/330px-Lake-Louise-Banff-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lake-Louise-Banff-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake-Louise-Banff-2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nilayjha99",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-12 19:15:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lake Louise - Alberta - Canada - 10.jpg",
+   "w": 2304,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lake_Louise_-_Alberta_-_Canada_-_10.jpg/330px-Lake_Louise_-_Alberta_-_Canada_-_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lake_Louise_-_Alberta_-_Canada_-_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Louise_-_Alberta_-_Canada_-_10.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Adam Jones, Ph.D.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-11-14 09:29:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 2,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:View of Lake Louise.jpg",
+   "w": 1536,
+   "h": 2048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/View_of_Lake_Louise.jpg/330px-View_of_Lake_Louise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/View_of_Lake_Louise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_Lake_Louise.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Steve Jurvetson from Menlo Park, California",
+   "credito": "Flickr",
+   "nonfree": "",
+   "fecha": "Taken on 25 Septembe",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 2,
+   "origen": "busqueda"
+  }
+ ]
+}

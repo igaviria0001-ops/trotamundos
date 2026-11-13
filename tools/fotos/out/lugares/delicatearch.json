@@ -1,0 +1,196 @@
+{
+ "id": "delicatearch",
+ "enwiki": "Delicate Arch",
+ "endesc": "Freestanding natural arch",
+ "qid": "Q2300616",
+ "coord": [
+  38.743611111111,
+  -109.49944444444
+ ],
+ "label_es": "Arco Delicado",
+ "desc_es": "arco natural independiente en el Parque Nacional Arches en el condado de Grand, Utah, Estados Unidos",
+ "inicio": [],
+ "altura": [
+  {
+   "v": 16.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 52.0,
+   "u": "Q3710"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 4606.0,
+   "u": "Q3710"
+  }
+ ],
+ "p31": [
+  "Q954501"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Arco Delicado",
+ "extracto_es": "El Arco Delicado​ (del inglés: Delicate Arch) es un arco natural localizado en Utah, Estados Unidos, muy cerca de la ciudad de Moab y del río Colorado. El arco no es solo uno de los símbolos más conocidos del Parque nacional de los Arcos, donde está ubicado, sino también de todo el estado de Utah. Su imagen puede encontrarse en las matrículas del Estado​ así como en un sello postal emitido en conmemoración del centenario de la fundación del estado en 1996. La antorcha olímpica de los Juegos Olímpicos de Invierno en Salt Lake City 2002 también pasó bajo este arco.\nEl Arco Delicado es de piedra arenisca y se encuentra en un proceso de erosión. Tiene una altura de 16 metros y en el punto más estrecho tiene un espesor de 2 metros.​ Al contemplar el arco se puede observar la sierra de La Sal en su interior.",
+ "candidatas": [
+  {
+   "file": "File:Delicate Arch in Arches National Park 3.jpg",
+   "w": 2272,
+   "h": 1704,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Delicate_Arch_in_Arches_National_Park_3.jpg/330px-Delicate_Arch_in_Arches_National_Park_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Delicate_Arch_in_Arches_National_Park_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Delicate_Arch_in_Arches_National_Park_3.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "“Jon Zander (Digon3)”",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-07-12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "P18"
+  },
+  {
+   "file": "File:00 406 Arches National Park (Utah, USA).jpg",
+   "w": 2385,
+   "h": 1440,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/00_406_Arches_National_Park_%28Utah%2C_USA%29.jpg/330px-00_406_Arches_National_Park_%28Utah%2C_USA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/00_406_Arches_National_Park_%28Utah%2C_USA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:00_406_Arches_National_Park_(Utah,_USA).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "W. Bulach",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 23 February",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Delicate arch sunset.jpg",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Delicate_arch_sunset.jpg/330px-Delicate_arch_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Delicate_arch_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Delicate_arch_sunset.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Palacemusic",
+   "credito": "Prise de vue personnelle",
+   "nonfree": "",
+   "fecha": "2005-08-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:USA Arches NP Delicate Arch(1).jpg",
+   "w": 2816,
+   "h": 2112,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/USA_Arches_NP_Delicate_Arch%281%29.jpg/330px-USA_Arches_NP_Delicate_Arch%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/USA_Arches_NP_Delicate_Arch%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:USA_Arches_NP_Delicate_Arch(1).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Thomas Schoch",
+   "credito": "own photo at http://www.retas.de/thomas/travel/usa2006/index.html",
+   "nonfree": "",
+   "fecha": "Taken on 10 July 200",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Parque Nacional de los-Arcos-Utah2563.JPG",
+   "w": 2560,
+   "h": 1920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Parque_Nacional_de_los-Arcos-Utah2563.JPG/330px-Parque_Nacional_de_los-Arcos-Utah2563.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Parque_Nacional_de_los-Arcos-Utah2563.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_de_los-Arcos-Utah2563.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-11-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Cloudy Sunset at Delicate Arch (8520706358).jpg",
+   "w": 3770,
+   "h": 2512,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Cloudy_Sunset_at_Delicate_Arch_%288520706358%29.jpg/330px-Cloudy_Sunset_at_Delicate_Arch_%288520706358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Cloudy_Sunset_at_Delicate_Arch_%288520706358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cloudy_Sunset_at_Delicate_Arch_(8520706358).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Arches National Park",
+   "credito": "Cloudy Sunset at Delicate Arch\n\nUploaded by AlbertHerring",
+   "nonfree": "",
+   "fecha": "Taken on 20 February",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Delicate arch viewpoint.jpg",
+   "w": 3456,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Delicate_arch_viewpoint.jpg/330px-Delicate_arch_viewpoint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Delicate_arch_viewpoint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Delicate_arch_viewpoint.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tadam",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-09-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Delicate Arch 2017.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Delicate_Arch_2017.jpg/330px-Delicate_Arch_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Delicate_Arch_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Delicate_Arch_2017.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Thomas Carlier",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-04 13:53:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "id": "alcatraz",
+ "enwiki": "Alcatraz Island",
+ "endesc": "Island in San Francisco Bay, California, US",
+ "qid": "Q131354",
+ "coord": [
+  37.8267199,
+  -122.4228329
+ ],
+ "label_es": "Isla de Alcatraz",
+ "desc_es": "isla ubicada en San Francisco, California, Estados Unidos",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 41.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 0.085,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 0.55,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q23442"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Isla de Alcatraz",
+ "extracto_es": "La isla de Alcatraz (en inglés: Alcatraz Island), informalmente llamada simplemente Alcatraz o, localmente, La Roca (The Rock), es una pequeña isla de 8,9 hectáreas​​ ubicada en el centro de la bahía de San Francisco en California, Estados Unidos. En ella se encuentra el Faro de Alcatraz, y antiguamente sirvió como fortificación militar, como prisión militar y posteriormente como prisión federal hasta 1963. Se convirtió en parque nacional en 1972 y recibió las designaciones de Hito Histórico Nacional (National Historic Landmark) en 1976 y 1986.\nHoy en día, la isla es un sitio histórico administrado por el Servicio de Parques Nacionales como parte del Parque Nacional Golden Gate y está abierto para visitas. Los turistas pueden llegar a la isla por ferry desde el muelle 33, cerca de Fisherman's Wharf en San Francisco.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Alcatraz Island as seen from the East.jpg",
+   "w": 4708,
+   "h": 2942,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Alcatraz_Island_as_seen_from_the_East.jpg/330px-Alcatraz_Island_as_seen_from_the_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alcatraz_Island_as_seen_from_the_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_as_seen_from_the_East.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Frank Schulenburg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-07-02 10:37:21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Alcatraz 2021.jpg",
+   "w": 3719,
+   "h": 2367,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Alcatraz_2021.jpg/330px-Alcatraz_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Alcatraz_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_2021.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Chris6d",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-08-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Alcatraz Island from San Francisco 1955.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Alcatraz_Island_from_San_Francisco_1955.jpg/330px-Alcatraz_Island_from_San_Francisco_1955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Alcatraz_Island_from_San_Francisco_1955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_from_San_Francisco_1955.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "My grandfather on my dads side, who gave me permission to share images in his possesion prior to his passing",
+   "credito": "Slide image belonging to my grandfather on my dads side",
+   "nonfree": "",
+   "fecha": "1955",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Alcatraz Island 2024.jpg",
+   "w": 4032,
+   "h": 2268,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Alcatraz_Island_2024.jpg/330px-Alcatraz_Island_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Alcatraz_Island_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_2024.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Raydann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-04-28 10:49:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Alcatraz - unione vista due lati - agosto 2011.jpg",
+   "w": 5856,
+   "h": 3286,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Alcatraz_-_unione_vista_due_lati_-_agosto_2011.jpg/330px-Alcatraz_-_unione_vista_due_lati_-_agosto_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Alcatraz_-_unione_vista_due_lati_-_agosto_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_-_unione_vista_due_lati_-_agosto_2011.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Sidvics",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "11 August 2011, 23:5",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Alcatraz August 2016.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Alcatraz_August_2016.jpg/330px-Alcatraz_August_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Alcatraz_August_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_August_2016.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kingofthedead",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-08-03 11:11:59",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Alcatraz Federal Penitentiary - Cell 181 - Al Capone.jpg",
+   "w": 4048,
+   "h": 3036,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Alcatraz_Federal_Penitentiary_-_Cell_181_-_Al_Capone.jpg/330px-Alcatraz_Federal_Penitentiary_-_Cell_181_-_Al_Capone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Alcatraz_Federal_Penitentiary_-_Cell_181_-_Al_Capone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Federal_Penitentiary_-_Cell_181_-_Al_Capone.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tres calcetines",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-05-07 13:53:20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Alcatraz Island Model.jpg",
+   "w": 4160,
+   "h": 2340,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Alcatraz_Island_Model.jpg/330px-Alcatraz_Island_Model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Alcatraz_Island_Model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_Model.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DestinationFearFan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-10-12 15:55:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

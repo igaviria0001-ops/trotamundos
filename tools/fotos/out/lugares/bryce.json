@@ -1,0 +1,213 @@
+{
+ "id": "bryce",
+ "enwiki": "Bryce Canyon National Park",
+ "endesc": "National park in Utah, United States",
+ "qid": "Q219562",
+ "coord": [
+  37.64,
+  -112.17
+ ],
+ "label_es": "Parque nacional del Cañón Bryce",
+ "desc_es": "parque nacional de los Estados Unidos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1928-09-15T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "area": [
+  {
+   "v": 145.0,
+   "u": "Q712226"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 1464655.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q34918903",
+  "Q46169"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Parque nacional del Cañón Bryce",
+ "extracto_es": "El Parque Nacional del Cañón Bryce​ (en inglés Bryce Canyon National Park) es un parque nacional de los Estados Unidos localizado en el sudoeste del estado de Utah. A pesar de su nombre, el cañón Bryce no es propiamente un cañón sino una gran anfiteatro natural formado por la erosión. Bryce destaca por sus estructuras geológicas únicas, llamadas chimenea de hadas, que se formaron por la erosión causada por el viento, agua y hielo. El juego de colores de las rocas, rojo, naranja y blanco recrean vistas espectaculares.\nBryce se encuentra a mayor altura que el vecino parque nacional Zion y que el Gran Cañón. La cota media de altitud se encuentra entre los 2400 y 2700 m s. n. m. No obstante, la parte meridional se encuentra a 2100 m s. n. m. Debido a esta variedad de cotas, la ecología y el clima varían mucho de una zona a otra, ofreciendo un espectacular contraste. \nLos mormones fueron los primeros blancos en asentarse en la zona alrededor de 1850, dándole el nombre en honor a Ebenezer Bryce, primer habitante de la zona. El área se convirtió en un monumento nacional en 1924, convirtiéndose en parque nacional cuatro años más tarde. Ocupa un área de 145 km². La ciudad de Kanab se encuentra en un punto intermedio entre tres parques: el Bryce Canyon, el parque nacional Zion y el parque nacional del Gran Cañón. El nombre del parque también se usó para denominar a un programa informático encargado de simular en tres dimensiones los paisajes geográficos.",
+ "candidatas": [
+  {
+   "file": "File:Inspiration Point Bryce Canyon November 2018 panorama.jpg",
+   "w": 10000,
+   "h": 6000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg/330px-Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "King of Hearts",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 20 November",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 21,
+   "origen": "en"
+  },
+  {
+   "file": "File:Bryce Canyon Hoodoos.jpg",
+   "w": 2272,
+   "h": 1704,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bryce_Canyon_Hoodoos.jpg/330px-Bryce_Canyon_Hoodoos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bryce_Canyon_Hoodoos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bryce_Canyon_Hoodoos.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "“Jon Zander(digon3)”",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-05-10",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:USA 10654 Bryce Canyon Luca Galuzzi 2007.jpg",
+   "w": 2000,
+   "h": 1333,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/USA_10654_Bryce_Canyon_Luca_Galuzzi_2007.jpg/330px-USA_10654_Bryce_Canyon_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/USA_10654_Bryce_Canyon_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:USA_10654_Bryce_Canyon_Luca_Galuzzi_2007.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Luca Galuzzi (Lucag)",
+   "credito": "Photo taken by (Luca Galuzzi) * http://www.galuzzi.it",
+   "nonfree": "",
+   "fecha": "2007-07-21",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 15,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Natural Bridge, Bryce Canyon National Park, Utah.jpg",
+   "w": 11535,
+   "h": 7690,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Natural_Bridge%2C_Bryce_Canyon_National_Park%2C_Utah.jpg/330px-Natural_Bridge%2C_Bryce_Canyon_National_Park%2C_Utah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Natural_Bridge%2C_Bryce_Canyon_National_Park%2C_Utah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Natural_Bridge,_Bryce_Canyon_National_Park,_Utah.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "27 April 2026, 14:01",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hoodoos in the Bryce Canyon National Park.jpg",
+   "w": 2126,
+   "h": 1394,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Hoodoos_in_the_Bryce_Canyon_National_Park.jpg/330px-Hoodoos_in_the_Bryce_Canyon_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hoodoos_in_the_Bryce_Canyon_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hoodoos_in_the_Bryce_Canyon_National_Park.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Michael Gäbler",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1988-07",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:USA 10638 Bryce Canyon Luca Galuzzi 2007.jpg",
+   "w": 2000,
+   "h": 1333,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_10638_Bryce_Canyon_Luca_Galuzzi_2007.jpg/330px-USA_10638_Bryce_Canyon_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/USA_10638_Bryce_Canyon_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:USA_10638_Bryce_Canyon_Luca_Galuzzi_2007.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Luca Galuzzi (Lucag)",
+   "credito": "Photo taken by (Luca Galuzzi) * http://www.galuzzi.it",
+   "nonfree": "",
+   "fecha": "2007-07-21",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Bryce Amphitheater from Sunrise Point, Bryce Canyon National Park, Utah.jpg",
+   "w": 11807,
+   "h": 7871,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bryce_Amphitheater_from_Sunrise_Point%2C_Bryce_Canyon_National_Park%2C_Utah.jpg/330px-Bryce_Amphitheater_from_Sunrise_Point%2C_Bryce_Canyon_National_Park%2C_Utah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bryce_Amphitheater_from_Sunrise_Point%2C_Bryce_Canyon_National_Park%2C_Utah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bryce_Amphitheater_from_Sunrise_Point,_Bryce_Canyon_National_Park,_Utah.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "27 April 2026, 09:12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Hoodoos and distant snow-covered peaks from Agua Canyon Overlook, Bryce Canyon National Park, Utah.jpg",
+   "w": 11497,
+   "h": 6784,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Hoodoos_and_distant_snow-covered_peaks_from_Agua_Canyon_Overlook%2C_Bryce_Canyon_National_Park%2C_Utah.jpg/330px-Hoodoos_and_distant_snow-covered_peaks_from_Agua_Canyon_Overlook%2C_Bryce_Canyon_National_Park%2C_Utah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Hoodoos_and_distant_snow-covered_peaks_from_Agua_Canyon_Overlook%2C_Bryce_Canyon_National_Park%2C_Utah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hoodoos_and_distant_snow-covered_peaks_from_Agua_Canyon_Overlook,_Bryce_Canyon_National_Park,_Utah.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "27 April 2026, 13:42",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "id": "everglades",
+ "enwiki": "Everglades National Park",
+ "endesc": "National park in Florida, United States",
+ "qid": "Q274131",
+ "coord": [
+  25.3125,
+  -80.6875
+ ],
+ "label_es": "Parque nacional de los Everglades",
+ "desc_es": "parque nacional estadounidense ubicado en Florida",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1947-12-06T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "area": [
+  {
+   "v": 1508538.0,
+   "u": "Q81292"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 702319.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q34918903",
+  "Q46169"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": true,
+ "eswiki": "Parque nacional de los Everglades",
+ "extracto_es": "El parque nacional de los Everglades (en inglés Everglades National Park), anteriormente Manglares en español, se encuentra en el extremo sureste de los Estados Unidos en el estado de Florida. Protege la parte meridional de los Everglades, al sur de la carretera federal 41, que en su recorrido por el borde del parque nacional recibe el nombre de Tamiami Trail. El parque actualmente posee una extensión de 6104 kilómetros cuadrados y sólo representa el 20% de la extensión original del humedal. Acoge un ecosistema único del mundo.\nEverglades, cuya traducción podría ser \"ciénagas eternas\", fue conocido por los españoles como Cañaveral de La Florida.\nEl parque fue creado el 6 de diciembre de 1947, aunque la autorización para su creación databa del 30 de mayo de 1934. En 1976, fue declarado reserva de la biosfera por la Unesco, en 1979, Patrimonio de la Humanidad, y en 1987, humedal de importancia internacional. Entre 1993 y 2007 estuvo inscrito en la lista del Patrimonio de la Humanidad en peligro, volviendo a incluirse en 2010.​ En 1978, cerca del 86% del parque fue designado Área Natural Silvestre con el nombre de Marjory Stoneman Douglas Wilderness.\nEl único acceso por autopista es la carretera estatal 9336, que une Florida City con la costa en Flamingo. Las únicas construcciones en el interior del parque son los centros de visitantes y unos pocos edificios auxiliares. Hay algunos aparcamientos y caminos en el parque, de los que el más famoso es el llamado Anhinga Trail, que permite observar de cerca aves como las garzas y la aninga americana (Anhinga anhinga). Esta última se posa a menudo en las barandillas de las pasarelas de madera.",
+ "candidatas": [
+  {
+   "file": "File:Sunset over the River of Grass, NPSphoto, G.Gardner (9255157507).jpg",
+   "w": 4896,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Sunset_over_the_River_of_Grass%2C_NPSphoto%2C_G.Gardner_%289255157507%29.jpg/330px-Sunset_over_the_River_of_Grass%2C_NPSphoto%2C_G.Gardner_%289255157507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Sunset_over_the_River_of_Grass%2C_NPSphoto%2C_G.Gardner_%289255157507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_River_of_Grass,_NPSphoto,_G.Gardner_(9255157507).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Everglades NPS from Homestead, Florida, United States",
+   "credito": "Sunset over the River of Grass, NPSphoto, G.Gardner",
+   "nonfree": "",
+   "fecha": "2013-01-20 07:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:003 Everglades National Park aerial view with Terrapin, Santini, Rankin, Garfield Bight in Florida.jpg",
+   "w": 2592,
+   "h": 1728,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/003_Everglades_National_Park_aerial_view_with_Terrapin%2C_Santini%2C_Rankin%2C_Garfield_Bight_in_Florida.jpg/330px-003_Everglades_National_Park_aerial_view_with_Terrapin%2C_Santini%2C_Rankin%2C_Garfield_Bight_in_Florida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/003_Everglades_National_Park_aerial_view_with_Terrapin%2C_Santini%2C_Rankin%2C_Garfield_Bight_in_Florida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:003_Everglades_National_Park_aerial_view_with_Terrapin,_Santini,_Rankin,_Garfield_Bight_in_Florida.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-01-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Anhingatrail.jpg",
+   "w": 1597,
+   "h": 1039,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Anhingatrail.jpg/330px-Anhingatrail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Anhingatrail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anhingatrail.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Periphyton - Everglades National Park - DSC09411.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Periphyton_-_Everglades_National_Park_-_DSC09411.jpg/330px-Periphyton_-_Everglades_National_Park_-_DSC09411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Periphyton_-_Everglades_National_Park_-_DSC09411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Periphyton_-_Everglades_National_Park_-_DSC09411.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Daderot",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-03-17 14:52:46",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cypres dome with Alligator, NPSphoto, G.Gardner (9101883836).jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Cypres_dome_with_Alligator%2C_NPSphoto%2C_G.Gardner_%289101883836%29.jpg/330px-Cypres_dome_with_Alligator%2C_NPSphoto%2C_G.Gardner_%289101883836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Cypres_dome_with_Alligator%2C_NPSphoto%2C_G.Gardner_%289101883836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cypres_dome_with_Alligator,_NPSphoto,_G.Gardner_(9101883836).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Everglades NPS from Homestead, Florida, United States",
+   "credito": "Cypres dome with Alligator, NPSphoto, G.Gardner.jpg",
+   "nonfree": "",
+   "fecha": "2009-11-01 07:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Florida Panther (1), NPSPhoto, Rodney Cammauf (9255082055).jpg",
+   "w": 3768,
+   "h": 2512,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Florida_Panther_%281%29%2C_NPSPhoto%2C_Rodney_Cammauf_%289255082055%29.jpg/330px-Florida_Panther_%281%29%2C_NPSPhoto%2C_Rodney_Cammauf_%289255082055%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Florida_Panther_%281%29%2C_NPSPhoto%2C_Rodney_Cammauf_%289255082055%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Florida_Panther_(1),_NPSPhoto,_Rodney_Cammauf_(9255082055).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Everglades NPS from Homestead, Florida, United States",
+   "credito": "Florida Panther (1), NPSPhoto, Rodney Cammauf",
+   "nonfree": "",
+   "fecha": "2005-01-26 15:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Great Egret (2), NPSPhoto, R. Cammauf (1) (9101528256).jpg",
+   "w": 3600,
+   "h": 2400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Great_Egret_%282%29%2C_NPSPhoto%2C_R._Cammauf_%281%29_%289101528256%29.jpg/330px-Great_Egret_%282%29%2C_NPSPhoto%2C_R._Cammauf_%281%29_%289101528256%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Great_Egret_%282%29%2C_NPSPhoto%2C_R._Cammauf_%281%29_%289101528256%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Egret_(2),_NPSPhoto,_R._Cammauf_(1)_(9101528256).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Everglades NPS from Homestead, Florida, United States",
+   "credito": "Great Egret (2), NPSPhoto, R. Cammauf (1)",
+   "nonfree": "",
+   "fecha": "2005-04-09 18:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Little Blue Heron - Egretta caerulea, Anhinga Trail, Everglades National Park, Homestead, Florida.jpg",
+   "w": 4752,
+   "h": 3168,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Little_Blue_Heron_-_Egretta_caerulea%2C_Anhinga_Trail%2C_Everglades_National_Park%2C_Homestead%2C_Florida.jpg/330px-Little_Blue_Heron_-_Egretta_caerulea%2C_Anhinga_Trail%2C_Everglades_National_Park%2C_Homestead%2C_Florida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Little_Blue_Heron_-_Egretta_caerulea%2C_Anhinga_Trail%2C_Everglades_National_Park%2C_Homestead%2C_Florida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Little_Blue_Heron_-_Egretta_caerulea,_Anhinga_Trail,_Everglades_National_Park,_Homestead,_Florida.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Judy Gallagher",
+   "credito": "https://www.flickr.com/photos/52450054@N04/6496890621/",
+   "nonfree": "",
+   "fecha": "2011-12-11 10:13:59",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

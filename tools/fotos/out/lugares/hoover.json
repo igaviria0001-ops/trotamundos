@@ -1,0 +1,213 @@
+{
+ "id": "hoover",
+ "enwiki": "Hoover Dam",
+ "endesc": "Dam in Nevada and Arizona, US",
+ "qid": "Q172822",
+ "coord": [
+  36.01583333333333,
+  -114.73777777777778
+ ],
+ "label_es": "Presa Hoover",
+ "desc_es": "presa hidroeléctrica en el río Colorado, Estados Unidos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1931-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1936-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 221.4,
+   "u": "Q11573"
+  },
+  {
+   "v": 376.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 379.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q357679",
+  "Q15911738",
+  "Q1244922"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Presa Hoover",
+ "extracto_es": "La presa Hoover (Hoover Dam, en inglés) es una presa de hormigón de arco-gravedad, ubicada en el curso del río Colorado, en la frontera entre los estados de Arizona y Nevada (EE. UU.). Está situada 48 km al sureste de Las Vegas.\nInicialmente se llamó presa de Boulder, pero finalmente recibió el nombre de Presa Hoover, en honor de Herbert Hoover, que jugó un papel fundamental en su construcción, primero como secretario de Comercio y después como presidente de Estados Unidos.\nSe construyó durante la época de la Gran Depresión, entre 1931 y 1936, completándose dos años antes de lo previsto. Está gestionada por el Bureau of Reclamation del Departamento de Interior. Desde 1981 figura en el Registro Nacional de Lugares Históricos.\nEl lago creado aguas arriba recibe el nombre de lago Mead, en honor de Elwood Mead, ingeniero que previó la necesidad de la presa.",
+ "candidatas": [
+  {
+   "file": "File:Hoover Dam and Black Canyon seen from the Mike O'Callaghan–Pat Tillman Memorial Bridge, panorama, Arizona–Nevada.jpg",
+   "w": 11000,
+   "h": 9243,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hoover_Dam_and_Black_Canyon_seen_from_the_Mike_O%27Callaghan%E2%80%93Pat_Tillman_Memorial_Bridge%2C_panorama%2C_Arizona%E2%80%93Nevada.jpg/330px-Hoover_Dam_and_Black_Canyon_seen_from_the_Mike_O%27Callaghan%E2%80%93Pat_Tillman_Memorial_Bridge%2C_panorama%2C_Arizona%E2%80%93Nevada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hoover_Dam_and_Black_Canyon_seen_from_the_Mike_O%27Callaghan%E2%80%93Pat_Tillman_Memorial_Bridge%2C_panorama%2C_Arizona%E2%80%93Nevada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hoover_Dam_and_Black_Canyon_seen_from_the_Mike_O%27Callaghan%E2%80%93Pat_Tillman_Memorial_Bridge,_panorama,_Arizona%E2%80%93Nevada.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-04-24 19:10:49",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Glen Canyon Dam MC.jpg",
+   "w": 7000,
+   "h": 2917,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Glen_Canyon_Dam_MC.jpg/330px-Glen_Canyon_Dam_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Glen_Canyon_Dam_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Glen_Canyon_Dam_MC.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Christian Mehlführer, User:Chmehl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 13 April 20",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:2017 Aerial view Hoover Dam 4774.jpg",
+   "w": 2000,
+   "h": 1600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2017_Aerial_view_Hoover_Dam_4774.jpg/330px-2017_Aerial_view_Hoover_Dam_4774.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/2017_Aerial_view_Hoover_Dam_4774.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2017_Aerial_view_Hoover_Dam_4774.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mariordo (Mario Roberto Durán Ortiz)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-09-22 17:21:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Boulder Dam - A.jpg",
+   "w": 3098,
+   "h": 2478,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Boulder_Dam_-_A.jpg/330px-Boulder_Dam_-_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Boulder_Dam_-_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boulder_Dam_-_A.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "P, Hughes",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-17 15:15:12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Hoover Dam, Colorado River.JPG",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Hoover_Dam%2C_Colorado_River.JPG/330px-Hoover_Dam%2C_Colorado_River.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Hoover_Dam%2C_Colorado_River.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hoover_Dam,_Colorado_River.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ubergirl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-02-26 14:14:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hoover Dam Generator Controls.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Hoover_Dam_Generator_Controls.jpg/330px-Hoover_Dam_Generator_Controls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Hoover_Dam_Generator_Controls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hoover_Dam_Generator_Controls.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Naomi Persephone Amethyst",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Water intake towers at Hoover Dam.jpg",
+   "w": 5184,
+   "h": 3033,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Water_intake_towers_at_Hoover_Dam.jpg/330px-Water_intake_towers_at_Hoover_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Water_intake_towers_at_Hoover_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Water_intake_towers_at_Hoover_Dam.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "APK",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-10-05 09:49:34",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hoover Dam Ohio.JPG",
+   "w": 2048,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Hoover_Dam_Ohio.JPG/330px-Hoover_Dam_Ohio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hoover_Dam_Ohio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hoover_Dam_Ohio.JPG",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Analogue Kid at English Wikipedia",
+   "credito": "Transferred from en.wikipedia to Commons.",
+   "nonfree": "",
+   "fecha": "27 July 2006 (origin",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}
