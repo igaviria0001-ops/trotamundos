@@ -264,7 +264,7 @@ button.asa::before { content: ''; position: absolute; left: 10px; right: 10px; t
 
 /* ---------- Raspa y descubre ---------- */
 .raspa-zona { position: absolute; inset: 0; display: flex; flex-direction: column; gap: 10px; padding: 6px 14px calc(14px + var(--sa-b)); max-width: 620px; margin: 0 auto; }
-.raspa-carta { flex: 1 1 auto; min-height: 180px; display: flex; flex-direction: column; transform: rotate(-.8deg); }
+.raspa-carta { flex: 1 1 auto; min-height: 180px; max-height: calc((100vw - 28px) * 1.02); display: flex; flex-direction: column; transform: rotate(-.8deg); }
 .raspa-carta.llega { animation: llega .5s var(--rebote) both; }
 .raspa-carta .foto { position: relative; flex: 1; min-height: 0; width: 100%; }
 .raspa-carta .foto img { position: absolute; inset: 0; }
@@ -295,9 +295,24 @@ button.asa::before { content: ''; position: absolute; left: 10px; right: 10px; t
 @media (min-width: 900px) and (min-aspect-ratio: 5/4) {
   .raspa-zona { max-width: 1180px; display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(320px, .8fr); grid-template-rows: auto auto 1fr; column-gap: 28px; padding: 14px 28px 28px; }
   .raspa-carta { grid-column: 1; grid-row: 1 / 4; align-self: start; }
-  .raspa-carta { flex: none; }
+  .raspa-carta { flex: none; max-height: none; }
   .raspa-carta .foto { flex: none; aspect-ratio: 4 / 3; max-height: 72vh; }
   .raspa-medidor, .raspa-pista, .opciones { grid-column: 2; }
   .opciones { grid-template-columns: 1fr; align-content: start; margin-top: 8px; }
   .juego-raspa .hoja, .juego-raspa .hoja.grande { max-height: none; }
+}
+
+/* ---------- Lupa viajera ---------- */
+.lupa-lente { position: absolute; inset: 0; overflow: hidden; border-radius: 3px; }
+.lupa-lente img { width: 100%; height: 100%; object-fit: cover; will-change: transform; }
+.lupa-aro { position: absolute; inset: 0; pointer-events: none; box-shadow: inset 0 0 60px rgba(20, 50, 80, .35); border-radius: 3px; }
+.lupa-fila { display: flex; align-items: center; gap: 10px; }
+.lupa-fila .raspa-medidor { flex: 1; }
+.lupa-barra i { background: linear-gradient(90deg, var(--hoja), var(--sol), var(--rojo)); }
+.lupa-pausa { min-height: 42px; padding: 0 1em; font-size: .95rem; }
+.juego-lupa .hoja { max-height: 58%; }
+.juego-lupa .hoja.grande { max-height: 90%; }
+@media (min-width: 900px) and (min-aspect-ratio: 5/4) {
+  .lupa-fila { grid-column: 2; }
+  .juego-lupa .hoja, .juego-lupa .hoja.grande { max-height: none; }
 }
