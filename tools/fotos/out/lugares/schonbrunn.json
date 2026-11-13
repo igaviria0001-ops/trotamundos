@@ -1,0 +1,215 @@
+{
+ "id": "schonbrunn",
+ "enwiki": "Schönbrunn Palace",
+ "endesc": "Palace in Vienna, Austria",
+ "qid": "Q131330",
+ "coord": [
+  48.18479,
+  16.31227
+ ],
+ "label_es": "Palacio de Schönbrunn",
+ "desc_es": "máxima residencia de los Habsburgo, ubicado en Viena, Austria",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1638-01-01T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 193.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 186.28,
+   "u": "Q35852"
+  },
+  {
+   "v": 260.64,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q751876"
+ ],
+ "p17": [
+  "Q40"
+ ],
+ "unesco": false,
+ "eswiki": "Palacio de Schönbrunn",
+ "extracto_es": "El Palacio de Schönbrunn (en alemán: Schloss Schönbrunn, pronunciado /ˈʃlɔs ʃøːnˈbʁʊn/ (); en bávaro central: Schloss Scheenbrunn) fue la principal residencia de verano de los soberanos de la casa de Habsburgo, situada en Hietzing, el 13.º distrito de Viena (Austria). El nombre Schönbrunn (literalmente, «fuente bonita») tiene sus orígenes en un pozo artesiano del que se obtenía el agua que consumía la corte.\nEl palacio, de estilo barroco, tiene 1441 habitaciones y es uno de los monumentos arquitectónicos, culturales e históricos más importantes del país. La historia del palacio y sus amplios jardines abarca más de trescientos años, reflejando los cambiantes gustos, intereses y aspiraciones de los sucesivos monarcas de la casa de Habsburgo. Ha sido una importante atracción turística desde mediados de la década de 1950.​",
+ "candidatas": [
+  {
+   "file": "File:Schoenbrunn Palace as seen from Neptune Fountain, September 2016.jpg",
+   "w": 5426,
+   "h": 2982,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Schoenbrunn_Palace_as_seen_from_Neptune_Fountain%2C_September_2016.jpg/330px-Schoenbrunn_Palace_as_seen_from_Neptune_Fountain%2C_September_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Schoenbrunn_Palace_as_seen_from_Neptune_Fountain%2C_September_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Schoenbrunn_Palace_as_seen_from_Neptune_Fountain,_September_2016.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-15 10:04:57",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Palacio de Schönbrunn, Viena, Austria, 2020-02-02, DD 10.jpg",
+   "w": 4829,
+   "h": 4844,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_10.jpg/330px-Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Sch%C3%B6nbrunn,_Viena,_Austria,_2020-02-02,_DD_10.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-02-02 12:04:54",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 14,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Wien - Schloss Schönbrunn.JPG",
+   "w": 5650,
+   "h": 3860,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Wien_-_Schloss_Sch%C3%B6nbrunn.JPG/330px-Wien_-_Schloss_Sch%C3%B6nbrunn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Wien_-_Schloss_Sch%C3%B6nbrunn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wien_-_Schloss_Sch%C3%B6nbrunn.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C.Stadler/Bwag",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-07-03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:15-04-18-Schloß-Schönbrunn-Großer-Saal-DSCF3688-RalfR.jpg",
+   "w": 4896,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/15-04-18-Schlo%C3%9F-Sch%C3%B6nbrunn-Gro%C3%9Fer-Saal-DSCF3688-RalfR.jpg/330px-15-04-18-Schlo%C3%9F-Sch%C3%B6nbrunn-Gro%C3%9Fer-Saal-DSCF3688-RalfR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/15-04-18-Schlo%C3%9F-Sch%C3%B6nbrunn-Gro%C3%9Fer-Saal-DSCF3688-RalfR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:15-04-18-Schlo%C3%9F-Sch%C3%B6nbrunn-Gro%C3%9Fer-Saal-DSCF3688-RalfR.jpg",
+   "licencia": "GFDL 1.2",
+   "licurl": "",
+   "autor": "Ralf Roletschek",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-04-18",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Palacio de Schönbrunn, Viena, Austria, 2020-02-02, DD 37.jpg",
+   "w": 7632,
+   "h": 5088,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_37.jpg/330px-Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Sch%C3%B6nbrunn,_Viena,_Austria,_2020-02-02,_DD_37.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-02-02 12:48:19",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Palacio de Schönbrunn, Viena, Austria, 2020-02-02, DD 28.jpg",
+   "w": 8640,
+   "h": 5717,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_28.jpg/330px-Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Sch%C3%B6nbrunn,_Viena,_Austria,_2020-02-02,_DD_28.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-02-02 12:47:40",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Columbary (Schönbrunn) (2).jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Columbary_%28Sch%C3%B6nbrunn%29_%282%29.jpg/330px-Columbary_%28Sch%C3%B6nbrunn%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Columbary_%28Sch%C3%B6nbrunn%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Columbary_(Sch%C3%B6nbrunn)_(2).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diana Ringo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-16 05:17:37",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Palacio de Schönbrunn, Viena, Austria, 2020-02-02, DD 17.jpg",
+   "w": 7113,
+   "h": 4774,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_17.jpg/330px-Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Sch%C3%B6nbrunn,_Viena,_Austria,_2020-02-02,_DD_17.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-02-02 12:17:32",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

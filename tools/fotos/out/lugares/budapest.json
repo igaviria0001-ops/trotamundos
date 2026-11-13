@@ -1,0 +1,197 @@
+{
+ "id": "budapest",
+ "enwiki": "Hungarian Parliament Building",
+ "endesc": "Seat of the National Assembly of Hungary",
+ "qid": "Q11819",
+ "coord": [
+  47.50694444444444,
+  19.045555555555556
+ ],
+ "label_es": "Parlamento de Budapest",
+ "desc_es": "edificio de Budapest que alberga el parlamento de Hungría",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+2000-00-00T00:00:00Z",
+   "prec": 6
+  },
+  {
+   "p": "P1619",
+   "time": "+1904-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 96.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q7138926"
+ ],
+ "p17": [
+  "Q28"
+ ],
+ "unesco": false,
+ "eswiki": "Parlamento de Hungría",
+ "extracto_es": "El Parlamento (en húngaro: Országház = Casa del País) es probablemente el edificio más conocido de Budapest. Es la sede del legislativo húngaro y otras instituciones, como la biblioteca del Parlamento. Se encuentra en el distrito V de la ciudad, junto al río Danubio, situándose la entrada principal en la plaza Kossuth.\nEl edificio fue construido entre 1884 y 1902, siguiendo los planos de Imre Steindl, que se quedó ciego unos meses antes de la inauguración. Es el mayor edificio del país, escenario de las reuniones de la Asamblea Nacional de Hungría y el segundo mayor parlamento del mundo detrás del de Rumanía. Es de estilo neogótico, aunque con algunas particularidades.​",
+ "candidatas": [
+  {
+   "file": "File:Budapest-Parliament-0001.jpg",
+   "w": 6291,
+   "h": 4653,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/330px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Source: User:Godot13  Derivative: User:MathKnight",
+   "credito": "File:HUN-2015-Budapest-Hungarian Parliament (Budapest) 2015-01.jpg by User:Godot13",
+   "nonfree": "",
+   "fecha": "Taken on 14 August 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Hungarian Parliament Building from across the Danube, 2025-01-11.jpg",
+   "w": 4731,
+   "h": 2649,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg/330px-Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_from_across_the_Danube,_2025-01-11.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Kilyann Le Hen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-01-11 15:34:15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Országház (Hungarian Parliament Building)(1).jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Orsz%C3%A1gh%C3%A1z_%28Hungarian_Parliament_Building%29%281%29.jpg/330px-Orsz%C3%A1gh%C3%A1z_%28Hungarian_Parliament_Building%29%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Orsz%C3%A1gh%C3%A1z_%28Hungarian_Parliament_Building%29%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Orsz%C3%A1gh%C3%A1z_(Hungarian_Parliament_Building)(1).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-03-17 17:40:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Országház (Hungarian Parliament Building)(2).jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Orsz%C3%A1gh%C3%A1z_%28Hungarian_Parliament_Building%29%282%29.jpg/330px-Orsz%C3%A1gh%C3%A1z_%28Hungarian_Parliament_Building%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Orsz%C3%A1gh%C3%A1z_%28Hungarian_Parliament_Building%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Orsz%C3%A1gh%C3%A1z_(Hungarian_Parliament_Building)(2).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-03-18 18:32:18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Parliament Building, Budapest, outside.jpg",
+   "w": 5412,
+   "h": 3520,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Parliament_Building%2C_Budapest%2C_outside.jpg/330px-Parliament_Building%2C_Budapest%2C_outside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Parliament_Building%2C_Budapest%2C_outside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parliament_Building,_Budapest,_outside.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Epistola8",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-03-20 18:17:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Hungarian Parliament Building photographed by Peter Elfelt.jpg",
+   "w": 5055,
+   "h": 3173,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Hungarian_Parliament_Building_photographed_by_Peter_Elfelt.jpg/330px-Hungarian_Parliament_Building_photographed_by_Peter_Elfelt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hungarian_Parliament_Building_photographed_by_Peter_Elfelt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_photographed_by_Peter_Elfelt.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Peter Elfelt",
+   "credito": "http://www5.kb.dk/images/billed/2010/okt/billeder/object2117279/da/",
+   "nonfree": "",
+   "fecha": "2023-08-20 20:22:54",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Budapest Parliament Building .jpg",
+   "w": 5312,
+   "h": 2988,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Budapest_Parliament_Building_.jpg/330px-Budapest_Parliament_Building_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Budapest_Parliament_Building_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Budapest_Parliament_Building_.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Iraq.vet",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-04-16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Divald országház 1905-27.jpg",
+   "w": 5441,
+   "h": 3970,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Divald_orsz%C3%A1gh%C3%A1z_1905-27.jpg/330px-Divald_orsz%C3%A1gh%C3%A1z_1905-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Divald_orsz%C3%A1gh%C3%A1z_1905-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Divald_orsz%C3%A1gh%C3%A1z_1905-27.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Károly Divald",
+   "credito": "Vasáranpi Ujság 1905/27 [1] Transferred from hu.wikipedia to Commons.",
+   "nonfree": "",
+   "fecha": "1905",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

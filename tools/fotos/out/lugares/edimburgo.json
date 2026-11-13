@@ -1,0 +1,194 @@
+{
+ "id": "edimburgo",
+ "enwiki": "Edinburgh Castle",
+ "endesc": "Historic castle in Edinburgh, Scotland",
+ "qid": "Q212065",
+ "coord": [
+  55.9487,
+  -3.20073
+ ],
+ "label_es": "Castillo de Edimburgo",
+ "desc_es": "antigua fortaleza en Edimburgo, Escocia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1200-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "p31": [
+  "Q23413",
+  "Q33506",
+  "Q839954",
+  "Q1497364",
+  "Q751876"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": false,
+ "eswiki": "Castillo de Edimburgo",
+ "extracto_es": "El castillo de Edimburgo es una antigua fortaleza erigida sobre una roca de origen volcánico ubicada en el centro de la ciudad de Edimburgo, Escocia. Aunque existen restos humanos desde la Edad del Hierro, el primer castillo se construyó durante el reinado de David I (r. 1124-1153) y continuó como residencia real hasta 1633. Se encuentra emplazado en la cima de la calle Castle Rock, una de las cuatro calles que forman la Royal Mile. \nLa fortaleza era una de las más importantes del Reino de Escocia, por lo que participó activamente en múltiples conflictos históricos desde las guerras de Independencia de Escocia en el siglo XIV hasta la rebelión jacobita de 1745. Algunos estudios en 2014 relevaron la existencia de 26 asedios en toda su historia, siendo «uno de los lugares más asediados de Gran Bretaña y uno de los más atacados del mundo».​ Actualmente sobreviven pocos edificios anteriores al Largo asedio de 1571-73 cuando las defensas fueron destruidas por bombardeos de artillería, con la excepción de la capilla de Santa Margarita del siglo XII, uno de los monumentos más antiguos de Edimburgo,​ el Palacio real y el gran salón del siglo XVI, aunque el interior fue modificado durante el periodo victoriano. \nEl castillo también alberga las joyas de la Corona escocesa. El Ejército británico es responsable de algunas áreas del castillo, aunque su presencia actual es meramente ceremonial y administrativa. La mayoría de los edificios albergan museos. El castillo es la atracción turística de pago más visitada de Escocia​ y la segunda de Reino Unido con 2,2 millones de visitantes en 2019.​\nCuatro de sus lados se hallan protegidos por abruptos acantilados, y el acceso al castillo queda limitado a una calle de pronunciada pendiente en el lado oriental del castillo. Antaño hubo un lago artificial en su zona norte. Este lago, llamado Nor'Loch (lago norte en español), fue desecado en época georgiana con la construcción de la Ciudad Nueva, para ser usado como albañal al aire libre y más tarde como parque. Fue a partir de este momento cuando la ciudadela perdió la mayor parte de su papel defensivo. El acceso al castillo se efectúa a través de la explanada, una amplia plaza pavimentada y de plano inclinado que se encuentra entre el castillo propiamente dicho y el final de la Royal Mile. Es en esta explanada donde se celebra anualmente el Military Tattoo, y es aquí donde en su día se organizaban los desfiles y diversos tipos de entrenamiento para la guarnición militar del cas",
+ "candidatas": [
+  {
+   "file": "File:Edinburgh Castle from Esplanade 20211019.jpg",
+   "w": 3832,
+   "h": 2750,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Edinburgh_Castle_from_Esplanade_20211019.jpg/330px-Edinburgh_Castle_from_Esplanade_20211019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Edinburgh_Castle_from_Esplanade_20211019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_Esplanade_20211019.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Daniel Kraft",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-10-19 09:02:02",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Edinburgh Castle from Grass Market.jpg",
+   "w": 3460,
+   "h": 2300,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Edinburgh_Castle_from_Grass_Market.jpg/330px-Edinburgh_Castle_from_Grass_Market.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Edinburgh_Castle_from_Grass_Market.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_Grass_Market.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "George Washington Wilson / Adam Cuerden",
+   "credito": "Edinburgh Castle from the Grass Market, from Cornell University Library",
+   "nonfree": "",
+   "fecha": "between circa 1865 a",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Edinburgh Castle from the Grassmarket.jpg",
+   "w": 3088,
+   "h": 2056,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Edinburgh_Castle_from_the_Grassmarket.jpg/330px-Edinburgh_Castle_from_the_Grassmarket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Edinburgh_Castle_from_the_Grassmarket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_the_Grassmarket.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Stephencdickson",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-08-16 14:57:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Edinburgh Castle Rock.jpg",
+   "w": 4256,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Edinburgh_Castle_Rock.jpg/330px-Edinburgh_Castle_Rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Edinburgh_Castle_Rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_Rock.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Saffron Blaze",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-02-15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Edinburgh Castle gate 20211019.jpg",
+   "w": 4469,
+   "h": 3095,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Edinburgh_Castle_gate_20211019.jpg/330px-Edinburgh_Castle_gate_20211019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Edinburgh_Castle_gate_20211019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_gate_20211019.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Daniel Kraft",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-10-19 09:08:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Scotland-2016-Aerial-Edinburgh Castle (cropped).jpg",
+   "w": 2903,
+   "h": 2023,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Scotland-2016-Aerial-Edinburgh_Castle_%28cropped%29.jpg/330px-Scotland-2016-Aerial-Edinburgh_Castle_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Scotland-2016-Aerial-Edinburgh_Castle_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Scotland-2016-Aerial-Edinburgh_Castle_(cropped).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Godot13",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-08-04 18:22:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:South side of Edinburgh Castle in the snow.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/South_side_of_Edinburgh_Castle_in_the_snow.jpg/330px-South_side_of_Edinburgh_Castle_in_the_snow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/South_side_of_Edinburgh_Castle_in_the_snow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:South_side_of_Edinburgh_Castle_in_the_snow.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mike Shaw",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-02-10 13:44:18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Edinburgh - Edinburgh Castle - 20230412134407.jpg",
+   "w": 5769,
+   "h": 3851,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Edinburgh_-_Edinburgh_Castle_-_20230412134407.jpg/330px-Edinburgh_-_Edinburgh_Castle_-_20230412134407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Edinburgh_-_Edinburgh_Castle_-_20230412134407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_-_Edinburgh_Castle_-_20230412134407.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Olliebailie",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-04-12 13:44:07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

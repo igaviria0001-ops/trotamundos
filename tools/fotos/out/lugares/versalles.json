@@ -1,0 +1,257 @@
+{
+ "id": "versalles",
+ "enwiki": "Palace of Versailles",
+ "endesc": "Former royal residence in Versailles, France",
+ "qid": "Q2946",
+ "coord": [
+  48.804722222222225,
+  2.120277777777778
+ ],
+ "label_es": "Palacio de Versalles",
+ "desc_es": "recinto palaciego en Francia que desempeñó las funciones de una residencia real en siglos pasados",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1661-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 67000.0,
+   "u": "Q25343"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 4741758.0,
+   "u": "1"
+  },
+  {
+   "v": 7432801.0,
+   "u": "1"
+  },
+  {
+   "v": 6701193.0,
+   "u": "1"
+  },
+  {
+   "v": 4226879.0,
+   "u": "1"
+  },
+  {
+   "v": 7702135.0,
+   "u": "1"
+  },
+  {
+   "v": 6746198.0,
+   "u": "1"
+  },
+  {
+   "v": 7567008.0,
+   "u": "1"
+  },
+  {
+   "v": 5606127.0,
+   "u": "1"
+  },
+  {
+   "v": 2593260.0,
+   "u": "1"
+  },
+  {
+   "v": 4329611.0,
+   "u": "1"
+  },
+  {
+   "v": 7714389.0,
+   "u": "1"
+  },
+  {
+   "v": 6087556.0,
+   "u": "1"
+  },
+  {
+   "v": 8132518.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q751876",
+  "Q16560",
+  "Q53536964",
+  "Q207694"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": true,
+ "eswiki": "Palacio de Versalles",
+ "extracto_es": "El Palacio de Versalles (en francés: château de Versailles)​ es una antigua residencia real construida por el rey Luis XIV situada en Versalles, a unos 19 kilómetros al oeste de París (Francia). El palacio es propiedad de la República Francesa y desde 1995 está gestionado, bajo la dirección del Ministerio de Cultura francés, por el Establecimiento Público del Palacio, Museo y Dominio Nacional de Versalles.​ Alrededor de 15 millones de personas visitan cada año el palacio, el parque o los jardines de Versalles, lo que lo convierte en una de las atracciones turísticas más populares del mundo.​\nLuis XIII construyó un sencillo pabellón de caza en el emplazamiento del Palacio de Versalles en 1623. Tras su muerte llegó Luis XIV, que amplió el castillo hasta convertirlo en los inicios de un palacio que pasó por varios cambios y fases desde 1661 hasta 1715. Fue la residencia favorita de ambos reyes y, en 1682, Luis XIV trasladó la sede de su corte y gobierno a Versalles, convirtiendo el palacio en la capital de facto de Francia. Esta situación se mantuvo con los reyes Luis XV y Luis XVI, que principalmente realizaron reformas interiores en el palacio, pero en 1789 la familia real y la capital de Francia regresaron a París. Durante el resto de la Revolución francesa, el Palacio de Versalles fue abandonado en gran parte y despojado de sus bienes, y la población de la ciudad circundante cayó en picado.\nNapoleón I, tras su coronación, utilizó Versalles como residencia de verano de 1810 a 1814, pero únicamente restauró el Gran Trianón. Tras la Restauración borbónica, cuando el rey volvió al trono, residió en París y no fue hasta la década de 1830 cuando se volvió a restaurar una parte importante del palacio. En su interior se instaló un museo de historia de Francia que sustituyó a los aposentos del ala sur.\nEl palacio y el parque fueron designados Patrimonio de la Humanidad por la UNESCO en 1979 por su importancia como centro del poder, el arte y la ciencia en Francia durante los siglos XVII y XVIII.​ El Ministerio de Cultura francés ha incluido el palacio, sus jardines y algunas de sus estructuras subsidiarias en su lista de monumentos de importancia cultural.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Chateau Versailles Galerie des Glaces.jpg",
+   "w": 3892,
+   "h": 2584,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg/330px-Chateau_Versailles_Galerie_des_Glaces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Myrabella",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-05-25",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Versailles Chapel - July 2006 edit.jpg",
+   "w": 2274,
+   "h": 3500,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Versailles_Chapel_-_July_2006_edit.jpg/330px-Versailles_Chapel_-_July_2006_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Versailles_Chapel_-_July_2006_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Versailles_Chapel_-_July_2006_edit.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-07-07",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Vue aérienne du domaine de Versailles par ToucanWings - Creative Commons By Sa 3.0 - 083.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg/330px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "ToucanWings",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-19 20:59:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Palace of Versailles, Detail (2).jpg",
+   "w": 6282,
+   "h": 3973,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Palace_of_Versailles%2C_Detail_%282%29.jpg/330px-Palace_of_Versailles%2C_Detail_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Palace_of_Versailles%2C_Detail_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Versailles,_Detail_(2).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Julian Lupyan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-07-01 11:01:14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Main Façade, Palace of Versailles, Cour Royale.jpg",
+   "w": 7009,
+   "h": 4649,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Main_Fa%C3%A7ade%2C_Palace_of_Versailles%2C_Cour_Royale.jpg/330px-Main_Fa%C3%A7ade%2C_Palace_of_Versailles%2C_Cour_Royale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Main_Fa%C3%A7ade%2C_Palace_of_Versailles%2C_Cour_Royale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Main_Fa%C3%A7ade,_Palace_of_Versailles,_Cour_Royale.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Julian Lupyan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-07-01 11:00:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Versailles Palace (FRA) – Equestrian Olympic Venue.jpg",
+   "w": 4238,
+   "h": 2219,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg/330px-Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Versailles_Palace_(FRA)_%E2%80%93_Equestrian_Olympic_Venue.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "ToucanWings",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-19 20:51:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "en"
+  },
+  {
+   "file": "File:Vue aérienne du domaine de Versailles par ToucanWings 001.jpg",
+   "w": 4352,
+   "h": 2511,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_001.jpg/330px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_001.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "ToucanWings",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-19 20:51:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Water reflection of the Orangerie garden and Palace of Versailles with blue sky in France.jpg",
+   "w": 8192,
+   "h": 4096,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Water_reflection_of_the_Orangerie_garden_and_Palace_of_Versailles_with_blue_sky_in_France.jpg/330px-Water_reflection_of_the_Orangerie_garden_and_Palace_of_Versailles_with_blue_sky_in_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Water_reflection_of_the_Orangerie_garden_and_Palace_of_Versailles_with_blue_sky_in_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_the_Orangerie_garden_and_Palace_of_Versailles_with_blue_sky_in_France.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Basile Morin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-08-06 23:51:28",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  }
+ ]
+}

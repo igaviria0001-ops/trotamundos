@@ -1,0 +1,202 @@
+{
+ "id": "fushimi",
+ "enwiki": "Fushimi Inari-taisha",
+ "endesc": "Shinto shrine near Kyoto, Japan",
+ "qid": "Q714828",
+ "coord": [
+  34.967202,
+  135.773386
+ ],
+ "label_es": "Fushimi Inari-taisha",
+ "desc_es": "santuario sinoista",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0711-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q514480",
+  "Q11438310",
+  "Q134917286",
+  "Q845945",
+  "Q135009132",
+  "Q135419779"
+ ],
+ "p17": [
+  "Q17"
+ ],
+ "unesco": false,
+ "eswiki": "Fushimi Inari-taisha",
+ "extracto_es": "El Fushimi Inari-Taisha (伏見稲荷大社, Fushimi Inari-Taisha?) es el principal santuario sintoísta (jinja, 神社) dedicado al espíritu de Inari, y situado en Fushimi-ku, uno de los distritos de Kioto (Japón). El santuario se encuentra situado en la base de una montaña también conocida como \"Inari\", que incluye varios senderos para llegar a otros santuarios más pequeños.\nDesde las épocas más antiguas de Japón, Inari era vista como patrona de los negocios (en tanto que cada Torii existente en el santuario ha sido donado por algún hombre de negocios japonés) aunque Inari en primer lugar fuera diosa del arroz. Los comerciantes y artesanos ofrecían culto a Inari a cambio de obtener riqueza en sus negocios, por lo que donaban numerosos torii que actualmente forman parte de la vista panorámica del templo. De este famoso templo se dice que posee más de 32 000 pequeños torii, llamados santuarios.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Torii path with lantern at Fushimi Inari Taisha Shrine, Kyoto, Japan.jpg",
+   "w": 5765,
+   "h": 3843,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/330px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Basile Morin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "10 June 2019 07:37:2",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 21,
+   "origen": "en"
+  },
+  {
+   "file": "File:KyotoFushimiInariLarge.jpg",
+   "w": 3072,
+   "h": 2048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/KyotoFushimiInariLarge.jpg/330px-KyotoFushimiInariLarge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/KyotoFushimiInariLarge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:KyotoFushimiInariLarge.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Paul Vlaar",
+   "credito": "http://www.neep.net/photo/japan/show.php?8117 [dead link] English Wikipedia, original upload 9 March 2005 by Neep",
+   "nonfree": "",
+   "fecha": "2004-07-15",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 15,
+   "origen": "es"
+  },
+  {
+   "file": "File:Fushimiinari-taisha, naihaiden-1.jpg",
+   "w": 6002,
+   "h": 3978,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Fushimiinari-taisha%2C_naihaiden-1.jpg/330px-Fushimiinari-taisha%2C_naihaiden-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Fushimiinari-taisha%2C_naihaiden-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fushimiinari-taisha,_naihaiden-1.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Saigen Jiro",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "19 April 2020 14:41:",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:20181110 Fushimi Inari shrine 6.jpg",
+   "w": 5760,
+   "h": 3840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/20181110_Fushimi_Inari_shrine_6.jpg/330px-20181110_Fushimi_Inari_shrine_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/20181110_Fushimi_Inari_shrine_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_shrine_6.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Balon Greyjoy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-11-10 11:42:21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Inscriptions on torii, Fushimi Inari shrine, Kyoto.jpg",
+   "w": 2336,
+   "h": 3504,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Inscriptions_on_torii%2C_Fushimi_Inari_shrine%2C_Kyoto.jpg/330px-Inscriptions_on_torii%2C_Fushimi_Inari_shrine%2C_Kyoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Inscriptions_on_torii%2C_Fushimi_Inari_shrine%2C_Kyoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Inscriptions_on_torii,_Fushimi_Inari_shrine,_Kyoto.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "MichaelMaggs",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-06-20",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:20181110 Fushimi Inari shrine 5.jpg",
+   "w": 5028,
+   "h": 3417,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/20181110_Fushimi_Inari_shrine_5.jpg/330px-20181110_Fushimi_Inari_shrine_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/20181110_Fushimi_Inari_shrine_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_shrine_5.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Balon Greyjoy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-11-10 11:31:52",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:20181110 Fushimi Inari Torii 12.jpg",
+   "w": 5151,
+   "h": 3339,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/20181110_Fushimi_Inari_Torii_12.jpg/330px-20181110_Fushimi_Inari_Torii_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/20181110_Fushimi_Inari_Torii_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_Torii_12.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Balon Greyjoy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-11-10 11:46:39",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Torii, Fushimi Inari-Taisha.jpg",
+   "w": 5238,
+   "h": 3702,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Torii%2C_Fushimi_Inari-Taisha.jpg/330px-Torii%2C_Fushimi_Inari-Taisha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Torii%2C_Fushimi_Inari-Taisha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Torii,_Fushimi_Inari-Taisha.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marco Almbauer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-09",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

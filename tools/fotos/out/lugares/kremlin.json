@@ -1,0 +1,204 @@
+{
+ "id": "kremlin",
+ "enwiki": "Kremlin",
+ "endesc": "Fortified complex in Moscow, Russia",
+ "qid": "Q133274",
+ "coord": [
+  55.751666666666665,
+  37.617777777777775
+ ],
+ "label_es": "Kremlin",
+ "desc_es": "conjunto de edificios civiles y religiosos situado en el corazón de Moscú",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1420-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 27.5,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q263274",
+  "Q15243209",
+  "Q16831714",
+  "Q481289",
+  "Q2319498"
+ ],
+ "p17": [
+  "Q159"
+ ],
+ "unesco": false,
+ "eswiki": "Kremlin de Moscú",
+ "extracto_es": "El Kremlin de Moscú (en ruso: Московский Кремль, romanizado: Moskovskiy Kreml', pronunciado [mɐˈskofskʲɪj ˈkrʲemlʲ]), también designado por antonomasia como el Kremlin (pronunciación en ruso: [ˈkrʲemlʲ] ()),​ es un complejo fortificado de Moscú (Rusia).​ Situado en el centro de la ciudad, el Kremlin de Moscú contiene cinco palacios, cuatro catedrales y la muralla que lo rodea, junto con las torres del Kremlin. Dentro del complejo está el Gran Palacio del Kremlin, que antiguamente fue una de las residencias del zar de Rusia y actualmente es la residencia oficial del presidente de Rusia. El Kremlin de Moscú tiene vistas del río Moscova al sur, de la catedral de San Basilio y la Plaza Roja al este, y de los Jardines de Alejandro al oeste.\nEn ruso, kremlin denota una «fortaleza dentro de una ciudad», y muchas ciudades históricas de Rusia tienen su propio kremlin. Sin embargo, el Kremlin de Moscú es el más conocido y también sirve en política internacional como una metonimia que identifica al Gobierno de Rusia.​ Durante la Guerra Fría (1947–1991), «el Kremlin» designaba al Gobierno de la Unión Soviética y el término kremlinología significaba el estudio de las decisiones de los líderes soviéticos y, en general, de la política rusa y soviética. Cuando está abierto al público, el Kremlin ofrece visitas guiadas supervisadas de los Museos del Kremlin de Moscú.​​",
+ "candidatas": [
+  {
+   "file": "File:Moscow - 2026 - Kremlin Wall between the Vodovzvodnaya and the Annunciation Towers.jpg",
+   "w": 8256,
+   "h": 5504,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Moscow_-_2026_-_Kremlin_Wall_between_the_Vodovzvodnaya_and_the_Annunciation_Towers.jpg/330px-Moscow_-_2026_-_Kremlin_Wall_between_the_Vodovzvodnaya_and_the_Annunciation_Towers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Moscow_-_2026_-_Kremlin_Wall_between_the_Vodovzvodnaya_and_the_Annunciation_Towers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moscow_-_2026_-_Kremlin_Wall_between_the_Vodovzvodnaya_and_the_Annunciation_Towers.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Юрий Д.К.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 17 February",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Moscow 05-2012 Kremlin 22.jpg",
+   "w": 4338,
+   "h": 2739,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Moscow_05-2012_Kremlin_22.jpg/330px-Moscow_05-2012_Kremlin_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Moscow_05-2012_Kremlin_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moscow_05-2012_Kremlin_22.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "A.Savin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-05-28",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Moscow July 2011-10a.jpg",
+   "w": 3559,
+   "h": 2579,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Moscow_July_2011-10a.jpg/330px-Moscow_July_2011-10a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Moscow_July_2011-10a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moscow_July_2011-10a.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-07-13",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Moscow Kremlin and Bolshoy Kamenny Bridge late evening 01.JPG",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Moscow_Kremlin_and_Bolshoy_Kamenny_Bridge_late_evening_01.JPG/330px-Moscow_Kremlin_and_Bolshoy_Kamenny_Bridge_late_evening_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Moscow_Kremlin_and_Bolshoy_Kamenny_Bridge_late_evening_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moscow_Kremlin_and_Bolshoy_Kamenny_Bridge_late_evening_01.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Andrey Korzun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-24 21:46:16",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Moscow Kremlin (8281675670).jpg",
+   "w": 2961,
+   "h": 1986,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Moscow_Kremlin_%288281675670%29.jpg/330px-Moscow_Kremlin_%288281675670%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Moscow_Kremlin_%288281675670%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moscow_Kremlin_(8281675670).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Pavel Kazachkov from Moscow, Russia",
+   "credito": "Moscow Kremlin",
+   "nonfree": "",
+   "fecha": "2012-12-17 17:33",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Moscow Grand Kremlin Palace3.jpg",
+   "w": 4150,
+   "h": 2491,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Moscow_Grand_Kremlin_Palace3.jpg/330px-Moscow_Grand_Kremlin_Palace3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow_Grand_Kremlin_Palace3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moscow_Grand_Kremlin_Palace3.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ludvig14",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-03-01 16:08:39",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Helipad in Moscow Kremlin 2014.JPG",
+   "w": 4563,
+   "h": 3005,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Helipad_in_Moscow_Kremlin_2014.JPG/330px-Helipad_in_Moscow_Kremlin_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Helipad_in_Moscow_Kremlin_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Helipad_in_Moscow_Kremlin_2014.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Dmitry Ivanov.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 23 August 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Башни Московского кремля.jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg/330px-%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Крылов Иван",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-03-25 07:03:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

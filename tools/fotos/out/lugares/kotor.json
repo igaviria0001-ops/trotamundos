@@ -1,0 +1,193 @@
+{
+ "id": "kotor",
+ "enwiki": "Kotor",
+ "endesc": "City in Coastal Montenegro",
+ "qid": "Q171080",
+ "coord": [
+  42.42539,
+  18.771191
+ ],
+ "label_es": "Kotor",
+ "desc_es": "ciudad de Montenegro",
+ "inicio": [],
+ "p31": [
+  "Q3957",
+  "Q515"
+ ],
+ "p17": [
+  "Q236"
+ ],
+ "unesco": false,
+ "eswiki": "Kotor",
+ "extracto_es": "Kotor (o Cattaro por su denominación en italiano) es una ciudad costera de Montenegro, a orillas de la bahía de Kotor, una de las zonas más escarpadas del mar Adriático. Como capital del municipio homónimo, alberga una población de 13 347 habitantes en 2023.\nEl antiguo puerto mediterráneo de Kotor está rodeado de fortificaciones construidas durante la República de Venecia. Aunque es conocido como el fiordo más meridional de Europa, en realidad, se trata de una ría. Kotor, junto a las zonas montañosas de Lovćen y Orjen, alberga una de las mejores vistas del país.​\nAunque la declaración de Comarca natural, cultural e histórica de Kotor fue inscrita como Patrimonio de la Humanidad por la Unesco en 1979, se ha convertido en un referente turístico, especialmente para cruceros, a partir de la década de 2000. Asimismo, en 2017 fue incluida en la declaración de Fortificaciones venecianas de defensa de los siglos XVI al XVII.​",
+ "candidatas": [
+  {
+   "file": "File:20090719 Crkva Gospa od Zdravlja Kotor Bay Montenegro.jpg",
+   "w": 4256,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg/330px-20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "User:Ggia",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 19 July 200",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 18,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Museo Marítimo, Kotor, Bahía de Kotor, Montenegro, 2014-04-19, DD 31.JPG",
+   "w": 3511,
+   "h": 2636,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Museo_Mar%C3%ADtimo%2C_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_31.JPG/330px-Museo_Mar%C3%ADtimo%2C_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_31.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Museo_Mar%C3%ADtimo%2C_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_31.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Museo_Mar%C3%ADtimo,_Kotor,_Bah%C3%ADa_de_Kotor,_Montenegro,_2014-04-19,_DD_31.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-19 12:28:25",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Vista de Kotor, Bahía de Kotor, Montenegro, 2014-04-19, DD 06.JPG",
+   "w": 5193,
+   "h": 3462,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_06.JPG/330px-Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Kotor,_Bah%C3%ADa_de_Kotor,_Montenegro,_2014-04-19,_DD_06.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-19 10:45:20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Vista de Kotor, Bahía de Kotor, Montenegro, 2014-04-19, DD 27.JPG",
+   "w": 5078,
+   "h": 3144,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_27.JPG/330px-Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_27.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_27.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Kotor,_Bah%C3%ADa_de_Kotor,_Montenegro,_2014-04-19,_DD_27.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-19 11:43:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Catedral de Kotor, Kotor, Bahía de Kotor, Montenegro, 2014-04-19, DD 04.JPG",
+   "w": 5428,
+   "h": 3619,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_de_Kotor%2C_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_04.JPG/330px-Catedral_de_Kotor%2C_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Catedral_de_Kotor%2C_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Catedral_de_Kotor,_Kotor,_Bah%C3%ADa_de_Kotor,_Montenegro,_2014-04-19,_DD_04.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-19 10:36:14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Vista de Kotor, Bahía de Kotor, Montenegro, 2014-04-19, DD 14.JPG",
+   "w": 4596,
+   "h": 2741,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_14.JPG/330px-Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Kotor,_Bah%C3%ADa_de_Kotor,_Montenegro,_2014-04-19,_DD_14.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-19 10:58:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Vista de Kotor, Bahía de Kotor, Montenegro, 2014-04-19, DD 15.JPG",
+   "w": 4915,
+   "h": 2763,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_15.JPG/330px-Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Kotor,_Bah%C3%ADa_de_Kotor,_Montenegro,_2014-04-19,_DD_15.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-19 10:58:57",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Vista de Kotor, Bahía de Kotor, Montenegro, 2014-04-19, DD 07.JPG",
+   "w": 5369,
+   "h": 3579,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_07.JPG/330px-Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vista_de_Kotor%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Kotor,_Bah%C3%ADa_de_Kotor,_Montenegro,_2014-04-19,_DD_07.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-19 10:50:39",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

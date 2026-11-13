@@ -1,0 +1,214 @@
+{
+ "id": "florencia",
+ "enwiki": "Florence Cathedral",
+ "endesc": "Church in Tuscany, Italy",
+ "qid": "Q191739",
+ "coord": [
+  43.77305555555556,
+  11.256944444444445
+ ],
+ "label_es": "Santa María del Fiore",
+ "desc_es": "templo católico en Florencia (Italia)",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1296-09-08T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 114.5,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 8600.0,
+   "u": "Q25343"
+  }
+ ],
+ "largo": [
+  {
+   "v": 153.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q120560",
+  "Q2977",
+  "Q33506"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Catedral de Santa María del Fiore",
+ "extracto_es": "La basílica catedral metropolitana de Santa María de la Flor (en italiano: Cattedrale di Santa Maria del Fiore), es la sede episcopal (en italiano, duomo) de la arquidiócesis de Florencia, Italia. Es una de las obras maestras de la primera arquitectura renacentista del Renacimiento italiano.\nSímbolo de la riqueza y del poder de la capital toscana durante los siglos XIII y siglo XIV, la catedral florentina es uno de los edificios más grandes de la cristiandad. Su nombre se refiere al lirio, símbolo de Florencia, o al antiguo nombre del pueblo llamado Fiorenza. Pero, por otra parte, un documento del siglo XV afirma que la «flor» se refiere a Cristo.\nDestaca, de forma singular, la grandiosa cúpula, obra de Filippo Brunelleschi,​ una estructura isostática de 100 m de altura interior; 114,5 m de altura exterior; 45,5 m de diámetro exterior y 41 m de luz (diámetro interior) con la particularidad de que esta cúpula, en sí misma, anula los empujes horizontales para no transmitir al tambor que la sustenta prácticamente más cargas que las verticales correspondientes a su propio peso.​ A la cúpula hay que añadir el campanile de Giotto, un campanario independiente trazado por Giotto, de 84,70 m de altura, y el baptisterio de San Juan, con las famosas puertas de bronce de Ghiberti. El conjunto, formado por la iglesia, el campanario y el baptisterio, constituye una de las joyas artísticas y arquitectónicas de Florencia.\nLa basílica se encuentra dentro de la declaración del Centro histórico de Florencia como Patrimonio de la Humanidad por la UNESCO desde 1982.​",
+ "candidatas": [
+  {
+   "file": "File:Florence Duomo from Michelangelo hill.jpg",
+   "w": 3308,
+   "h": 2399,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Florence_Duomo_from_Michelangelo_hill.jpg/330px-Florence_Duomo_from_Michelangelo_hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Florence_Duomo_from_Michelangelo_hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Florence_Duomo_from_Michelangelo_hill.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Petar Milošević",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-10-25 18:50:37",
+   "calidad": [
+    "FP",
+    "VI"
+   ],
+   "qpts": 8,
+   "puntos": 19,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Dome of Cattedrale di Santa Maria del Fiore (Florence).jpg",
+   "w": 4516,
+   "h": 3310,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg/330px-Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Livioandronico2013",
+   "credito": "Transferred from en.wikipedia to Commons.",
+   "nonfree": "",
+   "fecha": "11 September 2016, 1",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Florence Cathedral seen from Piazzale Michelangelo night dllu.jpg",
+   "w": 11662,
+   "h": 8744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg/330px-Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dllu",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-02-17 18:09:40",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Optical illusion on the floor of the Duomo Firenze (61458).jpg",
+   "w": 3571,
+   "h": 2735,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Optical_illusion_on_the_floor_of_the_Duomo_Firenze_%2861458%29.jpg/330px-Optical_illusion_on_the_floor_of_the_Duomo_Firenze_%2861458%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Optical_illusion_on_the_floor_of_the_Duomo_Firenze_%2861458%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Optical_illusion_on_the_floor_of_the_Duomo_Firenze_(61458).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rhododendrites",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-10-06 11:07:16",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Cattedrale di Santa Maria del Fiore – Il Duomo di Firenze.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/330px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Gary Campbell-Hall",
+   "credito": "https://www.flickr.com/photos/garyullah/21208048669/",
+   "nonfree": "",
+   "fecha": "2015-09-09 16:59:21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:View of Santa Maria del Fiore in Florence.jpg",
+   "w": 4912,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/330px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_Santa_Maria_del_Fiore_in_Florence.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Bruce Stokes on Flickr",
+   "credito": "[1]",
+   "nonfree": "",
+   "fecha": "Taken on 27 August 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Duomo di Firenze brickwork.jpg",
+   "w": 5328,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Duomo_di_Firenze_brickwork.jpg/330px-Duomo_di_Firenze_brickwork.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Duomo_di_Firenze_brickwork.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Duomo_di_Firenze_brickwork.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "KaarelSusi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-28 12:28:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Florence - Florence Cathedral - 20220608110002.jpg",
+   "w": 3500,
+   "h": 2341,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Florence_-_Florence_Cathedral_-_20220608110002.jpg/330px-Florence_-_Florence_Cathedral_-_20220608110002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Florence_-_Florence_Cathedral_-_20220608110002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Florence_-_Florence_Cathedral_-_20220608110002.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Macieklew",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-06-08 11:00:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

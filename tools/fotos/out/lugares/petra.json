@@ -1,0 +1,223 @@
+{
+ "id": "petra",
+ "enwiki": "Petra",
+ "endesc": "Ancient rock-cut historical city in Jordan",
+ "qid": "Q5788",
+ "label_es": "Petra",
+ "desc_es": "antigua ciudad nabatea en Jordania y una de las 7 maravillas del mundo moderno",
+ "coord": [
+  30.328888888889,
+  35.440277777778
+ ],
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-0800-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 800.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 1350.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 26171.0,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 1142000.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q15661340",
+  "Q515",
+  "Q839954"
+ ],
+ "p17": [
+  "Q810"
+ ],
+ "unesco": true,
+ "eswiki": "Petra",
+ "extracto_es": "Petra (en griego antiguo, Πέτρα, en árabe, البتراء, al-Batrā´) es un importante enclave arqueológico en Jordania y la capital del antiguo reino nabateo, cuyos pobladores la llamaban Raqmu (en árabe nabateo: الرقيم).​ El nombre de Petra proviene del griego πέτρα, que significa piedra.\nEl asentamiento de Petra se localiza en un valle angosto, al este del valle de Arabá que se extiende desde el mar Muerto hasta el golfo de Áqaba. Los restos más célebres de Petra son sin duda sus construcciones labradas en la misma roca del valle (hemispeos), en particular, los edificios conocidos como el Khazneh (‘el Tesoro’) y el Deir (‘el Monasterio’).\nFundada a finales del siglo VIII a. C. por los edomitas, fue ocupada en el siglo VI a. C. por los nabateos que la hicieron prosperar gracias a su situación en la ruta de las caravanas que llevaban el incienso, las especias y otros productos de lujo entre Egipto, Siria, Arabia y el sur del Mediterráneo.\nHacia el siglo VI d. C., el cambio de las rutas comerciales y los terremotos sufridos condujeron al abandono de la ciudad por sus habitantes. Cayó en el olvido hasta que en 1812 el lugar fue redescubierto para el mundo occidental por el explorador suizo Jean Louis Burckhardt (1784-1817).\nNumerosos edificios, cuyas fachadas están directamente esculpidas en la roca, forman un conjunto monumental único que, a partir del 6 de diciembre de 1985, está inscrito en la Lista del Patrimonio Mundial de la Unesco. La zona que rodea el lugar es también, desde 1993, parque nacional arqueológico.",
+ "candidatas": [
+  {
+   "file": "File:The Monastery, Petra, Jordan8.jpg",
+   "w": 3142,
+   "h": 2075,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/The_Monastery%2C_Petra%2C_Jordan8.jpg/330px-The_Monastery%2C_Petra%2C_Jordan8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Monastery%2C_Petra%2C_Jordan8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Monastery,_Petra,_Jordan8.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-30",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:The Treasury, Petra, Jordan5.jpg",
+   "w": 2256,
+   "h": 3726,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/The_Treasury%2C_Petra%2C_Jordan5.jpg/330px-The_Treasury%2C_Petra%2C_Jordan5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Treasury%2C_Petra%2C_Jordan5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Treasury,_Petra,_Jordan5.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Al Deir Petra.JPG",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/330px-Al_Deir_Petra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Al_Deir_Petra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Azurfrog",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-28 14:05:53",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Great Temple of Petra 02.jpg",
+   "w": 3367,
+   "h": 2164,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Great_Temple_of_Petra_02.jpg/330px-Great_Temple_of_Petra_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Great_Temple_of_Petra_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Temple_of_Petra_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-04-14",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Urn Tomb, Petra 01.jpg",
+   "w": 2650,
+   "h": 1861,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Urn_Tomb%2C_Petra_01.jpg/330px-Urn_Tomb%2C_Petra_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Urn_Tomb%2C_Petra_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Urn_Tomb,_Petra_01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-04-14",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Camels in front of the tombs, Petra, Jordan.jpg",
+   "w": 3763,
+   "h": 2540,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Camels_in_front_of_the_tombs%2C_Petra%2C_Jordan.jpg/330px-Camels_in_front_of_the_tombs%2C_Petra%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Camels_in_front_of_the_tombs%2C_Petra%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Camels_in_front_of_the_tombs,_Petra,_Jordan.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Monastery, Petra, Jordan7.jpg",
+   "w": 3872,
+   "h": 2566,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/The_Monastery%2C_Petra%2C_Jordan7.jpg/330px-The_Monastery%2C_Petra%2C_Jordan7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/The_Monastery%2C_Petra%2C_Jordan7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Monastery,_Petra,_Jordan7.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Monastery, Petra, Jordan6.jpg",
+   "w": 3724,
+   "h": 2483,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/The_Monastery%2C_Petra%2C_Jordan6.jpg/330px-The_Monastery%2C_Petra%2C_Jordan6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Monastery%2C_Petra%2C_Jordan6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Monastery,_Petra,_Jordan6.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  }
+ ]
+}

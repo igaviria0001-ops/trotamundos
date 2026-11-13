@@ -1,0 +1,196 @@
+{
+ "id": "cinqueterre",
+ "enwiki": "Cinque Terre",
+ "endesc": "Rugged portion of coast on the Italian Riviera, Liguria",
+ "qid": "Q275639",
+ "coord": [
+  44.126944,
+  9.709444
+ ],
+ "label_es": "Cinque Terre",
+ "desc_es": "región de La Spezia, Italia",
+ "inicio": [],
+ "area": [
+  {
+   "v": 4689.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q93352",
+  "Q1200957"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Cinque Terre",
+ "extracto_es": "Se denomina  Cinque Terre (en español, \"Cinco Tierras\") a una porción de costa formada por cinco pueblos en la provincia de La Spezia, bañada por el mar de Liguria en Liguria (Italia). \nCinque Terre abarca desde Punta Mesco hasta Punta di Montenero, y comprende los pueblos de Monterosso, Vernazza, Corniglia, Manarola y Riomaggiore.\nEsta región, gracias a sus características geográficas, constituye uno de los principales atractivos de la riviera lígure. Su origen es un contexto orográfico muy particular, que da origen a un paisaje montañoso constituido por distintos estratos o \"terrazas\" que descienden hacia el mar con una fuerte pendiente. La mano del hombre, a lo largo de los siglos, ha modelado el terreno sin alterar el delicado equilibrio ecológico, utilizando esas terrazas en declive para desarrollar una particular técnica agrícola destinada a aprovechar todo lo posible la disposición del terreno. \nEn 1997, a instancias de la Provincia de La Spezia, las Cinque Terre, junto con Portovenere y las islas de Palmaria, Tino y Tinetto, fueron declaradas Patrimonio de la Humanidad de la Unesco.​ Cinque Terre y Portovenere está recogidas con el código 826-001. En 1999 se creó también el Parco Nazionale delle Cinque Terre (\"Parque Nacional de las Cinco Tierras\").\n\n",
+ "candidatas": [
+  {
+   "file": "File:Manarola NW Cemetery Corniglia Monterosso Cinque Terre Sep23 A7C 06872.jpg",
+   "w": 5826,
+   "h": 3884,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Manarola_NW_Cemetery_Corniglia_Monterosso_Cinque_Terre_Sep23_A7C_06872.jpg/330px-Manarola_NW_Cemetery_Corniglia_Monterosso_Cinque_Terre_Sep23_A7C_06872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Manarola_NW_Cemetery_Corniglia_Monterosso_Cinque_Terre_Sep23_A7C_06872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Manarola_NW_Cemetery_Corniglia_Monterosso_Cinque_Terre_Sep23_A7C_06872.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-14 11:48:58",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Riomaggiore From Ferry Cinque Terre Italy Sep23 A7C 07414.jpg",
+   "w": 4716,
+   "h": 3144,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Riomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg/330px-Riomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Riomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Riomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-18 17:27:09",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 18,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:East Above Corniglia Cinque Terre crop Sep23 A7C 06797.jpg",
+   "w": 4626,
+   "h": 3470,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/East_Above_Corniglia_Cinque_Terre_crop_Sep23_A7C_06797.jpg/330px-East_Above_Corniglia_Cinque_Terre_crop_Sep23_A7C_06797.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/East_Above_Corniglia_Cinque_Terre_crop_Sep23_A7C_06797.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:East_Above_Corniglia_Cinque_Terre_crop_Sep23_A7C_06797.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-14 09:03:22",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Cinque Terre (Italy, October 2020) - 24 (50543603956).jpg",
+   "w": 5438,
+   "h": 3626,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Cinque_Terre_%28Italy%2C_October_2020%29_-_24_%2850543603956%29.jpg/330px-Cinque_Terre_%28Italy%2C_October_2020%29_-_24_%2850543603956%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cinque_Terre_%28Italy%2C_October_2020%29_-_24_%2850543603956%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cinque_Terre_(Italy,_October_2020)_-_24_(50543603956).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Bruno Rijsman",
+   "credito": "Cinque Terre (Italy, October 2020) - 24",
+   "nonfree": "",
+   "fecha": "2020-10-12 03:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Manarola NW Cinque Terre Sep23 A7C 07237.jpg",
+   "w": 5639,
+   "h": 3172,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Manarola_NW_Cinque_Terre_Sep23_A7C_07237.jpg/330px-Manarola_NW_Cinque_Terre_Sep23_A7C_07237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Manarola_NW_Cinque_Terre_Sep23_A7C_07237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Manarola_NW_Cinque_Terre_Sep23_A7C_07237.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-17 17:41:31",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Terraces Manarola Volastra Cinque Terre Sep23 A7C 06874.jpg",
+   "w": 5799,
+   "h": 3866,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Terraces_Manarola_Volastra_Cinque_Terre_Sep23_A7C_06874.jpg/330px-Terraces_Manarola_Volastra_Cinque_Terre_Sep23_A7C_06874.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Terraces_Manarola_Volastra_Cinque_Terre_Sep23_A7C_06874.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Terraces_Manarola_Volastra_Cinque_Terre_Sep23_A7C_06874.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk p",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-14 11:49:48",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Cinque Terre 1999 - View towards Vernazza.jpg",
+   "w": 3512,
+   "h": 2299,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cinque_Terre_1999_-_View_towards_Vernazza.jpg/330px-Cinque_Terre_1999_-_View_towards_Vernazza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Cinque_Terre_1999_-_View_towards_Vernazza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cinque_Terre_1999_-_View_towards_Vernazza.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Infrogmation",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1999-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:1 vernazza 2012.jpg",
+   "w": 6821,
+   "h": 4549,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/1_vernazza_2012.jpg/330px-1_vernazza_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1_vernazza_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_vernazza_2012.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "chensiyuan",
+   "credito": "chensiyuan",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

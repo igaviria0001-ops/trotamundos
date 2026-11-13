@@ -1,0 +1,203 @@
+{
+ "id": "pompeya",
+ "enwiki": "Pompeii",
+ "endesc": "Ancient city near modern Naples, Italy",
+ "qid": "Q43332",
+ "coord": [
+  40.75055555555556,
+  14.489722222222222
+ ],
+ "label_es": "Pompeya",
+ "desc_es": "ciudad de la Antigua Roma dentro de la Italia romana",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-0600-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "area": [
+  {
+   "v": 98.05,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q839954",
+  "Q15661340"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Pompeya",
+ "extracto_es": "Pompeya​  (en italiano: Pompei y en latín: Pompeii) fue una antigua ciudad romana situada en la que era, en la época de su destrucción, la Regio I Latium et Campania de la Italia romana, y próxima a la ciudad de Nápoles, a orillas del golfo homónimo de dicha ciudad, dentro del término municipal de la moderna Pompeya (en la actual región de Campania, en Italia). Es principalmente conocida por haber sido destruida durante la erupción del Vesubio del año 79.\nSus orígenes no se conocen con exactitud. Se supone que fue una fundación osca, pueblo itálico que ocupó la región de Campania tras la colonización griega del sur de la costa tirrena en los siglos VIII y VII a. C. Cabe la posibilidad de que los etruscos se adueñaran de la ciudad en el siglo VI a. C. y construyeran las primeras murallas de piedra alrededor del año 570 a. C.  Posteriormente, hacia el año 450 a. C., fue conquistada por los samnitas, como lo demuestran las muchas inscripciones en idioma osco descubiertas en las excavaciones de la ciudad. Entró definitivamente en la órbita romana en calidad de ciudad aliada a principios del siglo III a. C., y obtuvo la plena ciudadanía romana tras la guerra Social. Más tarde, Sila modificó el estatuto de la ciudad, haciéndola pasar de municipium a colonia romana para asentar a dos mil veteranos de sus ejércitos. Este hecho incrementó la romanización de Pompeya y la sustitución paulatina del osco por el latín.​\nAl ubicarse en un área de notable actividad sísmica y volcánica, Pompeya sufrió, a lo largo de su historia, varios desastres naturales. Entre ellos, el intenso terremoto del año 62 (diecisiete años antes de ser sepultada), que afectó la red de agua corriente y daño varios edificios públicos y zonas del foro que todavía seguían sin actividad en el año 79.  El 24 de agosto de ese último año, una violenta erupción del monte Vesubio la enterró bajo toneladas de sedimentos. Muchos de sus habitantes fallecieron debido al flujo piroclástico. A partir de trabajos arqueológicos realizados en 2018, se postuló que la erupción pudo ocurrir el 24 de octubre,​​ aunque ya había pruebas previas que indicaban una datación en el otoño o en el invierno del mismo año.​\nYa en la misma Antigüedad fue objeto de rapiñas, sobre todo en época del emperador Tito, poco después de su destrucción. Sin embargo, la gran cantidad de sedimentos que la cubrieron hicieron imposible el saqueo continuado del lugar, lo que terminó por protegerla del expolio al que fueron sometidos otros encla",
+ "candidatas": [
+  {
+   "file": "File:Aerial image of Pompeii and Mount Vesuvius (view from the southeast).jpg",
+   "w": 5200,
+   "h": 3200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg/330px-Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Carsten Steger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-05-09 11:39:29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Karl Brullov - The Last Day of Pompeii - Google Art Project.jpg",
+   "w": 30000,
+   "h": 21059,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg/330px-Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Karl Bryullov",
+   "credito": "tAFrCGFUhXM8Jg at Google Cultural Institute zoom level scaled down from second highest",
+   "nonfree": "",
+   "fecha": "(1830 - 1833)",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Pompeii (4873744179).jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pompeii_%284873744179%29.jpg/330px-Pompeii_%284873744179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pompeii_%284873744179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pompeii_(4873744179).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Glen Scarborough from The Central Coast, Australia",
+   "credito": "Pompeii",
+   "nonfree": "",
+   "fecha": "2010-07-10 17:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Stones on Via di Castricio (Pompeii).jpg",
+   "w": 8656,
+   "h": 6336,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Stones_on_Via_di_Castricio_%28Pompeii%29.jpg/330px-Stones_on_Via_di_Castricio_%28Pompeii%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Stones_on_Via_di_Castricio_%28Pompeii%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stones_on_Via_di_Castricio_(Pompeii).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Commonists",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-05-02 09:39:59",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Amphitheatre (Pompeii) - Arena inside.jpg",
+   "w": 6281,
+   "h": 4294,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Amphitheatre_%28Pompeii%29_-_Arena_inside.jpg/330px-Amphitheatre_%28Pompeii%29_-_Arena_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Amphitheatre_%28Pompeii%29_-_Arena_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amphitheatre_(Pompeii)_-_Arena_inside.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Commonists",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-05-02 08:52:51",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ancient Roman Pompeii - Pompeji - Campania - Italy - July 10th 2013 - 26.jpg",
+   "w": 5526,
+   "h": 3680,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_26.jpg/330px-Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_26.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Norbert Nagel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-10 13:31:39",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ancient Roman Pompeii - Pompeji - Campania - Italy - July 10th 2013 - 31.jpg",
+   "w": 6007,
+   "h": 4009,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_31.jpg/330px-Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_31.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Norbert Nagel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-10 13:39:38",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ancient Roman Pompeii - Pompeji - Campania - Italy - July 10th 2013 - 46.jpg",
+   "w": 5836,
+   "h": 3895,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_46.jpg/330px-Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_Pompeii_-_Pompeji_-_Campania_-_Italy_-_July_10th_2013_-_46.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Norbert Nagel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-10 14:31:44",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  }
+ ]
+}

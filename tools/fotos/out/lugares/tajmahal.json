@@ -1,0 +1,210 @@
+{
+ "id": "tajmahal",
+ "enwiki": "Taj Mahal",
+ "endesc": "Marble mausoleum in Agra, India",
+ "qid": "Q9141",
+ "coord": [
+  27.175,
+  78.04194444444444
+ ],
+ "label_es": "Taj Mahal",
+ "desc_es": "complejo de edificios construido entre 1631 y 1654 en la ciudad de Agra, India y una de las 7 maravillas del mundo moderno",
+ "inicio": [],
+ "altura": [
+  {
+   "v": 73.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 17.0,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 6532366.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q162875",
+  "Q381885"
+ ],
+ "p17": [
+  "Q668"
+ ],
+ "unesco": true,
+ "eswiki": "Taj Mahal",
+ "extracto_es": "El Taj Mahal (Mahal, 'Corona de los palacios'; /tɑːʒ mə'hɑl/)​​ es un monumento funerario construido entre 1632 y 1654 en la ciudad de Agra, estado de Uttar Pradesh (India), a orillas del río Yamuna, por el emperador musulmán Shah Jahan de la dinastía mogol. El imponente conjunto de edificios se erigió en honor de su esposa predilecta, Arjumand Banu Begum —más conocida como Mumtaz Mahal—, que murió en el parto de su decimocuarto hijo. Se estima que en su construcción trabajaron unos 20 000 obreros bajo dirección de un conjunto de arquitectos liderados por el arquitecto de la corte, Ustad Ahmad Lahori.​​ \nPor su peculiar estilo que conjuga elementos de las arquitecturas islámica,​ persa,​ india e incluso turca,​se le considera el más bello ejemplo de mausoleo mogol. Este monumento ha logrado especial notoriedad por el carácter romántico de su inspiración.​ Aunque el mausoleo cubierto por la cúpula de mármol blanco es la parte más conocida, el Taj Mahal es un conjunto amurallado de edificios con una extensión de 17 hectáreas y que incluye además una gran mezquita, una casa de invitados y jardines.\nEl monumento constituye un importante destino turístico de la India. En 1983, la Unesco lo reconoció como Patrimonio de la Humanidad por ser «la joya del arte musulmán en la India y una de las obras maestras del patrimonio mundial admiradas universalmente». Descrito por el poeta Rabindranath Tagore como «una lágrima en la mejilla del tiempo», el Taj Mahal se erige hoy como un símbolo de la rica historia de la India. El mausoleo atrae a entre 7 y 8 millones de visitantes cada año. El 2007 se le designó una de las Nuevas siete maravillas del mundo moderno.",
+ "candidatas": [
+  {
+   "file": "File:El Taj Mahal-Agra India0023.JPG",
+   "w": 3000,
+   "h": 2782,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/El_Taj_Mahal-Agra_India0023.JPG/330px-El_Taj_Mahal-Agra_India0023.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/El_Taj_Mahal-Agra_India0023.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Taj_Mahal-Agra_India0023.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-12-03",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 14,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Taj Mahal (Edited).jpeg",
+   "w": 3840,
+   "h": 2525,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Yann; edited by Jim Carter",
+   "credito": "Edited version of File:Taj Mahal, Agra, India.jpg",
+   "nonfree": "",
+   "fecha": "2010",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 13,
+   "origen": "en"
+  },
+  {
+   "file": "File:Taj Mahal, Agra, India edit3.jpg",
+   "w": 3144,
+   "h": 2173,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg/330px-Taj_Mahal%2C_Agra%2C_India_edit3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit3.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Taj_Mahal,_Agra,_India_edit2.jpg: Yann; edited by King of Hearts\nderivative work: Jbarta (talk)",
+   "credito": "Taj_Mahal,_Agra,_India_edit2.jpg",
+   "nonfree": "",
+   "fecha": "2011-10-22 16:51",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Taj Mahal Sunset.jpg",
+   "w": 12391,
+   "h": 5777,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Taj_Mahal_Sunset.jpg/330px-Taj_Mahal_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Taj_Mahal_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Sunset.jpg",
+   "licencia": "GFDL 1.2",
+   "licurl": "",
+   "autor": "Muhammad Mahdi Karim, Stitching assisted by Benh",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:20191204 Taj Mahal Agra 0721 6575 DxO.jpg",
+   "w": 5072,
+   "h": 3373,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/20191204_Taj_Mahal_Agra_0721_6575_DxO.jpg/330px-20191204_Taj_Mahal_Agra_0721_6575_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/20191204_Taj_Mahal_Agra_0721_6575_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20191204_Taj_Mahal_Agra_0721_6575_DxO.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-12-04 07:21:57",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Taj Mahal, Agra, UP, India.jpg",
+   "w": 3696,
+   "h": 2528,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Taj_Mahal%2C_Agra%2C_UP%2C_India.jpg/330px-Taj_Mahal%2C_Agra%2C_UP%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Taj_Mahal%2C_Agra%2C_UP%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_UP,_India.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Yann (talk)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Taj Mahal, Agra, India, 2009-12-03, DD 0011.jpg",
+   "w": 3589,
+   "h": 2393,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Taj_Mahal%2C_Agra%2C_India%2C_2009-12-03%2C_DD_0011.jpg/330px-Taj_Mahal%2C_Agra%2C_India%2C_2009-12-03%2C_DD_0011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Taj_Mahal%2C_Agra%2C_India%2C_2009-12-03%2C_DD_0011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India,_2009-12-03,_DD_0011.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-12-03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Taj Mahal 2018.jpg",
+   "w": 4943,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Taj_Mahal_2018.jpg/330px-Taj_Mahal_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Taj_Mahal_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_2018.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Almbauer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

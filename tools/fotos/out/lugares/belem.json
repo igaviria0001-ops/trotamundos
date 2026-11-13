@@ -1,0 +1,219 @@
+{
+ "id": "belem",
+ "enwiki": "Belém Tower",
+ "endesc": "Fortified tower in Lisbon, Portugal",
+ "qid": "Q215003",
+ "coord": [
+  38.691388888889,
+  -9.2158333333333
+ ],
+ "label_es": "Torre de Belém",
+ "desc_es": "torre de defensa militar en Lisboa",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1515-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 35.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 0.09,
+   "u": "Q35852"
+  },
+  {
+   "v": 51.5,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 377780.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q1785071",
+  "Q81917",
+  "Q210272",
+  "Q811165",
+  "Q570116"
+ ],
+ "p17": [
+  "Q45"
+ ],
+ "unesco": false,
+ "eswiki": "Torre de Belém",
+ "extracto_es": "La torre de Belém es una antigua construcción militar situada en la ciudad de Lisboa, capital de Portugal. Es una obra de Francisco de Arruda y Diogo de Boitaca que tuvo gran importancia en la Era de los Descubrimientos de Europa, ya que sirvió como fortaleza y como puerto desde donde partieron los exploradores portugueses para establecer el que sería el primer comercio europeo en la historia con China e India. Cuando dejó de servir como defensa de invasores en el estuario del río Tajo se utilizó como prisión, como faro y también como centro de recaudación de impuestos para ingresar en la ciudad.​​​​​\nSe encuentra situada en la desembocadura del río Tajo, en el barrio de Santa Maria de Belém, al suroeste de Lisboa. Junto con el Monasterio de los Jerónimos, la Torre de Belém fue declarada Patrimonio de la Humanidad por la Unesco en 1983.​​\nTambién es conocida como Torre de San Vicente, ya que fue erigida en honor a San Vicente Mártir, patrono de Lisboa.​​ Su nombre original era Castelo de São Vicente a par de Belém.​",
+ "candidatas": [
+  {
+   "file": "File:Torre Belém April 2009-4a.jpg",
+   "w": 5035,
+   "h": 4805,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg/330px-Torre_Bel%C3%A9m_April_2009-4a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Torre_Bel%C3%A9m_April_2009-4a.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-04",
+   "calidad": [
+    "FP",
+    "VI"
+   ],
+   "qpts": 8,
+   "puntos": 16,
+   "origen": "en"
+  },
+  {
+   "file": "File:Belem Tower - April 2019 (2).jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Belem_Tower_-_April_2019_%282%29.jpg/330px-Belem_Tower_-_April_2019_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Belem_Tower_-_April_2019_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Belem_Tower_-_April_2019_(2).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rehman Abubakr",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-04-02 09:50:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Torre de Belém por Rodrigo Tetsuo Argenton (2).jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Torre_de_Bel%C3%A9m_por_Rodrigo_Tetsuo_Argenton_%282%29.jpg/330px-Torre_de_Bel%C3%A9m_por_Rodrigo_Tetsuo_Argenton_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Torre_de_Bel%C3%A9m_por_Rodrigo_Tetsuo_Argenton_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Torre_de_Bel%C3%A9m_por_Rodrigo_Tetsuo_Argenton_(2).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rodrigo.Argenton",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-04-08 19:01:00",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Torre de Belém, Lisboa, Portugal, 2012-05-12, DD 16.JPG",
+   "w": 4490,
+   "h": 3443,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Torre_de_Bel%C3%A9m%2C_Lisboa%2C_Portugal%2C_2012-05-12%2C_DD_16.JPG/330px-Torre_de_Bel%C3%A9m%2C_Lisboa%2C_Portugal%2C_2012-05-12%2C_DD_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Torre_de_Bel%C3%A9m%2C_Lisboa%2C_Portugal%2C_2012-05-12%2C_DD_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Torre_de_Bel%C3%A9m,_Lisboa,_Portugal,_2012-05-12,_DD_16.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-05-12 15:16:53",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Belém Tower in Lisbon, Portugal.jpg",
+   "w": 2366,
+   "h": 1578,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bel%C3%A9m_Tower_in_Lisbon%2C_Portugal.jpg/330px-Bel%C3%A9m_Tower_in_Lisbon%2C_Portugal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bel%C3%A9m_Tower_in_Lisbon%2C_Portugal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bel%C3%A9m_Tower_in_Lisbon,_Portugal.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lisbon Photoshoots",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-01-06 17:48:21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Lisbon Torre de Belém BW 2018-10-03 16-34-03.jpg",
+   "w": 4796,
+   "h": 3944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Lisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-34-03.jpg/330px-Lisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-34-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-34-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-34-03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Berthold Werner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-10-03 16:34:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Belém Tower and the 25 de Abril Bridge in the background.jpg",
+   "w": 6763,
+   "h": 4510,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Bel%C3%A9m_Tower_and_the_25_de_Abril_Bridge_in_the_background.jpg/330px-Bel%C3%A9m_Tower_and_the_25_de_Abril_Bridge_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bel%C3%A9m_Tower_and_the_25_de_Abril_Bridge_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bel%C3%A9m_Tower_and_the_25_de_Abril_Bridge_in_the_background.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lisbon Photoshoots",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-11-25 18:20:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Torre de Belém por Rodrigo Tetsuo Argenton (1).jpg",
+   "w": 3748,
+   "h": 4311,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Torre_de_Bel%C3%A9m_por_Rodrigo_Tetsuo_Argenton_%281%29.jpg/330px-Torre_de_Bel%C3%A9m_por_Rodrigo_Tetsuo_Argenton_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Torre_de_Bel%C3%A9m_por_Rodrigo_Tetsuo_Argenton_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Torre_de_Bel%C3%A9m_por_Rodrigo_Tetsuo_Argenton_(1).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rodrigo.Argenton",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-04-08 18:55:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

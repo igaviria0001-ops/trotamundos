@@ -1,0 +1,191 @@
+{
+ "id": "dolomitas",
+ "enwiki": "Tre Cime di Lavaredo",
+ "endesc": "Mountains in Italy",
+ "qid": "Q1257207",
+ "coord": [
+  46.618611,
+  12.305556
+ ],
+ "label_es": "Tres Cimas de Lavaredo",
+ "desc_es": "Montaña italiana ubicada en los Dolomitas",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 2999.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q46831"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Tres Cimas de Lavaredo",
+ "extracto_es": "Las Tres Cimas de Lavaredo (Tre Cime di Lavaredo en italiano; Drei Zinnen, en idioma alemán) son tres distintivos picos con forma de merlones o almenas localizados en las regiones italianas de Trentino-Alto Adigio y Véneto, en las provincias de Bolzano y Belluno. Están en los Dolomitas de Auronzo, en el noreste de Italia. Son probablemente uno de los grupos montañosos más conocidos de los Alpes. Los tres picos, de este a oeste, son:\n\nCima Piccola/Kleine Zinne (\"pico pequeño\")\nCima Grande/Große Zinne (\"pico grande\")\nCima Ovest/Westliche Zinne (\"pico occidental\").\nLos picos están compuestos por dolomías de la formación de Dolomia Principale (Hauptdolomit), del Carniense al Rhaetiense, como muchos otros grupos en los Dolomitas (p.e., el Tofane, Pelmo o las Cinco Torres). \nHasta 1919, los picos formaban parte de la frontera entre Italia y Austria. Ahora quedan en la frontera entre las provincias italianas de Bolzano-Bozen y Belluno y todavía son parte de la frontera lingüística entre las mayorías de habla italiana y de habla alemana. La Cima Grande tiene una altura de 2.999 metros. Se alza entre la Cima Piccola, con 2.857 m, y la Cima Ovest, con 2.973 m.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Drei Zinnen Tre Cime di Lavaredo Dolomites.jpg",
+   "w": 8256,
+   "h": 5504,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Drei_Zinnen_Tre_Cime_di_Lavaredo_Dolomites.jpg/330px-Drei_Zinnen_Tre_Cime_di_Lavaredo_Dolomites.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Drei_Zinnen_Tre_Cime_di_Lavaredo_Dolomites.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Drei_Zinnen_Tre_Cime_di_Lavaredo_Dolomites.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-02-25",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lavaredo.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lavaredo.jpg/330px-Lavaredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Lavaredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lavaredo.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "sambuco",
+   "credito": "https://www.camptocamp.org/images/1159569/fr/lavaredo",
+   "nonfree": "",
+   "fecha": "2018-07-03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Drei Zinnen 1.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Drei_Zinnen_1.jpg/330px-Drei_Zinnen_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Drei_Zinnen_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Drei_Zinnen_1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Steinsplitter",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-03-30 15:27:52",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Drei Zinnen - 1.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Drei_Zinnen_-_1.jpg/330px-Drei_Zinnen_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Drei_Zinnen_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Drei_Zinnen_-_1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Steinsplitter",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-07-04 13:44:49",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2019 Tre Cime.jpg",
+   "w": 3434,
+   "h": 1965,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2019_Tre_Cime.jpg/330px-2019_Tre_Cime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/2019_Tre_Cime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2019_Tre_Cime.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Tiia Monto",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-15 11:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Tri Cime panorama 2.jpg",
+   "w": 5600,
+   "h": 5010,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Tri_Cime_panorama_2.jpg/330px-Tri_Cime_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tri_Cime_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tri_Cime_panorama_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-09-17 18:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Drei Zinnen mit Dreizinnenhütte.jpg",
+   "w": 4350,
+   "h": 2308,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Drei_Zinnen_mit_Dreizinnenh%C3%BCtte.jpg/330px-Drei_Zinnen_mit_Dreizinnenh%C3%BCtte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Drei_Zinnen_mit_Dreizinnenh%C3%BCtte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Drei_Zinnen_mit_Dreizinnenh%C3%BCtte.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Je-str",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-07-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sonnenuntergang mit Blick auf die Drei Zinnen (cropped).jpg",
+   "w": 3715,
+   "h": 2308,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Sonnenuntergang_mit_Blick_auf_die_Drei_Zinnen_%28cropped%29.jpg/330px-Sonnenuntergang_mit_Blick_auf_die_Drei_Zinnen_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sonnenuntergang_mit_Blick_auf_die_Drei_Zinnen_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sonnenuntergang_mit_Blick_auf_die_Drei_Zinnen_(cropped).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Andrea Schieber",
+   "credito": "flickr",
+   "nonfree": "",
+   "fecha": "2013-08-01 19:30:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

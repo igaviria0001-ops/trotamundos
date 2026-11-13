@@ -1,0 +1,211 @@
+{
+ "id": "atomium",
+ "enwiki": "Atomium",
+ "endesc": "Landmark building in Brussels, Belgium",
+ "qid": "Q180901",
+ "coord": [
+  50.895,
+  4.3413888888889
+ ],
+ "label_es": "Atomium",
+ "desc_es": "monumento de Bruselas",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1955-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1958-04-17T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 102.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q2319498"
+ ],
+ "p17": [
+  "Q31"
+ ],
+ "unesco": false,
+ "eswiki": "Atomium",
+ "extracto_es": "El Atomium (pronunciación en francés: /atɔmjɔm/; pronunciación en neerlandés: /aːˈtoːmijəm/) es un monumento​ moderno ubicado en Bruselas (Bélgica), construido originalmente como la pieza central de la Exposición Universal de Bruselas de 1958. Diseñado por el ingeniero André Waterkeyn y los arquitectos André y Jean Polak como un homenaje al progreso científico, así como símbolo de las capacidades de la ingeniería belga de la época,​​ está situado en el parque Heysel/Heizel, en Laeken (al norte de la Ciudad de Bruselas), donde tuvo lugar la exposición. Es la atracción turística más popular de la ciudad y funciona como un museo, centro de arte y destino cultural.​\nEl Atomium tiene 102 metros de altura, que lo convierten en una de las estructuras más altas de Bélgica. Sus nueve esferas, revestidas con acero inoxidable, tienen 18 metros de diámetro y están conectadas en la forma de una celda unitaria que podría representar un cristal de hierro magnificado 165 000 millones de veces.​ Los tubos de acero que conectan las esferas contienen escaleras, escaleras mecánicas y un ascensor (en el tubo central vertical) para permitir el acceso a las seis esferas visitables, que contienen salas de exposiciones y otros espacios públicos. La esfera más alta contiene un restaurante con vistas panorámicas de Bruselas. El edificio fue renovado completamente entre 2004 y 2006 por las empresas Jacques Delens y Besix.​\nEl edificio está situado en la Square de l'Atomium/Atomiumsquare,​​ en la intersección del Boulevard du Centenaire/Eeuwfeestlaan con la Avenue de l'Atomium/Atomiumlaan y la Avenue de Bouchout/Boechoutlaan, frente al Palacio del Centenario del Centro de Exposiciones de Bruselas (Brussels Expo). Está servido por la estación Heysel/Heizel de la línea 6 del Metro de Bruselas.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Atomium sphere (DSCF1211).jpg",
+   "w": 4768,
+   "h": 3228,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Atomium_sphere_%28DSCF1211%29.jpg/330px-Atomium_sphere_%28DSCF1211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Atomium_sphere_%28DSCF1211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Atomium_sphere_(DSCF1211).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Trougnouf (Benoit Brummer)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-10-05 12:30:22",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Atomium, Bruselas, Bélgica, 2021-12-15, DD 148-150 HDR.jpg",
+   "w": 6822,
+   "h": 5494,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_148-150_HDR.jpg/330px-Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_148-150_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_148-150_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Atomium,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_148-150_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-12-15 17:45:21",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Atomium during civil twilight (DSCF1135).jpg",
+   "w": 2246,
+   "h": 2831,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_Atomium_during_civil_twilight_%28DSCF1135%29.jpg/330px-The_Atomium_during_civil_twilight_%28DSCF1135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Atomium_during_civil_twilight_%28DSCF1135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Atomium_during_civil_twilight_(DSCF1135).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Trougnouf (Benoit Brummer)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-10-01 19:36:38",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Atomium, Bruselas, Bélgica, 2021-12-15, DD 154-156 HDR.jpg",
+   "w": 8660,
+   "h": 5773,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_154-156_HDR.jpg/330px-Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_154-156_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_154-156_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Atomium,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_154-156_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-12-15 17:49:50",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Atomium, Bruselas, Bélgica, 2021-12-15, DD 163-165 HDR.jpg",
+   "w": 8105,
+   "h": 5669,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_163-165_HDR.jpg/330px-Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_163-165_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_163-165_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Atomium,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_163-165_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-12-15 17:57:28",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Atomium, Bruselas, Bélgica, 2021-12-15, DD 142-144 HDR.jpg",
+   "w": 6957,
+   "h": 3768,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_142-144_HDR.jpg/330px-Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_142-144_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_142-144_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Atomium,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_142-144_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-12-15 17:39:37",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Atomium, Bruselas, Bélgica, 2021-12-15, DD 145-147 HDR.jpg",
+   "w": 6157,
+   "h": 4105,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_145-147_HDR.jpg/330px-Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_145-147_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_145-147_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Atomium,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_145-147_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-12-15 17:41:28",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Atomium, Bruselas, Bélgica, 2021-12-15, DD 151-153 HDR.jpg",
+   "w": 8567,
+   "h": 5711,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_151-153_HDR.jpg/330px-Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_151-153_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Atomium%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_151-153_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Atomium,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_151-153_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-12-15 17:47:48",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

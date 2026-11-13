@@ -1,0 +1,200 @@
+{
+ "id": "burjkhalifa",
+ "enwiki": "Burj Khalifa",
+ "endesc": "Skyscraper in Dubai, United Arab Emirates",
+ "qid": "Q12495",
+ "coord": [
+  25.197222222222223,
+  55.274166666666666
+ ],
+ "label_es": "Burj Khalifa",
+ "desc_es": "rascacielos más alto del mundo, ubicado en la ciudad de Dubái, Emiratos Árabes Unidos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+2004-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+2010-01-04T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 828.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 344000.0,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q11303",
+  "Q2319498"
+ ],
+ "p17": [
+  "Q878"
+ ],
+ "unesco": false,
+ "eswiki": "Burj Khalifa",
+ "extracto_es": "El Burj Khalifa (en árabe: برج خليفة‎, Burŷ Jalīfa pronunciado [bʊrd͡ʒ xaˈliːfa], «torre Jalifa»; también conocido como Burj Dubai antes de su inauguración) es un rascacielos de estilo neofuturista ubicado en Dubái, Emiratos Árabes Unidos. Con una altura total de 830 m (2.722 pies, o algo más de media milla) y una altura de tejado (excluyendo la antena, pero incluyendo una aguja de 242.6 m)​ de 828 m (2717 pies), ha sido la estructura y edificio más alto del mundo desde su coronación en 2009, superando al Taipei 101, poseedor de ese estatus desde 2004.​​\nSu construcción comenzó en 2004, y el exterior se terminó cinco años más tarde, en 2009. La estructura principal es de hormigón armado y parte del acero estructural del edificio procede del palacio de la República de Berlín Este, el antiguo parlamento de Alemania Oriental.​ El edificio se inauguró en 2010 como parte de una nueva urbanización llamada Downtown Dubai,​​ y fue diseñado para ser la pieza central de un desarrollo de uso mixto a gran escala.\nEl edificio lleva el nombre del expresidente de los Emiratos Árabes Unidos (EAU), el jeque Jalifa bin Zayed Al Nahayan.​ El Gobierno de los Emiratos Árabes Unidos proporcionó ayuda financiera a Dubái cuando el promotor, Emaar Properties, tuvo problemas financieros durante la Gran Recesión. El entonces presidente de los Emiratos Árabes Unidos, Khalifa bin Zayed, organizó el apoyo financiero federal. Por su apoyo, Mohammad bin Rashid, gobernante de Dubái, cambió el nombre de «Burj Dubai» a «Burj Khalifa» durante la inauguración.\nEl diseño deriva de la arquitectura islámica de la región, como en la Gran Mezquita de Samarra. La geometría de planta tripartita en forma de Y está pensada para optimizar el espacio residencial y hotelero. Un núcleo central de contrafuerte y alas se utilizan para soportar la altura del edificio. El núcleo central alberga todos los transportes verticales excepto las escaleras de evacuación de cada una de las alas.​ La estructura también cuenta con un revestimiento que está diseñado para soportar las altas temperaturas del verano de Dubái.​ Contiene un total de 57 ascensores y 8 escaleras mecánicas.",
+ "candidatas": [
+  {
+   "file": "File:Burj Khalifa (worlds tallest building) and the Dubai skyline (25781049892).jpg",
+   "w": 5496,
+   "h": 3670,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/330px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(worlds_tallest_building)_and_the_Dubai_skyline_(25781049892).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "imran shahabuddin",
+   "credito": "Burj Khalifa (worlds tallest building) and the Dubai skyline",
+   "nonfree": "",
+   "fecha": "2016-03-19 02:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Dubai, United Arab Emirates (Unsplash suv4vuJsH6g).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Dubai%2C_United_Arab_Emirates_%28Unsplash_suv4vuJsH6g%29.jpg/330px-Dubai%2C_United_Arab_Emirates_%28Unsplash_suv4vuJsH6g%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dubai%2C_United_Arab_Emirates_%28Unsplash_suv4vuJsH6g%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dubai,_United_Arab_Emirates_(Unsplash_suv4vuJsH6g).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Caleb Whiting dogbear869",
+   "credito": "https://unsplash.com/photos/suv4vuJsH6g\n\narchive copy at the Wayback Machine",
+   "nonfree": "",
+   "fecha": "2017-03-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Dubai skyline 2015 (crop).jpg",
+   "w": 1558,
+   "h": 1179,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dubai_skyline_2015_%28crop%29.jpg/330px-Dubai_skyline_2015_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Dubai_skyline_2015_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dubai_skyline_2015_(crop).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Tim.Reckmann",
+   "credito": "File:Dubai_skyline_2015.jpg",
+   "nonfree": "",
+   "fecha": "2015-05-27 12:13:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Burj Khalifa Dubai, UAE at Sunset 001 by Eric Chamchoum.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Burj_Khalifa_Dubai%2C_UAE_at_Sunset_001_by_Eric_Chamchoum.jpg/330px-Burj_Khalifa_Dubai%2C_UAE_at_Sunset_001_by_Eric_Chamchoum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Burj_Khalifa_Dubai%2C_UAE_at_Sunset_001_by_Eric_Chamchoum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_Dubai,_UAE_at_Sunset_001_by_Eric_Chamchoum.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "ECWiki1",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-10-11 17:24:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The making of Burj Khalifa, Dubai (Ank Kumar) 09.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/The_making_of_Burj_Khalifa%2C_Dubai_%28Ank_Kumar%29_09.jpg/330px-The_making_of_Burj_Khalifa%2C_Dubai_%28Ank_Kumar%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_making_of_Burj_Khalifa%2C_Dubai_%28Ank_Kumar%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_making_of_Burj_Khalifa,_Dubai_(Ank_Kumar)_09.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ank Kumar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-03-21 07:16:19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Burj Khalifa from a ferry, Dubai.jpg",
+   "w": 4896,
+   "h": 3672,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Burj_Khalifa_from_a_ferry%2C_Dubai.jpg/330px-Burj_Khalifa_from_a_ferry%2C_Dubai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Burj_Khalifa_from_a_ferry%2C_Dubai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_from_a_ferry,_Dubai.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jpbowen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-11-15 10:35:17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:View from burj khalifa6934713247 db12c311cb o.jpg",
+   "w": 4320,
+   "h": 2432,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/View_from_burj_khalifa6934713247_db12c311cb_o.jpg/330px-View_from_burj_khalifa6934713247_db12c311cb_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/View_from_burj_khalifa6934713247_db12c311cb_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_from_burj_khalifa6934713247_db12c311cb_o.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "David Jones",
+   "credito": "https://www.flickr.com/photos/davidcjones/6934713247/sizes/o/in/photostream/",
+   "nonfree": "",
+   "fecha": "2012-01-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Burj dubai 3.11.08.jpg",
+   "w": 1280,
+   "h": 857,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Burj_dubai_3.11.08.jpg/330px-Burj_dubai_3.11.08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Burj_dubai_3.11.08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Burj_dubai_3.11.08.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Aheilner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-03-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P8592"
+  }
+ ]
+}

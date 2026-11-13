@@ -1,0 +1,225 @@
+{
+ "id": "granmuralla",
+ "enwiki": "Great Wall of China",
+ "endesc": "Series of fortifications in northern China",
+ "qid": "Q12501",
+ "coord": [
+  40.43138888888889,
+  116.56444444444445
+ ],
+ "label_es": "Gran Muralla china",
+ "desc_es": "antigua fortificación china para defensa ante posibles ataques y una de las 7 maravillas del mundo moderno",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-0700-00-00T00:00:00Z",
+   "prec": 8
+  }
+ ],
+ "altura": [
+  {
+   "v": 5.14159265359,
+   "u": "Q11573"
+  },
+  {
+   "v": 8.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 7.0,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 16000000.0,
+   "u": "1"
+  },
+  {
+   "v": 15100.0,
+   "u": "1"
+  }
+ ],
+ "largo": [
+  {
+   "v": 21195.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q1784293"
+ ],
+ "p17": [
+  "Q148"
+ ],
+ "unesco": false,
+ "eswiki": "Gran Muralla china",
+ "extracto_es": "La Gran Muralla china es una antigua fortificación china, construida y reconstruida entre el siglo V a. C. y el siglo XVI para proteger la frontera norte del Imperio chino durante las sucesivas dinastías imperiales de los ataques de los nómadas xiongnu de Mongolia y Manchuria.\nContando sus ramificaciones y construcciones secundarias, se calcula que tiene unos 21 200 km de longitud,​ desde la frontera con Corea, al borde del río Yalu, hasta el desierto de Gobi, a lo largo de un arco que delinea aproximadamente el borde sur de Mongolia Interior, aunque hoy solo se conserva un 30 % de ella.​ En promedio, mide de 6 a 7 m de alto y de 4 a 5 m de ancho.\nLa muralla fue designada Patrimonio de la Humanidad por la Unesco en 1987.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:The Great Wall of China at Jinshanling-edit.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/330px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Severin.stalder",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-06-08 21:15:53",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:20090529 Great Wall 8185.jpg",
+   "w": 3008,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/20090529_Great_Wall_8185.jpg/330px-20090529_Great_Wall_8185.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/20090529_Great_Wall_8185.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_8185.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-05-29",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Peking Great Wall-20071019-RM-113500.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Peking_Great_Wall-20071019-RM-113500.jpg/330px-Peking_Great_Wall-20071019-RM-113500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Peking_Great_Wall-20071019-RM-113500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peking_Great_Wall-20071019-RM-113500.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-10-19",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Peking Great Wall-20071019-RM-115941.jpg",
+   "w": 3564,
+   "h": 2332,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Peking_Great_Wall-20071019-RM-115941.jpg/330px-Peking_Great_Wall-20071019-RM-115941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Peking_Great_Wall-20071019-RM-115941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peking_Great_Wall-20071019-RM-115941.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-10-19",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Peking Great Wall-20071019-RM-113742.jpg",
+   "w": 3628,
+   "h": 2721,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Peking_Great_Wall-20071019-RM-113742.jpg/330px-Peking_Great_Wall-20071019-RM-113742.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Peking_Great_Wall-20071019-RM-113742.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peking_Great_Wall-20071019-RM-113742.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-10-19",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:20090529 Great Wall 8216.jpg",
+   "w": 3008,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/20090529_Great_Wall_8216.jpg/330px-20090529_Great_Wall_8216.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/20090529_Great_Wall_8216.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_8216.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-05-29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Peking Great Wall-20071019-RM-115814.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Peking_Great_Wall-20071019-RM-115814.jpg/330px-Peking_Great_Wall-20071019-RM-115814.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peking_Great_Wall-20071019-RM-115814.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Peking_Great_Wall-20071019-RM-115814.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-10-19",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:慕田峪长城航拍 2018-09-16 151631.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/%E6%85%95%E7%94%B0%E5%B3%AA%E9%95%BF%E5%9F%8E%E8%88%AA%E6%8B%8D_2018-09-16_151631.jpg/330px-%E6%85%95%E7%94%B0%E5%B3%AA%E9%95%BF%E5%9F%8E%E8%88%AA%E6%8B%8D_2018-09-16_151631.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/%E6%85%95%E7%94%B0%E5%B3%AA%E9%95%BF%E5%9F%8E%E8%88%AA%E6%8B%8D_2018-09-16_151631.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%E6%85%95%E7%94%B0%E5%B3%AA%E9%95%BF%E5%9F%8E%E8%88%AA%E6%8B%8D_2018-09-16_151631.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "David290",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-16 15:16:31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  }
+ ]
+}

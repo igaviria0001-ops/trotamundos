@@ -1,0 +1,212 @@
+{
+ "id": "angkor",
+ "enwiki": "Angkor Wat",
+ "endesc": "Buddhist temple complex in Cambodia",
+ "qid": "Q43473",
+ "coord": [
+  13.4125,
+  103.86666666667
+ ],
+ "label_es": "Angkor Wat",
+ "desc_es": "Templo budista considerado tesoro arqueológico",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1200-00-00T00:00:00Z",
+   "prec": 7
+  },
+  {
+   "p": "P571",
+   "time": "+0802-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 65.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q5393308",
+  "Q839954",
+  "Q58621988",
+  "Q842402"
+ ],
+ "p17": [
+  "Q424"
+ ],
+ "unesco": false,
+ "eswiki": "Angkor Wat",
+ "extracto_es": "Angkor Wat (/ɑŋkɔr vɔt/ en camboyano: អង្គរវត្ត, Ângkôr Vôtt), escrito también en ocasiones Angkor Vat, es el templo hinduista más grande y también el mejor conservado de los que integran el asentamiento de Angkor. Está considerado como la mayor estructura religiosa jamás construida,​ y uno de los tesoros arqueológicos más importantes del mundo.\nUbicado 5,5 km al norte de la actual Siem Riep, en la provincia homónima de Camboya, Angkor Wat forma parte del complejo de templos construidos en la zona de Angkor, la antigua capital del Imperio jemer durante su época de esplendor, entre los siglos ix y xv. Angkor abarca una extensión en torno a los 200 km², aunque recientes investigaciones hablan de una posible extensión de 3000 km² y una población de hasta medio millón de habitantes.​\nDesde su construcción a principios del siglo xii [cita requerida]  y hasta el traslado de la sede real al cercano Bayón, a finales del mismo siglo, Angkor Wat fue el centro político y religioso del imperio. El recinto —entre cuyos muros se ha calculado que vivían 20 000 personas—,​ cumplía las funciones de templo principal, y albergaba además el palacio real.\nDedicado inicialmente al dios Vishnú,​ arquitectónicamente el templo combina la tipología hinduista del templo-monte —representando el monte Meru, morada de los dioses— con la tipología de galerías propia de períodos posteriores. El templo consta de tres recintos rectangulares concéntricos de altura creciente, rodeados por un lago perimetral de 3,6 km de longitud y de una anchura de 200 m. En el recinto interior se elevan cinco torres en forma de loto, alcanzando la torre central una altura de 42 m sobre el santuario,​ y 65 m sobre el nivel del suelo.​\nLa palabra Angkor viene del jemer o camboyano   នគរ, Nokor, y a su vez de la voz sánscrita नगर, Nagara, que significa «capital», mientras que la palabra Wat es de origen jemer y se traduce como «templo». El nombre de Angkor Wat es en todo caso posterior a su creación, pues originalmente recibió el nombre de Preah Pisnokar, nombre póstumo de su fundador Suryavarman II.​\nAngkor Wat se ha convertido en un símbolo de Camboya, hasta el punto de figurar en la bandera de su país. El 14 de diciembre de 1992 fue declarado por la Unesco Patrimonio de la Humanidad.​",
+ "candidatas": [
+  {
+   "file": "File:20171126 Angkor Wat 4712 DxO.jpg",
+   "w": 3784,
+   "h": 2506,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/20171126_Angkor_Wat_4712_DxO.jpg/330px-20171126_Angkor_Wat_4712_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/20171126_Angkor_Wat_4712_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20171126_Angkor_Wat_4712_DxO.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-11-26 16:14:10",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:20171126 Angkor Wat 4727 DxO.jpg",
+   "w": 3840,
+   "h": 2543,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/20171126_Angkor_Wat_4727_DxO.jpg/330px-20171126_Angkor_Wat_4727_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/20171126_Angkor_Wat_4727_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20171126_Angkor_Wat_4727_DxO.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-11-26 16:18:33",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Angkor Wat, Camboya, 2013-08-15, DD 059.JPG",
+   "w": 5523,
+   "h": 3713,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Angkor_Wat%2C_Camboya%2C_2013-08-15%2C_DD_059.JPG/330px-Angkor_Wat%2C_Camboya%2C_2013-08-15%2C_DD_059.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Angkor_Wat%2C_Camboya%2C_2013-08-15%2C_DD_059.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Angkor_Wat,_Camboya,_2013-08-15,_DD_059.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-15 15:29:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Angkor Wat, Camboya, 2013-08-16, DD 079.JPG",
+   "w": 4990,
+   "h": 2734,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Angkor_Wat%2C_Camboya%2C_2013-08-16%2C_DD_079.JPG/330px-Angkor_Wat%2C_Camboya%2C_2013-08-16%2C_DD_079.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Angkor_Wat%2C_Camboya%2C_2013-08-16%2C_DD_079.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Angkor_Wat,_Camboya,_2013-08-16,_DD_079.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-17 05:48:57",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Angkor (IV).jpg",
+   "w": 5496,
+   "h": 3091,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Angkor_%28IV%29.jpg/330px-Angkor_%28IV%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Angkor_%28IV%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Angkor_(IV).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-21 17:13:04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Angkor Wat with its reflection (cropped).jpg",
+   "w": 7956,
+   "h": 4009,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg/330px-Angkor_Wat_with_its_reflection_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Angkor_Wat_with_its_reflection_(cropped).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Satdeep Gill",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-09-09 16:46:31",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Angkor Wat, Camboya, 2013-08-15, DD 026.JPG",
+   "w": 5518,
+   "h": 3679,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Angkor_Wat%2C_Camboya%2C_2013-08-15%2C_DD_026.JPG/330px-Angkor_Wat%2C_Camboya%2C_2013-08-15%2C_DD_026.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Angkor_Wat%2C_Camboya%2C_2013-08-15%2C_DD_026.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Angkor_Wat,_Camboya,_2013-08-15,_DD_026.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-15 14:53:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Angkor Wat, Camboya, 2013-08-16, DD 101.JPG",
+   "w": 5525,
+   "h": 3683,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Angkor_Wat%2C_Camboya%2C_2013-08-16%2C_DD_101.JPG/330px-Angkor_Wat%2C_Camboya%2C_2013-08-16%2C_DD_101.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Angkor_Wat%2C_Camboya%2C_2013-08-16%2C_DD_101.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Angkor_Wat,_Camboya,_2013-08-16,_DD_101.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-17 06:31:22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,228 @@
+{
+ "id": "ciudadprohibida",
+ "enwiki": "Forbidden City",
+ "endesc": "Imperial palace complex in Beijing, China",
+ "qid": "Q80290",
+ "coord": [
+  39.91583333333333,
+  116.39083333333333
+ ],
+ "label_es": "Ciudad Prohibida",
+ "desc_es": "palacio imperial en Pekín.",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1420-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1923-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 72.0,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 15080000.0,
+   "u": "1"
+  },
+  {
+   "v": 16020000.0,
+   "u": "1"
+  },
+  {
+   "v": 16700000.0,
+   "u": "1"
+  },
+  {
+   "v": 17540000.0,
+   "u": "1"
+  },
+  {
+   "v": 19300000.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q16560",
+  "Q1497364",
+  "Q33506",
+  "Q6838244"
+ ],
+ "p17": [
+  "Q148"
+ ],
+ "unesco": false,
+ "eswiki": "Ciudad Prohibida",
+ "extracto_es": "La Ciudad Prohibida (en chino, 故宮; pinyin, Gùgōng) es un complejo palaciego situado en Pekín, capital de China. Durante casi quinientos años, desde la dinastía Ming hasta el final de la dinastía Qing, fue la residencia oficial de los emperadores de China y su corte, así como centro ceremonial y político del Gobierno imperial. En la actualidad es una atracción turística que alberga el Museo del Antiguo Palacio.\nConstruido entre 1406 y 1420 por orden del emperador Yongle, el complejo actual consta de 980 edificios y ocupa una superficie de 72 hectáreas. El conjunto ejemplifica la arquitectura palacial tradicional de China​ y ha influido en el desarrollo cultural y arquitectónico de Asia oriental y otras partes del mundo, por lo que la Ciudad Prohibida fue declarada Patrimonio de la Humanidad en 1987.​ Además, está considerado por la Unesco como el mayor conjunto de estructuras antiguas de madera en el mundo. \nDesde 1925 la Ciudad Prohibida está gestionada por el Museo del Palacio, que cuenta con una extensa colección de obras de arte y objetos que pertenecieron a las colecciones imperiales de las dinastías Ming y Qing. Parte de la antigua colección del museo se encuentra hoy en el Museo Nacional del Palacio en Taipéi, pues ambos museos pertenecieron a la misma institución y se dividieron tras la guerra civil china.",
+ "candidatas": [
+  {
+   "file": "File:The Forbidden City - View from Coal Hill.jpg",
+   "w": 4092,
+   "h": 2046,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/330px-The_Forbidden_City_-_View_from_Coal_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Pixelflake",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-02-03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "en"
+  },
+  {
+   "file": "File:Hall of Supreme Harmony (20241127120000).jpg",
+   "w": 7190,
+   "h": 4793,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hall_of_Supreme_Harmony_%2820241127120000%29.jpg/330px-Hall_of_Supreme_Harmony_%2820241127120000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hall_of_Supreme_Harmony_%2820241127120000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony_(20241127120000).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "N509FZ",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-11-27 12:00:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Bejing Forbidden City Relief-20071018-RM-152135.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bejing_Forbidden_City_Relief-20071018-RM-152135.jpg/330px-Bejing_Forbidden_City_Relief-20071018-RM-152135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bejing_Forbidden_City_Relief-20071018-RM-152135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bejing_Forbidden_City_Relief-20071018-RM-152135.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Reinhold Möller Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-10-18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Beijing Forbidden City Hall of Central Harmony terraces-20071018-RM-143613.jpg",
+   "w": 3567,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143613.jpg/330px-Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143613.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143613.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143613.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Reinhold Möller Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-10-18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Beijing Forbidden City Hall of Central Harmony terraces-20071018-RM-143736.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143736.jpg/330px-Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143736.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143736.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143736.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Reinhold Möller Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-10-18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Beijing 北京 (50540559551).jpg",
+   "w": 7860,
+   "h": 5895,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Beijing_%E5%8C%97%E4%BA%AC_%2850540559551%29.jpg/330px-Beijing_%E5%8C%97%E4%BA%AC_%2850540559551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Beijing_%E5%8C%97%E4%BA%AC_%2850540559551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Beijing_%E5%8C%97%E4%BA%AC_(50540559551).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Melvin Loi from Macau, Macau",
+   "credito": "Beijing|北京",
+   "nonfree": "",
+   "fecha": "2020-10-28 14:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Beijing Forbidden City water vessel-20071018-RM-150052.jpg",
+   "w": 2736,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Beijing_Forbidden_City_water_vessel-20071018-RM-150052.jpg/330px-Beijing_Forbidden_City_water_vessel-20071018-RM-150052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Beijing_Forbidden_City_water_vessel-20071018-RM-150052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Beijing_Forbidden_City_water_vessel-20071018-RM-150052.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-10-18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2020北京天安门.jpg",
+   "w": 5027,
+   "h": 3335,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/2020%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8.jpg/330px-2020%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/2020%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2020%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "ScareCriterion12",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-08-23 08:09:51",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

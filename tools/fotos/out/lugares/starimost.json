@@ -1,0 +1,211 @@
+{
+ "id": "starimost",
+ "enwiki": "Stari Most",
+ "endesc": "Bridge in Mostar, Bosnia and Herzegovina",
+ "qid": "Q188528",
+ "label_es": "puente de Mostar",
+ "desc_es": "monumento histórico, símbolo de la época otomana de Bosnia y Herzegovina",
+ "coord": [
+  43.33727777777778,
+  17.81502777777778
+ ],
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1566-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1567-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 24.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 0.5,
+   "u": "Q35852"
+  }
+ ],
+ "largo": [
+  {
+   "v": 29.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q14276458",
+  "Q3397526",
+  "Q30634609",
+  "Q12280",
+  "Q132775244"
+ ],
+ "p17": [
+  "Q225"
+ ],
+ "unesco": false,
+ "eswiki": "Puente de Mostar",
+ "extracto_es": "El Puente Viejo (Stari Most o Стари Мост) es uno de los monumentos históricos más famosos de la antigua Yugoslavia. El puente, junto al barrio circundante en la ciudad vieja de Mostar, forma parte del Patrimonio de la Humanidad desde 2005.​ Se encuentra ubicado en la ciudad herzegovina de Mostar, a orillas del río Neretva.\nUno de los episodios más simbólicos de la Guerras yugoslavas (1991-2001) fue la destrucción del Puente Viejo de Mostar en 1993. El incidente supuso el era fin de varios siglos de convivencia entre comunidades religiosas en la localidad.​\nEl puente otomano da nombre a la ciudad (most significa «puente» en idioma bosnio).​",
+ "candidatas": [
+  {
+   "file": "File:Mostar Old Town Panorama 2007.jpg",
+   "w": 2390,
+   "h": 1600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mostar_Old_Town_Panorama_2007.jpg/330px-Mostar_Old_Town_Panorama_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mostar_Old_Town_Panorama_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ramirez",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "10 July 2007",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 17,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Old Bridge in Mostar during sunset.jpg",
+   "w": 4656,
+   "h": 2620,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Old_Bridge_in_Mostar_during_sunset.jpg/330px-Old_Bridge_in_Mostar_during_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Old_Bridge_in_Mostar_during_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Old_Bridge_in_Mostar_during_sunset.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Duesseljan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "26 July 2022 (accord",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Mostar bridge cloudy.jpg",
+   "w": 5382,
+   "h": 3588,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Mostar_bridge_cloudy.jpg/330px-Mostar_bridge_cloudy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mostar_bridge_cloudy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mostar_bridge_cloudy.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hibasi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-02-26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Stari most Mostar redbull diving 2019-08-24 4.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Stari_most_Mostar_redbull_diving_2019-08-24_4.jpg/330px-Stari_most_Mostar_redbull_diving_2019-08-24_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Stari_most_Mostar_redbull_diving_2019-08-24_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stari_most_Mostar_redbull_diving_2019-08-24_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Z thomas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Le Stari Most en 2022.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Le_Stari_Most_en_2022.jpg/330px-Le_Stari_Most_en_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Le_Stari_Most_en_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Le_Stari_Most_en_2022.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nikolas Morel-Ferland",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-05-20 14:04:15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Stari Most (Old Bridge) Mostar.jpg",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Stari_Most_%28Old_Bridge%29_Mostar.jpg/330px-Stari_Most_%28Old_Bridge%29_Mostar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Stari_Most_%28Old_Bridge%29_Mostar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stari_Most_(Old_Bridge)_Mostar.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Djani Behram",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-18 09:32:39",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mostar Stari Most - Old Bridge.jpg",
+   "w": 4368,
+   "h": 2912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mostar_Stari_Most_-_Old_Bridge.jpg/330px-Mostar_Stari_Most_-_Old_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Mostar_Stari_Most_-_Old_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mostar_Stari_Most_-_Old_Bridge.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "miketnorton",
+   "credito": "https://www.flickr.com/photos/49665685@N06/29727425378/",
+   "nonfree": "",
+   "fecha": "2018-06-15 11:51:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Stari Most 01.jpg",
+   "w": 5776,
+   "h": 3250,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Stari_Most_01.jpg/330px-Stari_Most_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Stari_Most_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stari_Most_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Adam Harangozó",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-18 12:03:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}
