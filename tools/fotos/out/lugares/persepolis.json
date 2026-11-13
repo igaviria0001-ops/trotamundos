@@ -1,0 +1,213 @@
+{
+ "id": "persepolis",
+ "enwiki": "Persepolis",
+ "endesc": "Ceremonial capital of the Achaemenid Empire",
+ "qid": "Q129072",
+ "coord": [
+  29.935,
+  52.89
+ ],
+ "label_es": "Persépolis",
+ "desc_es": "monumento histórico, Palacio aqueménida, Patrimonio Nacional de Irán, Sitio del Patrimonio Mundial de la UNESCO.",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-0510-00-00T00:00:00Z",
+   "prec": 8
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 1627.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 12.5,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q15661340",
+  "Q839954",
+  "Q2065736",
+  "Q2319498"
+ ],
+ "p17": [
+  "Q794"
+ ],
+ "unesco": true,
+ "eswiki": "Persépolis",
+ "extracto_es": "Persépolis (en griego antiguo: Περσέπολις, Persépolis, literalmente ‘la ciudad persa’; en persa antiguo: 𐎱𐎠𐎼𐎿𐎠, romanizado: Pars; en persa: تخت جمشید‎, Tajt-e Yamshid ‘el trono de Jamshid’) fue la capital del Imperio persa durante la época aqueménida. Se encuentra a unos 70 km de la ciudad iraní de Marvdasht (provincia de Fars), al pie del monte Kuh-e Rahmat cerca del lugar en que el río Pulwar desemboca en el Kur (Kyrus). Dista en torno a 75 km de la ciudad de Shiraz.\nSu edificación comenzó entre 518 y 515 a. C. por orden de Darío I,​ como parte de un vasto programa de construcciones monumentales enfocadas a enfatizar la unidad y diversidad del Imperio persa aqueménida, la legitimidad del poder real y mostrar la grandeza de su reino. Las obras de Persépolis atrajeron trabajadores y artesanos venidos de todas las satrapías del imperio y por ello su arquitectura resultó de una combinación original de formas de estas provincias que crearon un estilo arquitectónico persa ya antes esbozado en Pasargada y que también se encuentra en Susa y Ecbatana. Esta combinación de saberes marcó igualmente el resto de las artes persas, como la escultura y la orfebrería. La construcción de Persépolis continuó durante dos siglos, hasta la conquista del imperio y la destrucción parcial de la ciudad por Alejandro Magno en 331 a. C.\nEl sitio fue visitado a lo largo de los siglos por viajeros occidentales, pero no fue hasta el siglo XVII que las ruinas se certificaron como la antigua capital aqueménida. Numerosas expediciones arqueológicas han permitido comprender mejor las estructuras, su aspecto original y las funciones que cumplieron.\nPersépolis comprende un enorme complejo palaciego sobre una terraza monumental que soporta múltiples edificios hipóstilos que tuvieron funciones protocolarias, rituales, emblemáticas o administrativas precisas: audiencias, apartamentos reales, administración del tesoro o recepción. Cerca de la terraza había otros elementos: tumbas reales, altares y jardines. También estaban las casas de la ciudad baja, de la que casi nada queda visible actualmente.  Muchos bajorrelieves esculpidos en las escalinatas y puertas del palacio representan la diversidad de los pueblos que componían el imperio. Otros consagran la imagen de un poder real protector, soberano, legítimo y absoluto, donde se designa a Jerjes I como sucesor legítimo de Darío I el Grande. Las múltiples inscripciones reales en escritura cuneiforme de Persépolis están redactadas en persa antiguo,",
+ "candidatas": [
+  {
+   "file": "File:Persépolis, Irán, 2016-09-24, DD 53.jpg",
+   "w": 6961,
+   "h": 5231,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_53.jpg/330px-Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_53.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_53.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pers%C3%A9polis,_Ir%C3%A1n,_2016-09-24,_DD_53.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-24 11:02:55",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Persépolis, Irán, 2016-09-24, DD 15.jpg",
+   "w": 8568,
+   "h": 5033,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_15.jpg/330px-Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pers%C3%A9polis,_Ir%C3%A1n,_2016-09-24,_DD_15.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-24 10:36:22",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2018-09-21 Iran, Persepolis, Tachara (from the southeast).jpg",
+   "w": 3909,
+   "h": 2590,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg/330px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Laurens R. Krol",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Persépolis, Irán, 2016-09-24, DD 10.jpg",
+   "w": 8325,
+   "h": 4609,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_10.jpg/330px-Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pers%C3%A9polis,_Ir%C3%A1n,_2016-09-24,_DD_10.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-24 10:32:28",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "es"
+  },
+  {
+   "file": "File:Persepolis stairs of the Apadana relief.jpg",
+   "w": 3509,
+   "h": 2349,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Persepolis_stairs_of_the_Apadana_relief.jpg/330px-Persepolis_stairs_of_the_Apadana_relief.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Persepolis_stairs_of_the_Apadana_relief.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Persepolis_stairs_of_the_Apadana_relief.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Phillip Maiwald (Nikopol)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-09-03",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Persepolis, Iran 08.jpg",
+   "w": 5020,
+   "h": 3347,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Persepolis%2C_Iran_08.jpg/330px-Persepolis%2C_Iran_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Persepolis%2C_Iran_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Persepolis,_Iran_08.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-27",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Persepolis - Tomb of Artaxerxes III 01.jpg",
+   "w": 4037,
+   "h": 2691,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Persepolis_-_Tomb_of_Artaxerxes_III_01.jpg/330px-Persepolis_-_Tomb_of_Artaxerxes_III_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Persepolis_-_Tomb_of_Artaxerxes_III_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Persepolis_-_Tomb_of_Artaxerxes_III_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-27",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Persepolis Panorama 2.jpg",
+   "w": 10047,
+   "h": 6403,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Persepolis_Panorama_2.jpg/330px-Persepolis_Panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Persepolis_Panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Persepolis_Panorama_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mshayati",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-09-27 03:30:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  }
+ ]
+}

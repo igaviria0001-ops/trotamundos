@@ -1,0 +1,196 @@
+{
+ "id": "registan",
+ "enwiki": "Registan",
+ "endesc": "Historical center of Samarkand, Uzbekistan",
+ "qid": "Q1373583",
+ "coord": [
+  39.654722222222,
+  66.975555555556
+ ],
+ "label_es": "Registán",
+ "desc_es": "Uzbekistán",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1417-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q811430",
+  "Q174782",
+  "Q1497375"
+ ],
+ "p17": [
+  "Q265"
+ ],
+ "unesco": false,
+ "eswiki": "Registán",
+ "extracto_es": "Registán (en persa: ریگستان‎, lit. 'lugar de arena', en uzbeko: Registon) es una plaza pública histórica de la ciudad de Samarcanda, ahora en Uzbekistán, que fue el corazón de la antigua capital (1370-1505) de la dinastía timúrida.​ \nHay evidencias de actividad humana en la zona de la ciudad que datan de finales del Paleolítico.  Aunque no hay evidencia directa de cuándo se fundó Samarcanda, varias teorías proponen que fue fundada entre los siglos VIII y VII a. C. Gracias a su ubicación en la Ruta de la Seda entre China, Persia y Europa, Samarcanda llegó a ser una de las mayores ciudades​ ciudades de Asia Central,​ y fue una importante ciudad de los imperios del Gran Irán. ​ En la época del Imperio aqueménida persa, era la capital del sátrapa de Sogdia. La ciudad fue conquistada por Alejandro Magno en el año 329 a. C., cuando era conocida como Markanda, que se tradujo en griego como Μαράκανδα. ​  La ciudad fue gobernada por una sucesión de gobernantes iraníes y turcos hasta que fue conquistada por los mongoles de Gengis Kan en 1220.\nEl Registán era una plaza pública donde las personas se reunían para escuchar las proclamaciones reales, anunciados por explosiones en enormes tubos de cobre llamados dzharchis, y un lugar de ejecuciones públicas. La plaza está enmarcada por tres madrasas (escuelas islámicas) de la distintiva arquitectura islámica.\nLas madrazas son parte del legado del rey turco-mongol Timur en su antigua ciudad de Samarcanda. Uno de los monumentos de Timur lleva el proverbio: «Si quieres saber sobre nosotros, examina nuestros edificios». Siglos más tarde, en 1888, el viajero y futuro virrey de la India, George Curzon, describió Registán como «la plaza pública más noble del mundo».\nEl Registán creció alrededor de la tumba del santo del siglo IX, Imam Ŷaʿfar as-Sadiq (la tumba se encuentra frente a la madraza de Sher Dor), pero en el siglo XIV también era el corazón comercial de la ciudad. Seis caminos atravesaban la plaza y estaba conectada directamente con la ciudadela de Timur. Los decretos imperiales se gritaron desde los tejados, y la gente se habría reunido aquí para ver desfiles militares y otras formas de espectáculo. Los tres magníficos edificios que se observan en la actualidad son los sucesores de esta pieza central medieval.\nEstos edificios, el Registán y otras maravillas de la Samarcanda timúrida, fueron el resultado de la unión de artesanos y constructores de todo el imperio a fines del siglo XIV. Su influencia también llegaría lej",
+ "candidatas": [
+  {
+   "file": "File:Registan 01.jpg",
+   "w": 4812,
+   "h": 2144,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Registan_01.jpg/330px-Registan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Registan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Registan_01.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Самарканд. Площадь-Регистан.jpg",
+   "w": 4814,
+   "h": 2856,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4._%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C-%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D0%B0%D0%BD.jpg/330px-%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4._%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C-%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D0%B0%D0%BD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4._%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C-%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D0%B0%D0%BD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4._%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C-%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D0%B0%D0%BD.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kraftabbas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-05-23 20:30:12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:RegistanSquare Samarkand.jpg",
+   "w": 1462,
+   "h": 1097,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/RegistanSquare_Samarkand.jpg/330px-RegistanSquare_Samarkand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RegistanSquare_Samarkand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:RegistanSquare_Samarkand.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Registan_-_Gusjer.jpg: Gustavo Jeronimo from Aranjuez, Spain\nderivative work: MrPanyGoff",
+   "credito": "Registan_-_Gusjer.jpg",
+   "nonfree": "",
+   "fecha": "2011-01-26 11:11",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Tilya-Kori Madrasa 01.jpg",
+   "w": 4227,
+   "h": 2734,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Tilya-Kori_Madrasa_01.jpg/330px-Tilya-Kori_Madrasa_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Tilya-Kori_Madrasa_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tilya-Kori_Madrasa_01.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sher-Dor Madrasa 02.jpg",
+   "w": 3088,
+   "h": 2206,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Sher-Dor_Madrasa_02.jpg/330px-Sher-Dor_Madrasa_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sher-Dor_Madrasa_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sher-Dor_Madrasa_02.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Bgag",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Медресе Шер-Дор и Медресе Улугбека лево (Sher-Dor Madrasa and Ulugh Beg Madrasa, left side), Samarkand.jpg",
+   "w": 4496,
+   "h": 2226,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/%D0%9C%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5_%D0%A8%D0%B5%D1%80-%D0%94%D0%BE%D1%80_%D0%B8_%D0%9C%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5_%D0%A3%D0%BB%D1%83%D0%B3%D0%B1%D0%B5%D0%BA%D0%B0_%D0%BB%D0%B5%D0%B2%D0%BE_%28Sher-Dor_Madrasa_and_Ulugh_Beg_Madrasa%2C_left_side%29%2C_Samarkand.jpg/330px-%D0%9C%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5_%D0%A8%D0%B5%D1%80-%D0%94%D0%BE%D1%80_%D0%B8_%D0%9C%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5_%D0%A3%D0%BB%D1%83%D0%B3%D0%B1%D0%B5%D0%BA%D0%B0_%D0%BB%D0%B5%D0%B2%D0%BE_%28Sher-Dor_Madrasa_and_Ulugh_Beg_Madrasa%2C_left_side%29%2C_Samarkand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%D0%9C%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5_%D0%A8%D0%B5%D1%80-%D0%94%D0%BE%D1%80_%D0%B8_%D0%9C%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5_%D0%A3%D0%BB%D1%83%D0%B3%D0%B1%D0%B5%D0%BA%D0%B0_%D0%BB%D0%B5%D0%B2%D0%BE_%28Sher-Dor_Madrasa_and_Ulugh_Beg_Madrasa%2C_left_side%29%2C_Samarkand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5_%D0%A8%D0%B5%D1%80-%D0%94%D0%BE%D1%80_%D0%B8_%D0%9C%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5_%D0%A3%D0%BB%D1%83%D0%B3%D0%B1%D0%B5%D0%BA%D0%B0_%D0%BB%D0%B5%D0%B2%D0%BE_(Sher-Dor_Madrasa_and_Ulugh_Beg_Madrasa,_left_side),_Samarkand.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Petar Milošević",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-09-07 09:22:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Registan square 2014.JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Registan_square_2014.JPG/330px-Registan_square_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Registan_square_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Registan_square_2014.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bobyrr",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-06-01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Chorsu 2015.JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Chorsu_2015.JPG/330px-Chorsu_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Chorsu_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chorsu_2015.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bobyrr",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-23 15:18:15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "id": "libertad",
+ "enwiki": "Statue of Liberty",
+ "endesc": "Colossal sculpture in New York Harbor",
+ "qid": "Q9202",
+ "coord": [
+  40.689209166667,
+  -74.044425277778
+ ],
+ "label_es": "Estatua de la Libertad",
+ "desc_es": "monumento en Nueva York, Estados Unidos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1886-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 46.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 47.0,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 3722029.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q43113623",
+  "Q1440300",
+  "Q179700",
+  "Q1779653"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": true,
+ "eswiki": "Estatua de la Libertad",
+ "extracto_es": "La Libertad iluminando el mundo (en inglés: Liberty Enlightening the World; en francés: La Liberté éclairant le monde), más conocida como la Estatua de la Libertad, es uno de los monumentos más famosos de Nueva York, de los Estados Unidos y de todo el mundo. Se encuentra en la isla de la Libertad al sur de la isla de Manhattan, junto a la desembocadura del río Hudson y cerca de la isla Ellis. La Estatua de la Libertad representa a la diosa romana Libertas y fue un regalo del pueblo francés al pueblo estadounidense en 1886 para conmemorar el centenario de la Declaración de Independencia de los Estados Unidos y como un signo de amistad entre las dos naciones. Fue inaugurada el 28 de octubre de 1886 en presencia del presidente estadounidense de la época, Grover Cleveland. La estatua es obra del escultor francés Frédéric Auguste Bartholdi y la estructura interna fue diseñada por el ingeniero Alexandre Gustave Eiffel.​ El arquitecto francés Eugène Viollet-le-Duc se encargó de la elección de los cobres utilizados para la construcción de la estatua. El 15 de octubre de 1924, la estatua fue declarada como monumento nacional de los Estados Unidos y el 15 de octubre de 1965 se añadió la isla Ellis. Desde 1984 es considerada Patrimonio de la Humanidad por la Unesco.​\nLa Estatua de la Libertad, además de ser un monumento importante en la ciudad de Nueva York, se convirtió en un símbolo en Estados Unidos y representa, en un plano más general, la libertad y emancipación con respecto a la opresión. Desde su inauguración en 1886, la estatua fue la primera visión que tenían los inmigrantes europeos al llegar a Estados Unidos tras su travesía por el océano Atlántico. En términos arquitectónicos, la estatua recuerda al famoso Coloso de Rodas, una de las siete maravillas del mundo antiguo. Fue nominada para las nuevas siete maravillas del mundo moderno, donde resultó finalista. El nombre asignado por la Unesco es Monumento Nacional Estatua de la Libertad. Desde el 10 de junio de 1933 se encarga de su administración el Servicio de Parques Nacionales de los Estados Unidos.",
+ "candidatas": [
+  {
+   "file": "File:Statue of Liberty and a sightseeing boat, Liberty Island, New York.jpg",
+   "w": 7728,
+   "h": 5152,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Statue_of_Liberty_and_a_sightseeing_boat%2C_Liberty_Island%2C_New_York.jpg/330px-Statue_of_Liberty_and_a_sightseeing_boat%2C_Liberty_Island%2C_New_York.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Statue_of_Liberty_and_a_sightseeing_boat%2C_Liberty_Island%2C_New_York.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_and_a_sightseeing_boat,_Liberty_Island,_New_York.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-04-17 11:40:56",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:2014-09-15 16-14-55 lion-belfort.jpg",
+   "w": 8874,
+   "h": 5307,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2014-09-15_16-14-55_lion-belfort.jpg/330px-2014-09-15_16-14-55_lion-belfort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/2014-09-15_16-14-55_lion-belfort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2014-09-15_16-14-55_lion-belfort.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Thomas Bresson",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-09-15 16:14:55",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Statue of Liberty Annular Solar Eclipse (51239095574).jpg",
+   "w": 6377,
+   "h": 3810,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Statue_of_Liberty_Annular_Solar_Eclipse_%2851239095574%29.jpg/330px-Statue_of_Liberty_Annular_Solar_Eclipse_%2851239095574%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Statue_of_Liberty_Annular_Solar_Eclipse_%2851239095574%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_Annular_Solar_Eclipse_(51239095574).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Anthony Quintano from Mount Laurel, United States",
+   "credito": "Statue of Liberty Annular Solar Eclipse",
+   "nonfree": "",
+   "fecha": "2021-06-10 03:33",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Front view of Statue of Liberty (cropped).jpg",
+   "w": 2498,
+   "h": 3828,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/330px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "AskALotl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 2 June 2024",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:New York City (New York, USA), Statue of Liberty -- 2012 -- 6818.jpg",
+   "w": 3329,
+   "h": 4993,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/New_York_City_%28New_York%2C_USA%29%2C_Statue_of_Liberty_--_2012_--_6818.jpg/330px-New_York_City_%28New_York%2C_USA%29%2C_Statue_of_Liberty_--_2012_--_6818.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/New_York_City_%28New_York%2C_USA%29%2C_Statue_of_Liberty_--_2012_--_6818.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Statue_of_Liberty_--_2012_--_6818.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dietmar Rabich",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "Taken on 31 July 201",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Liberty Island photo Don Ramey Logan.jpg",
+   "w": 4800,
+   "h": 3200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Liberty_Island_photo_Don_Ramey_Logan.jpg/330px-Liberty_Island_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Liberty_Island_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Liberty_Island_photo_Don_Ramey_Logan.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Don Ramey Logan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 14 December",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Statue of Liberty (36491259596).jpg",
+   "w": 5184,
+   "h": 2379,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Statue_of_Liberty_%2836491259596%29.jpg/330px-Statue_of_Liberty_%2836491259596%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Statue_of_Liberty_%2836491259596%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_(36491259596).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "William Warby from London, England",
+   "credito": "Statue of Liberty",
+   "nonfree": "",
+   "fecha": "2017-06-19 10:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Black Tom Island from Liberty Island June 2024.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Black_Tom_Island_from_Liberty_Island_June_2024.jpg/330px-Black_Tom_Island_from_Liberty_Island_June_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Black_Tom_Island_from_Liberty_Island_June_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Black_Tom_Island_from_Liberty_Island_June_2024.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "AskALotl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-06-02 13:02:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

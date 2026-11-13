@@ -1,0 +1,217 @@
+{
+ "id": "naqshjahan",
+ "enwiki": "Naqsh-e Jahan Square",
+ "endesc": "Historical town square in Isfahan, Iran",
+ "qid": "Q4519",
+ "coord": [
+  32.65822222222222,
+  51.67733333333334
+ ],
+ "label_es": "Plaza de Naqsh-e Yahán",
+ "desc_es": "plaza de Isfahán, Irán, Patrimonio de la Humanidad",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1591-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1595-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1602-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 1570.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 8.96,
+   "u": "Q35852"
+  }
+ ],
+ "largo": [
+  {
+   "v": 560.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q174782",
+  "Q2065736",
+  "Q2319498"
+ ],
+ "p17": [
+  "Q794"
+ ],
+ "unesco": true,
+ "eswiki": "Plaza de Naqsh-e Yahán",
+ "extracto_es": "La plaza de Naghsh-i Jahan (en persa: ميدان نقش جهان‎, maidaan-e naqsh-e jehaan), también conocida como Plaza Real (Meidan Eman) y plaza del imán Jomeini, es una plaza situada en el centro de la ciudad de Isfahán, es uno de los sitios más importantes del país y fue declarada Patrimonio de la Humanidad por la Unesco en el año 1979. Es la plaza más grande de Irán y una de las mayores del mundo. A partir de la dinastía safávida, fue rodeada por monumentos históricos de la época. Al este de la plaza se encuentra la mezquita del jeque Lutfallah, al norte se abre una de las puertas del gran bazar de Isfahán, al oeste está el palacio de Ali Qapu y al sur la mezquita del Shah, delante de la cual actualmente se realiza los viernes el Namaaz-e Jom'eh (el rezo de viernes de los musulmanes).\nLa plaza forma un rectángulo alargado de 560 metros de largo y 160 metros de ancho y está alineado casi exactamente en dirección norte-sur. En el momento de su construcción, era la plaza más grande del mundo. Planificado como mercado, tribunal de justicia, campo de juego y recinto ferial a partes iguales, está rodeado de importantes estructuras: el palacio real, las mezquitas y el baza, que a su vez están unidos por una arcada de dos pisos que enmarca la plaza . De esta manera, la plaza y los edificios circundantes forman un conjunto coherente que pretende simbolizar la conexión entre la cultura secular y la espiritual, así como el comercio y el comercio.\nEl área y sus edificios forman el punto focal de la ciudad y son una de las razones por las que la belleza de Isfahán se volvió proverbial en persa (con un juego de palabras fonético con Naqsh-e Jahān , el nombre del lugar): Esfahān nesf-e Jahān , \" Isfahan [es] la mitad del mundo\".",
+ "candidatas": [
+  {
+   "file": "File:Naqsh-e Jahan Square from the gheisariye Vault.jpg",
+   "w": 8689,
+   "h": 5290,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg/330px-Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Amir Pashaei",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-09-30",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Naqsh-i Jahan Square, Jan. 2018.jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Naqsh-i_Jahan_Square%2C_Jan._2018.jpg/330px-Naqsh-i_Jahan_Square%2C_Jan._2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Naqsh-i_Jahan_Square%2C_Jan._2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Naqsh-i_Jahan_Square,_Jan._2018.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "احمد جمالی مقدم",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-01-04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:نقش جهان۱.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86%DB%B1.jpg/330px-%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86%DB%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86%DB%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86%DB%B1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Zahra gharaati",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-03 06:27:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Naghshe Jahan Square Isfahan modified2.jpg",
+   "w": 2096,
+   "h": 1133,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Naghshe_Jahan_Square_Isfahan_modified2.jpg/330px-Naghshe_Jahan_Square_Isfahan_modified2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Naghshe_Jahan_Square_Isfahan_modified2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Naghshe_Jahan_Square_Isfahan_modified2.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Arad Mojtahedi",
+   "credito": "Modified version of: Image:Naghshe Jahan Square Isfahan.jpg",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Palacio Aali Qapu, Isfahán, Irán, 2016-09-20, DD 56.jpg",
+   "w": 8528,
+   "h": 4481,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Palacio_Aali_Qapu%2C_Isfah%C3%A1n%2C_Ir%C3%A1n%2C_2016-09-20%2C_DD_56.jpg/330px-Palacio_Aali_Qapu%2C_Isfah%C3%A1n%2C_Ir%C3%A1n%2C_2016-09-20%2C_DD_56.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Palacio_Aali_Qapu%2C_Isfah%C3%A1n%2C_Ir%C3%A1n%2C_2016-09-20%2C_DD_56.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_Aali_Qapu,_Isfah%C3%A1n,_Ir%C3%A1n,_2016-09-20,_DD_56.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-20 10:51:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Naghshejahan3.jpg",
+   "w": 2287,
+   "h": 1448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Naghshejahan3.jpg/330px-Naghshejahan3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Naghshejahan3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Naghshejahan3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Pedram forouzanfar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 7 May 2019",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Isfahan, Iran (53780067511).jpg",
+   "w": 5189,
+   "h": 3459,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Isfahan%2C_Iran_%2853780067511%29.jpg/330px-Isfahan%2C_Iran_%2853780067511%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Isfahan%2C_Iran_%2853780067511%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Isfahan,_Iran_(53780067511).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Ninara",
+   "credito": "Isfahan, Iran",
+   "nonfree": "",
+   "fecha": "2024-05-13 18:34",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Naqsh-e Jahan Square by Pascal Coste 1 edited.jpg",
+   "w": 4547,
+   "h": 2810,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Naqsh-e_Jahan_Square_by_Pascal_Coste_1_edited.jpg/330px-Naqsh-e_Jahan_Square_by_Pascal_Coste_1_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Naqsh-e_Jahan_Square_by_Pascal_Coste_1_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Naqsh-e_Jahan_Square_by_Pascal_Coste_1_edited.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Pascal Coste",
+   "credito": "eiah.org",
+   "nonfree": "",
+   "fecha": "between 1839 and 184",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "id": "galapagos",
+ "enwiki": "Galápagos Islands",
+ "endesc": "Ecuadorian volcanic archipelago",
+ "qid": "Q38095",
+ "coord": [
+  -0.66666666666667,
+  -90.55
+ ],
+ "label_es": "Islas Galápagos",
+ "desc_es": "archipiélago ecuatoriano en el océano Pacífico",
+ "inicio": [],
+ "area": [
+  {
+   "v": 7880.0,
+   "u": "Q712226"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 267688.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q33837",
+  "Q6617741"
+ ],
+ "p17": [
+  "Q736"
+ ],
+ "unesco": true,
+ "eswiki": "Islas Galápagos",
+ "extracto_es": "Las islas Galápagos​ (también islas de las Galápagos y oficialmente conocidas como archipiélago de Colón​ o archipiélago de Galápagos)​ constituyen un archipiélago del océano Pacífico ubicado a 972 km de la costa de Ecuador.​ Fueron descubiertas en 1535 por la tripulación del barco del fray Tomás de Berlanga. Está conformado por trece islas grandes con una superficie mayor a 10 km², nueve islas medianas con una superficie de 1 km² a 10 km² y otros 107 islotes de tamaño pequeño, además de promontorios rocosos de pocos metros cuadrados, distribuidos alrededor de la línea ecuatorial, que conjuntamente con el archipiélago malayo, son los únicos archipiélagos del planeta que tienen territorio tanto en el hemisferio norte como en el hemisferio sur.\nLas islas Galápagos son la segunda reserva marina más grande del planeta​ fueron declaradas Patrimonio de la Humanidad en 1978 por la Unesco. El archipiélago tiene como mayor fuente de ingresos el turismo y recibe 200 000 turistas al año.​ También se ha desarrollado el turismo ecológico con el fin de preservar las especies. La región fue el hábitat del Solitario George, el último espécimen de la especie tortuga gigante de Pinta, extinta el 24 de junio del 2012.​ Las islas también son hábitat de especies como tortugas marinas, delfines, tiburones, tiburones martillo, ballenas, arrecifes de coral, fragatas, iguanas, lagartos, cormoranes, albatros, leones marinos y pingüinos.​ Al igual que la masa continental de Ecuador, el archipiélago es atravesado por la línea ecuatorial, en su mayor parte por el norte de la isla Isabela. Galápagos es el segundo archipiélago con mayor actividad volcánica del planeta, superado únicamente por Hawái.​ Entra en la categoría de los puntos calientes; los volcanes más activos son Cerro Azul, Sierra Negra, Marchena y volcán La Cumbre en la Isla Fernandina, que es el más activo del archipiélago y uno de los más activos del mundo.​\nLas Galápagos son conocidas por sus numerosas especies endémicas y por los estudios de Charles Darwin que le llevaron a establecer su teoría de la evolución por la selección natural. Son llamadas, turísticamente, las Islas Encantadas, denominación que se ganó el archipiélago en el siglo XVI por su peculiar biodiversidad de flora y fauna.​\nSe estima que la formación de la primera isla tuvo lugar hace más de cinco millones de años,​ como resultado de la actividad tectónica. Las islas más recientes, llamadas Isabela y Fernandina, están todavía en proceso de formación, h",
+ "candidatas": [
+  {
+   "file": "File:Lobo marino (Zalophus californianus wollebaeki), Punta Pitt, isla de San Cristóbal, islas Galápagos, Ecuador, 2015-07-24, DD 11.JPG",
+   "w": 8642,
+   "h": 5762,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG/330px-Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lobo_marino_(Zalophus_californianus_wollebaeki),_Punta_Pitt,_isla_de_San_Crist%C3%B3bal,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-24,_DD_11.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-24",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 21,
+   "origen": "en"
+  },
+  {
+   "file": "File:Piquero patiazul (Sula nebouxii), isla Lobos, islas Galápagos, Ecuador, 2015-07-25, DD 35.JPG",
+   "w": 7068,
+   "h": 5268,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Piquero_patiazul_%28Sula_nebouxii%29%2C_isla_Lobos%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-25%2C_DD_35.JPG/330px-Piquero_patiazul_%28Sula_nebouxii%29%2C_isla_Lobos%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-25%2C_DD_35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Piquero_patiazul_%28Sula_nebouxii%29%2C_isla_Lobos%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-25%2C_DD_35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Piquero_patiazul_(Sula_nebouxii),_isla_Lobos,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-25,_DD_35.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-25",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Galápagos Islands ESA23188644.jpeg",
+   "w": 5111,
+   "h": 5121,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gal%C3%A1pagos_Islands_ESA23188644.jpeg/330px-Gal%C3%A1pagos_Islands_ESA23188644.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Gal%C3%A1pagos_Islands_ESA23188644.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gal%C3%A1pagos_Islands_ESA23188644.jpeg",
+   "licencia": "Attribution",
+   "licurl": "",
+   "autor": "European Space Agency",
+   "credito": "Galápagos Islands",
+   "nonfree": "",
+   "fecha": "5 March 2021 (upload",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Galápagos Islands Tortuga Bay Photography by David Adam Kess.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Gal%C3%A1pagos_Islands_Tortuga_Bay_Photography_by_David_Adam_Kess.JPG/330px-Gal%C3%A1pagos_Islands_Tortuga_Bay_Photography_by_David_Adam_Kess.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Gal%C3%A1pagos_Islands_Tortuga_Bay_Photography_by_David_Adam_Kess.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gal%C3%A1pagos_Islands_Tortuga_Bay_Photography_by_David_Adam_Kess.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "David Adam Kess",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-31 12:22:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:(Pelecanus occidentalis) Tortuga Bay on the Island of Santa Cruz, Galápagos.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%28Pelecanus_occidentalis%29_Tortuga_Bay_on_the_Island_of_Santa_Cruz%2C_Gal%C3%A1pagos.JPG/330px-%28Pelecanus_occidentalis%29_Tortuga_Bay_on_the_Island_of_Santa_Cruz%2C_Gal%C3%A1pagos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/%28Pelecanus_occidentalis%29_Tortuga_Bay_on_the_Island_of_Santa_Cruz%2C_Gal%C3%A1pagos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:(Pelecanus_occidentalis)_Tortuga_Bay_on_the_Island_of_Santa_Cruz,_Gal%C3%A1pagos.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "David Adam Kess",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-31 12:18:19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:20180808-Galápagos sea lion-2 at Santiago (9781).jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/20180808-Gal%C3%A1pagos_sea_lion-2_at_Santiago_%289781%29.jpg/330px-20180808-Gal%C3%A1pagos_sea_lion-2_at_Santiago_%289781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/20180808-Gal%C3%A1pagos_sea_lion-2_at_Santiago_%289781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20180808-Gal%C3%A1pagos_sea_lion-2_at_Santiago_(9781).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "© Nicolas Völcker",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-08-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Alvaro Sevilla Design Isla Santa Cruz Galapagos foto tomada desde el avión.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Alvaro_Sevilla_Design_Isla_Santa_Cruz_Galapagos_foto_tomada_desde_el_avi%C3%B3n.jpg/330px-Alvaro_Sevilla_Design_Isla_Santa_Cruz_Galapagos_foto_tomada_desde_el_avi%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Alvaro_Sevilla_Design_Isla_Santa_Cruz_Galapagos_foto_tomada_desde_el_avi%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alvaro_Sevilla_Design_Isla_Santa_Cruz_Galapagos_foto_tomada_desde_el_avi%C3%B3n.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "David Adam Kess",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-12-07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gigantic Turtle on the Island of Santa Cruz in the Galapagos.JPG",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Gigantic_Turtle_on_the_Island_of_Santa_Cruz_in_the_Galapagos.JPG/330px-Gigantic_Turtle_on_the_Island_of_Santa_Cruz_in_the_Galapagos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Gigantic_Turtle_on_the_Island_of_Santa_Cruz_in_the_Galapagos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gigantic_Turtle_on_the_Island_of_Santa_Cruz_in_the_Galapagos.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "David Adam Kess",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-12-03 16:29:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

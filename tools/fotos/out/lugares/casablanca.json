@@ -1,0 +1,473 @@
+{
+ "id": "casablanca",
+ "enwiki": "White House",
+ "endesc": "Residence and workplace of the US president",
+ "qid": "Q35525",
+ "coord": [
+  38.897777777777776,
+  -77.03666666666666
+ ],
+ "label_es": "Casa Blanca",
+ "desc_es": "residencia oficial y principal centro de trabajo del presidente de los Estados Unidos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1800-00-00T00:00:00Z",
+   "prec": 7
+  },
+  {
+   "p": "P1619",
+   "time": "+1800-11-01T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 21.33,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 826300.0,
+   "u": "1"
+  },
+  {
+   "v": 696600.0,
+   "u": "1"
+  },
+  {
+   "v": 870100.0,
+   "u": "1"
+  },
+  {
+   "v": 963500.0,
+   "u": "1"
+  },
+  {
+   "v": 913300.0,
+   "u": "1"
+  },
+  {
+   "v": 921600.0,
+   "u": "1"
+  },
+  {
+   "v": 809600.0,
+   "u": "1"
+  },
+  {
+   "v": 1322300.0,
+   "u": "1"
+  },
+  {
+   "v": 1561700.0,
+   "u": "1"
+  },
+  {
+   "v": 1520200.0,
+   "u": "1"
+  },
+  {
+   "v": 1840100.0,
+   "u": "1"
+  },
+  {
+   "v": 1673100.0,
+   "u": "1"
+  },
+  {
+   "v": 1548300.0,
+   "u": "1"
+  },
+  {
+   "v": 1733900.0,
+   "u": "1"
+  },
+  {
+   "v": 1154900.0,
+   "u": "1"
+  },
+  {
+   "v": 1521700.0,
+   "u": "1"
+  },
+  {
+   "v": 1388600.0,
+   "u": "1"
+  },
+  {
+   "v": 1391300.0,
+   "u": "1"
+  },
+  {
+   "v": 1412753.0,
+   "u": "1"
+  },
+  {
+   "v": 1219000.0,
+   "u": "1"
+  },
+  {
+   "v": 1349600.0,
+   "u": "1"
+  },
+  {
+   "v": 1492800.0,
+   "u": "1"
+  },
+  {
+   "v": 1573500.0,
+   "u": "1"
+  },
+  {
+   "v": 1304300.0,
+   "u": "1"
+  },
+  {
+   "v": 1333170.0,
+   "u": "1"
+  },
+  {
+   "v": 1313017.0,
+   "u": "1"
+  },
+  {
+   "v": 1318583.0,
+   "u": "1"
+  },
+  {
+   "v": 1132992.0,
+   "u": "1"
+  },
+  {
+   "v": 1076713.0,
+   "u": "1"
+  },
+  {
+   "v": 1169085.0,
+   "u": "1"
+  },
+  {
+   "v": 1134625.0,
+   "u": "1"
+  },
+  {
+   "v": 1259928.0,
+   "u": "1"
+  },
+  {
+   "v": 1148290.0,
+   "u": "1"
+  },
+  {
+   "v": 1077561.0,
+   "u": "1"
+  },
+  {
+   "v": 1089967.0,
+   "u": "1"
+  },
+  {
+   "v": 1060548.0,
+   "u": "1"
+  },
+  {
+   "v": 1090446.0,
+   "u": "1"
+  },
+  {
+   "v": 978617.0,
+   "u": "1"
+  },
+  {
+   "v": 1144540.0,
+   "u": "1"
+  },
+  {
+   "v": 1161674.0,
+   "u": "1"
+  },
+  {
+   "v": 1228097.0,
+   "u": "1"
+  },
+  {
+   "v": 1120926.0,
+   "u": "1"
+  },
+  {
+   "v": 1179458.0,
+   "u": "1"
+  },
+  {
+   "v": 1227392.0,
+   "u": "1"
+  },
+  {
+   "v": 1027479.0,
+   "u": "1"
+  },
+  {
+   "v": 1015395.0,
+   "u": "1"
+  },
+  {
+   "v": 1175714.0,
+   "u": "1"
+  },
+  {
+   "v": 856042.0,
+   "u": "1"
+  },
+  {
+   "v": 178092.0,
+   "u": "1"
+  },
+  {
+   "v": 182542.0,
+   "u": "1"
+  },
+  {
+   "v": 357250.0,
+   "u": "1"
+  },
+  {
+   "v": 455643.0,
+   "u": "1"
+  },
+  {
+   "v": 481951.0,
+   "u": "1"
+  },
+  {
+   "v": 491229.0,
+   "u": "1"
+  },
+  {
+   "v": 519011.0,
+   "u": "1"
+  },
+  {
+   "v": 616890.0,
+   "u": "1"
+  },
+  {
+   "v": 922335.0,
+   "u": "1"
+  },
+  {
+   "v": 570057.0,
+   "u": "1"
+  },
+  {
+   "v": 656949.0,
+   "u": "1"
+  },
+  {
+   "v": 231627.0,
+   "u": "1"
+  },
+  {
+   "v": 569391.0,
+   "u": "1"
+  },
+  {
+   "v": 526263.0,
+   "u": "1"
+  },
+  {
+   "v": 611207.0,
+   "u": "1"
+  },
+  {
+   "v": 439725.0,
+   "u": "1"
+  },
+  {
+   "v": 485974.0,
+   "u": "1"
+  },
+  {
+   "v": 454117.0,
+   "u": "1"
+  },
+  {
+   "v": 114519.0,
+   "u": "1"
+  }
+ ],
+ "largo": [
+  {
+   "v": 51.2,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q1802963",
+  "Q52177058",
+  "Q2114972"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Casa Blanca",
+ "extracto_es": "La Casa Blanca (en inglés: The White House) es la residencia oficial y lugar de trabajo del presidente de los Estados Unidos. Está situada en el cuadrante noroeste, en el número 1600 de la Avenida de Pensilvania, en Washington D. C., y ha sido la residencia de todos los presidentes de Estados Unidos desde John Adams en 1800, cuando la capital nacional se trasladó de Filadelfia a Washington D. C. El término \"Casa Blanca\" se utiliza habitualmente como metonimia para referirse al presidente y a sus asesores.\nLa residencia fue diseñada por el arquitecto irlandés James Hoban en estilo neoclásico.​ Hoban modeló el edificio basándose en el Leinster House de Dublín, un edificio que en la actualidad alberga al Oireachtas, la legislatura irlandesa.​​ James Hoban prestó a sus esclavos para la construcción, que se llevó a cabo entre 1792 y 1800, con un exterior de arenisca de Aquia Creek pintado de blanco. Cuando Thomas Jefferson se mudó a la casa en 1801, él y el arquitecto Benjamin Henry Latrobe agregaron columnatas bajas en cada ala para ocultar lo que entonces eran establos y almacenes. En 1814, durante la Guerra de 1812, las fuerzas británicas incendiaron la mansión en el incendio de Washington, destruyendo el interior y carbonizando gran parte del exterior. La reconstrucción comenzó casi de inmediato y el presidente James Monroe se mudó a la Residencia Ejecutiva parcialmente reconstruida en octubre de 1817. La construcción exterior continuó con la adición del Pórtico Sur semicircular en 1824 y el Pórtico Norte en 1829.\nDebido al hacinamiento dentro de la mansión ejecutiva, en 1901 el presidente Theodore Roosevelt hizo trasladar todas las oficinas de trabajo a la recién construida Ala Oeste. Ocho años más tarde, en 1909, el presidente William Howard Taft amplió el Ala Oeste y creó la primera Oficina Oval, que finalmente fue trasladada y ampliada. En la Residencia Ejecutiva, en 1927 el ático del tercer piso se convirtió en vivienda aumentando el tejado a cuatro aguas existente con extensas buhardillas. Un Ala Este recién construida se utilizó como área de recepción para eventos sociales. Las columnatas de Jefferson conectaban las nuevas alas. Las modificaciones del Ala Este se completaron en 1946, creando un espacio de oficinas adicional. En 1948 se descubrió que los muros de carga y las vigas de madera de la residencia estaban al borde del colapso. Bajo la presidencia de Harry S. Truman, las habitaciones interiores se desmantelaron por completo y se construyó una",
+ "candidatas": [
+  {
+   "file": "File:Latrobe White House cropa2.jpg",
+   "w": 3746,
+   "h": 4756,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Latrobe_White_House_cropa2.jpg/330px-Latrobe_White_House_cropa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Latrobe_White_House_cropa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Latrobe_White_House_cropa2.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Benjamin Henry Latrobe",
+   "credito": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID cph.3b51647.This tag does not indicate the copyright status of the attached w",
+   "nonfree": "",
+   "fecha": "1807",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:WhiteHouseSouthFacade.JPG",
+   "w": 1614,
+   "h": 1196,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/330px-WhiteHouseSouthFacade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/WhiteHouseSouthFacade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:WhiteHouseSouthFacade.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "This image or media was taken or created by Matt H. Wade. To see his entire portfolio, click here.@thatmattwade\n\n This image is protected by copyright! If you would like to use it, please read this fi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 26 May 2006",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:White House north and south sides.jpg",
+   "w": 4418,
+   "h": 5056,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/330px-White_House_north_and_south_sides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/White_House_north_and_south_sides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:White_House_north_and_south_sides.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "(top)Cezary p(bottom)MattWade",
+   "credito": "here and here",
+   "nonfree": "",
+   "fecha": "(top)July 17, 2008(b",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Font Gate of the White House on a Warm Sunny Day.jpg",
+   "w": 3665,
+   "h": 2749,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Font_Gate_of_the_White_House_on_a_Warm_Sunny_Day.jpg/330px-Font_Gate_of_the_White_House_on_a_Warm_Sunny_Day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Font_Gate_of_the_White_House_on_a_Warm_Sunny_Day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Font_Gate_of_the_White_House_on_a_Warm_Sunny_Day.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mathieu Landretti",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-19 17:46:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aerial view of Lafayette Park and Washington Mall, Washington, D.C. LCCN2010630447.jpg",
+   "w": 6144,
+   "h": 4096,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Aerial_view_of_Lafayette_Park_and_Washington_Mall%2C_Washington%2C_D.C._LCCN2010630447.jpg/330px-Aerial_view_of_Lafayette_Park_and_Washington_Mall%2C_Washington%2C_D.C._LCCN2010630447.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Aerial_view_of_Lafayette_Park_and_Washington_Mall%2C_Washington%2C_D.C._LCCN2010630447.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lafayette_Park_and_Washington_Mall,_Washington,_D.C._LCCN2010630447.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Carol M. Highsmith",
+   "credito": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2010630447\nImage download: https://cdn.loc.gov/master/pnp/highsm/04400/04461a.tif\nOriginal url: http://hdl.loc.gov/loc.pnp/highsm.04461",
+   "nonfree": "",
+   "fecha": "Taken on 20 Septembe",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Aerial view of the White House.jpg",
+   "w": 6144,
+   "h": 4096,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Aerial_view_of_the_White_House.jpg/330px-Aerial_view_of_the_White_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Aerial_view_of_the_White_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_White_House.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Carol M. Highsmith",
+   "credito": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID highsm.04919.This tag does not indicate the copyright status of the attached ",
+   "nonfree": "",
+   "fecha": "Taken on 30 April 20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:CharlestonCountyCourthouse(cropped) HABS361451pv.jpg",
+   "w": 4775,
+   "h": 3348,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/CharlestonCountyCourthouse%28cropped%29_HABS361451pv.jpg/330px-CharlestonCountyCourthouse%28cropped%29_HABS361451pv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/CharlestonCountyCourthouse%28cropped%29_HABS361451pv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:CharlestonCountyCourthouse(cropped)_HABS361451pv.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Jack Boucher",
+   "credito": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID hhh.sc0136/photos.361451p.This tag does not indicate the copyright status of ",
+   "nonfree": "",
+   "fecha": "1991-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:The White House at night, 2011.jpg",
+   "w": 3008,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/The_White_House_at_night%2C_2011.jpg/330px-The_White_House_at_night%2C_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/The_White_House_at_night%2C_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_White_House_at_night,_2011.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Rob Young from United Kingdom",
+   "credito": "The White House",
+   "nonfree": "",
+   "fecha": "2011-05-29 02:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P3451"
+  }
+ ]
+}

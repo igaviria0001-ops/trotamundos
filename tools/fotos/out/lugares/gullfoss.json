@@ -1,0 +1,197 @@
+{
+ "id": "gullfoss",
+ "enwiki": "Gullfoss",
+ "endesc": "Waterfall in Bláskógabyggð and Hrunamannahreppur, Iceland",
+ "qid": "Q38519",
+ "coord": [
+  64.326111111111,
+  -20.121111111111
+ ],
+ "label_es": "Gullfoss",
+ "desc_es": "catarata situada en el cañón del río Hvitá en el sureste de Islandia",
+ "inicio": [],
+ "altura": [
+  {
+   "v": 32.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 21.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q34038"
+ ],
+ "p17": [
+  "Q189"
+ ],
+ "unesco": false,
+ "eswiki": "Gullfoss",
+ "extracto_es": "Gullfoss (i. e. Cascada Dorada) es una catarata situada en el cañón del río Hvitá en el sureste de Islandia. Forma parte de la ruta turística del Círculo Dorado.",
+ "candidatas": [
+  {
+   "file": "File:Gullfoss, Suðurland, Islandia, 2014-08-16, DD 123.JPG",
+   "w": 5390,
+   "h": 3329,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Gullfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_123.JPG/330px-Gullfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_123.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Gullfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_123.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gullfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_123.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 16 August 2",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 20,
+   "origen": "es"
+  },
+  {
+   "file": "File:Iceland - 2017-02-22 - Gullfoss - 3684.jpg",
+   "w": 5054,
+   "h": 3159,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Iceland_-_2017-02-22_-_Gullfoss_-_3684.jpg/330px-Iceland_-_2017-02-22_-_Gullfoss_-_3684.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Iceland_-_2017-02-22_-_Gullfoss_-_3684.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Iceland_-_2017-02-22_-_Gullfoss_-_3684.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Pierre-Selim Huard",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "Taken on 22 February",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Gullfoss, Suðurland, Islandia, 2014-08-16, DD 119.JPG",
+   "w": 5161,
+   "h": 3441,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Gullfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_119.JPG/330px-Gullfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_119.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Gullfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_119.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gullfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_119.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 16 August 2",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:GullfossOverview.jpg",
+   "w": 2932,
+   "h": 1913,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/GullfossOverview.jpg/330px-GullfossOverview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/GullfossOverview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:GullfossOverview.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Andreas Tille",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1998-07-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Iceland - 2017-02-22 - Gullfoss - 3677.jpg",
+   "w": 5184,
+   "h": 2916,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Iceland_-_2017-02-22_-_Gullfoss_-_3677.jpg/330px-Iceland_-_2017-02-22_-_Gullfoss_-_3677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Iceland_-_2017-02-22_-_Gullfoss_-_3677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Iceland_-_2017-02-22_-_Gullfoss_-_3677.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Pierre-Selim Huard",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "Taken on 22 February",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Gullfoss from the Air (cropped).jpg",
+   "w": 1695,
+   "h": 1010,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Gullfoss_from_the_Air_%28cropped%29.jpg/330px-Gullfoss_from_the_Air_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Gullfoss_from_the_Air_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gullfoss_from_the_Air_(cropped).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nickspix",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 2 October 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Gullfoss, 2026 01.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Gullfoss%2C_2026_01.jpg/330px-Gullfoss%2C_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Gullfoss%2C_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gullfoss,_2026_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Syrio",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-08-11 17:40:15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Gullfoss from the Air.jpg",
+   "w": 1800,
+   "h": 1010,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Gullfoss_from_the_Air.jpg/330px-Gullfoss_from_the_Air.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gullfoss_from_the_Air.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gullfoss_from_the_Air.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nickspix",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 2 October 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P8592"
+  }
+ ]
+}

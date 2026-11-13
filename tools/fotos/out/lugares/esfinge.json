@@ -1,0 +1,214 @@
+{
+ "id": "esfinge",
+ "enwiki": "Great Sphinx of Giza",
+ "endesc": "Limestone statue of a resting sphinx",
+ "qid": "Q130958",
+ "coord": [
+  29.97527,
+  31.13768
+ ],
+ "label_es": "Gran Esfinge de Guiza",
+ "desc_es": "escultura del antiguo Egipto",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-2559-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "altura": [
+  {
+   "v": 20.2,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 23.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 73.5,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q12223988",
+  "Q839954"
+ ],
+ "p17": [
+  "Q79"
+ ],
+ "unesco": false,
+ "eswiki": "Gran Esfinge de Guiza",
+ "extracto_es": "La Gran Esfinge de Guiza​​ es una escultura monumental que se encuentra en la ribera occidental del río Nilo, en la meseta de Guiza, unos veinte kilómetros al suroeste del centro de El Cairo, en Egipto. Los egiptólogos estiman que fue esculpida ca. s. XXVI a. C., formando parte del complejo funerario del rey, durante la dinastía IV de Egipto.\nLos lugareños antaño la llamaban Abu el-Hol, «Padre del Terror», corrupción de la expresión copta bel-hit, que se aplica a quien manifiesta su inteligencia en los ojos y que traduce la denominación egipcia hu o ju, que significa «el guardián» o «vigilante».​",
+ "candidatas": [
+  {
+   "file": "File:Great Sphinx (أبو الهول).jpg",
+   "w": 5472,
+   "h": 3536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Great_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg/330px-Great_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Great_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_(%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Petar Milošević",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-08 10:22:20",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Great Sphinx of Giza May 2015.JPG",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Great_Sphinx_of_Giza_May_2015.JPG/330px-Great_Sphinx_of_Giza_May_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Great_Sphinx_of_Giza_May_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza_May_2015.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "MusikAnimal",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-17 04:28:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Sphinx with the third pyramid.jpg",
+   "w": 3872,
+   "h": 2404,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Sphinx_with_the_third_pyramid.jpg/330px-Sphinx_with_the_third_pyramid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sphinx_with_the_third_pyramid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sphinx_with_the_third_pyramid.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Hesham Ebaid",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-02-02 22:08:52",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Great Sphinx of Giza (2).jpg",
+   "w": 6016,
+   "h": 4016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Great_Sphinx_of_Giza_%282%29.jpg/330px-Great_Sphinx_of_Giza_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Great_Sphinx_of_Giza_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza_(2).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hamerani",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-19 15:54:21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Great Sphinx of Giza (1).jpg",
+   "w": 6016,
+   "h": 4016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Great_Sphinx_of_Giza_%281%29.jpg/330px-Great_Sphinx_of_Giza_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Great_Sphinx_of_Giza_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza_(1).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hamerani",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-19 15:53:18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Great Sphinx of Giza, Giza, Egypt6.jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Great_Sphinx_of_Giza%2C_Giza%2C_Egypt6.jpg/330px-Great_Sphinx_of_Giza%2C_Giza%2C_Egypt6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Great_Sphinx_of_Giza%2C_Giza%2C_Egypt6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza,_Giza,_Egypt6.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-25",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Great Sphinx of Giza, Giza, Egypt4.jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_Sphinx_of_Giza%2C_Giza%2C_Egypt4.jpg/330px-Great_Sphinx_of_Giza%2C_Giza%2C_Egypt4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Great_Sphinx_of_Giza%2C_Giza%2C_Egypt4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza,_Giza,_Egypt4.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-25",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Sphinx and Pyramid of Khafre.jpg",
+   "w": 2900,
+   "h": 2195,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/The_Sphinx_and_Pyramid_of_Khafre.jpg/330px-The_Sphinx_and_Pyramid_of_Khafre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/The_Sphinx_and_Pyramid_of_Khafre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Sphinx_and_Pyramid_of_Khafre.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  }
+ ]
+}

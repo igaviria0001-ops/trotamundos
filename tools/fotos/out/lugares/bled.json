@@ -1,0 +1,200 @@
+{
+ "id": "bled",
+ "enwiki": "Lake Bled",
+ "endesc": "Lake in northwestern Slovenia",
+ "qid": "Q648902",
+ "coord": [
+  46.364444444444,
+  14.094722222222
+ ],
+ "label_es": "Lago Bled",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 475.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 1.45,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 2120.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q23397",
+  "Q839954",
+  "Q211302",
+  "Q3511952"
+ ],
+ "p17": [
+  "Q215"
+ ],
+ "unesco": false,
+ "eswiki": "Lago de Bled",
+ "extracto_es": "El lago de Bled (en esloveno: Blejsko jezero) es un lago glaciar de los Alpes Julianos, situado al noroeste de Eslovenia. Está situado en la ciudad de Bled.",
+ "candidatas": [
+  {
+   "file": "File:SloveeniaBled.jpg",
+   "w": 3600,
+   "h": 2403,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/SloveeniaBled.jpg/330px-SloveeniaBled.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/SloveeniaBled.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:SloveeniaBled.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Abrget47j",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-09-22 15:02:57",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lake Bled from the Mountain.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Lake_Bled_from_the_Mountain.jpg/330px-Lake_Bled_from_the_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lake_Bled_from_the_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Bled_from_the_Mountain.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Canadianhockey91",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-07-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Aerial image of Lake Bled (view from the southwest).jpg",
+   "w": 4400,
+   "h": 3400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Aerial_image_of_Lake_Bled_%28view_from_the_southwest%29.jpg/330px-Aerial_image_of_Lake_Bled_%28view_from_the_southwest%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Aerial_image_of_Lake_Bled_%28view_from_the_southwest%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Lake_Bled_(view_from_the_southwest).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Carsten Steger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-05-19 17:29:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Lake Bled (54152850853).jpg",
+   "w": 6016,
+   "h": 3610,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Lake_Bled_%2854152850853%29.jpg/330px-Lake_Bled_%2854152850853%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Lake_Bled_%2854152850853%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Bled_(54152850853).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Jorge Franganillo",
+   "credito": "Lake Bled",
+   "nonfree": "",
+   "fecha": "Taken on 21 Septembe",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Bled-Island-Castle-2021-Luka-Peternel.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bled-Island-Castle-2021-Luka-Peternel.jpg/330px-Bled-Island-Castle-2021-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bled-Island-Castle-2021-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bled-Island-Castle-2021-Luka-Peternel.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Luka Peternel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-08-21 13:16:15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Bled island 2021.jpg",
+   "w": 4704,
+   "h": 2646,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Bled_island_2021.jpg/330px-Bled_island_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bled_island_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bled_island_2021.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Arne Müseler",
+   "credito": "own work\nhttp://www.arne-mueseler.com",
+   "nonfree": "",
+   "fecha": "2021-05-10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lake bled 2021.jpg",
+   "w": 4329,
+   "h": 2435,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lake_bled_2021.jpg/330px-Lake_bled_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lake_bled_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_bled_2021.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Arne Müseler",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-05-10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lake Bled (15242770664).jpg",
+   "w": 5952,
+   "h": 3416,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_Bled_%2815242770664%29.jpg/330px-Lake_Bled_%2815242770664%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Lake_Bled_%2815242770664%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Bled_(15242770664).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "incidencematrix",
+   "credito": "Lake Bled",
+   "nonfree": "",
+   "fecha": "2014-09-23 06:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

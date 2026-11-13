@@ -1,0 +1,228 @@
+{
+ "id": "colonia",
+ "enwiki": "Cologne Cathedral",
+ "endesc": "Historic church in Cologne, Germany",
+ "qid": "Q4176",
+ "coord": [
+  50.94138888888889,
+  6.958333333333333
+ ],
+ "label_es": "Catedral de Colonia",
+ "desc_es": "templo y monumento de Colonia, Alemania",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1248-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1880-10-15T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 157.0,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 5000000.0,
+   "u": "1"
+  },
+  {
+   "v": 6000000.0,
+   "u": "1"
+  }
+ ],
+ "largo": [
+  {
+   "v": 144.5,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q56242215"
+ ],
+ "p17": [
+  "Q183"
+ ],
+ "unesco": true,
+ "eswiki": "Catedral de Colonia",
+ "extracto_es": "La catedral de Colonia (en alemán: Kölner Dom, pronunciado /ˌkœlnɐ ˈdoːm/ (), nombrada oficialmente Hohe Domkirche Sankt Petrus) es un templo católico de estilo gótico, que empezó a construirse en 1248 y se terminó en 1880. Está situada en el centro de la ciudad alemana de Colonia, en el estado de Renania del Norte-Westfalia. Con sus 157 metros de altura, fue la estructura más alta del mundo hasta la culminación del Monumento a Washington en 1884, de 170 metros. Es quizás el monumento más visitado de Alemania.​​​ Es además la sede del arzobispo y de la administración del arzobispado de Colonia.\nFue declarada Patrimonio de la Humanidad por la Unesco en 1996.​",
+ "candidatas": [
+  {
+   "file": "File:2024-07-20-ColognePride Regenbogen-5959.jpg",
+   "w": 6235,
+   "h": 4157,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/2024-07-20-ColognePride_Regenbogen-5959.jpg/330px-2024-07-20-ColognePride_Regenbogen-5959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/2024-07-20-ColognePride_Regenbogen-5959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2024-07-20-ColognePride_Regenbogen-5959.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Superbass",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-07-20",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kölner Dom nachts 2013.jpg",
+   "w": 7316,
+   "h": 6823,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/K%C3%B6lner_Dom_nachts_2013.jpg/330px-K%C3%B6lner_Dom_nachts_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/K%C3%B6lner_Dom_nachts_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_nachts_2013.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-19",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 16,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:2025-06-10-Dom Burgmauer-3409.jpg",
+   "w": 3646,
+   "h": 5469,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2025-06-10-Dom_Burgmauer-3409.jpg/330px-2025-06-10-Dom_Burgmauer-3409.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/2025-06-10-Dom_Burgmauer-3409.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2025-06-10-Dom_Burgmauer-3409.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Superbass",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-06-10",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 14,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kölner Dom von Osten.jpg",
+   "w": 4589,
+   "h": 7220,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/K%C3%B6lner_Dom_von_Osten.jpg/330px-K%C3%B6lner_Dom_von_Osten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/K%C3%B6lner_Dom_von_Osten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_von_Osten.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "P18"
+  },
+  {
+   "file": "File:2010-09 Ausschnitt Kölner Dom2 (MF).JPG",
+   "w": 4234,
+   "h": 2780,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2010-09_Ausschnitt_K%C3%B6lner_Dom2_%28MF%29.JPG/330px-2010-09_Ausschnitt_K%C3%B6lner_Dom2_%28MF%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/2010-09_Ausschnitt_K%C3%B6lner_Dom2_%28MF%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2010-09_Ausschnitt_K%C3%B6lner_Dom2_(MF).JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-09-06 20:54:53",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Cologne cathedrale vue sud.jpg",
+   "w": 2930,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Cologne_cathedrale_vue_sud.jpg/330px-Cologne_cathedrale_vue_sud.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cologne_cathedrale_vue_sud.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cologne_cathedrale_vue_sud.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Velvet",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-09-19 00:29:34",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Warning sign in cologne.jpg",
+   "w": 2119,
+   "h": 1649,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Warning_sign_in_cologne.jpg/330px-Warning_sign_in_cologne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warning_sign_in_cologne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Warning_sign_in_cologne.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Post processing by User:W.wolny",
+   "credito": "US-Army history images  (jpeg)",
+   "nonfree": "",
+   "fecha": "Taken on 4 April 194",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Cologne-cathedral-aerial.jpg",
+   "w": 4484,
+   "h": 3363,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Cologne-cathedral-aerial.jpg/330px-Cologne-cathedral-aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cologne-cathedral-aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cologne-cathedral-aerial.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Liane Metzler",
+   "credito": "https://unsplash.com/photos/cmWsPvwIvOk",
+   "nonfree": "",
+   "fecha": "by August 2015date Q",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  }
+ ]
+}

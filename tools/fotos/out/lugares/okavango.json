@@ -1,0 +1,200 @@
+{
+ "id": "okavango",
+ "enwiki": "Okavango Delta",
+ "endesc": "River delta in Botswana",
+ "qid": "Q650872",
+ "coord": [
+  -19.4,
+  22.9
+ ],
+ "label_es": "Delta del Okavango",
+ "desc_es": "cuerpo de Agua en Botsuana",
+ "inicio": [],
+ "area": [
+  {
+   "v": 2023590.0,
+   "u": "Q35852"
+  },
+  {
+   "v": 2286630.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q43197",
+  "Q15324",
+  "Q355304",
+  "Q302646"
+ ],
+ "p17": [
+  "Q963"
+ ],
+ "unesco": true,
+ "eswiki": "Delta del Okavango",
+ "extracto_es": "El delta del Okavango es un caso poco usual de delta, en el sentido de que este río no desemboca en el mar. En realidad, no se trata de un verdadero delta fluvial, sino de un abanico aluvial o cono de deyección muy grande, que se produce donde el río Okavango desagua en una llanura prácticamente endorreica con un clima mucho más seco que en sus cabeceras.",
+ "candidatas": [
+  {
+   "file": "File:Jabirú africano (Ephippiorhynchus senegalensis), delta del Okavango, Botsuana, 2018-07-31, DD 11.jpg",
+   "w": 6316,
+   "h": 3553,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Jabir%C3%BA_africano_%28Ephippiorhynchus_senegalensis%29%2C_delta_del_Okavango%2C_Botsuana%2C_2018-07-31%2C_DD_11.jpg/330px-Jabir%C3%BA_africano_%28Ephippiorhynchus_senegalensis%29%2C_delta_del_Okavango%2C_Botsuana%2C_2018-07-31%2C_DD_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jabir%C3%BA_africano_%28Ephippiorhynchus_senegalensis%29%2C_delta_del_Okavango%2C_Botsuana%2C_2018-07-31%2C_DD_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Jabir%C3%BA_africano_(Ephippiorhynchus_senegalensis),_delta_del_Okavango,_Botsuana,_2018-07-31,_DD_11.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-31 11:36:03",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cheetah at Sunset.jpg",
+   "w": 4008,
+   "h": 2671,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Cheetah_at_Sunset.jpg/330px-Cheetah_at_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Cheetah_at_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cheetah_at_Sunset.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Arturo de Frias Marques",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-03-02 07:12:33",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Okavango11.jpg",
+   "w": 3072,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Okavango11.jpg/330px-Okavango11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Okavango11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Okavango11.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Teo Gómez",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Elefantes africanos de sabana (Loxodonta africana), delta del Okavango, Botsuana, 2018-07-31, DD 03.jpg",
+   "w": 4218,
+   "h": 2831,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Elefantes_africanos_de_sabana_%28Loxodonta_africana%29%2C_delta_del_Okavango%2C_Botsuana%2C_2018-07-31%2C_DD_03.jpg/330px-Elefantes_africanos_de_sabana_%28Loxodonta_africana%29%2C_delta_del_Okavango%2C_Botsuana%2C_2018-07-31%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Elefantes_africanos_de_sabana_%28Loxodonta_africana%29%2C_delta_del_Okavango%2C_Botsuana%2C_2018-07-31%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Elefantes_africanos_de_sabana_(Loxodonta_africana),_delta_del_Okavango,_Botsuana,_2018-07-31,_DD_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-31 10:28:22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Okavango Delta, Botswana1.jpg",
+   "w": 3008,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Okavango_Delta%2C_Botswana1.jpg/330px-Okavango_Delta%2C_Botswana1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Okavango_Delta%2C_Botswana1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Okavango_Delta,_Botswana1.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Joachim Huber",
+   "credito": "originally posted to Flickr as Okavango Delta, Botswana",
+   "nonfree": "",
+   "fecha": "2007-04-22 12:14:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Antílopes lechwes (Kobus leche), vista aérea del delta del Okavango, Botsuana, 2018-08-01, DD 27.jpg",
+   "w": 5915,
+   "h": 3738,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ant%C3%ADlopes_lechwes_%28Kobus_leche%29%2C_vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_27.jpg/330px-Ant%C3%ADlopes_lechwes_%28Kobus_leche%29%2C_vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ant%C3%ADlopes_lechwes_%28Kobus_leche%29%2C_vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ant%C3%ADlopes_lechwes_(Kobus_leche),_vista_a%C3%A9rea_del_delta_del_Okavango,_Botsuana,_2018-08-01,_DD_27.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-08-01 10:14:42",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Vista aérea del delta del Okavango, Botsuana, 2018-08-01, DD 32.jpg",
+   "w": 7831,
+   "h": 4353,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_32.jpg/330px-Vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_delta_del_Okavango,_Botsuana,_2018-08-01,_DD_32.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-08-01 10:17:06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:A view down into the Okavango Delta.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/A_view_down_into_the_Okavango_Delta.jpg/330px-A_view_down_into_the_Okavango_Delta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/A_view_down_into_the_Okavango_Delta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_view_down_into_the_Okavango_Delta.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Justin Hall from Culver City, USA",
+   "credito": "a view down into the Okavango Delta",
+   "nonfree": "",
+   "fecha": "2007-01-03 05:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  }
+ ]
+}

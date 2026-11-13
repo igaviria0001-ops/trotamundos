@@ -1,0 +1,207 @@
+{
+ "id": "puertaindia",
+ "enwiki": "Gateway of India",
+ "endesc": "Landmark monument in Mumbai, India",
+ "qid": "Q864862",
+ "coord": [
+  18.921836,
+  72.834705
+ ],
+ "label_es": "Puerta de la India (Bombay)",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1924-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1924-12-04T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 26.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 10.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q143912"
+ ],
+ "p17": [
+  "Q668"
+ ],
+ "unesco": false,
+ "eswiki": "Puerta de la India (Bombay)",
+ "extracto_es": "La Puerta de la India es un monumento de la ciudad de Mumbai (antes denominada Bombay) en la India, construido durante el Raj británico. Se encuentra situado en el paseo marítimo en la zona de Apollo Bunder en el puerto de Bombay, frente al Mar Arábigo. La construcción es un arco de basalto, de 26 metros de altura y constituye una de las principales atracciones turísticas de la ciudad.​\nEl monumento fue erigido para celebrar la visita a la India del rey Jorge V del Reino Unido y su esposa la reina María, en 1911, colocándose la primera piedra el 31 de marzo de 1911 y terminándose en 1924. El proyecto de la construcción se debe al arquitecto escocés George Wittet, en un estilo indo-sarraceno. El monumento se convirtió desde su finalización en la puerta de entrada ceremonial a la India para los virreyes y gobernadores de Bombay.​ En 2008, se produjo un ataque terrorista en el hotel Taj Mahal Palace & Tower, situado en las inmediaciones de la Puerta de la India.",
+ "candidatas": [
+  {
+   "file": "File:Taj Mahal Palace Hotel.jpg",
+   "w": 3989,
+   "h": 2719,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Taj_Mahal_Palace_Hotel.jpg/330px-Taj_Mahal_Palace_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Taj_Mahal_Palace_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Joe Ravi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 7 January 2",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Commemorative Inscription for the Landing of King George V and Queen Mary at Gateway of India, 1911.jpg",
+   "w": 4565,
+   "h": 3652,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Commemorative_Inscription_for_the_Landing_of_King_George_V_and_Queen_Mary_at_Gateway_of_India%2C_1911.jpg/330px-Commemorative_Inscription_for_the_Landing_of_King_George_V_and_Queen_Mary_at_Gateway_of_India%2C_1911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Commemorative_Inscription_for_the_Landing_of_King_George_V_and_Queen_Mary_at_Gateway_of_India%2C_1911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Commemorative_Inscription_for_the_Landing_of_King_George_V_and_Queen_Mary_at_Gateway_of_India,_1911.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "iMahesh",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-11-07 11:52:41",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gatway of India - Left Ark.jpg",
+   "w": 3905,
+   "h": 6026,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gatway_of_India_-_Left_Ark.jpg/330px-Gatway_of_India_-_Left_Ark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Gatway_of_India_-_Left_Ark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gatway_of_India_-_Left_Ark.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ingo Mehling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-01-07 08:04:56",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Gateway of India - turret.jpg",
+   "w": 3029,
+   "h": 4179,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Gateway_of_India_-_turret.jpg/330px-Gateway_of_India_-_turret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gateway_of_India_-_turret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_-_turret.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-11-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gateway of India in the evening, Mumbai, India.jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Gateway_of_India_in_the_evening%2C_Mumbai%2C_India.jpg/330px-Gateway_of_India_in_the_evening%2C_Mumbai%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Gateway_of_India_in_the_evening%2C_Mumbai%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_in_the_evening,_Mumbai,_India.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "SriSriChinmaya",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-11-18 18:18:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Gateway of India March 1965.jpg",
+   "w": 4917,
+   "h": 3253,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Gateway_of_India_March_1965.jpg/330px-Gateway_of_India_March_1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gateway_of_India_March_1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_March_1965.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Don Christie",
+   "credito": "Self-scanned",
+   "nonfree": "",
+   "fecha": "1965-03-01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Arch of Gateway of India.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Arch_of_Gateway_of_India.jpg/330px-Arch_of_Gateway_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Arch_of_Gateway_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arch_of_Gateway_of_India.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Daniel Limma",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 18 May 2011",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gateway of India 2025.jpg",
+   "w": 4032,
+   "h": 2269,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Gateway_of_India_2025.jpg/330px-Gateway_of_India_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gateway_of_India_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_2025.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nishankv",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-06-03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

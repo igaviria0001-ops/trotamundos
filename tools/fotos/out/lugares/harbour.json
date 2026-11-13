@@ -1,0 +1,223 @@
+{
+ "id": "harbour",
+ "enwiki": "Sydney Harbour Bridge",
+ "endesc": "Bridge across Sydney Harbour in Australia",
+ "qid": "Q54495",
+ "coord": [
+  -33.852232,
+  151.210684
+ ],
+ "label_es": "puente de la bahía de Sídney",
+ "desc_es": "puente de Australia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1932-03-19T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1932-03-19T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 134.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 14.61382042,
+   "u": "Q35852"
+  }
+ ],
+ "largo": [
+  {
+   "v": 1149.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q5592057",
+  "Q12042110",
+  "Q6636777",
+  "Q7814330",
+  "Q38048707",
+  "Q18615527"
+ ],
+ "p17": [
+  "Q408"
+ ],
+ "unesco": false,
+ "eswiki": "Puente de la bahía de Sídney",
+ "extracto_es": "El puente de la bahía de Sídney es un arco de tablero pasante metálico, localizado en Sídney, Nueva Gales del Sur (Australia). Cruza la bahía de Sídney, uniendo el centro financiero de la ciudad con la Costa Norte. La vista del puente, del puerto y de la cercana ópera de Sídney se considera ampliamente como una imagen icónica tanto de Sídney como de la propia Australia. Apodado \"The Coathanger\" (La Percha) debido a su diseño en forma de arco con los extremos tendidos, el puente permite el paso del tráfico ferroviario y de automóviles, así como de bicicletas y de peatones.​​\nBajo la dirección de John Bradfield del Departamento de Obras Públicas de Nueva Gales del Sur, el puente fue diseñado y construido por la firma británica Dorman Long de Middlesbrough, siendo inaugurado en 1932.​​ La concepción general del puente, que Bradfield encargó al Departamento de Obras Públicas de Nueva Gales del Sur, era una copia aproximada del puente de Hell Gate en Nueva York. El diseño elegido entre las propuestas presentadas a la licitación fue un trabajo original creado por la empresa Dorman Long, que aprovechó parte del diseño del puente del Tyne, proyectado anteriormente por la propia compañía.​\nEs el décimo puente de arco más largo del mundo (en 2020) y el puente en arco de acero más alto, con una  altura de 134 m (440 pies) desde la coronación del arco hasta el nivel del agua.​ También era el puente de gran luz más ancho del mundo, con una anchura de 48,8 m (160,1 pies), hasta que se completó la construcción del nuevo puente Port Mann en Vancouver en 2012.​​",
+ "candidatas": [
+  {
+   "file": "File:SydneyHarbourBridge1 gobeirne.jpg",
+   "w": 2958,
+   "h": 1635,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/SydneyHarbourBridge1_gobeirne.jpg/330px-SydneyHarbourBridge1_gobeirne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/SydneyHarbourBridge1_gobeirne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:SydneyHarbourBridge1_gobeirne.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Photograph by Greg O'Beirne",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-01-29 10:18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Sydney harbour bridge new south wales.jpg",
+   "w": 2599,
+   "h": 1494,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sydney_harbour_bridge_new_south_wales.jpg/330px-Sydney_harbour_bridge_new_south_wales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sydney_harbour_bridge_new_south_wales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_harbour_bridge_new_south_wales.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Adam.J.W.C.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Sydney Harbour Bridge from Circular Quay.jpg",
+   "w": 4832,
+   "h": 2202,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Sydney_Harbour_Bridge_from_Circular_Quay.jpg/330px-Sydney_Harbour_Bridge_from_Circular_Quay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sydney_Harbour_Bridge_from_Circular_Quay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_from_Circular_Quay.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "JJ Harrison (https://www.jjharrison.com.au/)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 30 January ",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:SHB-Red-Dust.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/SHB-Red-Dust.jpg/330px-SHB-Red-Dust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/SHB-Red-Dust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:SHB-Red-Dust.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "John Byrne",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-23 08:32:47",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sydney (AU), Harbour Bridge -- 2019 -- 2179.jpg",
+   "w": 6224,
+   "h": 3112,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Sydney_%28AU%29%2C_Harbour_Bridge_--_2019_--_2179.jpg/330px-Sydney_%28AU%29%2C_Harbour_Bridge_--_2019_--_2179.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sydney_%28AU%29%2C_Harbour_Bridge_--_2019_--_2179.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Harbour_Bridge_--_2019_--_2179.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dietmar Rabich",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 23 October ",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 12,
+   "origen": "es"
+  },
+  {
+   "file": "File:Sydney Harbour Bridge-16 October 2025.jpg",
+   "w": 3907,
+   "h": 2197,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sydney_Harbour_Bridge-16_October_2025.jpg/330px-Sydney_Harbour_Bridge-16_October_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sydney_Harbour_Bridge-16_October_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge-16_October_2025.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Servite et contribuere",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-10-16 16:13:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Sydney harbour bridge duststorm.jpg",
+   "w": 1600,
+   "h": 1200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Sydney_harbour_bridge_duststorm.jpg/330px-Sydney_harbour_bridge_duststorm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sydney_harbour_bridge_duststorm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_harbour_bridge_duststorm.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Mrcricket48 (talk)",
+   "credito": "Own work (Original text: I (Mrcricket48 (talk)) created this work entirely by myself.)",
+   "nonfree": "",
+   "fecha": "2009-09-24 12:09",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sydney Harbour Bridge during day.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Sydney_Harbour_Bridge_during_day.jpg/330px-Sydney_Harbour_Bridge_during_day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sydney_Harbour_Bridge_during_day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_during_day.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "thinkrorbot",
+   "credito": "https://www.flickr.com/photos/134921587@N06/24671307856/",
+   "nonfree": "",
+   "fecha": "2016-01-17 16:47:37",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

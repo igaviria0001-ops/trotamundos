@@ -1,0 +1,200 @@
+{
+ "id": "saltoangel",
+ "enwiki": "Angel Falls",
+ "endesc": "Tallest single drop waterfall in the world, Venezuela",
+ "qid": "Q80299",
+ "coord": [
+  5.970055555555556,
+  -62.53622222222222
+ ],
+ "label_es": "Salto Ángel",
+ "desc_es": "caída de agua más alta del mundo",
+ "inicio": [],
+ "altura": [
+  {
+   "v": 907.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 979.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 1489.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q34038"
+ ],
+ "p17": [
+  "Q717"
+ ],
+ "unesco": false,
+ "eswiki": "Salto Ángel",
+ "extracto_es": "El salto Ángel (en pemón: Kerepakupai vená, «salto del lugar más profundo»), es la cascada con la mayor caída vertical ininterrumpida del mundo. Ubicado en el Auyantepuy, dentro del parque nacional Canaima, estado Bolívar, Venezuela, presenta una altura total de 979 metros y una caída libre de 807 metros. La medición oficial se realizó en 1949 durante una expedición financiada por la National Geographic Society.​​\nEl parque nacional Canaima, que lo alberga, fue inscrito en la lista del Patrimonio de la Humanidad de la Unesco en 1994 por sus formaciones de tepuyes de origen precámbrico, acantilados verticales y valores biogeológicos excepcionales.​\nConocido ancestralmente por los pueblos pemón, recibió su nombre actual en honor al aviador estadounidense Jimmie Angel, quien lo sobrevoló en 1933. El gobierno venezolano lo adoptó oficialmente en 1939.​",
+ "candidatas": [
+  {
+   "file": "File:Salto del Angel-Canaima-Venezuela18.JPG",
+   "w": 2560,
+   "h": 1920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Salto_del_Angel-Canaima-Venezuela18.JPG/330px-Salto_del_Angel-Canaima-Venezuela18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Salto_del_Angel-Canaima-Venezuela18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Salto_del_Angel-Canaima-Venezuela18.JPG",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-11-15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:SaltoAngel4.jpg",
+   "w": 2832,
+   "h": 4256,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/SaltoAngel4.jpg/330px-SaltoAngel4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/SaltoAngel4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:SaltoAngel4.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Paulo Capiotti",
+   "credito": "https://www.flickr.com/photos/capiotti/7088669753/sizes/o/in/set-72157627378840726/",
+   "nonfree": "",
+   "fecha": "2011-08-03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:KerepakupaiVená.jpg",
+   "w": 3458,
+   "h": 4626,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/KerepakupaiVen%C3%A1.jpg/330px-KerepakupaiVen%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/KerepakupaiVen%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:KerepakupaiVen%C3%A1.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Stratokumulus",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-04-18 10:10:58",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Salto Angel - Kerepakupai Vená.JPG",
+   "w": 3456,
+   "h": 4608,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Salto_Angel_-_Kerepakupai_Ven%C3%A1.JPG/330px-Salto_Angel_-_Kerepakupai_Ven%C3%A1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Salto_Angel_-_Kerepakupai_Ven%C3%A1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Salto_Angel_-_Kerepakupai_Ven%C3%A1.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Heribert Dezeo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-04 10:20:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Salto del Angel-Canaima-Venezuela03.JPG",
+   "w": 2142,
+   "h": 2856,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Salto_del_Angel-Canaima-Venezuela03.JPG/330px-Salto_del_Angel-Canaima-Venezuela03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Salto_del_Angel-Canaima-Venezuela03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Salto_del_Angel-Canaima-Venezuela03.JPG",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Salto del Angel-Canaima-Venezuela07.JPG",
+   "w": 2211,
+   "h": 3473,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Salto_del_Angel-Canaima-Venezuela07.JPG/330px-Salto_del_Angel-Canaima-Venezuela07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Salto_del_Angel-Canaima-Venezuela07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Salto_del_Angel-Canaima-Venezuela07.JPG",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Salto Churún Merú.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Salto_Chur%C3%BAn_Mer%C3%BA.JPG/330px-Salto_Chur%C3%BAn_Mer%C3%BA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Salto_Chur%C3%BAn_Mer%C3%BA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Salto_Chur%C3%BAn_Mer%C3%BA.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Heribert Dezeo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-07-04 10:25:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Salto Angel Venezuela 23Mar2018 SkySat.jpg",
+   "w": 2050,
+   "h": 1265,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Salto_Angel_Venezuela_23Mar2018_SkySat.jpg/330px-Salto_Angel_Venezuela_23Mar2018_SkySat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Salto_Angel_Venezuela_23Mar2018_SkySat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Salto_Angel_Venezuela_23Mar2018_SkySat.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Planet Labs, Inc",
+   "credito": "https://medium.com/planet-stories/earths-wonders-like-you-ve-never-seen-them-before-ac9e2f39aa56",
+   "nonfree": "",
+   "fecha": "2018-03-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P8592"
+  }
+ ]
+}

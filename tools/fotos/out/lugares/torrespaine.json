@@ -1,0 +1,202 @@
+{
+ "id": "torrespaine",
+ "enwiki": "Torres del Paine National Park",
+ "endesc": "National park in southern Chilean Patagonia",
+ "qid": "Q901646",
+ "coord": [
+  -50.98305556,
+  -72.96638889
+ ],
+ "label_es": "Parque Nacional Torres del Paine",
+ "desc_es": "parque nacional de Chile",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1959-05-13T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 579.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 181414.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q46169"
+ ],
+ "p17": [
+  "Q298"
+ ],
+ "unesco": false,
+ "eswiki": "Parque nacional Torres del Paine",
+ "extracto_es": "El parque nacional Torres del Paine es una de las áreas silvestres protegidas más importantes de Chile. Se encuentra ubicado entre la Cordillera de los Andes y la estepa Patagónica, en la Comuna de Torres del Paine, provincia de Última Esperanza, entre los 51° de latitud sur y 72° 57′ de longitud oeste, distante unos 60 km de Puerto Natales y a 301,2 km de Punta Arenas. Fue creado el año 1959 y es administrado por la Corporación Nacional Forestal.\nCon un territorio de 227 298 hectáreas, comprende la cordillera Paine y su famoso macizo, que incluye las cumbres Paine Grande y sus conocidas torres, que le otorgan su nombre. En su interior se encuentran una gran variedad de hitos geográficos naturales como valles, el río Paine, los lagos Grey, Pehoé, Nordenskjöld y Sarmiento, y los glaciares Grey, Pingo y Tyndall, pertenecientes al Campo de Hielo Patagónico Sur. A contar del año 1978, el área fue incorporada como reserva de la biosfera por la UNESCO.​ \nConocido internacionalmente por la belleza escénica de su entorno, recibe anualmente más de 280 000 visitantes,​ la mayoría de ellos extranjeros, convirtiéndose en la tercera área protegida chilena por visitas.​ Entre sus reconocimientos, en una edición especial de la revista National Geographic, las Torres del Paine fueron escogidas como el quinto lugar más hermoso del mundo.​ Igualmente, el parque fue seleccionado como la octava maravilla del mundo en 2013, luego de que recibiera más de cinco millones de votos en el concurso que realizó el sitio Virtual Tourist.​​\nDueño de una rica historia, este territorio fue primeramente habitado por el pueblo indígena aonikenk o tehuelche, cuyos registros, en algunos casos, alcanzan más de 3500 años de historia, y cuyos vestigios se encuentran dentro del actual parque nacional.​ Este pueblo se vio gravemente afectado por la llegada de colonizadores occidentales en la zona de Última Esperanza a partir del año 1870, lo que derivó en su expulsión y desaparición.​ A partir del año 1900, la zona fue objeto de una rápida colonización para la explotación ganadera, siendo subdividida en 12 predios que abarcaron tamaños entre 600 y más de 10 000 hectáreas.​ El año 1959, como producto de diferentes campañas de habitantes de la Región y de visitantes, durante el gobierno del presidente Jorge Alessandri se estableció una primera área protegida, la cual fue rápida y sucesivamente ampliada hasta alcanzar el tamaño actual.​\nEl establecimiento de este parque nacional ha permitido la prote",
+ "candidatas": [
+  {
+   "file": "File:Cuernos del Paine in Torres del Paine National Park.jpg",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg/330px-Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Pedro Szekely from Los Angeles, USA",
+   "credito": "Torres del Paine, Chile",
+   "nonfree": "",
+   "fecha": "10 March 2023, 02:43",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Torres del Paine, Laguna Azul 09.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Torres_del_Paine%2C_Laguna_Azul_09.jpg/330px-Torres_del_Paine%2C_Laguna_Azul_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Torres_del_Paine%2C_Laguna_Azul_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Torres_del_Paine,_Laguna_Azul_09.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "LBM1948",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-12-31 14:27:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Towers of Paine - Torres del Paine National Park 13.jpg",
+   "w": 5335,
+   "h": 3557,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Towers_of_Paine_-_Torres_del_Paine_National_Park_13.jpg/330px-Towers_of_Paine_-_Torres_del_Paine_National_Park_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Towers_of_Paine_-_Torres_del_Paine_National_Park_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Towers_of_Paine_-_Torres_del_Paine_National_Park_13.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Thomas Fuhrmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-12-31 14:11:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mirador Salto Grande - Torres del Paine National Park 38.jpg",
+   "w": 5530,
+   "h": 3687,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Mirador_Salto_Grande_-_Torres_del_Paine_National_Park_38.jpg/330px-Mirador_Salto_Grande_-_Torres_del_Paine_National_Park_38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Mirador_Salto_Grande_-_Torres_del_Paine_National_Park_38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mirador_Salto_Grande_-_Torres_del_Paine_National_Park_38.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Thomas Fuhrmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-01-03 14:23:11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Striped woodpecker (Picoides lignarius) - Torres del Paine National Park 08.jpg",
+   "w": 3314,
+   "h": 2209,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Striped_woodpecker_%28Picoides_lignarius%29_-_Torres_del_Paine_National_Park_08.jpg/330px-Striped_woodpecker_%28Picoides_lignarius%29_-_Torres_del_Paine_National_Park_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Striped_woodpecker_%28Picoides_lignarius%29_-_Torres_del_Paine_National_Park_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Striped_woodpecker_(Picoides_lignarius)_-_Torres_del_Paine_National_Park_08.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Thomas Fuhrmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-12-31 09:52:30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Torres del Paine y cuernos del Paine, montaje.jpg",
+   "w": 1920,
+   "h": 2430,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Torres_del_Paine_y_cuernos_del_Paine%2C_montaje.jpg/330px-Torres_del_Paine_y_cuernos_del_Paine%2C_montaje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Torres_del_Paine_y_cuernos_del_Paine%2C_montaje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Torres_del_Paine_y_cuernos_del_Paine,_montaje.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Karen Chan 16 y Miguel.v ( local | logs | global ) (originales), y Jorge Morales Piderit (montaje).",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-01-16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "en"
+  },
+  {
+   "file": "File:Chile - Torres del Paine National Park 10.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Chile_-_Torres_del_Paine_National_Park_10.jpg/330px-Chile_-_Torres_del_Paine_National_Park_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Chile_-_Torres_del_Paine_National_Park_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chile_-_Torres_del_Paine_National_Park_10.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Indies1",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:CuernosAndPaineG.jpg",
+   "w": 5568,
+   "h": 4176,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/CuernosAndPaineG.jpg/330px-CuernosAndPaineG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/CuernosAndPaineG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:CuernosAndPaineG.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "AndrewDeAngelo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-01-13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

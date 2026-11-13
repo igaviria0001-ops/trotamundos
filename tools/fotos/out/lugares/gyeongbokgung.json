@@ -1,0 +1,191 @@
+{
+ "id": "gyeongbokgung",
+ "enwiki": "Gyeongbokgung",
+ "endesc": "Palace in Seoul, South Korea",
+ "qid": "Q482485",
+ "coord": [
+  37.5798841,
+  126.9767996
+ ],
+ "label_es": null,
+ "desc_es": "Palacio de Seúl",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1395-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 432703.0,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q16560"
+ ],
+ "p17": [
+  "Q884"
+ ],
+ "unesco": false,
+ "eswiki": "Gyeongbokgung",
+ "extracto_es": "Gyeongbokgung (en hangul, 경복궁; en hanja, 景福宮; McCune-Reischauer, Kyǒngbokkung) fue el palacio principal durante la dinastía Joseon (1392-1910). Es uno de los cinco palacios de Seúl y cuenta con 600 años de historia.",
+ "candidatas": [
+  {
+   "file": "File:Front view of the Imperial Throne Hall Geunjeongjeon at Gyeongbokgung Palace with blue sky in Seoul.jpg",
+   "w": 6402,
+   "h": 3601,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg/330px-Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Basile Morin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-06-05 09:09:51",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Korea-Gyeongbokgung-04.jpg",
+   "w": 2930,
+   "h": 1958,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Korea-Gyeongbokgung-04.jpg/330px-Korea-Gyeongbokgung-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Korea-Gyeongbokgung-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Korea-Gyeongbokgung-04.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "by hojusaram",
+   "credito": "https://www.flickr.com/photos/hojusaram/2075528684/",
+   "nonfree": "",
+   "fecha": "2007-03-01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Gyeongbokgung Palace at Night.jpg",
+   "w": 3840,
+   "h": 2160,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Gyeongbokgung_Palace_at_Night.jpg/330px-Gyeongbokgung_Palace_at_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gyeongbokgung_Palace_at_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung_Palace_at_Night.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Lunisaa",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-06-23 20:27:54",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Gyeongbokgung Palace attendees - 54977416105.jpg",
+   "w": 8192,
+   "h": 5464,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Gyeongbokgung_Palace_attendees_-_54977416105.jpg/330px-Gyeongbokgung_Palace_attendees_-_54977416105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gyeongbokgung_Palace_attendees_-_54977416105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung_Palace_attendees_-_54977416105.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gage Skidmore",
+   "credito": "https://www.flickr.com/photos/gageskidmore/54977416105/",
+   "nonfree": "",
+   "fecha": "2025-11-19 17:17:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Gonnyeonghap.jpg",
+   "w": 6048,
+   "h": 4024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Gonnyeonghap.jpg/330px-Gonnyeonghap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Gonnyeonghap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gonnyeonghap.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "주식회사 아이티앤",
+   "credito": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13380890&menuNo=200018",
+   "nonfree": "",
+   "fecha": "2024-09-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gwanghwamun from National Museum of Korean Contemporary History.jpg",
+   "w": 5400,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gwanghwamun_from_National_Museum_of_Korean_Contemporary_History.jpg/330px-Gwanghwamun_from_National_Museum_of_Korean_Contemporary_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Gwanghwamun_from_National_Museum_of_Korean_Contemporary_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gwanghwamun_from_National_Museum_of_Korean_Contemporary_History.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-29 10:35:30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gyeongbok Palace Lake.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Gyeongbok_Palace_Lake.jpg/330px-Gyeongbok_Palace_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Gyeongbok_Palace_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gyeongbok_Palace_Lake.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Huntsmanleader",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 29 October ",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Visitors inside Gyeongbokgung Palace.jpg",
+   "w": 2560,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Visitors_inside_Gyeongbokgung_Palace.jpg/330px-Visitors_inside_Gyeongbokgung_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Visitors_inside_Gyeongbokgung_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Visitors_inside_Gyeongbokgung_Palace.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Pauloleong2002",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-10-29 11:17:29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

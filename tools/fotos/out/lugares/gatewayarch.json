@@ -1,0 +1,203 @@
+{
+ "id": "gatewayarch",
+ "enwiki": "Gateway Arch",
+ "endesc": "US National Historic Landmark in St. Louis, Missouri",
+ "qid": "Q2027162",
+ "coord": [
+  38.62461111111111,
+  -90.18497222222223
+ ],
+ "label_es": "Arco Gateway",
+ "desc_es": "monumento en San Luis, Misuri (Estados Unidos)",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1965-10-28T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P571",
+   "time": "+1968-05-25T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1967-06-10T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 630.0,
+   "u": "Q3710"
+  }
+ ],
+ "p31": [
+  "Q2319498",
+  "Q22698",
+  "Q4989906",
+  "Q12277"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Arco Gateway",
+ "extracto_es": "El Arco Gateway, o la Puerta hacia el Oeste, es la parte más importante del Parque nacional de Arco Gateway en San Luis, Misuri (Estados Unidos). Se construyó como un monumento conmemorativo de la expansión hacia el oeste de los Estados Unidos. Cuenta con 200 metros de altura máxima, lo que lo convierte en el monumento más alto hecho por el hombre en los Estados Unidos, en el edificio accesible más alto del estado de Misuri y también en la mayor estructura arquitectónica con forma de arco catenario aplastado.\nSe emplaza en la orilla oeste del río Misisipi, donde se fundó la ciudad de San Luis. El arco fue diseñado por el arquitecto estadounidense de origen finlandés Eero Saarinen y el ingeniero de estructuras alemán Hannskarl Bandel en 1947. Su construcción comenzó el 12 de febrero de 1963 y terminó el 28 de octubre de 1965 y costó 13 millones de dólares en su tiempo (unos 90 millones de dólares hoy en día). El monumento se abrió al público el 10 de junio de 1967.\nEn 2007, figuró en el puesto 14 de la lista America's Favorite Architecture del American Institute of Architects (AIA).​",
+ "candidatas": [
+  {
+   "file": "File:Gateway arch reflect 1.jpg",
+   "w": 2912,
+   "h": 4368,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gateway_arch_reflect_1.jpg/330px-Gateway_arch_reflect_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gateway_arch_reflect_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gateway_arch_reflect_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Daniel Schwen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-05-18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:St Louis Gateway Arch.jpg",
+   "w": 1921,
+   "h": 1489,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/St_Louis_Gateway_Arch.jpg/330px-St_Louis_Gateway_Arch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/St_Louis_Gateway_Arch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Louis_Gateway_Arch.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "[https://www.flickr.com/photos/11399912@N00  B0iwehijro2i0-\n]\n\n`1l]] from Davis, CA, USA",
+   "credito": "Flickr",
+   "nonfree": "",
+   "fecha": "2005-04-14 22:38:52",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Boy looking out observation window.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Boy_looking_out_observation_window.jpg/330px-Boy_looking_out_observation_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Boy_looking_out_observation_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boy_looking_out_observation_window.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Paulmcdonald",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-19 15:32:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Downtown-STL-4 (32131567337).jpg",
+   "w": 4542,
+   "h": 3407,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Downtown-STL-4_%2832131567337%29.jpg/330px-Downtown-STL-4_%2832131567337%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Downtown-STL-4_%2832131567337%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Downtown-STL-4_(32131567337).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Ajay Suresh from New York, NY, USA",
+   "credito": "Downtown-STL-4",
+   "nonfree": "",
+   "fecha": "2019-02-08 17:23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Entrance and Exit to Gateway Arch Visitor Center.jpg",
+   "w": 5712,
+   "h": 4284,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Entrance_and_Exit_to_Gateway_Arch_Visitor_Center.jpg/330px-Entrance_and_Exit_to_Gateway_Arch_Visitor_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Entrance_and_Exit_to_Gateway_Arch_Visitor_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Entrance_and_Exit_to_Gateway_Arch_Visitor_Center.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "G1B71",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-06-25 11:51:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gateway Arch July 2012.jpg",
+   "w": 4320,
+   "h": 3240,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Gateway_Arch_July_2012.jpg/330px-Gateway_Arch_July_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gateway_Arch_July_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gateway_Arch_July_2012.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Hydro033",
+   "credito": "I took the photo in July 2012 while visiting the city.",
+   "nonfree": "",
+   "fecha": "2012-07-26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gateway Arch Visitor Center glass wall.jpg",
+   "w": 5712,
+   "h": 4284,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Gateway_Arch_Visitor_Center_glass_wall.jpg/330px-Gateway_Arch_Visitor_Center_glass_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gateway_Arch_Visitor_Center_glass_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gateway_Arch_Visitor_Center_glass_wall.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "G1B71",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-06-25 11:51:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gateway arch south entrance.jpg",
+   "w": 4368,
+   "h": 2912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Gateway_arch_south_entrance.jpg/330px-Gateway_arch_south_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Gateway_arch_south_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gateway_arch_south_entrance.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Daniel Schwen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-05-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

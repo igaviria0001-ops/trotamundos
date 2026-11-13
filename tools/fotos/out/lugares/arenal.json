@@ -1,0 +1,190 @@
+{
+ "id": "arenal",
+ "enwiki": "Arenal Volcano",
+ "endesc": "Volcano in Costa Rica",
+ "qid": "Q641588",
+ "coord": [
+  10.4625,
+  -84.70333333333333
+ ],
+ "label_es": "Volcán Arenal",
+ "desc_es": "estratovolcán de Costa Rica",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 1670.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 120.8,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q8502"
+ ],
+ "p17": [
+  "Q800"
+ ],
+ "unesco": false,
+ "eswiki": "Volcán Arenal",
+ "extracto_es": "El volcán Arenal está situado en el distrito de La Fortuna, cantón de San Carlos, en la provincia de Alajuela (Costa Rica). Tiene una altura de 1670 m s. n. m. El volcán se encuentra dentro del Parque Nacional Volcán Arenal. Inició su último período de actividad en el año 1968, el 29 de julio a las 7:30 y se encuentra inactivo desde 2010.\nEl Arenal es un estratovolcán de forma cónica, ubicado a unos 8 km de La Fortuna. Posee un área de 33 km². Es distinguible desde considerable distancia. Se le puede ver desde distintos poblados del cantón de San Carlos como Aguas Zarcas, Pocosol, La Fortuna, La Palmera, Cutris, Venado, Florencia e incluso Ciudad Quesada, y cantones como Guatuso, Los Chiles, y Tilarán. Geológicamente pertenece a la Sierra de Tilarán y se considera al cercano volcán Chato como su hermano.\nEs uno de los volcanes de Costa Rica más conocidos nacional e internacionalmente y uno de los más visitados.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Arenal volcano (70785p) (cropped).jpg",
+   "w": 5435,
+   "h": 3002,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Arenal_volcano_%2870785p%29_%28cropped%29.jpg/330px-Arenal_volcano_%2870785p%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Arenal_volcano_%2870785p%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p)_(cropped).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rhododendrites",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-12-07 16:28:39",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Arenal Volcano as seen from Monteverde.jpg",
+   "w": 2457,
+   "h": 1643,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Arenal_Volcano_as_seen_from_Monteverde.jpg/330px-Arenal_Volcano_as_seen_from_Monteverde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Arenal_Volcano_as_seen_from_Monteverde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_as_seen_from_Monteverde.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Peter Andersen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:CostaRica Arenal Volcano 1968Flow (pixinn.net).jpg",
+   "w": 1920,
+   "h": 1275,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/CostaRica_Arenal_Volcano_1968Flow_%28pixinn.net%29.jpg/330px-CostaRica_Arenal_Volcano_1968Flow_%28pixinn.net%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/CostaRica_Arenal_Volcano_1968Flow_%28pixinn.net%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:CostaRica_Arenal_Volcano_1968Flow_(pixinn.net).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Christophe Meneboeuf",
+   "credito": "Own work\n\nMore photos related to Costa Rica on my website: https://www.xtof.photo",
+   "nonfree": "",
+   "fecha": "2014-05-13 12:21:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Arenal Volcano in Costa Rica.JPG",
+   "w": 4928,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Arenal_Volcano_in_Costa_Rica.JPG/330px-Arenal_Volcano_in_Costa_Rica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Arenal_Volcano_in_Costa_Rica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_in_Costa_Rica.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "BonniesPics",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-13 16:02:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Arenal Volcano National Park.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Arenal_Volcano_National_Park.jpg/330px-Arenal_Volcano_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Arenal_Volcano_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_National_Park.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "BNP-CR506",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-12 12:45:11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Costa Rica's Arenal volcano (4621767639).jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Costa_Rica%27s_Arenal_volcano_%284621767639%29.jpg/330px-Costa_Rica%27s_Arenal_volcano_%284621767639%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Costa_Rica%27s_Arenal_volcano_%284621767639%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Costa_Rica%27s_Arenal_volcano_(4621767639).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "carol patterson from La fortuna, costa rica",
+   "credito": "costa rics´s arenal volcano",
+   "nonfree": "",
+   "fecha": "2011-07-01 00:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Arenal volcano b.jpg",
+   "w": 3072,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Arenal_volcano_b.jpg/330px-Arenal_volcano_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Arenal_volcano_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_volcano_b.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "No machine-readable author provided. Ineffable3000~commonswiki assumed (based on copyright claims).",
+   "credito": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "nonfree": "",
+   "fecha": "20 December 2006 (ac",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Arenal Volcano at night.jpg",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Arenal_Volcano_at_night.jpg/330px-Arenal_Volcano_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Arenal_Volcano_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_at_night.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Peter Andersen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "id": "spaceneedle",
+ "enwiki": "Space Needle",
+ "endesc": "Observation tower in Seattle, Washington, U.S.",
+ "qid": "Q5317",
+ "coord": [
+  47.6204,
+  -122.3491
+ ],
+ "label_es": "Space Needle",
+ "desc_es": "edificio de Seattle, Estados Unidos de América",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1961-04-17T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1962-04-21T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 184.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q1440300"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Space Needle",
+ "extracto_es": "La Space Needle (‘Aguja Espacial’)​  es una torre ubicada en Seattle, Washington, y es un símbolo de esa región del país. Fue inaugurada en 1962 en el centro de la ciudad para la Feria Mundial de Seattle de 1962. El proyecto fue idea de Edward E. Carlson e inspirado en la torre de telecomunicaciones de Stuttgart, en Alemania.\nEs una estructura de 184 metros de altura y pesa unas 9550 toneladas, colocando el centro de gravedad de la torre apenas a un metro del nivel del suelo. Para llegar a la cima es necesario tomar un ascensor que tarda tan sólo unos segundos en subir. Actualmente es un restaurante giratorio, desde donde se puede apreciar toda la ciudad de Seattle.\nEstá construida para soportar vientos de hasta 320 km/h y terremotos de hasta magnitud 9.5 en la escala de magnitud de momento.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Seattle, October 6, 2023 - 60.jpg",
+   "w": 3024,
+   "h": 4032,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Seattle%2C_October_6%2C_2023_-_60.jpg/330px-Seattle%2C_October_6%2C_2023_-_60.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Seattle%2C_October_6%2C_2023_-_60.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Seattle,_October_6,_2023_-_60.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Another Believer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-10-06 17:32:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Seattle Space needle top.jpg",
+   "w": 2247,
+   "h": 3370,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Seattle_Space_needle_top.jpg/330px-Seattle_Space_needle_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Seattle_Space_needle_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Seattle_Space_needle_top.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ikiwaner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-08-28 19:43:07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aerial Downtown Seattle November 2011.jpg",
+   "w": 4752,
+   "h": 3168,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Aerial_Downtown_Seattle_November_2011.jpg/330px-Aerial_Downtown_Seattle_November_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Aerial_Downtown_Seattle_November_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_Downtown_Seattle_November_2011.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jelson25",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-11-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lake Union From Space Needle (2).jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Lake_Union_From_Space_Needle_%282%29.jpg/330px-Lake_Union_From_Space_Needle_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lake_Union_From_Space_Needle_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Union_From_Space_Needle_(2).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Srikar  Devaguptapu",
+   "credito": "https://www.flickr.com/photos/193598035@N04/51365031565/",
+   "nonfree": "",
+   "fecha": "Taken on 29 June 202",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Scaffold on Space Needle during 2017 renovation 06.jpg",
+   "w": 4896,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Scaffold_on_Space_Needle_during_2017_renovation_06.jpg/330px-Scaffold_on_Space_Needle_during_2017_renovation_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Scaffold_on_Space_Needle_during_2017_renovation_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Scaffold_on_Space_Needle_during_2017_renovation_06.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dennis Bratland",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-12-13 16:33:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Seattlenighttimequeenanne.jpg",
+   "w": 7362,
+   "h": 4920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Seattlenighttimequeenanne.jpg/330px-Seattlenighttimequeenanne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Seattlenighttimequeenanne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Seattlenighttimequeenanne.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Dllu",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-06-07 22:56:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:SpaceNeedleTopClose.jpg",
+   "w": 2860,
+   "h": 2672,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/SpaceNeedleTopClose.jpg/330px-SpaceNeedleTopClose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/SpaceNeedleTopClose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:SpaceNeedleTopClose.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "MyName (Cacophony)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-04-14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Space Needle seen from Wenatchee Ferry on Puget Sound.jpg",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Space_Needle_seen_from_Wenatchee_Ferry_on_Puget_Sound.jpg/330px-Space_Needle_seen_from_Wenatchee_Ferry_on_Puget_Sound.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Space_Needle_seen_from_Wenatchee_Ferry_on_Puget_Sound.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Space_Needle_seen_from_Wenatchee_Ferry_on_Puget_Sound.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Rickmouser45",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 16 June 202",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

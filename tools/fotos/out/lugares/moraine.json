@@ -1,0 +1,197 @@
+{
+ "id": "moraine",
+ "enwiki": "Moraine Lake",
+ "endesc": "Glacial lake in Alberta, Canada",
+ "qid": "Q1072342",
+ "coord": [
+  51.3225,
+  -116.18555555555555
+ ],
+ "label_es": "Lago Moraine",
+ "desc_es": "lago en Canadá",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 1884.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 0.5,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q23397",
+  "Q211302"
+ ],
+ "p17": [
+  "Q16"
+ ],
+ "unesco": false,
+ "eswiki": "Lago Moraine",
+ "extracto_es": "El lago Moraine es un lago de montaña localizado en el Parque Nacional Banff, en Alberta, Canadá. Más concretamente, se encuentra en el valle de los Diez Picos (en inglés: Valley of the Ten Peaks), a unos 14 kilómetros de distancia de la localidad de Lago Louise y a una altitud de unos 1884 metros sobre el nivel del mar. Moraine quiere decir morrena en inglés. \nEl lago Moraine, con una superficie total de medio kilómetro cuadrado, es alimentado gracias a un glaciar. Por tanto, alcanza su nivel máximo durante la segunda mitad del mes de junio. Su llamativo color azul, característico de los lagos de la zona de la Carretera de los campos de hielo (Icefields Parkway), proviene de la refracción de la luz a causa del polvo de roca depositado desde las montañas.",
+ "candidatas": [
+  {
+   "file": "File:Moraine Lake 17092005.jpg",
+   "w": 2048,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/330px-Moraine_Lake_17092005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Gorgo",
+   "credito": "Photo taken by author",
+   "nonfree": "",
+   "fecha": "17 September 2005",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 17,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Lake Moraine-Banff National Park.jpg",
+   "w": 3000,
+   "h": 1875,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Lake_Moraine-Banff_National_Park.jpg/330px-Lake_Moraine-Banff_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lake_Moraine-Banff_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Moraine-Banff_National_Park.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Florian Fuchs",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-08-12 11:48:39",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "es"
+  },
+  {
+   "file": "File:1 moraine lake pano 2019.jpg",
+   "w": 14949,
+   "h": 7983,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/1_moraine_lake_pano_2019.jpg/330px-1_moraine_lake_pano_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/1_moraine_lake_pano_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_moraine_lake_pano_2019.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Chensiyuan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-17 19:32:23",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Moraine Lake-Banff NP.JPG",
+   "w": 2000,
+   "h": 1429,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Moraine_Lake-Banff_NP.JPG/330px-Moraine_Lake-Banff_NP.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Moraine_Lake-Banff_NP.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moraine_Lake-Banff_NP.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tobias Alt, Tobi 87",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2005-07-30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:,Moraine Lake & Mount Fay seen from Mount Temple Summit.jpg",
+   "w": 4608,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%2CMoraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg/330px-%2CMoraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/%2CMoraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:,Moraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Khoshhat",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-07-10 12:20:40",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Picture perfect Moraine Lake.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Picture_perfect_Moraine_Lake.jpg/330px-Picture_perfect_Moraine_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Picture_perfect_Moraine_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Picture_perfect_Moraine_Lake.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Scruffdog1",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-07-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:.Moraine Lake & Mount Fay seen from Mount Temple Summit.jpg",
+   "w": 4608,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/.Moraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg/330px-.Moraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/.Moraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:.Moraine_Lake_%26_Mount_Fay_seen_from_Mount_Temple_Summit.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Khoshhat",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-07-10 12:20:39",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Horseshoe Bend TC 27-09-2012 15-34-14.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg/330px-Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Paul Hermans",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-09-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

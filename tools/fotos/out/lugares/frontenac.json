@@ -1,0 +1,204 @@
+{
+ "id": "frontenac",
+ "enwiki": "Château Frontenac",
+ "endesc": "Hotel in Quebec City, Canada",
+ "qid": "Q745964",
+ "coord": [
+  46.81182,
+  -71.20538
+ ],
+ "label_es": "Château Frontenac",
+ "desc_es": "Hotel en la ciudad de Quebec, Canadá",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1893-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1893-12-18T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "p31": [
+  "Q27686",
+  "Q63099748"
+ ],
+ "p17": [
+  "Q16"
+ ],
+ "unesco": false,
+ "eswiki": "Château Frontenac",
+ "extracto_es": "El Château Frontenac es un hotel histórico de estilo château situado en la ciudad de Quebec (provincia de Quebec, Canadá). Está situado en el Centro histórico de Quebec, dentro de la Ciudad Alta del distrito histórico, en el lado sur de la Plaza de Armas. \nEl hotel fue diseñado por Bruce Price, construido por la compañía Canadian Pacific Railway y está gestionado actualmente por Fairmont Hotels and Resorts. Fue designado Sitio Histórico Nacional de Canadá en 1981.",
+ "candidatas": [
+  {
+   "file": "File:Château Frontenac 02.jpg",
+   "w": 3375,
+   "h": 2196,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Ch%C3%A2teau_Frontenac_02.jpg/330px-Ch%C3%A2teau_Frontenac_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ch%C3%A2teau_Frontenac_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-02-27",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "en"
+  },
+  {
+   "file": "File:Château Frontenac01.jpg",
+   "w": 2334,
+   "h": 1690,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Ch%C3%A2teau_Frontenac01.jpg/330px-Ch%C3%A2teau_Frontenac01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ch%C3%A2teau_Frontenac01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-03-02",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 13,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Fairmont Le Château Frontenac, Quebec 13.jpg",
+   "w": 4000,
+   "h": 5600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_13.jpg/330px-Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fairmont_Le_Ch%C3%A2teau_Frontenac,_Quebec_13.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fabian Roudra Baroi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-08-26 04:42:44",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Fairmont Le Château Frontenac, Quebec 11.jpg",
+   "w": 5887,
+   "h": 3925,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_11.jpg/330px-Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fairmont_Le_Ch%C3%A2teau_Frontenac,_Quebec_11.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fabian Roudra Baroi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-08-26 04:35:49",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Fairmont Le Château Frontenac, Quebec 8.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_8.jpg/330px-Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fairmont_Le_Ch%C3%A2teau_Frontenac,_Quebec_8.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fabian Roudra Baroi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-08-26 04:22:57",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Fairmont Le Château Frontenac, Quebec 3.jpg",
+   "w": 5826,
+   "h": 3884,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_3.jpg/330px-Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fairmont_Le_Ch%C3%A2teau_Frontenac,_Quebec_3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fabian Roudra Baroi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-08-26 04:20:00",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Fairmont Le Château Frontenac, Quebec 2.jpg",
+   "w": 4342,
+   "h": 2895,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_2.jpg/330px-Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Fairmont_Le_Ch%C3%A2teau_Frontenac%2C_Quebec_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Fairmont_Le_Ch%C3%A2teau_Frontenac,_Quebec_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fabian Roudra Baroi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-08-26 04:35:36",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Château Frontenac, Quebec ville, Canada.jpg",
+   "w": 5637,
+   "h": 5693,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Ch%C3%A2teau_Frontenac%2C_Quebec_ville%2C_Canada.jpg/330px-Ch%C3%A2teau_Frontenac%2C_Quebec_ville%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ch%C3%A2teau_Frontenac%2C_Quebec_ville%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac,_Quebec_ville,_Canada.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-10-24 16:29:40",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
+}

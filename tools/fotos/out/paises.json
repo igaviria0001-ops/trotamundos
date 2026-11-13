@@ -1,0 +1,3969 @@
+[
+ {
+  "iso": "AQ",
+  "qid": "Q51",
+  "nombre": "Antártida",
+  "capitales": [],
+  "poblacion": "5000",
+  "idiomas": [],
+  "monedas": []
+ },
+ {
+  "iso": "UY",
+  "qid": "Q77",
+  "nombre": "Uruguay",
+  "capitales": [
+   "Montevideo@Point(-56.191311111 -34.905916666)"
+  ],
+  "poblacion": "3444263",
+  "idiomas": [],
+  "monedas": [
+   "Peso uruguayo"
+  ]
+ },
+ {
+  "iso": "ZA",
+  "qid": "Q258",
+  "nombre": "Sudáfrica",
+  "capitales": [
+   "Bloemfontein@Point(26.216666666 -29.1)",
+   "Ciudad del Cabo@Point(18.423888888 -33.925277777)",
+   "Pretoria@Point(28.188055555 -25.746388888)"
+  ],
+  "poblacion": "62027503",
+  "idiomas": [
+   "inglés",
+   "xhosa",
+   "zulú",
+   "afrikáans",
+   "tsonga",
+   "suazi",
+   "idioma sotho septentrional",
+   "sesotho",
+   "venda",
+   "setsuana",
+   "Lenguaje de Signos Sudafricano",
+   "ndebele del Sur"
+  ],
+  "monedas": [
+   "rand sudafricano"
+  ]
+ },
+ {
+  "iso": "KE",
+  "qid": "Q114",
+  "nombre": "Kenia",
+  "capitales": [
+   "Nairobi@Point(36.817222222 -1.286388888)"
+  ],
+  "poblacion": "48468138",
+  "idiomas": [
+   "inglés",
+   "suajili"
+  ],
+  "monedas": [
+   "Chelín keniano"
+  ]
+ },
+ {
+  "iso": "CA",
+  "qid": "Q16",
+  "nombre": "Canadá",
+  "capitales": [
+   "Ottawa@Point(-75.695 45.424722222)"
+  ],
+  "poblacion": "36991981",
+  "idiomas": [
+   "francés",
+   "inglés"
+  ],
+  "monedas": [
+   "dólar canadiense"
+  ]
+ },
+ {
+  "iso": "NO",
+  "qid": "Q20",
+  "nombre": "Noruega",
+  "capitales": [],
+  "poblacion": "5627400",
+  "idiomas": [
+   "noruego",
+   "nynorsk",
+   "bokmål",
+   "lenguas sami"
+  ],
+  "monedas": [
+   "corona noruega"
+  ]
+ },
+ {
+  "iso": "JP",
+  "qid": "Q17",
+  "nombre": "Japón",
+  "capitales": [
+   "Tokio@Point(139.691666666 35.689444444)"
+  ],
+  "poblacion": "123802000",
+  "idiomas": [
+   "japonés"
+  ],
+  "monedas": [
+   "yen"
+  ]
+ },
+ {
+  "iso": "MX",
+  "qid": "Q96",
+  "nombre": "México",
+  "capitales": [
+   "Ciudad de México@Point(-99.13589 19.353773)"
+  ],
+  "poblacion": "132274416",
+  "idiomas": [
+   "español",
+   "náhuatl",
+   "maya"
+  ],
+  "monedas": [
+   "peso"
+  ]
+ },
+ {
+  "iso": "EG",
+  "qid": "Q79",
+  "nombre": "Egipto",
+  "capitales": [
+   "El Cairo@Point(31.235833333 30.044444444)"
+  ],
+  "poblacion": "114535772",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "libra egipcia"
+  ]
+ },
+ {
+  "iso": "SG",
+  "qid": "Q334",
+  "nombre": "Singapur",
+  "capitales": [
+   "Singapur@Point(103.8 1.3)"
+  ],
+  "poblacion": "5866139",
+  "idiomas": [
+   "inglés",
+   "tamil",
+   "malayo",
+   "mandarín estándar"
+  ],
+  "monedas": [
+   "dólar de Singapur"
+  ]
+ },
+ {
+  "iso": "UZ",
+  "qid": "Q265",
+  "nombre": "Uzbekistán",
+  "capitales": [
+   "Taskent@Point(69.279722222 41.311111111)"
+  ],
+  "poblacion": "34915100",
+  "idiomas": [
+   "uzbeko"
+  ],
+  "monedas": [
+   "som"
+  ]
+ },
+ {
+  "iso": "GH",
+  "qid": "Q117",
+  "nombre": "Ghana",
+  "capitales": [
+   "Acra@Point(-0.1969 5.55602)"
+  ],
+  "poblacion": "32833031",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "cedi"
+  ]
+ },
+ {
+  "iso": "BH",
+  "qid": "Q398",
+  "nombre": "Baréin",
+  "capitales": [
+   "Manama@Point(50.583333333 26.216666666)"
+  ],
+  "poblacion": "1569666",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "dinar bareiní"
+  ]
+ },
+ {
+  "iso": "ET",
+  "qid": "Q115",
+  "nombre": "Etiopía",
+  "capitales": [
+   "Adís Abeba@Point(38.7525 9.035833333)"
+  ],
+  "poblacion": "128691692",
+  "idiomas": [
+   "amhárico"
+  ],
+  "monedas": [
+   "bir etíope"
+  ]
+ },
+ {
+  "iso": "CL",
+  "qid": "Q298",
+  "nombre": "Chile",
+  "capitales": [
+   "Santiago de Chile@Point(-70.65 -33.4375)"
+  ],
+  "poblacion": "19458000",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "peso"
+  ]
+ },
+ {
+  "iso": "DZ",
+  "qid": "Q262",
+  "nombre": "Argelia",
+  "capitales": [
+   "Argel@Point(3.058611111 36.776388888)"
+  ],
+  "poblacion": "46164219",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "dinar argelino"
+  ]
+ },
+ {
+  "iso": "FR",
+  "qid": "Q142",
+  "nombre": "Francia",
+  "capitales": [
+   "París@Point(2.352222222 48.856666666)"
+  ],
+  "poblacion": "68605616",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "Franco CFP",
+   "Euro"
+  ]
+ },
+ {
+  "iso": "RS",
+  "qid": "Q403",
+  "nombre": "Serbia",
+  "capitales": [
+   "Belgrado@Point(20.456944444 44.817777777)"
+  ],
+  "poblacion": "6605168",
+  "idiomas": [
+   "serbio"
+  ],
+  "monedas": [
+   "dinar serbio"
+  ]
+ },
+ {
+  "iso": "AR",
+  "qid": "Q414",
+  "nombre": "Argentina",
+  "capitales": [
+   "Buenos Aires@Point(-58.381944444 -34.599722222)"
+  ],
+  "poblacion": "47327407",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "peso argentino convertible"
+  ]
+ },
+ {
+  "iso": "HU",
+  "qid": "Q28",
+  "nombre": "Hungría",
+  "capitales": [
+   "Budapest@Point(19.040833333 47.498333333)"
+  ],
+  "poblacion": "9603634",
+  "idiomas": [
+   "húngaro"
+  ],
+  "monedas": [
+   "forinto húngaro"
+  ]
+ },
+ {
+  "iso": "BR",
+  "qid": "Q155",
+  "nombre": "Brasil",
+  "capitales": [
+   "Brasilia@Point(-47.882777777 -15.793888888)"
+  ],
+  "poblacion": "214211951",
+  "idiomas": [
+   "portugués"
+  ],
+  "monedas": [
+   "real brasileño"
+  ]
+ },
+ {
+  "iso": "IE",
+  "qid": "Q27",
+  "nombre": "Irlanda",
+  "capitales": [
+   "Dublín@Point(-6.260277777 53.349722222)"
+  ],
+  "poblacion": "5149139",
+  "idiomas": [
+   "inglés",
+   "irlandés"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "LI",
+  "qid": "Q347",
+  "nombre": "Liechtenstein",
+  "capitales": [
+   "Vaduz@Point(9.522222222 47.140555555)"
+  ],
+  "poblacion": "37922",
+  "idiomas": [
+   "alemán"
+  ],
+  "monedas": [
+   "franco suizo"
+  ]
+ },
+ {
+  "iso": "KP",
+  "qid": "Q423",
+  "nombre": "Corea del Norte",
+  "capitales": [
+   "Pionyang@Point(125.7475 39.016666666)"
+  ],
+  "poblacion": "26418204",
+  "idiomas": [
+   "coreano",
+   "norcoreano estándar"
+  ],
+  "monedas": [
+   "wŏn norcoreano"
+  ]
+ },
+ {
+  "iso": "AM",
+  "qid": "Q399",
+  "nombre": "Armenia",
+  "capitales": [
+   "Ereván@Point(44.514444444 40.181388888)"
+  ],
+  "poblacion": "2930450",
+  "idiomas": [
+   "armenio"
+  ],
+  "monedas": [
+   "dram armenio"
+  ]
+ },
+ {
+  "iso": "US",
+  "qid": "Q30",
+  "nombre": "Estados Unidos",
+  "capitales": [
+   "Washington D. C.@Point(-77.036666666 38.895)"
+  ],
+  "poblacion": "340110988",
+  "idiomas": [
+   "español",
+   "idioma chamorro",
+   "carolinio",
+   "samoano",
+   "hawaiano"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "CN",
+  "qid": "Q148",
+  "nombre": "República Popular China",
+  "capitales": [
+   "Pekín@Point(116.407526 39.90403)"
+  ],
+  "poblacion": "1404890000",
+  "idiomas": [
+   "putonghua"
+  ],
+  "monedas": [
+   "yuan chino"
+  ]
+ },
+ {
+  "iso": "ES",
+  "qid": "Q29",
+  "nombre": "España",
+  "capitales": [
+   "Madrid@Point(-3.703333333 40.416944444)"
+  ],
+  "poblacion": "48592909",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "BE",
+  "qid": "Q31",
+  "nombre": "Bélgica",
+  "capitales": [
+   "Bruselas@Point(4.351666666 50.846666666)"
+  ],
+  "poblacion": "11825551",
+  "idiomas": [
+   "francés",
+   "alemán",
+   "neerlandés"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "LU",
+  "qid": "Q32",
+  "nombre": "Luxemburgo",
+  "capitales": [
+   "Luxemburgo@Point(6.13 49.611388888)"
+  ],
+  "poblacion": "690959",
+  "idiomas": [
+   "francés",
+   "alemán",
+   "luxemburgués"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "AU",
+  "qid": "Q408",
+  "nombre": "Australia",
+  "capitales": [
+   "Canberra@Point(149.126944444 -35.293055555)"
+  ],
+  "poblacion": "27614411",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar australiano"
+  ]
+ },
+ {
+  "iso": "BY",
+  "qid": "Q184",
+  "nombre": "Bielorrusia",
+  "capitales": [
+   "Minsk@Point(27.561837 53.902246)"
+  ],
+  "poblacion": "9056080",
+  "idiomas": [
+   "ruso",
+   "bielorruso"
+  ],
+  "monedas": [
+   "rublo bierlorruso"
+  ]
+ },
+ {
+  "iso": "PE",
+  "qid": "Q419",
+  "nombre": "Perú",
+  "capitales": [
+   "Lima@Point(-77.0375 -12.06)"
+  ],
+  "poblacion": "34157732",
+  "idiomas": [
+   "español",
+   "aymara",
+   "lenguas quechuas"
+  ],
+  "monedas": [
+   "sol"
+  ]
+ },
+ {
+  "iso": "KH",
+  "qid": "Q424",
+  "nombre": "Camboya",
+  "capitales": [
+   "Nom Pen@Point(104.921027777 11.569583333)"
+  ],
+  "poblacion": "17423880",
+  "idiomas": [
+   "camboyano"
+  ],
+  "monedas": [
+   "riel camboyano"
+  ]
+ },
+ {
+  "iso": "TD",
+  "qid": "Q657",
+  "nombre": "Chad",
+  "capitales": [
+   "Yamena@Point(15.05 12.11)"
+  ],
+  "poblacion": "19319064",
+  "idiomas": [
+   "francés",
+   "árabe"
+  ],
+  "monedas": [
+   "franco CFA de África Central"
+  ]
+ },
+ {
+  "iso": "RU",
+  "qid": "Q159",
+  "nombre": "Rusia",
+  "capitales": [
+   "Moscú@Point(37.6175 55.750555555)"
+  ],
+  "poblacion": "146119928",
+  "idiomas": [
+   "ruso"
+  ],
+  "monedas": [
+   "rublo ruso"
+  ]
+ },
+ {
+  "iso": "GB",
+  "qid": "Q145",
+  "nombre": "Reino Unido",
+  "capitales": [
+   "Londres@Point(-0.1275 51.507222222)"
+  ],
+  "poblacion": "67326569",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "libra esterlina"
+  ]
+ },
+ {
+  "iso": "DE",
+  "qid": "Q183",
+  "nombre": "Alemania",
+  "capitales": [
+   "Berlín@Point(13.383333333 52.516666666)"
+  ],
+  "poblacion": "83467117",
+  "idiomas": [
+   "alemán"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "EE",
+  "qid": "Q191",
+  "nombre": "Estonia",
+  "capitales": [
+   "Tallin@Point(24.745 59.437222222)"
+  ],
+  "poblacion": "1369995",
+  "idiomas": [
+   "estonio"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "SE",
+  "qid": "Q34",
+  "nombre": "Suecia",
+  "capitales": [
+   "Estocolmo@Point(18.068611111 59.329444444)"
+  ],
+  "poblacion": "10609460",
+  "idiomas": [
+   "sueco"
+  ],
+  "monedas": [
+   "corona sueca"
+  ]
+ },
+ {
+  "iso": "NZ",
+  "qid": "Q664",
+  "nombre": "Nueva Zelanda",
+  "capitales": [
+   "Wellington@Point(174.777222222 -41.288888888)"
+  ],
+  "poblacion": "5307800",
+  "idiomas": [
+   "inglés",
+   "lengua de señas neozelandesa",
+   "maorí"
+  ],
+  "monedas": [
+   "dólar neozelandés"
+  ]
+ },
+ {
+  "iso": "IN",
+  "qid": "Q668",
+  "nombre": "India",
+  "capitales": [
+   "Nueva Delhi@Point(77.208888888 28.613888888)"
+  ],
+  "poblacion": "1326093247",
+  "idiomas": [
+   "hindi",
+   "inglés"
+  ],
+  "monedas": [
+   "rupia india"
+  ]
+ },
+ {
+  "iso": "DK",
+  "qid": "Q35",
+  "nombre": "Dinamarca",
+  "capitales": [
+   "Copenhague@Point(12.568888888 55.676111111)"
+  ],
+  "poblacion": "5822863",
+  "idiomas": [
+   "danés"
+  ],
+  "monedas": [
+   "corona danesa"
+  ]
+ },
+ {
+  "iso": "IS",
+  "qid": "Q189",
+  "nombre": "Islandia",
+  "capitales": [
+   "Reikiavik@Point(-21.935 64.1475)"
+  ],
+  "poblacion": "364260",
+  "idiomas": [
+   "islandés"
+  ],
+  "monedas": [
+   "corona islandesa"
+  ]
+ },
+ {
+  "iso": "IT",
+  "qid": "Q38",
+  "nombre": "Italia",
+  "capitales": [
+   "Roma@Point(12.482777777 41.893055555)"
+  ],
+  "poblacion": "58850717",
+  "idiomas": [
+   "italiano"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "FI",
+  "qid": "Q33",
+  "nombre": "Finlandia",
+  "capitales": [
+   "Helsinki@Point(24.9375 60.170833333)"
+  ],
+  "poblacion": "5652881",
+  "idiomas": [
+   "finés",
+   "sueco"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "TL",
+  "qid": "Q574",
+  "nombre": "Timor Oriental",
+  "capitales": [
+   "Dili@Point(125.578333333 -8.553611111)"
+  ],
+  "poblacion": "1400638",
+  "idiomas": [
+   "portugués",
+   "Idioma tetun"
+  ],
+  "monedas": [
+   "centavo de dólar de Timor Oriental",
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "TO",
+  "qid": "Q678",
+  "nombre": "Tonga",
+  "capitales": [
+   "Nukualofa@Point(-175.201808 -21.1343401)"
+  ],
+  "poblacion": "108020",
+  "idiomas": [
+   "inglés",
+   "tongano"
+  ],
+  "monedas": [
+   "pa'anga"
+  ]
+ },
+ {
+  "iso": "TV",
+  "qid": "Q672",
+  "nombre": "Tuvalu",
+  "capitales": [
+   "Funafuti@Point(179.117361111 -8.504777777)"
+  ],
+  "poblacion": "10643",
+  "idiomas": [
+   "inglés",
+   "tuvaluano"
+  ],
+  "monedas": [
+   "dólar australiano",
+   "dólar tuvaluano"
+  ]
+ },
+ {
+  "iso": "WS",
+  "qid": "Q683",
+  "nombre": "Samoa",
+  "capitales": [
+   "Apia@Point(-171.833333333 -13.833333333)"
+  ],
+  "poblacion": "200010",
+  "idiomas": [
+   "inglés",
+   "samoano"
+  ],
+  "monedas": [
+   "tālā"
+  ]
+ },
+ {
+  "iso": "LV",
+  "qid": "Q211",
+  "nombre": "Letonia",
+  "capitales": [
+   "Riga@Point(24.106944444 56.9475)"
+  ],
+  "poblacion": "1845096",
+  "idiomas": [
+   "letón"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "VU",
+  "qid": "Q686",
+  "nombre": "Vanuatu",
+  "capitales": [
+   "Port Vila@Point(168.316667 -17.73333)"
+  ],
+  "poblacion": "300019",
+  "idiomas": [
+   "francés",
+   "inglés",
+   "Bislama"
+  ],
+  "monedas": [
+   "vatu"
+  ]
+ },
+ {
+  "iso": "CH",
+  "qid": "Q39",
+  "nombre": "Suiza",
+  "capitales": [
+   "Berna@Point(7.44743 46.94798)"
+  ],
+  "poblacion": "9104063",
+  "idiomas": [
+   "francés",
+   "alemán",
+   "italiano",
+   "romanche"
+  ],
+  "monedas": [
+   "franco suizo"
+  ]
+ },
+ {
+  "iso": "PL",
+  "qid": "Q36",
+  "nombre": "Polonia",
+  "capitales": [
+   "Varsovia@Point(21.011111111 52.23)"
+  ],
+  "poblacion": "37563071",
+  "idiomas": [
+   "polaco"
+  ],
+  "monedas": [
+   "złoty"
+  ]
+ },
+ {
+  "iso": "TR",
+  "qid": "Q43",
+  "nombre": "Turquía",
+  "capitales": [
+   "Ankara@Point(32.83869 39.93576)"
+  ],
+  "poblacion": "85372377",
+  "idiomas": [
+   "turco"
+  ],
+  "monedas": [
+   "lira turca"
+  ]
+ },
+ {
+  "iso": "UA",
+  "qid": "Q212",
+  "nombre": "Ucrania",
+  "capitales": [
+   "Kiev@Point(30.523611111 50.45)"
+  ],
+  "poblacion": "41167335",
+  "idiomas": [
+   "ucraniano"
+  ],
+  "monedas": [
+   "grivna"
+  ]
+ },
+ {
+  "iso": "GR",
+  "qid": "Q41",
+  "nombre": "Grecia",
+  "capitales": [
+   "Atenas@Point(23.728055555 37.984166666)"
+  ],
+  "poblacion": "10482487",
+  "idiomas": [
+   "griego"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "AT",
+  "qid": "Q40",
+  "nombre": "Austria",
+  "capitales": [
+   "Viena@Point(16.3725 48.208333333)"
+  ],
+  "poblacion": "8979894",
+  "idiomas": [
+   "alemán",
+   "lengua austríaca de signos"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "MD",
+  "qid": "Q217",
+  "nombre": "Moldavia",
+  "capitales": [
+   "Chisináu@Point(28.835277777 47.022777777)"
+  ],
+  "poblacion": "2409207",
+  "idiomas": [
+   "rumano"
+  ],
+  "monedas": [
+   "leu moldavo"
+  ]
+ },
+ {
+  "iso": "LT",
+  "qid": "Q37",
+  "nombre": "Lituania",
+  "capitales": [
+   "Vilna@Point(25.28 54.687222222)"
+  ],
+  "poblacion": "2860002",
+  "idiomas": [
+   "lituano"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "SK",
+  "qid": "Q214",
+  "nombre": "Eslovaquia",
+  "capitales": [
+   "Bratislava@Point(17.1093063 48.1516988)"
+  ],
+  "poblacion": "5409407",
+  "idiomas": [
+   "eslovaco"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "CZ",
+  "qid": "Q213",
+  "nombre": "República Checa",
+  "capitales": [
+   "Praga@Point(14.421388888 50.0875)"
+  ],
+  "poblacion": "10909500",
+  "idiomas": [
+   "checo"
+  ],
+  "monedas": [
+   "corona checa"
+  ]
+ },
+ {
+  "iso": "SI",
+  "qid": "Q215",
+  "nombre": "Eslovenia",
+  "capitales": [
+   "Liubliana@Point(14.506111111 46.051388888)"
+  ],
+  "poblacion": "2066880",
+  "idiomas": [
+   "esloveno"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "RO",
+  "qid": "Q218",
+  "nombre": "Rumania",
+  "capitales": [
+   "Bucarest@Point(26.097777777 44.413361111)"
+  ],
+  "poblacion": "19053815",
+  "idiomas": [
+   "rumano"
+  ],
+  "monedas": [
+   "leu rumano"
+  ]
+ },
+ {
+  "iso": "PG",
+  "qid": "Q691",
+  "nombre": "Papúa Nueva Guinea",
+  "capitales": [
+   "Puerto Moresby@Point(147.149444444 -9.478888888)"
+  ],
+  "poblacion": "8935000",
+  "idiomas": [
+   "inglés",
+   "Hiri motu",
+   "tok pisin",
+   "Lengua de signos de Papúa Nueva Guinea"
+  ],
+  "monedas": [
+   "kina"
+  ]
+ },
+ {
+  "iso": "MK",
+  "qid": "Q221",
+  "nombre": "Macedonia del Norte",
+  "capitales": [
+   "Skopie@Point(21.431666666 41.996111111)"
+  ],
+  "poblacion": "1836713",
+  "idiomas": [
+   "albanés",
+   "macedonio"
+  ],
+  "monedas": [
+   "denar macedonio"
+  ]
+ },
+ {
+  "iso": "PT",
+  "qid": "Q45",
+  "nombre": "Portugal",
+  "capitales": [
+   "Lisboa@Point(-9.139016 38.708042)"
+  ],
+  "poblacion": "10347892",
+  "idiomas": [
+   "portugués"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "GL",
+  "qid": "Q223",
+  "nombre": "Groenlandia",
+  "capitales": [
+   "Nuuk@Point(-51.733333333 64.175)"
+  ],
+  "poblacion": "56609",
+  "idiomas": [
+   "groenlandés"
+  ],
+  "monedas": [
+   "corona danesa"
+  ]
+ },
+ {
+  "iso": "KI",
+  "qid": "Q710",
+  "nombre": "Kiribati",
+  "capitales": [
+   "Tarawa Sur@Point(172.966666666 1.333333333)"
+  ],
+  "poblacion": "134518",
+  "idiomas": [
+   "inglés",
+   "gilbertino"
+  ],
+  "monedas": [
+   "Dólar de Kiribati",
+   "dólar australiano"
+  ]
+ },
+ {
+  "iso": "TN",
+  "qid": "Q948",
+  "nombre": "Túnez",
+  "capitales": [
+   "Túnez@Point(10.18 36.800833333)"
+  ],
+  "poblacion": "11565204",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "dinar tunecino"
+  ]
+ },
+ {
+  "iso": "SB",
+  "qid": "Q685",
+  "nombre": "Islas Salomón",
+  "capitales": [
+   "Honiara@Point(159.95 -9.433333)"
+  ],
+  "poblacion": "611343",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar de las Islas Salomón"
+  ]
+ },
+ {
+  "iso": "MH",
+  "qid": "Q709",
+  "nombre": "Islas Marshall",
+  "capitales": [
+   "Majuro@Point(171.3802 7.0918)"
+  ],
+  "poblacion": "53127",
+  "idiomas": [
+   "inglés",
+   "marshalés"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "BG",
+  "qid": "Q219",
+  "nombre": "Bulgaria",
+  "capitales": [
+   "Sofía@Point(23.321726 42.697886)"
+  ],
+  "poblacion": "6423207",
+  "idiomas": [
+   "búlgaro"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "AL",
+  "qid": "Q222",
+  "nombre": "Albania",
+  "capitales": [
+   "Tirana@Point(19.818055555 41.328333333)"
+  ],
+  "poblacion": "2811655",
+  "idiomas": [
+   "albanés"
+  ],
+  "monedas": [
+   "lek albanés"
+  ]
+ },
+ {
+  "iso": "ZM",
+  "qid": "Q953",
+  "nombre": "Zambia",
+  "capitales": [
+   "Lusaka@Point(28.283333333 -15.416666666)"
+  ],
+  "poblacion": "19610769",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "kuacha zambiano"
+  ]
+ },
+ {
+  "iso": "AZ",
+  "qid": "Q227",
+  "nombre": "Azerbaiyán",
+  "capitales": [
+   "Bakú@Point(49.835183333 40.366655555)"
+  ],
+  "poblacion": "10180770",
+  "idiomas": [
+   "azerí",
+   "lengua de signos azerbaiyana"
+  ],
+  "monedas": [
+   "manat azerbaiyano"
+  ]
+ },
+ {
+  "iso": "NR",
+  "qid": "Q697",
+  "nombre": "Nauru",
+  "capitales": [
+   "Yaren@Point(166.920867 -0.5477)"
+  ],
+  "poblacion": "13650",
+  "idiomas": [
+   "inglés",
+   "nauruano"
+  ],
+  "monedas": [
+   "dólar australiano"
+  ]
+ },
+ {
+  "iso": "PW",
+  "qid": "Q695",
+  "nombre": "Palaos",
+  "capitales": [
+   "Ngerulmud@Point(134.624167 7.500556)"
+  ],
+  "poblacion": "21729",
+  "idiomas": [
+   "inglés",
+   "japonés",
+   "palauano"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "BA",
+  "qid": "Q225",
+  "nombre": "Bosnia y Herzegovina",
+  "capitales": [
+   "Sarajevo@Point(18.413055555 43.856388888)"
+  ],
+  "poblacion": "3816459",
+  "idiomas": [
+   "croata",
+   "serbio",
+   "bosnio"
+  ],
+  "monedas": [
+   "dinar bosnioherzegovino",
+   "marco bosnioherzegovino"
+  ]
+ },
+ {
+  "iso": "SR",
+  "qid": "Q730",
+  "nombre": "Surinam",
+  "capitales": [
+   "Paramaribo@Point(-55.166666666 5.866666666)"
+  ],
+  "poblacion": "563402",
+  "idiomas": [
+   "neerlandés"
+  ],
+  "monedas": [
+   "Dólar surinamés"
+  ]
+ },
+ {
+  "iso": "GE",
+  "qid": "Q230",
+  "nombre": "Georgia",
+  "capitales": [
+   "Tiflis@Point(44.7925 41.7225)"
+  ],
+  "poblacion": "3929581",
+  "idiomas": [
+   "georgiano"
+  ],
+  "monedas": [
+   "lari georgiano"
+  ]
+ },
+ {
+  "iso": "FM",
+  "qid": "Q702",
+  "nombre": "Estados Federados de Micronesia",
+  "capitales": [
+   "Palikir@Point(158.185 6.917777777)"
+  ],
+  "poblacion": "75817",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "MN",
+  "qid": "Q711",
+  "nombre": "Mongolia",
+  "capitales": [
+   "Ulán Bator@Point(106.905515 47.921357)"
+  ],
+  "poblacion": "3409939",
+  "idiomas": [
+   "mongol"
+  ],
+  "monedas": [
+   "tugrik mongol"
+  ]
+ },
+ {
+  "iso": "BW",
+  "qid": "Q963",
+  "nombre": "Botsuana",
+  "capitales": [
+   "Gaborone@Point(25.908611111 -24.656944444)"
+  ],
+  "poblacion": "2480244",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "pula"
+  ]
+ },
+ {
+  "iso": "FJ",
+  "qid": "Q712",
+  "nombre": "Fiyi",
+  "capitales": [
+   "Suva@Point(178.44 -18.126666666)"
+  ],
+  "poblacion": "926276",
+  "idiomas": [
+   "inglés",
+   "fiyiano",
+   "hindi de Fiyi"
+  ],
+  "monedas": [
+   "dólar fiyiano"
+  ]
+ },
+ {
+  "iso": "HR",
+  "qid": "Q224",
+  "nombre": "Croacia",
+  "capitales": [
+   "Zagreb@Point(15.977222222 45.813055555)"
+  ],
+  "poblacion": "3871833",
+  "idiomas": [
+   "croata"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "CY",
+  "qid": "Q229",
+  "nombre": "Chipre",
+  "capitales": [
+   "Nicosia@Point(33.365 35.1725)"
+  ],
+  "poblacion": "1344976",
+  "idiomas": [
+   "turco",
+   "griego"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "ZW",
+  "qid": "Q954",
+  "nombre": "Zimbabue",
+  "capitales": [
+   "Harare@Point(31.052222222 -17.829166666)"
+  ],
+  "poblacion": "15178979",
+  "idiomas": [
+   "venda",
+   "Lenguas joisanas",
+   "shona",
+   "ndebele del norte",
+   "chitonga",
+   "setsuana",
+   "tsonga",
+   "sesotho",
+   "inglés",
+   "xhosa",
+   "Ndau",
+   "chichewa"
+  ],
+  "monedas": [
+   "dólar estadounidense",
+   "Euro",
+   "Oro de Zimbabue",
+   "dólar australiano",
+   "yuan chino",
+   "rand sudafricano",
+   "libra esterlina",
+   "dólar zimbabuense",
+   "rupia india",
+   "yen"
+  ]
+ },
+ {
+  "iso": "BJ",
+  "qid": "Q962",
+  "nombre": "Benín",
+  "capitales": [
+   "Porto Novo@Point(2.616666666 6.483333333)"
+  ],
+  "poblacion": "14111034",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "franco CFA de África Occidental"
+  ]
+ },
+ {
+  "iso": "SS",
+  "qid": "Q958",
+  "nombre": "Sudán del Sur",
+  "capitales": [
+   "Yuba@Point(31.5825 4.853888888)"
+  ],
+  "poblacion": "12575714",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "libra sursudanesa"
+  ]
+ },
+ {
+  "iso": "BF",
+  "qid": "Q965",
+  "nombre": "Burkina Faso",
+  "capitales": [
+   "Uagadugú@Point(-1.5275 12.368611111)"
+  ],
+  "poblacion": "23025776",
+  "idiomas": [
+   "diula",
+   "bissa",
+   "mossi"
+  ],
+  "monedas": [
+   "franco CFA de África Occidental"
+  ]
+ },
+ {
+  "iso": "AD",
+  "qid": "Q228",
+  "nombre": "Andorra",
+  "capitales": [
+   "Andorra la Vieja@Point(1.522222222 42.507222222)"
+  ],
+  "poblacion": "89752",
+  "idiomas": [
+   "catalán"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "MT",
+  "qid": "Q233",
+  "nombre": "Malta",
+  "capitales": [
+   "La Valeta@Point(14.5125 35.897777777)"
+  ],
+  "poblacion": "553214",
+  "idiomas": [
+   "inglés",
+   "maltés"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "ME",
+  "qid": "Q236",
+  "nombre": "Montenegro",
+  "capitales": [
+   "Podgorica@Point(19.262777777 42.441388888)"
+  ],
+  "poblacion": "617213",
+  "idiomas": [
+   "montenegrino"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "VE",
+  "qid": "Q717",
+  "nombre": "Venezuela",
+  "capitales": [
+   "Caracas@Point(-66.914444444 10.506111111)"
+  ],
+  "poblacion": "31250306",
+  "idiomas": [
+   "español",
+   "lengua de señas venezolana"
+  ],
+  "monedas": [
+   "bolívar soberano"
+  ]
+ },
+ {
+  "iso": "CG",
+  "qid": "Q971",
+  "nombre": "Congo",
+  "capitales": [
+   "Brazzaville@Point(15.271111111 -4.269444444)"
+  ],
+  "poblacion": "6142180",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "franco CFA de África Central"
+  ]
+ },
+ {
+  "iso": "GY",
+  "qid": "Q734",
+  "nombre": "Guyana",
+  "capitales": [
+   "Georgetown@Point(-58.150833333 6.805833333)"
+  ],
+  "poblacion": "878674",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "Dólar guyanés"
+  ]
+ },
+ {
+  "iso": "KZ",
+  "qid": "Q232",
+  "nombre": "Kazajistán",
+  "capitales": [
+   "Astaná@Point(71.433333333 51.133333333)"
+  ],
+  "poblacion": "20139914",
+  "idiomas": [
+   "ruso",
+   "kazajo"
+  ],
+  "monedas": [
+   "tenge kazajo"
+  ]
+ },
+ {
+  "iso": "KM",
+  "qid": "Q970",
+  "nombre": "Comoras",
+  "capitales": [
+   "Moroni@Point(43.253611111 -11.703611111)"
+  ],
+  "poblacion": "902348",
+  "idiomas": [
+   "francés",
+   "árabe",
+   "comorense"
+  ],
+  "monedas": [
+   "franco comorense"
+  ]
+ },
+ {
+  "iso": "MC",
+  "qid": "Q235",
+  "nombre": "Mónaco",
+  "capitales": [
+   "Mónaco@Point(7.42 43.731111111)"
+  ],
+  "poblacion": "38857",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "BB",
+  "qid": "Q244",
+  "nombre": "Barbados",
+  "capitales": [
+   "Bridgetown@Point(-59.616666666 13.0975)"
+  ],
+  "poblacion": "303431",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar de Barbados"
+  ]
+ },
+ {
+  "iso": "VA",
+  "qid": "Q237",
+  "nombre": "Ciudad del Vaticano",
+  "capitales": [
+   "Ciudad del Vaticano@Point(12.453 41.904)"
+  ],
+  "poblacion": "949",
+  "idiomas": [
+   "italiano",
+   "latín"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "SM",
+  "qid": "Q238",
+  "nombre": "San Marino",
+  "capitales": [
+   "San Marino@Point(12.44845 43.932011111)"
+  ],
+  "poblacion": "34167",
+  "idiomas": [
+   "italiano"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "BI",
+  "qid": "Q967",
+  "nombre": "Burundi",
+  "capitales": [
+   "Guitega@Point(29.925 -3.428333333)"
+  ],
+  "poblacion": "13689450",
+  "idiomas": [
+   "francés",
+   "inglés",
+   "kirundi"
+  ],
+  "monedas": [
+   "franco burundés"
+  ]
+ },
+ {
+  "iso": "TT",
+  "qid": "Q754",
+  "nombre": "Trinidad y Tobago",
+  "capitales": [
+   "Puerto España@Point(-61.516666666 10.666666666)"
+  ],
+  "poblacion": "1369125",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar trinitense"
+  ]
+ },
+ {
+  "iso": "DJ",
+  "qid": "Q977",
+  "nombre": "Yibuti",
+  "capitales": [
+   "Ciudad de Yibuti@Point(43.148055555 11.595)"
+  ],
+  "poblacion": "1152944",
+  "idiomas": [
+   "francés",
+   "árabe"
+  ],
+  "monedas": [
+   "franco yibutiano"
+  ]
+ },
+ {
+  "iso": "EC",
+  "qid": "Q736",
+  "nombre": "Ecuador",
+  "capitales": [
+   "Quito@Point(-78.5125 -0.22)"
+  ],
+  "poblacion": "16938986",
+  "idiomas": [
+   "español",
+   "shuar",
+   "quichua norteño"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "VC",
+  "qid": "Q757",
+  "nombre": "San Vicente y las Granadinas",
+  "capitales": [
+   "Kingstown@Point(-61.22742 13.15527)"
+  ],
+  "poblacion": "109296",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar del Caribe Oriental"
+  ]
+ },
+ {
+  "iso": "GQ",
+  "qid": "Q983",
+  "nombre": "Guinea Ecuatorial",
+  "capitales": [
+   "Ciudad de la Paz@Point(10.822222222 1.591666666)"
+  ],
+  "poblacion": "1847549",
+  "idiomas": [
+   "francés",
+   "español",
+   "portugués"
+  ],
+  "monedas": [
+   "franco CFA de África Central"
+  ]
+ },
+ {
+  "iso": "PY",
+  "qid": "Q733",
+  "nombre": "Paraguay",
+  "capitales": [
+   "Asunción@Point(-57.634444444 -25.28)"
+  ],
+  "poblacion": "6811297",
+  "idiomas": [
+   "español",
+   "guaraní"
+  ],
+  "monedas": [
+   "guaraní"
+  ]
+ },
+ {
+  "iso": "CO",
+  "qid": "Q739",
+  "nombre": "Colombia",
+  "capitales": [
+   "Bogotá@Point(-74.08175 4.60971)"
+  ],
+  "poblacion": "52321152",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "peso"
+  ]
+ },
+ {
+  "iso": "ER",
+  "qid": "Q986",
+  "nombre": "Eritrea",
+  "capitales": [
+   "Asmara@Point(38.916666666 15.333333333)"
+  ],
+  "poblacion": "3497000",
+  "idiomas": [
+   "inglés",
+   "árabe",
+   "idioma tigriña"
+  ],
+  "monedas": [
+   "nakfa"
+  ]
+ },
+ {
+  "iso": "BO",
+  "qid": "Q750",
+  "nombre": "Bolivia",
+  "capitales": [
+   "Sucre@Point(-65.26 -19.0475)",
+   "La Paz@Point(-68.133333333 -16.495833333)"
+  ],
+  "poblacion": "12244159",
+  "idiomas": [
+   "español",
+   "aymara",
+   "lenguas quechuas",
+   "guaraní"
+  ],
+  "monedas": [
+   "boliviano"
+  ]
+ },
+ {
+  "iso": "ID",
+  "qid": "Q252",
+  "nombre": "Indonesia",
+  "capitales": [
+   "Yakarta@Point(106.826944444 -6.175277777)"
+  ],
+  "poblacion": "275439000",
+  "idiomas": [
+   "indonesio"
+  ],
+  "monedas": [
+   "rupia indonesia"
+  ]
+ },
+ {
+  "iso": "CU",
+  "qid": "Q241",
+  "nombre": "Cuba",
+  "capitales": [
+   "La Habana@Point(-82.358888888 23.136666666)"
+  ],
+  "poblacion": "10985974",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "peso"
+  ]
+ },
+ {
+  "iso": "CD",
+  "qid": "Q974",
+  "nombre": "República Democrática del Congo",
+  "capitales": [
+   "Kinsasa@Point(15.311944444 -4.321944444)"
+  ],
+  "poblacion": "105789731",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "franco congoleño"
+  ]
+ },
+ {
+  "iso": "NC",
+  "qid": "Q33788",
+  "nombre": "Nueva Caledonia",
+  "capitales": [
+   "Numea@Point(166.45 -22.266666666)"
+  ],
+  "poblacion": "278500",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "Franco CFP"
+  ]
+ },
+ {
+  "iso": "BZ",
+  "qid": "Q242",
+  "nombre": "Belice",
+  "capitales": [
+   "Belmopán@Point(-88.7675 17.25)"
+  ],
+  "poblacion": "411106",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "Dólar beliceño"
+  ]
+ },
+ {
+  "iso": "CM",
+  "qid": "Q1009",
+  "nombre": "Camerún",
+  "capitales": [
+   "Yaundé@Point(11.518055555 3.857777777)"
+  ],
+  "poblacion": "28372687",
+  "idiomas": [
+   "francés",
+   "inglés"
+  ],
+  "monedas": [
+   "franco CFA de África Central"
+  ]
+ },
+ {
+  "iso": "PM",
+  "qid": "Q34617",
+  "nombre": "San Pedro y Miquelón",
+  "capitales": [
+   "San Pedro@Point(-56.177777777 46.777777777)"
+  ],
+  "poblacion": "5974",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "GW",
+  "qid": "Q1007",
+  "nombre": "Guinea-Bisáu",
+  "capitales": [
+   "Bisáu@Point(-15.583333333 11.86)"
+  ],
+  "poblacion": "1861283",
+  "idiomas": [
+   "portugués"
+  ],
+  "monedas": [
+   "franco CFA de África Occidental"
+  ]
+ },
+ {
+  "iso": "GD",
+  "qid": "Q769",
+  "nombre": "Granada",
+  "capitales": [
+   "Saint George@Point(-61.753055555 12.0525)"
+  ],
+  "poblacion": "114299",
+  "idiomas": [
+   "inglés",
+   "Inglés criollo granadino"
+  ],
+  "monedas": [
+   "dólar del Caribe Oriental"
+  ]
+ },
+ {
+  "iso": "AG",
+  "qid": "Q781",
+  "nombre": "Antigua y Barbuda",
+  "capitales": [
+   "Saint John@Point(-61.844722222 17.121111111)"
+  ],
+  "poblacion": "101489",
+  "idiomas": [
+   "español",
+   "inglés"
+  ],
+  "monedas": [
+   "dólar del Caribe Oriental"
+  ]
+ },
+ {
+  "iso": "CC",
+  "qid": "Q36004",
+  "nombre": "islas Cocos",
+  "capitales": [
+   "West Island@Point(96.828333333 -12.186944444)"
+  ],
+  "poblacion": "602",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar australiano"
+  ]
+ },
+ {
+  "iso": "GM",
+  "qid": "Q1005",
+  "nombre": "Gambia",
+  "capitales": [
+   "Banjul@Point(-16.5775 13.453055555)"
+  ],
+  "poblacion": "2639916",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dalasi"
+  ]
+ },
+ {
+  "iso": "PN",
+  "qid": "Q35672",
+  "nombre": "Islas Pitcairn",
+  "capitales": [
+   "Adamstown@Point(-130.1 -25.066666666)"
+  ],
+  "poblacion": "50",
+  "idiomas": [
+   "inglés",
+   "pitcairnés"
+  ],
+  "monedas": [
+   "dólar neozelandés"
+  ]
+ },
+ {
+  "iso": "WF",
+  "qid": "Q35555",
+  "nombre": "Wallis y Futuna",
+  "capitales": [
+   "Mata-Utu@Point(-176.1737 -13.2827)"
+  ],
+  "poblacion": "11558",
+  "idiomas": [
+   "francés",
+   "walisiano"
+  ],
+  "monedas": [
+   "Franco CFP"
+  ]
+ },
+ {
+  "iso": "CI",
+  "qid": "Q1008",
+  "nombre": "Costa de Marfil",
+  "capitales": [
+   "Yamusukro@Point(-5.274166666 6.816111111)"
+  ],
+  "poblacion": "31165654",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "franco CFA de África Occidental"
+  ]
+ },
+ {
+  "iso": "NU",
+  "qid": "Q34020",
+  "nombre": "Niue",
+  "capitales": [
+   "Alofi@Point(-169.921 -19.056)"
+  ],
+  "poblacion": "1821",
+  "idiomas": [
+   "inglés",
+   "Idioma niuano"
+  ],
+  "monedas": [
+   "Dólar de Niue",
+   "dólar neozelandés"
+  ]
+ },
+ {
+  "iso": "JM",
+  "qid": "Q766",
+  "nombre": "Jamaica",
+  "capitales": [
+   "Kingston@Point(-76.793055555 17.971388888)"
+  ],
+  "poblacion": "2697983",
+  "idiomas": [
+   "inglés",
+   "criollo jamaicano"
+  ],
+  "monedas": [
+   "Dólar jamaiquino"
+  ]
+ },
+ {
+  "iso": "LC",
+  "qid": "Q760",
+  "nombre": "Santa Lucía",
+  "capitales": [
+   "Castries@Point(-60.989444444 14.010833333)"
+  ],
+  "poblacion": "167591",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar del Caribe Oriental"
+  ]
+ },
+ {
+  "iso": "GA",
+  "qid": "Q1000",
+  "nombre": "Gabón",
+  "capitales": [
+   "Libreville@Point(9.440277777 0.407777777)"
+  ],
+  "poblacion": "2025137",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "franco CFA de África Central"
+  ]
+ },
+ {
+  "iso": "KN",
+  "qid": "Q763",
+  "nombre": "San Cristóbal y Nieves",
+  "capitales": [
+   "Basseterre@Point(-62.734166666 17.298333333)"
+  ],
+  "poblacion": "46922",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar del Caribe Oriental"
+  ]
+ },
+ {
+  "iso": "GN",
+  "qid": "Q1006",
+  "nombre": "Guinea",
+  "capitales": [
+   "Conakri@Point(-13.712222222 9.509166666)"
+  ],
+  "poblacion": "17521167",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "Franco guineano"
+  ]
+ },
+ {
+  "iso": "HN",
+  "qid": "Q783",
+  "nombre": "Honduras",
+  "capitales": [
+   "Tegucigalpa@Point(-87.204705555 14.105783333)"
+  ],
+  "poblacion": "8303771",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "lempira"
+  ]
+ },
+ {
+  "iso": "TK",
+  "qid": "Q36823",
+  "nombre": "Tokelau",
+  "capitales": [],
+  "poblacion": "1910",
+  "idiomas": [
+   "inglés",
+   "tokelauano"
+  ],
+  "monedas": [
+   "dólar neozelandés"
+  ]
+ },
+ {
+  "iso": "DM",
+  "qid": "Q784",
+  "nombre": "Dominica",
+  "capitales": [
+   "Roseau@Point(-61.383333333 15.3)"
+  ],
+  "poblacion": "74656",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar del Caribe Oriental"
+  ]
+ },
+ {
+  "iso": "LR",
+  "qid": "Q1014",
+  "nombre": "Liberia",
+  "capitales": [
+   "Monrovia@Point(-10.804722222 6.310555555)"
+  ],
+  "poblacion": "5214030",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar liberiano"
+  ]
+ },
+ {
+  "iso": "GT",
+  "qid": "Q774",
+  "nombre": "Guatemala",
+  "capitales": [
+   "Ciudad de Guatemala@Point(-90.513333333 14.641666666)"
+  ],
+  "poblacion": "17263239",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "Quetzal"
+  ]
+ },
+ {
+  "iso": "GS",
+  "qid": "Q35086",
+  "nombre": "Islas Georgias del Sur y Sandwich del Sur",
+  "capitales": [
+   "King Edward Point@Point(-36.48714 -54.282264)",
+   "King Edward Point@Point(-36.494181949 -54.283291411)"
+  ],
+  "poblacion": "35",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "libra esterlina"
+  ]
+ },
+ {
+  "iso": "LY",
+  "qid": "Q1016",
+  "nombre": "Libia",
+  "capitales": [
+   "Trípoli@Point(13.1875 32.8875)"
+  ],
+  "poblacion": "7381023",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "dinar libio"
+  ]
+ },
+ {
+  "iso": "BS",
+  "qid": "Q778",
+  "nombre": "Bahamas",
+  "capitales": [
+   "Nasáu@Point(-77.338611111 25.078055555)"
+  ],
+  "poblacion": "399440",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar bahameño"
+  ]
+ },
+ {
+  "iso": "IO",
+  "qid": "Q43448",
+  "nombre": "Territorio Británico del Océano Índico",
+  "capitales": [
+   "Diego García@Point(72.411111111 -7.313333333)"
+  ],
+  "poblacion": "3000",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "libra esterlina",
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "MG",
+  "qid": "Q1019",
+  "nombre": "Madagascar",
+  "capitales": [
+   "Antananarivo@Point(47.525 -18.91)"
+  ],
+  "poblacion": "31964956",
+  "idiomas": [
+   "francés",
+   "malgache"
+  ],
+  "monedas": [
+   "ariary"
+  ]
+ },
+ {
+  "iso": "SV",
+  "qid": "Q792",
+  "nombre": "El Salvador",
+  "capitales": [
+   "San Salvador@Point(-89.191155555 13.697597222)"
+  ],
+  "poblacion": "6029976",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "Bitcoin",
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "CV",
+  "qid": "Q1011",
+  "nombre": "Cabo Verde",
+  "capitales": [
+   "Praia@Point(-23.509155555 14.917719444)"
+  ],
+  "poblacion": "555988",
+  "idiomas": [
+   "portugués",
+   "criollo caboverdiano"
+  ],
+  "monedas": [
+   "escudo caboverdiano"
+  ]
+ },
+ {
+  "iso": "DO",
+  "qid": "Q786",
+  "nombre": "República Dominicana",
+  "capitales": [
+   "Santo Domingo@Point(-69.936111111 18.4625)"
+  ],
+  "poblacion": "10760028",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "peso dominicano"
+  ]
+ },
+ {
+  "iso": "CR",
+  "qid": "Q800",
+  "nombre": "Costa Rica",
+  "capitales": [
+   "San José@Point(-84.079613888 9.932738888)"
+  ],
+  "poblacion": "5265575",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "colón costarricense"
+  ]
+ },
+ {
+  "iso": "IL",
+  "qid": "Q801",
+  "nombre": "Israel",
+  "capitales": [
+   "Jerusalén@Point(35.234156 31.776679)"
+  ],
+  "poblacion": "9840000",
+  "idiomas": [
+   "hebreo"
+  ],
+  "monedas": [
+   "nuevo séquel"
+  ]
+ },
+ {
+  "iso": "PA",
+  "qid": "Q804",
+  "nombre": "Panamá",
+  "capitales": [
+   "Ciudad de Panamá@Point(-79.534722222 8.971111111)"
+  ],
+  "poblacion": "4570133",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "balboa",
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "MU",
+  "qid": "Q1027",
+  "nombre": "Mauricio",
+  "capitales": [
+   "Port Louis@Point(57.498888888 -20.161944444)"
+  ],
+  "poblacion": "1264613",
+  "idiomas": [
+   "francés",
+   "inglés"
+  ],
+  "monedas": [
+   "rupia mauricia"
+  ]
+ },
+ {
+  "iso": "MW",
+  "qid": "Q1020",
+  "nombre": "Malaui",
+  "capitales": [
+   "Lilongüe@Point(33.768055555 -13.986388888)"
+  ],
+  "poblacion": "17563749",
+  "idiomas": [
+   "inglés",
+   "chichewa",
+   "Idioma tumbuka"
+  ],
+  "monedas": [
+   "kuacha malauí"
+  ]
+ },
+ {
+  "iso": "HT",
+  "qid": "Q790",
+  "nombre": "Haití",
+  "capitales": [
+   "Puerto Príncipe@Point(-72.340277777 18.546944444)"
+  ],
+  "poblacion": "10981229",
+  "idiomas": [
+   "francés",
+   "criollo haitiano"
+  ],
+  "monedas": [
+   "gourde"
+  ]
+ },
+ {
+  "iso": "IQ",
+  "qid": "Q796",
+  "nombre": "Irak",
+  "capitales": [
+   "Bagdad@Point(44.366111111 33.315277777)"
+  ],
+  "poblacion": "38274618",
+  "idiomas": [
+   "árabe",
+   "kurdo"
+  ],
+  "monedas": [
+   "dinar iraquí"
+  ]
+ },
+ {
+  "iso": "MR",
+  "qid": "Q1025",
+  "nombre": "Mauritania",
+  "capitales": [
+   "Nuakchot@Point(-15.9785 18.08581)"
+  ],
+  "poblacion": "4736139",
+  "idiomas": [
+   "francés",
+   "árabe"
+  ],
+  "monedas": [
+   "uguiya"
+  ]
+ },
+ {
+  "iso": "NA",
+  "qid": "Q1030",
+  "nombre": "Namibia",
+  "capitales": [
+   "Windhoek@Point(17.083611111 -22.57)"
+  ],
+  "poblacion": "2533794",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar namibio",
+   "rand sudafricano"
+  ]
+ },
+ {
+  "iso": "YE",
+  "qid": "Q805",
+  "nombre": "Yemen",
+  "capitales": [
+   "Adén@Point(45.033333333 12.8)",
+   "Saná@Point(44.2 15.35)"
+  ],
+  "poblacion": "28250420",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "rial yemení"
+  ]
+ },
+ {
+  "iso": "LS",
+  "qid": "Q1013",
+  "nombre": "Lesoto",
+  "capitales": [
+   "Maseru@Point(27.48 -29.31)"
+  ],
+  "poblacion": "2007201",
+  "idiomas": [
+   "inglés",
+   "sesotho"
+  ],
+  "monedas": [
+   "Loti",
+   "rand sudafricano"
+  ]
+ },
+ {
+  "iso": "IR",
+  "qid": "Q794",
+  "nombre": "Irán",
+  "capitales": [
+   "Teherán@Point(51.389722222 35.688888888)"
+  ],
+  "poblacion": "92417700",
+  "idiomas": [
+   "persa"
+  ],
+  "monedas": [
+   "rial iraní"
+  ]
+ },
+ {
+  "iso": "NI",
+  "qid": "Q811",
+  "nombre": "Nicaragua",
+  "capitales": [
+   "Managua@Point(-86.273725 12.154680555)"
+  ],
+  "poblacion": "5142098",
+  "idiomas": [
+   "español"
+  ],
+  "monedas": [
+   "córdoba"
+  ]
+ },
+ {
+  "iso": "KG",
+  "qid": "Q813",
+  "nombre": "Kirguistán",
+  "capitales": [
+   "Biskek@Point(74.566666666 42.866666666)"
+  ],
+  "poblacion": "7281800",
+  "idiomas": [
+   "kirguís"
+  ],
+  "monedas": [
+   "som kirguís"
+  ]
+ },
+ {
+  "iso": "JO",
+  "qid": "Q810",
+  "nombre": "Jordania",
+  "capitales": [
+   "Amán@Point(35.933333333 31.95)",
+   "Amán@Point(35.926084 31.930983)"
+  ],
+  "poblacion": "10428241",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "dinar jordano"
+  ]
+ },
+ {
+  "iso": "KW",
+  "qid": "Q817",
+  "nombre": "Kuwait",
+  "capitales": [
+   "Ciudad de Kuwait@Point(47.98 29.375)"
+  ],
+  "poblacion": "4464000",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "dinar kuwaití"
+  ]
+ },
+ {
+  "iso": "UG",
+  "qid": "Q1036",
+  "nombre": "Uganda",
+  "capitales": [
+   "Kampala@Point(32.581111111 0.313611111)"
+  ],
+  "poblacion": "47123531",
+  "idiomas": [
+   "inglés",
+   "suajili"
+  ],
+  "monedas": [
+   "chelín ugandés"
+  ]
+ },
+ {
+  "iso": "LA",
+  "qid": "Q819",
+  "nombre": "Laos",
+  "capitales": [
+   "Vientián@Point(102.63 17.98)"
+  ],
+  "poblacion": "6858160",
+  "idiomas": [
+   "lao"
+  ],
+  "monedas": [
+   "kip laosiano"
+  ]
+ },
+ {
+  "iso": "NG",
+  "qid": "Q1033",
+  "nombre": "Nigeria",
+  "capitales": [
+   "Abuya@Point(7.491388888 9.055555555)"
+  ],
+  "poblacion": "211400708",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "naira"
+  ]
+ },
+ {
+  "iso": "MA",
+  "qid": "Q1028",
+  "nombre": "Marruecos",
+  "capitales": [
+   "Rabat@Point(-6.841388888 34.021111111)"
+  ],
+  "poblacion": "36828330",
+  "idiomas": [
+   "árabe",
+   "Amazig estándar marroquí"
+  ],
+  "monedas": [
+   "dírham marroquí"
+  ]
+ },
+ {
+  "iso": "LB",
+  "qid": "Q822",
+  "nombre": "Líbano",
+  "capitales": [
+   "Beirut@Point(35.513055555 33.886944444)"
+  ],
+  "poblacion": "6100075",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "libra libanesa"
+  ]
+ },
+ {
+  "iso": "NE",
+  "qid": "Q1032",
+  "nombre": "Níger",
+  "capitales": [
+   "Niamey@Point(2.1175 13.515)"
+  ],
+  "poblacion": "21477348",
+  "idiomas": [
+   "hausa"
+  ],
+  "monedas": [
+   "franco CFA de África Occidental"
+  ]
+ },
+ {
+  "iso": "OM",
+  "qid": "Q842",
+  "nombre": "Omán",
+  "capitales": [
+   "Mascate@Point(58.592222222 23.613888888)"
+  ],
+  "poblacion": "4829480",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "Rial omaní"
+  ]
+ },
+ {
+  "iso": "RW",
+  "qid": "Q1037",
+  "nombre": "Ruanda",
+  "capitales": [
+   "Kigali@Point(30.115 -1.9525)"
+  ],
+  "poblacion": "14569341",
+  "idiomas": [
+   "francés",
+   "inglés",
+   "suajili",
+   "kiñaruanda"
+  ],
+  "monedas": [
+   "franco ruandés"
+  ]
+ },
+ {
+  "iso": "ST",
+  "qid": "Q1039",
+  "nombre": "Santo Tomé y Príncipe",
+  "capitales": [
+   "Santo Tomé@Point(6.728333333 0.3375)"
+  ],
+  "poblacion": "204327",
+  "idiomas": [
+   "portugués"
+  ],
+  "monedas": [
+   "dobra santotomense"
+  ]
+ },
+ {
+  "iso": "NP",
+  "qid": "Q837",
+  "nombre": "Nepal",
+  "capitales": [
+   "Katmandú@Point(85.32 27.71)"
+  ],
+  "poblacion": "29164578",
+  "idiomas": [
+   "nepalí"
+  ],
+  "monedas": [
+   "rupia nepalí"
+  ]
+ },
+ {
+  "iso": "SN",
+  "qid": "Q1041",
+  "nombre": "Senegal",
+  "capitales": [
+   "Dakar@Point(-17.432 14.672555555)"
+  ],
+  "poblacion": "16876720",
+  "idiomas": [
+   "francés",
+   "wólof",
+   "Lenguaje Balanta",
+   "Badyara"
+  ],
+  "monedas": [
+   "franco CFA de África Occidental"
+  ]
+ },
+ {
+  "iso": "PK",
+  "qid": "Q843",
+  "nombre": "Pakistán",
+  "capitales": [
+   "Islamabad@Point(73.036944444 33.698888888)"
+  ],
+  "poblacion": "223773700",
+  "idiomas": [
+   "inglés",
+   "urdu"
+  ],
+  "monedas": [
+   "rupia pakistaní"
+  ]
+ },
+ {
+  "iso": "QA",
+  "qid": "Q846",
+  "nombre": "Catar",
+  "capitales": [
+   "Doha@Point(51.529444444 25.286111111)"
+  ],
+  "poblacion": "2639211",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "riyal catarí"
+  ]
+ },
+ {
+  "iso": "MM",
+  "qid": "Q836",
+  "nombre": "Birmania",
+  "capitales": [
+   "Naipyidó@Point(96.115 19.7475)"
+  ],
+  "poblacion": "53370609",
+  "idiomas": [
+   "idioma birmano"
+  ],
+  "monedas": [
+   "Kyat birmano"
+  ]
+ },
+ {
+  "iso": "SA",
+  "qid": "Q851",
+  "nombre": "Arabia Saudí",
+  "capitales": [
+   "Riad@Point(46.715 24.638333333)"
+  ],
+  "poblacion": "33000000",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "riyal saudí"
+  ]
+ },
+ {
+  "iso": "SC",
+  "qid": "Q1042",
+  "nombre": "Seychelles",
+  "capitales": [
+   "Victoria@Point(55.454444444 -4.623611111)"
+  ],
+  "poblacion": "119773",
+  "idiomas": [
+   "francés",
+   "inglés",
+   "criollo seychelense"
+  ],
+  "monedas": [
+   "rupia seychelense"
+  ]
+ },
+ {
+  "iso": "MV",
+  "qid": "Q826",
+  "nombre": "Maldivas",
+  "capitales": [
+   "Malé@Point(73.508333333 4.175)"
+  ],
+  "poblacion": "436330",
+  "idiomas": [
+   "maldivo"
+  ],
+  "monedas": [
+   "rupia maldiva"
+  ]
+ },
+ {
+  "iso": "SL",
+  "qid": "Q1044",
+  "nombre": "Sierra Leona",
+  "capitales": [
+   "Freetown@Point(-13.235555555 8.487222222)"
+  ],
+  "poblacion": "7557212",
+  "idiomas": [
+   "inglés",
+   "Criollo sierraleonés"
+  ],
+  "monedas": [
+   "leone"
+  ]
+ },
+ {
+  "iso": "MZ",
+  "qid": "Q1029",
+  "nombre": "Mozambique",
+  "capitales": [
+   "Maputo@Point(32.573333333 -25.968888888)"
+  ],
+  "poblacion": "29668834",
+  "idiomas": [
+   "portugués"
+  ],
+  "monedas": [
+   "Metical mozambiqueño"
+  ]
+ },
+ {
+  "iso": "SO",
+  "qid": "Q1045",
+  "nombre": "Somalia",
+  "capitales": [
+   "Mogadiscio@Point(45.341944444 2.039166666)"
+  ],
+  "poblacion": "11031386",
+  "idiomas": [
+   "somalí",
+   "árabe"
+  ],
+  "monedas": [
+   "chelín somalí"
+  ]
+ },
+ {
+  "iso": "MY",
+  "qid": "Q833",
+  "nombre": "Malasia",
+  "capitales": [
+   "Kuala Lumpur@Point(101.695277777 3.147777777)"
+  ],
+  "poblacion": "34231700",
+  "idiomas": [
+   "malayo"
+  ],
+  "monedas": [
+   "ringgit"
+  ]
+ },
+ {
+  "iso": "TJ",
+  "qid": "Q863",
+  "nombre": "Tayikistán",
+  "capitales": [
+   "Dusambé@Point(68.786388888 38.573055555)"
+  ],
+  "poblacion": "9504000",
+  "idiomas": [
+   "tayiko"
+  ],
+  "monedas": [
+   "somoni tayiko"
+  ]
+ },
+ {
+  "iso": "LK",
+  "qid": "Q854",
+  "nombre": "Sri Lanka",
+  "capitales": [
+   "Sri Jayawardenapura Kotte@Point(79.916388888 6.9)",
+   "Colombo@Point(79.860555555 6.926666666)"
+  ],
+  "poblacion": "21444000",
+  "idiomas": [
+   "tamil",
+   "cingalés"
+  ],
+  "monedas": [
+   "rupia esrilanquesa"
+  ]
+ },
+ {
+  "iso": "KR",
+  "qid": "Q884",
+  "nombre": "Corea del Sur",
+  "capitales": [
+   "Seúl@Point(126.99 37.56)"
+  ],
+  "poblacion": "51466201",
+  "idiomas": [
+   "coreano",
+   "lengua de señas coreana"
+  ],
+  "monedas": [
+   "mun coreano",
+   "won surcoreano"
+  ]
+ },
+ {
+  "iso": "TW",
+  "qid": "Q865",
+  "nombre": "República de China",
+  "capitales": [
+   "Taipéi@Point(121.5625 25.0375)"
+  ],
+  "poblacion": "23317031",
+  "idiomas": [
+   "taiwanés",
+   "rukai",
+   "idioma amis",
+   "lengua de señas taiwanesa",
+   "idioma kanakanabu",
+   "Idioma paiwan",
+   "Lengua yami",
+   "Idioma bunun",
+   "Idioma sakizaya",
+   "lengua atayal",
+   "Idioma saaroa",
+   "mandarín taiwanés",
+   "Idioma kavalan",
+   "Idioma tsou",
+   "Idioma seediq",
+   "Hakka taiwanés",
+   "Idioma puyuma",
+   "Idioma saisiyat"
+  ],
+  "monedas": [
+   "nuevo dólar taiwanés"
+  ]
+ },
+ {
+  "iso": "TH",
+  "qid": "Q869",
+  "nombre": "Tailandia",
+  "capitales": [
+   "Bangkok@Point(100.516666666 13.75)"
+  ],
+  "poblacion": "66188503",
+  "idiomas": [
+   "tailandés"
+  ],
+  "monedas": [
+   "baht tailandés"
+  ]
+ },
+ {
+  "iso": "SZ",
+  "qid": "Q1050",
+  "nombre": "Suazilandia",
+  "capitales": [
+   "Lobamba@Point(31.206411 -26.44648)",
+   "Mbabane@Point(31.133333333 -26.316666666)"
+  ],
+  "poblacion": "1230506",
+  "idiomas": [
+   "inglés",
+   "suazi"
+  ],
+  "monedas": [
+   "lilangeni"
+  ]
+ },
+ {
+  "iso": "SY",
+  "qid": "Q858",
+  "nombre": "Siria",
+  "capitales": [
+   "Damasco@Point(36.291944444 33.513055555)",
+   "Damasco@Point(36.292 33.513)"
+  ],
+  "poblacion": "23865423",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "libra siria"
+  ]
+ },
+ {
+  "iso": "HK",
+  "qid": "Q8646",
+  "nombre": "Hong Kong",
+  "capitales": [],
+  "poblacion": "7413070",
+  "idiomas": [
+   "mandarín estándar"
+  ],
+  "monedas": [
+   "dólar de Hong Kong"
+  ]
+ },
+ {
+  "iso": "SD",
+  "qid": "Q1049",
+  "nombre": "Sudán",
+  "capitales": [
+   "Jartum@Point(32.52654 15.60308)"
+  ],
+  "poblacion": "40533330",
+  "idiomas": [
+   "inglés",
+   "árabe"
+  ],
+  "monedas": [
+   "libra sudanesa"
+  ]
+ },
+ {
+  "iso": "GI",
+  "qid": "Q1410",
+  "nombre": "Gibraltar",
+  "capitales": [
+   "Gibraltar@Point(-5.35 36.14)"
+  ],
+  "poblacion": "34003",
+  "idiomas": [
+   "inglés británico"
+  ],
+  "monedas": [
+   "libra gibraltareña"
+  ]
+ },
+ {
+  "iso": "TM",
+  "qid": "Q874",
+  "nombre": "Turkmenistán",
+  "capitales": [
+   "Asjabad@Point(58.383333333 37.95)"
+  ],
+  "poblacion": "6117933",
+  "idiomas": [
+   "turcomano"
+  ],
+  "monedas": [
+   "manat turkmeno"
+  ]
+ },
+ {
+  "iso": "KY",
+  "qid": "Q5785",
+  "nombre": "Islas Caimán",
+  "capitales": [
+   "George Town@Point(-81.381666666 19.296388888)"
+  ],
+  "poblacion": "88833",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "Dólar caimanés"
+  ]
+ },
+ {
+  "iso": "PR",
+  "qid": "Q1183",
+  "nombre": "Puerto Rico",
+  "capitales": [
+   "San Juan@Point(-66.116666666 18.465277777)"
+  ],
+  "poblacion": "3285874",
+  "idiomas": [
+   "español",
+   "inglés"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "EH",
+  "qid": "Q6250",
+  "nombre": "Sahara Occidental",
+  "capitales": [],
+  "poblacion": "612000",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "dírham marroquí"
+  ]
+ },
+ {
+  "iso": "AF",
+  "qid": "Q889",
+  "nombre": "Afganistán",
+  "capitales": [
+   "Kabul@Point(69.165833333 34.532777777)"
+  ],
+  "poblacion": "41454761",
+  "idiomas": [
+   "turcomano",
+   "uzbeko",
+   "árabe",
+   "baluchi",
+   "Pashayi",
+   "pastún",
+   "Lenguas nuristaníes",
+   "dari",
+   "Lenguas pamir"
+  ],
+  "monedas": [
+   "afgani afgano"
+  ]
+ },
+ {
+  "iso": "XK",
+  "qid": "Q1246",
+  "nombre": "Kosovo",
+  "capitales": [
+   "Pristina@Point(21.166666666 42.666666666)"
+  ],
+  "poblacion": "1586659",
+  "idiomas": [
+   "serbio",
+   "albanés"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "BD",
+  "qid": "Q902",
+  "nombre": "Bangladés",
+  "capitales": [
+   "Daca@Point(90.394444444 23.728888888)"
+  ],
+  "poblacion": "171466990",
+  "idiomas": [
+   "bengalí"
+  ],
+  "monedas": [
+   "taka bangladesí"
+  ]
+ },
+ {
+  "iso": "GF",
+  "qid": "Q3769",
+  "nombre": "Guayana Francesa",
+  "capitales": [
+   "Cayena@Point(-52.335 4.938611111)"
+  ],
+  "poblacion": "293996",
+  "idiomas": [
+   "francés",
+   "Criollo de Guayana Francesa"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "FO",
+  "qid": "Q4628",
+  "nombre": "Islas Feroe",
+  "capitales": [
+   "Tórshavn@Point(-6.77135 62.00981)"
+  ],
+  "poblacion": "54149",
+  "idiomas": [
+   "danés",
+   "feroés"
+  ],
+  "monedas": [
+   "corona feroesa"
+  ]
+ },
+ {
+  "iso": "BT",
+  "qid": "Q917",
+  "nombre": "Bután",
+  "capitales": [
+   "Timbu@Point(89.63367 27.47135)"
+  ],
+  "poblacion": "787424",
+  "idiomas": [
+   "idioma dzongkha"
+  ],
+  "monedas": [
+   "ngultrum butanés"
+  ]
+ },
+ {
+  "iso": "BN",
+  "qid": "Q921",
+  "nombre": "Brunéi",
+  "capitales": [
+   "Bandar Seri Begawan@Point(114.916666666 4.916666666)"
+  ],
+  "poblacion": "458949",
+  "idiomas": [
+   "inglés británico",
+   "malayo"
+  ],
+  "monedas": [
+   "dólar de Brunéi"
+  ]
+ },
+ {
+  "iso": "AE",
+  "qid": "Q878",
+  "nombre": "Emiratos Árabes Unidos",
+  "capitales": [
+   "Abu Dhabi@Point(54.396944444 24.451111111)"
+  ],
+  "poblacion": "9890400",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "dírham de los Emiratos Árabes Unidos"
+  ]
+ },
+ {
+  "iso": "GU",
+  "qid": "Q16635",
+  "nombre": "Guam",
+  "capitales": [
+   "Agaña@Point(144.75 13.483333333)"
+  ],
+  "poblacion": "153836",
+  "idiomas": [
+   "inglés",
+   "idioma chamorro"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "IM",
+  "qid": "Q9676",
+  "nombre": "Isla de Man",
+  "capitales": [
+   "Douglas@Point(-4.4775 54.15)"
+  ],
+  "poblacion": "84523",
+  "idiomas": [
+   "inglés",
+   "manés"
+  ],
+  "monedas": [
+   "libra manesa"
+  ]
+ },
+ {
+  "iso": "VI",
+  "qid": "Q11703",
+  "nombre": "Islas Vírgenes de los Estados Unidos",
+  "capitales": [
+   "Charlotte Amalie@Point(-64.95 18.35)"
+  ],
+  "poblacion": "87146",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "MO",
+  "qid": "Q14773",
+  "nombre": "Macao",
+  "capitales": [],
+  "poblacion": "682100",
+  "idiomas": [
+   "portugués",
+   "cantonés",
+   "mandarín estándar"
+  ],
+  "monedas": [
+   "pataca macaense",
+   "dólar de Hong Kong"
+  ]
+ },
+ {
+  "iso": "ML",
+  "qid": "Q912",
+  "nombre": "Mali",
+  "capitales": [
+   "Bamako@Point(-7.992222222 12.645833333)"
+  ],
+  "poblacion": "22395489",
+  "idiomas": [
+   "bambara",
+   "fula",
+   "lenguas senufo",
+   "Idioma soninké",
+   "hassanía",
+   "Lenguas dogón",
+   "Lenguas songhay",
+   "Idioma tamashek"
+  ],
+  "monedas": [
+   "franco CFA de África Occidental"
+  ]
+ },
+ {
+  "iso": "AS",
+  "qid": "Q16641",
+  "nombre": "Samoa Americana",
+  "capitales": [
+   "Pago Pago@Point(-170.700555555 -14.279444444)"
+  ],
+  "poblacion": "49710",
+  "idiomas": [
+   "inglés",
+   "samoano"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "FK",
+  "qid": "Q9648",
+  "nombre": "Islas Malvinas",
+  "capitales": [
+   "Puerto Argentino@Point(-57.849556 -51.693861)"
+  ],
+  "poblacion": "3662",
+  "idiomas": [
+   "inglés británico"
+  ],
+  "monedas": [
+   "libra malvinense"
+  ]
+ },
+ {
+  "iso": "VN",
+  "qid": "Q881",
+  "nombre": "Vietnam",
+  "capitales": [
+   "Hanói@Point(105.84117 21.0245)"
+  ],
+  "poblacion": "96208984",
+  "idiomas": [
+   "vietnamita"
+  ],
+  "monedas": [
+   "đồng vietnamita"
+  ]
+ },
+ {
+  "iso": "SH",
+  "qid": "Q192184",
+  "nombre": "Santa Elena, Ascensión y Tristán de Acuña",
+  "capitales": [
+   "Jamestown@Point(-5.717916666 -15.925138888)"
+  ],
+  "poblacion": "5633",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "libra de Santa Elena",
+   "libra esterlina"
+  ]
+ },
+ {
+  "iso": "TZ",
+  "qid": "Q924",
+  "nombre": "Tanzania",
+  "capitales": [
+   "Dodoma@Point(35.746 -6.1835)"
+  ],
+  "poblacion": "57310019",
+  "idiomas": [
+   "inglés",
+   "suajili"
+  ],
+  "monedas": [
+   "chelín tanzano"
+  ]
+ },
+ {
+  "iso": "AX",
+  "qid": "Q5689",
+  "nombre": "Åland",
+  "capitales": [
+   "Mariehamn@Point(19.94444444 60.09861111)"
+  ],
+  "poblacion": "30836",
+  "idiomas": [
+   "sueco"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "MP",
+  "qid": "Q16644",
+  "nombre": "Islas Marianas del Norte",
+  "capitales": [],
+  "poblacion": "47329",
+  "idiomas": [
+   "inglés",
+   "carolinio",
+   "idioma chamorro"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "MS",
+  "qid": "Q13353",
+  "nombre": "Montserrat",
+  "capitales": [
+   "Plymouth@Point(-62.215838888 16.706416666)",
+   "Brades@Point(-62.210555555 16.792777777)"
+  ],
+  "poblacion": "5440",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar del Caribe Oriental"
+  ]
+ },
+ {
+  "iso": "AO",
+  "qid": "Q916",
+  "nombre": "Angola",
+  "capitales": [
+   "Luanda@Point(13.23 -8.815)"
+  ],
+  "poblacion": "36749906",
+  "idiomas": [
+   "portugués"
+  ],
+  "monedas": [
+   "Kwanza angoleño"
+  ]
+ },
+ {
+  "iso": "GG",
+  "qid": "Q25230",
+  "nombre": "Guernsey",
+  "capitales": [
+   "Saint Peter Port@Point(-2.55194 49.46)"
+  ],
+  "poblacion": "67787",
+  "idiomas": [
+   "francés",
+   "inglés"
+  ],
+  "monedas": [
+   "libra de Guernsey",
+   "libra esterlina"
+  ]
+ },
+ {
+  "iso": "CK",
+  "qid": "Q26988",
+  "nombre": "Islas Cook",
+  "capitales": [
+   "Avarua@Point(-159.771 -21.207)"
+  ],
+  "poblacion": "14222",
+  "idiomas": [
+   "inglés",
+   "Idioma rarotongano"
+  ],
+  "monedas": [
+   "dólar neozelandés",
+   "dólar de las Islas Cook"
+  ]
+ },
+ {
+  "iso": "UM",
+  "qid": "Q16645",
+  "nombre": "Islas ultramarinas de Estados Unidos",
+  "capitales": [],
+  "poblacion": "190",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "AW",
+  "qid": "Q21203",
+  "nombre": "Aruba",
+  "capitales": [
+   "Oranjestad@Point(-70.035833333 12.518611111)"
+  ],
+  "poblacion": "106739",
+  "idiomas": [
+   "neerlandés",
+   "papiamento"
+  ],
+  "monedas": [
+   "florín arubeño"
+  ]
+ },
+ {
+  "iso": "PS",
+  "qid": "Q219060",
+  "nombre": "Palestina",
+  "capitales": [
+   "Jerusalén Este@Point(35.23388 31.78336)",
+   "Ramala@Point(35.201666666 31.896944444)"
+  ],
+  "poblacion": "5227193",
+  "idiomas": [
+   "árabe"
+  ],
+  "monedas": [
+   "nuevo séquel"
+  ]
+ },
+ {
+  "iso": "CY",
+  "qid": "Q644636",
+  "nombre": "Isla de Chipre",
+  "capitales": [
+   "Nicosia@Point(33.365 35.1725)"
+  ],
+  "poblacion": "1120489",
+  "idiomas": [
+   "turco",
+   "griego"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "SJ",
+  "qid": "Q842829",
+  "nombre": "Svalbard y Jan Mayen",
+  "capitales": [],
+  "poblacion": "2905",
+  "idiomas": [
+   "noruego"
+  ],
+  "monedas": [
+   "corona noruega"
+  ]
+ },
+ {
+  "iso": "PH",
+  "qid": "Q928",
+  "nombre": "Filipinas",
+  "capitales": [
+   "Manila@Point(120.977222222 14.595833333)"
+  ],
+  "poblacion": "112729484",
+  "idiomas": [
+   "inglés",
+   "idioma filipino",
+   "Taglish"
+  ],
+  "monedas": [
+   "peso filipino"
+  ]
+ },
+ {
+  "iso": "BQ",
+  "qid": "Q27561",
+  "nombre": "Caribe neerlandés",
+  "capitales": [],
+  "poblacion": "29418",
+  "idiomas": [
+   "inglés",
+   "neerlandés",
+   "papiamento"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "TG",
+  "qid": "Q945",
+  "nombre": "Togo",
+  "capitales": [
+   "Lomé@Point(1.215833333 6.13)"
+  ],
+  "poblacion": "7797694",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "franco CFA de África Occidental"
+  ]
+ },
+ {
+  "iso": "BV",
+  "qid": "Q23408",
+  "nombre": "Isla Bouvet",
+  "capitales": [],
+  "poblacion": "0",
+  "idiomas": [],
+  "monedas": []
+ },
+ {
+  "iso": "AQ",
+  "qid": "Q10372207",
+  "nombre": "Región del Tratado Antártico",
+  "capitales": [],
+  "poblacion": "4400",
+  "idiomas": [],
+  "monedas": []
+ },
+ {
+  "iso": "NL",
+  "qid": "Q29999",
+  "nombre": "Reino de los Países Bajos",
+  "capitales": [
+   "Ámsterdam@Point(4.883333333 52.366666666)"
+  ],
+  "poblacion": "17100715",
+  "idiomas": [
+   "neerlandés"
+  ],
+  "monedas": [
+   "florín caribeño",
+   "florín arubeño",
+   "dólar estadounidense",
+   "Euro"
+  ]
+ },
+ {
+  "iso": "BL",
+  "qid": "Q25362",
+  "nombre": "San Bartolomé",
+  "capitales": [
+   "Gustavia@Point(-62.849166666 17.898611111)"
+  ],
+  "poblacion": "10124",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "TF",
+  "qid": "Q129003",
+  "nombre": "Tierras Australes y Antárticas Francesas",
+  "capitales": [
+   "Port-aux-Français@Point(70.216666666 -49.35)"
+  ],
+  "poblacion": "196",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "AI",
+  "qid": "Q25228",
+  "nombre": "Anguila",
+  "capitales": [
+   "El Valle@Point(-63.051666666 18.220833333)"
+  ],
+  "poblacion": "16293",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar del Caribe Oriental"
+  ]
+ },
+ {
+  "iso": "BM",
+  "qid": "Q23635",
+  "nombre": "Bermudas",
+  "capitales": [
+   "Hamilton@Point(-64.783055555 32.295)"
+  ],
+  "poblacion": "65636",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "Dólar bermudeño"
+  ]
+ },
+ {
+  "iso": "RE",
+  "qid": "Q17070",
+  "nombre": "Reunión",
+  "capitales": [
+   "Saint-Denis@Point(55.448055555 -20.878888888)"
+  ],
+  "poblacion": "889679",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "CF",
+  "qid": "Q929",
+  "nombre": "República Centroafricana",
+  "capitales": [
+   "Bangui@Point(18.562833333 4.37325)"
+  ],
+  "poblacion": "5152421",
+  "idiomas": [
+   "francés",
+   "idioma sango"
+  ],
+  "monedas": [
+   "franco CFA de África Central"
+  ]
+ },
+ {
+  "iso": "MQ",
+  "qid": "Q17054",
+  "nombre": "Martinica",
+  "capitales": [
+   "Fort-de-France@Point(-61.066666666 14.6)"
+  ],
+  "poblacion": "360630",
+  "idiomas": [],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "PF",
+  "qid": "Q30971",
+  "nombre": "Polinesia Francesa",
+  "capitales": [
+   "Papeete@Point(-149.568888888 -17.539722222)"
+  ],
+  "poblacion": "278786",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "Franco CFP"
+  ]
+ },
+ {
+  "iso": "CW",
+  "qid": "Q25279",
+  "nombre": "Curazao",
+  "capitales": [
+   "Willemstad@Point(-68.935 12.108)"
+  ],
+  "poblacion": "152849",
+  "idiomas": [
+   "inglés",
+   "neerlandés",
+   "papiamento"
+  ],
+  "monedas": [
+   "florín caribeño"
+  ]
+ },
+ {
+  "iso": "HM",
+  "qid": "Q131198",
+  "nombre": "Islas Heard y McDonald",
+  "capitales": [],
+  "poblacion": "0",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": []
+ },
+ {
+  "iso": "GP",
+  "qid": "Q17012",
+  "nombre": "Guadalupe",
+  "capitales": [
+   "Basse-Terre@Point(-61.732777777 15.996944444)"
+  ],
+  "poblacion": "384160",
+  "idiomas": [],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "CX",
+  "qid": "Q31063",
+  "nombre": "Isla de Navidad",
+  "capitales": [
+   "Flying Fish Cove@Point(105.678055555 -10.421666666)"
+  ],
+  "poblacion": "1692",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar australiano"
+  ]
+ },
+ {
+  "iso": "NF",
+  "qid": "Q31057",
+  "nombre": "Isla Norfolk",
+  "capitales": [
+   "Kingston@Point(167.966666666 -29.05)"
+  ],
+  "poblacion": "2188",
+  "idiomas": [
+   "inglés",
+   "norfolkense"
+  ],
+  "monedas": [
+   "dólar australiano"
+  ]
+ },
+ {
+  "iso": "SX",
+  "qid": "Q26273",
+  "nombre": "San Martín",
+  "capitales": [
+   "Philipsburg@Point(-63.043333333 18.024166666)"
+  ],
+  "poblacion": "43847",
+  "idiomas": [
+   "inglés",
+   "neerlandés"
+  ],
+  "monedas": [
+   "florín caribeño"
+  ]
+ },
+ {
+  "iso": "YT",
+  "qid": "Q17063",
+  "nombre": "Mayotte",
+  "capitales": [
+   "Dzaoudzi@Point(45.2725 -12.788333333)",
+   "Mamoudzou@Point(45.231666666 -12.781388888)"
+  ],
+  "poblacion": "320901",
+  "idiomas": [
+   "francés",
+   "mahorés",
+   "bushi"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "VG",
+  "qid": "Q25305",
+  "nombre": "Islas Vírgenes Británicas",
+  "capitales": [
+   "Road Town@Point(-64.616666666 18.433333333)"
+  ],
+  "poblacion": "39369",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "MF",
+  "qid": "Q126125",
+  "nombre": "San Martín",
+  "capitales": [
+   "Marigot@Point(-63.084722222 18.066666666)"
+  ],
+  "poblacion": "32358",
+  "idiomas": [
+   "francés"
+  ],
+  "monedas": [
+   "Euro"
+  ]
+ },
+ {
+  "iso": "TC",
+  "qid": "Q18221",
+  "nombre": "Islas Turcas y Caicos",
+  "capitales": [
+   "Cockburn Town@Point(-71.141388888 21.460277777)"
+  ],
+  "poblacion": "44542",
+  "idiomas": [
+   "inglés"
+  ],
+  "monedas": [
+   "dólar estadounidense"
+  ]
+ },
+ {
+  "iso": "JE",
+  "qid": "Q785",
+  "nombre": "",
+  "capitales": [
+   "Saint Helier@Point(-2.11 49.185833333)"
+  ],
+  "poblacion": "103267",
+  "idiomas": [
+   "inglés",
+   "jerseyés",
+   "francés de Jersey"
+  ],
+  "monedas": [
+   "libra de Jersey",
+   "libra esterlina"
+  ]
+ }
+]

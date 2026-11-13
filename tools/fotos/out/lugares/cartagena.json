@@ -1,0 +1,202 @@
+{
+ "id": "cartagena",
+ "enwiki": "Cartagena, Colombia",
+ "endesc": "City in coastal northern Colombia",
+ "qid": "Q657461",
+ "coord": [
+  10.423611111111,
+  -75.525277777778
+ ],
+ "label_es": "Cartagena de Indias",
+ "desc_es": "ciudad y distrito especial de Colombia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1533-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 2.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 572.0,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q2555896",
+  "Q63209072",
+  "Q1549591"
+ ],
+ "p17": [
+  "Q739"
+ ],
+ "unesco": false,
+ "eswiki": "Cartagena de Indias",
+ "extracto_es": "Cartagena de Indias, oficialmente Distrito Turístico y Cultural de Cartagena de Indias (abreviado como Cartagena de Indias, D. T. y C.) o simplemente Cartagena, es la capital del departamento de Bolívar,​ en Colombia, desde 1991.​ Ubicada a orillas del mar Caribe.  Fue fundada el 1 de junio de 1533 por Pedro de Heredia.​ Su centro histórico, llamado «Ciudad Amurallada», fue declarado Patrimonio Nacional de Colombia en 1959 y por la UNESCO como Patrimonio de la Humanidad en 1984.​ Con el tiempo, Cartagena ha desarrollado su zona urbana conservando el centro histórico y convirtiéndose en uno de los célebres destinos turísticos de mayor importancia de Colombia y del Caribe. Cartagena alberga las sedes de la Asamblea Departamental de Bolívar y del Tribunal Administrativo de Bolívar.\nA partir de su fundación en el siglo xvi y durante toda la época virreinal española, Cartagena de Indias fue uno de los puertos más importantes de la América española.​ De esta época procede la mayor parte de su patrimonio artístico y cultural. El 11 de noviembre de 1811, Cartagena se declaró independiente de España. Este día es fiesta nacional en Colombia y en la ciudad se celebra durante cuatro días conocidos como las \"Fiestas de Independencia\".​\n\nCartagena ha sido una ciudad presente en medio de conflictos bélicos como también en la piratería, pues fue aquí donde se produjeron numerosos ataques por parte de los piratas y corsarios provenientes de Europa, lo cual supuso que fuera fuertemente amurallada y fortificada durante la administración española, hasta el punto de ser la fortaleza más robusta de América del Sur y del Caribe, llegando a estar tan reforzada como el mismo golfo de México en dicha época. En la actualidad se mantiene su arquitectura virreinal.​ En el año 2007 su arquitectura militar fue galardonada como la cuarta maravilla de Colombia.​",
+ "candidatas": [
+  {
+   "file": "File:View of Cartagena from Convento de Santa Cruz de la Popa 01.jpg",
+   "w": 4085,
+   "h": 2328,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/View_of_Cartagena_from_Convento_de_Santa_Cruz_de_la_Popa_01.jpg/330px-View_of_Cartagena_from_Convento_de_Santa_Cruz_de_la_Popa_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/View_of_Cartagena_from_Convento_de_Santa_Cruz_de_la_Popa_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_Cartagena_from_Convento_de_Santa_Cruz_de_la_Popa_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-26",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Museo Naval del Caribe.JPG",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Museo_Naval_del_Caribe.JPG/330px-Museo_Naval_del_Caribe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Museo_Naval_del_Caribe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Museo_Naval_del_Caribe.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Sgonzalezb",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-09-14 12:45:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Baluarte de Santo Domingo, Cartagena 01.jpg",
+   "w": 4449,
+   "h": 2966,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Baluarte_de_Santo_Domingo%2C_Cartagena_01.jpg/330px-Baluarte_de_Santo_Domingo%2C_Cartagena_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Baluarte_de_Santo_Domingo%2C_Cartagena_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Baluarte_de_Santo_Domingo,_Cartagena_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-27",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sunset-cartagena-tower-dewired.jpg",
+   "w": 2048,
+   "h": 1360,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Sunset-cartagena-tower-dewired.jpg/330px-Sunset-cartagena-tower-dewired.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sunset-cartagena-tower-dewired.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset-cartagena-tower-dewired.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Igvir Ramirez",
+   "credito": "https://www.flickr.com/photos/igvir/31063883/",
+   "nonfree": "",
+   "fecha": "2005-07-25",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cartagena skyline, Colombia.jpg",
+   "w": 1600,
+   "h": 1064,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Cartagena_skyline%2C_Colombia.jpg/330px-Cartagena_skyline%2C_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cartagena_skyline%2C_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cartagena_skyline,_Colombia.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "poirpom",
+   "credito": "Flickr: Ravage",
+   "nonfree": "",
+   "fecha": "2012-07-25 03:06:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Esquina a 35 grados - Cartagena Col.jpg",
+   "w": 5560,
+   "h": 3529,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Esquina_a_35_grados_-_Cartagena_Col.jpg/330px-Esquina_a_35_grados_-_Cartagena_Col.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Esquina_a_35_grados_-_Cartagena_Col.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Esquina_a_35_grados_-_Cartagena_Col.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Hugo Pardo Kuklinski",
+   "credito": "https://www.flickr.com/photos/18016623@N00/44654891712/",
+   "nonfree": "",
+   "fecha": "2018-09-13 16:43:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Amarillo Latente.jpg",
+   "w": 13837,
+   "h": 7592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Amarillo_Latente.jpg/330px-Amarillo_Latente.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Amarillo_Latente.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amarillo_Latente.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Miguel Ángel Barrera",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-06-13 13:58:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Boazio-Sir Francis Drake in Cartagena.jpg",
+   "w": 6703,
+   "h": 5139,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Boazio-Sir_Francis_Drake_in_Cartagena.jpg/330px-Boazio-Sir_Francis_Drake_in_Cartagena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Boazio-Sir_Francis_Drake_in_Cartagena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Boazio-Sir_Francis_Drake_in_Cartagena.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "id": "obelisco",
+ "enwiki": "Obelisco de Buenos Aires",
+ "endesc": "Architectural structure",
+ "qid": "Q831389",
+ "coord": [
+  -34.60376,
+  -58.38162
+ ],
+ "label_es": "Obelisco de Buenos Aires",
+ "desc_es": "monumento histórico en la ciudad de Buenos Aires, Argentina",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1936-02-02T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1936-05-23T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 67.5,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 26.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q170980"
+ ],
+ "p17": [
+  "Q414"
+ ],
+ "unesco": false,
+ "eswiki": "Obelisco de Buenos Aires",
+ "extracto_es": "El Obelisco de Buenos Aires es un monumento histórico, considerado ícono de Buenos Aires, capital de Argentina.  \nFue construido en 1936 con motivo del cuarto centenario de la primera fundación de Buenos Aires por Pedro de Mendoza. La obra es autoría del arquitecto argentino Alberto Prebisch y la construcción estuvo a cargo del consorcio alemán GEOPÉ-Siemens Bauunion-Grün & Bilfinger. Tiene una altura de 67,5 metros, de los cuales 63 son desde la base de 7x7 m hasta el inicio del ápice de 3,50x3,50 m, culminando con una punta del estilo Roma de unos 40 cm. Tiene una sola puerta de entrada y en su cúspide hay cuatro ventanas a las que se llega por una combinación de ascensor y escalera caracol.\nSe encuentra ubicado en la plaza de la República, en la intersección de las avenidas Corrientes y 9 de Julio, en el barrio de San Nicolás en Buenos Aires.",
+ "candidatas": [
+  {
+   "file": "File:ObeliscoBA2015.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/ObeliscoBA2015.jpg/330px-ObeliscoBA2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/ObeliscoBA2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ObeliscoBA2015.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sebastianalmaraz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-10-13 18:21:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Tango Porteño.jpg",
+   "w": 4559,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Tango_Porte%C3%B1o.jpg/330px-Tango_Porte%C3%B1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Tango_Porte%C3%B1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tango_Porte%C3%B1o.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Manticora87",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-25 21:38:40",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Panorama Obelisco de Buenos Aires 2019.jpg",
+   "w": 2048,
+   "h": 1186,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Panorama_Obelisco_de_Buenos_Aires_2019.jpg/330px-Panorama_Obelisco_de_Buenos_Aires_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Panorama_Obelisco_de_Buenos_Aires_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Panorama_Obelisco_de_Buenos_Aires_2019.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Luis Santos",
+   "credito": "DSC_1941-Pano",
+   "nonfree": "",
+   "fecha": "2017-12-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Buenos Aires (20234294752).jpg",
+   "w": 1825,
+   "h": 2738,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Buenos_Aires_%2820234294752%29.jpg/330px-Buenos_Aires_%2820234294752%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Buenos_Aires_%2820234294752%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_(20234294752).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Rodrigo Paredes from Ciudad Autónoma de Buenos Aires, Argentina",
+   "credito": "Buenos Aires",
+   "nonfree": "",
+   "fecha": "2015-07-28 19:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "es"
+  },
+  {
+   "file": "File:Obelisco de Buenos Aires Sùper TC 2000 2012.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Obelisco_de_Buenos_Aires_S%C3%B9per_TC_2000_2012.jpg/330px-Obelisco_de_Buenos_Aires_S%C3%B9per_TC_2000_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Obelisco_de_Buenos_Aires_S%C3%B9per_TC_2000_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Obelisco_de_Buenos_Aires_S%C3%B9per_TC_2000_2012.jpg",
+   "licencia": "CC BY-SA 2.5 ar",
+   "licurl": "cc-by-sa-2.5-ar",
+   "autor": "Banfield",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-03-31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Obelisco de Buenos Aires, Día de la Discapacidad.jpg",
+   "w": 4511,
+   "h": 3257,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Obelisco_de_Buenos_Aires%2C_D%C3%ADa_de_la_Discapacidad.jpg/330px-Obelisco_de_Buenos_Aires%2C_D%C3%ADa_de_la_Discapacidad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Obelisco_de_Buenos_Aires%2C_D%C3%ADa_de_la_Discapacidad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Obelisco_de_Buenos_Aires,_D%C3%ADa_de_la_Discapacidad.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Roberto Fiadone",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-12-03 12:27:31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Buenos Aires - Obelisco (fachada este) - 20061212a.jpg",
+   "w": 2740,
+   "h": 1852,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Buenos_Aires_-_Obelisco_%28fachada_este%29_-_20061212a.jpg/330px-Buenos_Aires_-_Obelisco_%28fachada_este%29_-_20061212a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Buenos_Aires_-_Obelisco_%28fachada_este%29_-_20061212a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Obelisco_(fachada_este)_-_20061212a.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Taken by the uploader, w:es:Usuario:Barcex",
+   "credito": "Taken by the uploader, w:es:Usuario:Barcex",
+   "nonfree": "",
+   "fecha": "2006-12-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Buenos Aires - Obelisco (fachada norte) - 20061212a.jpg",
+   "w": 2924,
+   "h": 1952,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Buenos_Aires_-_Obelisco_%28fachada_norte%29_-_20061212a.jpg/330px-Buenos_Aires_-_Obelisco_%28fachada_norte%29_-_20061212a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Buenos_Aires_-_Obelisco_%28fachada_norte%29_-_20061212a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Obelisco_(fachada_norte)_-_20061212a.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Taken by the uploader, w:es:Usuario:Barcex",
+   "credito": "Taken by the uploader, w:es:Usuario:Barcex",
+   "nonfree": "",
+   "fecha": "2006-12-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  }
+ ]
+}

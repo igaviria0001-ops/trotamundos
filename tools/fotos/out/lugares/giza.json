@@ -1,0 +1,193 @@
+{
+ "id": "giza",
+ "enwiki": "Giza pyramid complex",
+ "endesc": "Archaeological site near Cairo, Egypt",
+ "qid": "Q12508",
+ "coord": [
+  29.976111,
+  31.132778
+ ],
+ "label_es": "pirámides de Guiza",
+ "desc_es": "necrópolis del Antiguo Egipcio",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 27.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 16359.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q125866682",
+  "Q16887380",
+  "Q28415786"
+ ],
+ "p17": [
+  "Q79"
+ ],
+ "unesco": false,
+ "eswiki": "Pirámides de Guiza",
+ "extracto_es": "La Necrópolis de Guiza (Gizèh, Gîza, Guizèh) ​​​ se encuentra en la meseta de Guiza, al oeste de la población homónima, a unos veinte kilómetros de El Cairo, Egipto. Comenzó a utilizarse durante la segunda dinastía, habiéndose encontrado cerámica fechada en el reinado de Nynecher. En ella se encuentran las famosas pirámides construidas por los faraones de la cuarta dinastía Keops, Kefrén y Micerino.",
+ "candidatas": [
+  {
+   "file": "File:All Gizah Pyramids.jpg",
+   "w": 4372,
+   "h": 2906,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/330px-All_Gizah_Pyramids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Ricardo Liberato",
+   "credito": "All Gizah Pyramids",
+   "nonfree": "",
+   "fecha": "19 June 2006, 14:01 ",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Pyramids of the Giza Necropolis.jpg",
+   "w": 10104,
+   "h": 4210,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pyramids_of_the_Giza_Necropolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "KennyOMG",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-07-31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:All Gizah Pyramids-2.jpg",
+   "w": 4240,
+   "h": 2228,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/All_Gizah_Pyramids-2.jpg/330px-All_Gizah_Pyramids-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/All_Gizah_Pyramids-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids-2.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Ricardo Liberato",
+   "credito": "[1]",
+   "nonfree": "",
+   "fecha": "2006-06-19 14:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "es"
+  },
+  {
+   "file": "File:Sphinx partially excavated2.jpg",
+   "w": 6453,
+   "h": 4741,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Sphinx_partially_excavated2.jpg/330px-Sphinx_partially_excavated2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Sphinx_partially_excavated2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sphinx_partially_excavated2.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Maison Bonfils (Beirut, Lebanon), photographers : Félix (1831-1885), his wife, Lydie (1837-1918) and his son, Adrien (1861-1929). Most possible done by Félix",
+   "credito": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID ppmsca.03956.This tag does not indicate the copyright status of the attached ",
+   "nonfree": "",
+   "fecha": "between 1867 and 189",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Gizeh-Stele du reve.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Gizeh-Stele_du_reve.jpg/330px-Gizeh-Stele_du_reve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Gizeh-Stele_du_reve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gizeh-Stele_du_reve.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Kurohito",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:On top̠ of Cheops Pyramid.jpg",
+   "w": 2760,
+   "h": 1840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/On_top%CC%A0_of_Cheops_Pyramid.jpg/330px-On_top%CC%A0_of_Cheops_Pyramid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/On_top%CC%A0_of_Cheops_Pyramid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:On_top%CC%A0_of_Cheops_Pyramid.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lorenz.King at JLU Giessen.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1972-05-07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Giza pyramid complex 4fr.jpg",
+   "w": 3000,
+   "h": 1998,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Giza_pyramid_complex_4fr.jpg/330px-Giza_pyramid_complex_4fr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Giza_pyramid_complex_4fr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Giza_pyramid_complex_4fr.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Eslam maalky.22",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-03-16 12:58:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Model of Giza pyramid complex-Kunsthistorisches Museum.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Model_of_Giza_pyramid_complex-Kunsthistorisches_Museum.jpg/330px-Model_of_Giza_pyramid_complex-Kunsthistorisches_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Model_of_Giza_pyramid_complex-Kunsthistorisches_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Model_of_Giza_pyramid_complex-Kunsthistorisches_Museum.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Yair Haklai",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-03-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "id": "plitvice",
+ "enwiki": "Plitvice Lakes National Park",
+ "endesc": "National park in Croatia",
+ "qid": "Q189849",
+ "coord": [
+  44.880445,
+  15.616035
+ ],
+ "label_es": "Parque Nacional de los Lagos de Plitvice",
+ "desc_es": "parque",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1949-04-08T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "area": [
+  {
+   "v": 296.85,
+   "u": "Q712226"
+  },
+  {
+   "v": 29630.77,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 946825.0,
+   "u": "1"
+  },
+  {
+   "v": 1357304.0,
+   "u": "1"
+  },
+  {
+   "v": 1429228.0,
+   "u": "1"
+  },
+  {
+   "v": 1720331.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q20537078"
+ ],
+ "p17": [
+  "Q224"
+ ],
+ "unesco": true,
+ "eswiki": "Parque nacional de los Lagos de Plitvice",
+ "extracto_es": "El Parque Nacional de los Lagos de Plitvice (en croata: Plitvička jezera; Plitvice; pronunciado [plîtʋitse]) es el más conocido de los parques nacionales croatas.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Plitvice Lakes National Park (2).jpg",
+   "w": 3456,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Plitvice_Lakes_National_Park_%282%29.jpg/330px-Plitvice_Lakes_National_Park_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Plitvice_Lakes_National_Park_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Plitvice_Lakes_National_Park_(2).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Pablo BM from London, England",
+   "credito": "Plitvice Lakes National Park",
+   "nonfree": "",
+   "fecha": "2010-06-09 14:50",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Doronicum orientale in Plitvice Lakes National Park, Croatia (DSC 0439).jpg",
+   "w": 5973,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Doronicum_orientale_in_Plitvice_Lakes_National_Park%2C_Croatia_%28DSC_0439%29.jpg/330px-Doronicum_orientale_in_Plitvice_Lakes_National_Park%2C_Croatia_%28DSC_0439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Doronicum_orientale_in_Plitvice_Lakes_National_Park%2C_Croatia_%28DSC_0439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Doronicum_orientale_in_Plitvice_Lakes_National_Park,_Croatia_(DSC_0439).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Trougnouf (Benoit Brummer)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-07-15 12:21:37",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Water flowing through a narrow passage at Plitvice Lakes National Park in Croatia (DSC 0348).jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Water_flowing_through_a_narrow_passage_at_Plitvice_Lakes_National_Park_in_Croatia_%28DSC_0348%29.jpg/330px-Water_flowing_through_a_narrow_passage_at_Plitvice_Lakes_National_Park_in_Croatia_%28DSC_0348%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Water_flowing_through_a_narrow_passage_at_Plitvice_Lakes_National_Park_in_Croatia_%28DSC_0348%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Water_flowing_through_a_narrow_passage_at_Plitvice_Lakes_National_Park_in_Croatia_(DSC_0348).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Trougnouf",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-07-15 08:44:25",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aerial view of Plitvice Lakes in Croatia (48607790042).jpg",
+   "w": 5464,
+   "h": 3640,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial_view_of_Plitvice_Lakes_in_Croatia_%2848607790042%29.jpg/330px-Aerial_view_of_Plitvice_Lakes_in_Croatia_%2848607790042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Aerial_view_of_Plitvice_Lakes_in_Croatia_%2848607790042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Plitvice_Lakes_in_Croatia_(48607790042).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "dronepicr",
+   "credito": "Aerial view of Plitvice Lakes in Croatia",
+   "nonfree": "",
+   "fecha": "2019-07-15 11:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:View in Plitvice Lakes National Park.jpg",
+   "w": 2437,
+   "h": 3459,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/View_in_Plitvice_Lakes_National_Park.jpg/330px-View_in_Plitvice_Lakes_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/View_in_Plitvice_Lakes_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_in_Plitvice_Lakes_National_Park.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Zysko serhii",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-24 13:17:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:A bridge in Plitvice lakes national park, Croatia.jpg",
+   "w": 2112,
+   "h": 2816,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/A_bridge_in_Plitvice_lakes_national_park%2C_Croatia.jpg/330px-A_bridge_in_Plitvice_lakes_national_park%2C_Croatia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/A_bridge_in_Plitvice_lakes_national_park%2C_Croatia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_bridge_in_Plitvice_lakes_national_park,_Croatia.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Someone35",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-10-03 15:48",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Waterfall in plitvice lakes national park, croatia.jpg",
+   "w": 2112,
+   "h": 2816,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Waterfall_in_plitvice_lakes_national_park%2C_croatia.jpg/330px-Waterfall_in_plitvice_lakes_national_park%2C_croatia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Waterfall_in_plitvice_lakes_national_park%2C_croatia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Waterfall_in_plitvice_lakes_national_park,_croatia.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Someone35",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-10-03 15:26",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:View of the path in the canyon.jpg",
+   "w": 3543,
+   "h": 2362,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/View_of_the_path_in_the_canyon.jpg/330px-View_of_the_path_in_the_canyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/View_of_the_path_in_the_canyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_the_path_in_the_canyon.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Zysko serhii",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-24 12:45:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

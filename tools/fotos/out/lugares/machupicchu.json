@@ -1,0 +1,218 @@
+{
+ "id": "machupicchu",
+ "enwiki": "Machu Picchu",
+ "endesc": "15th-century Inca citadel in Peru",
+ "qid": "Q676203",
+ "coord": [
+  -13.163333333333334,
+  -72.54555555555555
+ ],
+ "label_es": "Machu Picchu",
+ "desc_es": "antigua ciudad del imperio inca en Cuzco, Perú y una de las 7 maravillas del mundo moderno",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1450-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 2430.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 32500.0,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 950000.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q15661340",
+  "Q839954",
+  "Q9259"
+ ],
+ "p17": [
+  "Q419"
+ ],
+ "unesco": false,
+ "eswiki": "Machu Picchu",
+ "extracto_es": "Machu Picchu (en quechua cuzqueño, Machu Pikchu 'pico anciano', pronunciado [ˈmɐt͡ʃʊ ˈpɪxt͡ʃʊ]) es el nombre contemporáneo que se da a una llacta (antiguo poblado incaico) construida antes del siglo XV, en la cordillera Oriental del sur del Perú, en la cadena montañosa de los Andes a 2.430 metros sobre el nivel del mar.​​ Está en el departamento del Cusco (provincia de Urubamba, distrito de Machupicchu) sobre el Valle Sagrado de los Incas,​​​ a 80 kilómetros al noroeste del Cusco, ciudad del Perú y por donde fluye el río Urubamba,​​ río que atraviesa la cordillera y origina un cañón con clima de montaña tropical. Forma parte de un área de conservación arqueológica y ecológica del mismo nombre.​​ Según muchos estudios, su nombre original habría sido Llaqta Pata​ o Pata Llaqta.​\nSegún documentos de mediados del siglo XVI, tenía carácter privado.​ Sin embargo, algunas de sus mejores construcciones y el evidente carácter ceremonial de la principal vía de acceso a la llaqta dan cuenta de su origen anterior a Pachacútec y a su presumible utilización como santuario religioso y residencia del descanso.​ Ambos usos, el de palacio y el de santuario, no habrían sido incompatibles. Aun cuando se discute su supuesto carácter militar, por lo que los populares calificativos de «fortaleza» o «ciudadela» podrían haber sido superados.​\nMachu Picchu es considerada, al mismo tiempo, obra maestra de la arquitectura y la ingeniería civil.​ Sus peculiares características arquitectónicas y paisajísticas, y el velo de misterio que ha tejido a su alrededor buena parte de la literatura publicada sobre el sitio, lo han convertido en uno de los destinos turísticos más famosos del planeta.​\nMachu Picchu fue construido en el estilo Inca clásico, con paredes de piedra seca pulida. Sus tres estructuras principales son el Intihuatana, el Templo del Sol y el Templo de las Tres Ventanas. La mayoría de los edificios periféricos han sido reconstruidos para dar a los visitantes una mejor idea de cómo era el original. Para 1976, el 30 % de Machu Picchu había sido restaurado, tarea que continúa.\nMachu Picchu y su área circundante fueron declarados Monumento Nacional por la ley 6634 de 1929,​ santuario histórico peruano en 1981​​​ y está en la Lista del Patrimonio de la Humanidad de la Unesco desde 1983,​​​​ como parte de todo un conjunto cultural y ecológico conocido bajo la denominación 'santuario histórico de Machu Picchu'. En 2007 Machu Picchu fue nombrada como una de las nuevas siete maravill",
+ "candidatas": [
+  {
+   "file": "File:Machu Picchu, Perú, 2015-07-30, DD 47.JPG",
+   "w": 8669,
+   "h": 5763,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG/330px-Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_47.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-30 16:01:04",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Machu Picchu, Perú, 2015-07-30, DD 60.JPG",
+   "w": 5365,
+   "h": 3590,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_60.JPG/330px-Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_60.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_60.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_60.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-30 16:10:41",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Machu Picchu, 2023 (012).jpg",
+   "w": 6960,
+   "h": 4640,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/330px-Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Draceane",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-26 13:45",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Machu Picchu, Perú, 2015-07-30, DD 37.jpg",
+   "w": 7946,
+   "h": 5325,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_37.jpg/330px-Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_37.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-30 15:33:16",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aguas Calientes, Cuzco, Perú, 2015-07-30, DD 68.JPG",
+   "w": 8073,
+   "h": 5382,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Aguas_Calientes%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-30%2C_DD_68.JPG/330px-Aguas_Calientes%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-30%2C_DD_68.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Aguas_Calientes%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-30%2C_DD_68.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aguas_Calientes,_Cuzco,_Per%C3%BA,_2015-07-30,_DD_68.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-30 16:51:04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Machu Picchu, Perú, 2015-07-30, DD 40.JPG",
+   "w": 8031,
+   "h": 5354,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_40.JPG/330px-Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_40.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_40.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_40.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-30 15:32:43",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Machu Picchu, Perú, 2015-07-30, DD 51.JPG",
+   "w": 8688,
+   "h": 5792,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_51.JPG/330px-Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_51.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_51.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_51.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-30 16:05:56",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:99 - Machu Picchu - Juin 2009.edit3.jpg",
+   "w": 9187,
+   "h": 4100,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/99_-_Machu_Picchu_-_Juin_2009.edit3.jpg/330px-99_-_Machu_Picchu_-_Juin_2009.edit3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/99_-_Machu_Picchu_-_Juin_2009.edit3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.edit3.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Martin St-Amant (S23678)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-06-28",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  }
+ ]
+}

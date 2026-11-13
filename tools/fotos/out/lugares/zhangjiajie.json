@@ -1,0 +1,191 @@
+{
+ "id": "zhangjiajie",
+ "enwiki": "Zhangjiajie National Forest Park",
+ "endesc": "National forest in Hunan, China",
+ "qid": "Q3895620",
+ "coord": [
+  29.3274,
+  110.416
+ ],
+ "label_es": "Parque forestal nacional de Zhangjiajie",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1982-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 479.15,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q473972",
+  "Q46169"
+ ],
+ "p17": [
+  "Q148"
+ ],
+ "unesco": false,
+ "eswiki": "Parque forestal nacional de Zhangjiajie",
+ "extracto_es": "El Parque forestal nacional Zhangjiajie (en chino:湖南张家界国家森林公园; pinyin: Húnán Zhāngjiājiè Guójiā Sēnlín Gōngyuán; literalmente \"Parque Forestal Nacional de Zhangjiajie Hunan\") es el único parque forestal nacional ubicado en la ciudad de Zhangjiajie en el norte de la provincia de Hunan en la República Popular de China. Es uno de los varios parques nacionales en el área escénica de Wulingyuan.\nEn 1982 fue reconocido como el primer parque nacional de China de carácter forestal (4810 hectáreas).​ El Parque forestal nacional de Zhangjiajie es parte de una zona mucho más grande (397,5 kilómetros cuadrados) llamada área escénica de Wulingyuan.\nEn 1992, Wulingyuan fue oficialmente reconocido por la UNESCO como Patrimonio de la Humanidad.​ Fue aprobado por el Ministerio de Tierras y Recursos Naturales, como una Geoparque Nacional Forestal (3600 km²) en el año 2001. En 2004, el Geoparque Zhangjiajie fue incluido como un Geoparque Mundial de la UNESCO.\nUna de las montañas con forma de columna del parque, anteriormente llamada la \"Columna del Sur\", de 1080 metros de altura, fue oficialmente renombrada en enero de 2010 como \"Montaña Aleluya de Avatar\" (阿凡达-哈利路亚山), por haber servido de inspiración a la película Avatar, y como muestra de aprecio al mensaje social de la misma.[cita requerida]\nEn agosto de 2016, se inauguró en el parque la pasarela de cristal Coiling Dragon (Dragón Enrollándose). La pasarela, de 100 metros con 99 curvas, rodea el acantillado del monte Tianmen con vistas impresionantes del paisaje de Hunan.​\nEl parque Zhangjiajie ya dispone del puente de cristal más largo del mundo: un puente de 430 m sobre un valle de 300 m.​",
+ "candidatas": [
+  {
+   "file": "File:1 tianzishan wulingyuan zhangjiajie 2012.jpg",
+   "w": 8841,
+   "h": 4415,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "chensiyuan",
+   "credito": "chensiyuan",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:Yangjiajie.jpg",
+   "w": 2431,
+   "h": 1751,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Yangjiajie.jpg/330px-Yangjiajie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Yangjiajie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Yangjiajie.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Yoo Chung",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-06-07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Zhangjiajie National Forest Park 张家界国家森林公园, Hunan, 2023 (52669865292).jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Zhangjiajie_National_Forest_Park_%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD%2C_Hunan%2C_2023_%2852669865292%29.jpg/330px-Zhangjiajie_National_Forest_Park_%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD%2C_Hunan%2C_2023_%2852669865292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Zhangjiajie_National_Forest_Park_%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD%2C_Hunan%2C_2023_%2852669865292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Zhangjiajie_National_Forest_Park_%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD,_Hunan,_2023_(52669865292).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "JL Cogburn",
+   "credito": "Zhangjiajie National Forest Park 张家界国家森林公园, Hunan, 2023",
+   "nonfree": "",
+   "fecha": "2023-01-27 17:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:ZhangjiajieNP1.jpg",
+   "w": 4112,
+   "h": 2731,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/ZhangjiajieNP1.jpg/330px-ZhangjiajieNP1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/ZhangjiajieNP1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ZhangjiajieNP1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "severin.stalder",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-06-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Zhangjiajie, National park - panoramio (1).jpg",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Zhangjiajie%2C_National_park_-_panoramio_%281%29.jpg/330px-Zhangjiajie%2C_National_park_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zhangjiajie%2C_National_park_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Zhangjiajie,_National_park_-_panoramio_(1).jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Kovacs Bela-Hungary",
+   "credito": "https://web.archive.org/web/20161029084446/http://www.panoramio.com/photo/100954559",
+   "nonfree": "",
+   "fecha": "Taken on 11 April 20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:ZhangjiajieNP2.jpg",
+   "w": 2768,
+   "h": 1838,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/ZhangjiajieNP2.jpg/330px-ZhangjiajieNP2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/ZhangjiajieNP2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ZhangjiajieNP2.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "severin.stalder",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-06-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:China Hunan Tour 4.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/China_Hunan_Tour_4.jpg/330px-China_Hunan_Tour_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/China_Hunan_Tour_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:China_Hunan_Tour_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "SHdyroff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-11-27 12:24:47",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:China Hunan Tour 11.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/China_Hunan_Tour_11.jpg/330px-China_Hunan_Tour_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/China_Hunan_Tour_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:China_Hunan_Tour_11.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "SHdyroff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-11-28 09:18:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "id": "panazucar",
+ "enwiki": "Sugarloaf Mountain",
+ "endesc": "Peak in Rio de Janeiro, Brazil",
+ "qid": "Q210722",
+ "coord": [
+  -22.949444444444445,
+  -43.156666666666666
+ ],
+ "label_es": "Pan de Azúcar",
+ "desc_es": "montaña de Brasil",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 395.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q1139493",
+  "Q107679",
+  "Q386426",
+  "Q8502"
+ ],
+ "p17": [
+  "Q155"
+ ],
+ "unesco": false,
+ "eswiki": "Pan de Azúcar (Brasil)",
+ "extracto_es": "El Pan de Azúcar (en portugués: Pão de Açúcar) es un peñasco situado en Río de Janeiro, Brasil, en la boca de la bahía de Guanabara sobre una península que sobresale en el océano Atlántico.",
+ "candidatas": [
+  {
+   "file": "File:Rio de Janeiro skyline and Sugarloaf Mountain at sunset, Brazil 3.jpg",
+   "w": 8043,
+   "h": 4919,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset%2C_Brazil_3.jpg/330px-Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset%2C_Brazil_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset%2C_Brazil_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset,_Brazil_3.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-03 14:08:17",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rio skyline and Cristo Redentor from Sugarloaf Mountain, Brazil.jpg",
+   "w": 8025,
+   "h": 4834,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Rio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain%2C_Brazil.jpg/330px-Rio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain,_Brazil.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-03 15:07:43",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sugarloaf Sunrise 2.jpg",
+   "w": 5927,
+   "h": 3957,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Sugarloaf_Sunrise_2.jpg/330px-Sugarloaf_Sunrise_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sugarloaf_Sunrise_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sugarloaf_Sunrise_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Donatas Dabravolskas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 8 April 201",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Vista do Morro Dona Marta.jpg",
+   "w": 5357,
+   "h": 3571,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Vista_do_Morro_Dona_Marta.jpg/330px-Vista_do_Morro_Dona_Marta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vista_do_Morro_Dona_Marta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_do_Morro_Dona_Marta.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ccarelo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-04-26 16:12:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Pão de Açucar - Sugarloaf Mountain - Zuckerhut - 2022.jpg",
+   "w": 5690,
+   "h": 3201,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/P%C3%A3o_de_A%C3%A7ucar_-_Sugarloaf_Mountain_-_Zuckerhut_-_2022.jpg/330px-P%C3%A3o_de_A%C3%A7ucar_-_Sugarloaf_Mountain_-_Zuckerhut_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/P%C3%A3o_de_A%C3%A7ucar_-_Sugarloaf_Mountain_-_Zuckerhut_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:P%C3%A3o_de_A%C3%A7ucar_-_Sugarloaf_Mountain_-_Zuckerhut_-_2022.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Arne Müseler",
+   "credito": "own work\nhttp://www.arne-mueseler.com",
+   "nonfree": "",
+   "fecha": "2022-02-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Sugarloaf Mountain with the cloud on top.jpg",
+   "w": 3687,
+   "h": 2449,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sugarloaf_Mountain_with_the_cloud_on_top.jpg/330px-Sugarloaf_Mountain_with_the_cloud_on_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sugarloaf_Mountain_with_the_cloud_on_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sugarloaf_Mountain_with_the_cloud_on_top.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Donatas Dabravolskas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-12-13 17:37:14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sugarloaf Mountain, Rio de Janeiro, Brazil.jpg",
+   "w": 7482,
+   "h": 4629,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Sugarloaf_Mountain%2C_Rio_de_Janeiro%2C_Brazil.jpg/330px-Sugarloaf_Mountain%2C_Rio_de_Janeiro%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sugarloaf_Mountain%2C_Rio_de_Janeiro%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sugarloaf_Mountain,_Rio_de_Janeiro,_Brazil.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-03 13:41:17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Botafogo Beach Aerial View and Sugarloaf Mountain.jpg",
+   "w": 3709,
+   "h": 2473,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Botafogo_Beach_Aerial_View_and_Sugarloaf_Mountain.jpg/330px-Botafogo_Beach_Aerial_View_and_Sugarloaf_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Botafogo_Beach_Aerial_View_and_Sugarloaf_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Botafogo_Beach_Aerial_View_and_Sugarloaf_Mountain.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Donatas Dabravolskas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-03-26 18:56:20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  }
+ ]
+}

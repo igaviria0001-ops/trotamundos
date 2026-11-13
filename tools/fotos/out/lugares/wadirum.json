@@ -1,0 +1,209 @@
+{
+ "id": "wadirum",
+ "enwiki": "Wadi Rum",
+ "endesc": "Valley in southern Jordan",
+ "qid": "Q40729",
+ "coord": [
+  29.5765,
+  35.419927777778
+ ],
+ "label_es": "Uadi Rum",
+ "desc_es": null,
+ "inicio": [],
+ "altura": [
+  {
+   "v": 1750.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 800.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 74179.7,
+   "u": "Q35852"
+  },
+  {
+   "v": 59176.9,
+   "u": "Q35852"
+  }
+ ],
+ "largo": [
+  {
+   "v": 100.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q187971",
+  "Q473972"
+ ],
+ "p17": [
+  "Q810"
+ ],
+ "unesco": true,
+ "eswiki": "Uadi Rum",
+ "extracto_es": "El Uadi Rum, Wadi Rum (del árabe: وادي رم ‘Wādī al-Ramm’) o Valle de la Luna (وادي القمر) es un valle desértico situado a 1600 m s. n. m. en una región montañosa formada por granito y arenisca al suroeste de Jordania,​ 60 km al este de Áqaba. Es el uadi más largo de Jordania. El nombre rum significa \"alto\" o \"elevado\" en idioma arameo, y su pronunciación denota la cercana influencia del árabe. El punto más elevado de Uadi Rum es el monte Jabal Umm ad Dami, con 1854 m s. n. m.\nEl área protegida de Uadi Rum es el primer sitio mixto declarado Patrimonio de la Humanidad (2011) por la Unesco en Jordania.​",
+ "candidatas": [
+  {
+   "file": "File:Wadi Rum in December.jpg",
+   "w": 5462,
+   "h": 3642,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Wadi_Rum_in_December.jpg/330px-Wadi_Rum_in_December.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Wadi_Rum_in_December.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_in_December.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Raya Sharbain",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-12-25 10:32:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Mountain in Wadi Rum, Jordan.jpg",
+   "w": 3664,
+   "h": 2436,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/330px-Mountain_in_Wadi_Rum%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum,_Jordan.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Daniel Case",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-04-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Wadi rum desert.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Wadi_rum_desert.jpg/330px-Wadi_rum_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Wadi_rum_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wadi_rum_desert.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Peter Chisholm",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Wadi Rum BW 6.JPG",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Wadi_Rum_BW_6.JPG/330px-Wadi_Rum_BW_6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Wadi_Rum_BW_6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_BW_6.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Berthold Werner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-11-11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Wadi Rum Protected Area-115175.jpg",
+   "w": 3543,
+   "h": 2362,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Wadi_Rum_Protected_Area-115175.jpg/330px-Wadi_Rum_Protected_Area-115175.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Wadi_Rum_Protected_Area-115175.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_Protected_Area-115175.jpg",
+   "licencia": "CC BY-SA 3.0 igo",
+   "licurl": "",
+   "autor": "Alessandro Balsamo",
+   "credito": "This file has been provided by UNESCO (unesco.org) as part of a GLAM-Wiki partnership.\nIt is also available on the UNESCO website.",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Camp in jordan.jpg",
+   "w": 4624,
+   "h": 2600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Camp_in_jordan.jpg/330px-Camp_in_jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Camp_in_jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Camp_in_jordan.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lunaloop",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-02-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Wadi Rum 12.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wadi_Rum_12.jpg/330px-Wadi_Rum_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Wadi_Rum_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_12.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Tom Corser",
+   "credito": "Tom Corser",
+   "nonfree": "",
+   "fecha": "2022-10-25 13:50:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Wadi Rum 13.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Wadi_Rum_13.jpg/330px-Wadi_Rum_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Wadi_Rum_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_13.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Tom Corser",
+   "credito": "Tom Corser",
+   "nonfree": "",
+   "fecha": "2022-10-25 06:51:46",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

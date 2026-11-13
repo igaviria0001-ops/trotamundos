@@ -1,0 +1,195 @@
+{
+ "id": "hallstatt",
+ "enwiki": "Hallstatt",
+ "endesc": "Town in Gmunden, Upper Austria",
+ "qid": "Q131633",
+ "coord": [
+  47.555833333333,
+  13.646666666667
+ ],
+ "label_es": "Hallstatt",
+ "desc_es": "municipio de Austria",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 511.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 59.8,
+   "u": "Q712226"
+  },
+  {
+   "v": 59.83,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q562061",
+  "Q667509"
+ ],
+ "p17": [
+  "Q40"
+ ],
+ "unesco": false,
+ "eswiki": "Hallstatt",
+ "extracto_es": "Hallstatt /ˈhalʃtat/ (Alta Austria) es una localidad del distrito montañoso de Salzkammergut, en Austria. Está localizada junto al lago Hallstatt. Etimológicamente el nombre de Hall probablemente proviene del término céltico con el que se denominaba a la sal, abundante en las minas cercanas. La localidad da su nombre a la cultura de la edad de Hierro denominada Cultura de Hallstatt. En 1997, el paisaje cultural de Hallstatt-Dachstein fue declarado Patrimonio de la Humanidad por la Unesco.​",
+ "candidatas": [
+  {
+   "file": "File:Hallstatt - Zentrum .JPG",
+   "w": 3937,
+   "h": 2717,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Hallstatt_-_Zentrum_.JPG/330px-Hallstatt_-_Zentrum_.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hallstatt_-_Zentrum_.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hallstatt_-_Zentrum_.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "C.Stadler/Bwag",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Hallstatt by TheTokl 4.jpg",
+   "w": 4000,
+   "h": 2250,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hallstatt_by_TheTokl_4.jpg/330px-Hallstatt_by_TheTokl_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hallstatt_by_TheTokl_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hallstatt_by_TheTokl_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "TheTokl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-01-04 15:11:45",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Hallstatt at night.jpg",
+   "w": 4416,
+   "h": 2484,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Hallstatt_at_night.jpg/330px-Hallstatt_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hallstatt_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hallstatt_at_night.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Thomas Fabian",
+   "credito": "https://www.flickr.com/photos/126875359@N03/32484506160/",
+   "nonfree": "",
+   "fecha": "2017-02-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Hallstatt mountains view to Obertraun September 2022 02.jpg",
+   "w": 8000,
+   "h": 6000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hallstatt_mountains_view_to_Obertraun_September_2022_02.jpg/330px-Hallstatt_mountains_view_to_Obertraun_September_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Hallstatt_mountains_view_to_Obertraun_September_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hallstatt_mountains_view_to_Obertraun_September_2022_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "HiyoriX",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-09-16 16:56:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Hallstatt (50382825537).jpg",
+   "w": 5234,
+   "h": 3489,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Hallstatt_%2850382825537%29.jpg/330px-Hallstatt_%2850382825537%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Hallstatt_%2850382825537%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hallstatt_(50382825537).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Kent Wang from Barcelona, Spain",
+   "credito": "Hallstatt",
+   "nonfree": "",
+   "fecha": "2020-09-10 18:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:1 hallstatt austria.jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/1_hallstatt_austria.jpg/330px-1_hallstatt_austria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/1_hallstatt_austria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_hallstatt_austria.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "chensiyuan",
+   "credito": "chensiyuan",
+   "nonfree": "",
+   "fecha": "2012-06-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:400 Jahre Fronleichnamprozession in Hallstatt.jpg",
+   "w": 3968,
+   "h": 2976,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/400_Jahre_Fronleichnamprozession_in_Hallstatt.jpg/330px-400_Jahre_Fronleichnamprozession_in_Hallstatt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/400_Jahre_Fronleichnamprozession_in_Hallstatt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:400_Jahre_Fronleichnamprozession_in_Hallstatt.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "J. Patrick Fischer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hallstatt City Center.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Hallstatt_City_Center.jpg/330px-Hallstatt_City_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hallstatt_City_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hallstatt_City_Center.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rizka",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-16 09:04:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

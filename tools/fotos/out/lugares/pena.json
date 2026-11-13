@@ -1,0 +1,192 @@
+{
+ "id": "pena",
+ "enwiki": "Pena Palace",
+ "endesc": "Castle in Sintra, Portugal",
+ "qid": "Q69513",
+ "coord": [
+  38.787777777778,
+  -9.3905555555556
+ ],
+ "label_es": "Palacio da Pena",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1838-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q16560",
+  "Q210272",
+  "Q1128397"
+ ],
+ "p17": [
+  "Q45"
+ ],
+ "unesco": false,
+ "eswiki": "Palacio da Pena",
+ "extracto_es": "El Palacio Nacional de la Peña (en portugués: Palácio Nacional da Pena) fue una de las principales residencias de la familia real portuguesa durante el siglo XIX y a la vez constituye una de las máximas expresiones del estilo romántico del siglo XIX en Portugal. Se encuentra en la freguesia de São Pedro de Penaferrim en la ciudad de Sintra. El palacio fue declarado Patrimonio de la Humanidad por la Unesco en 1995.​",
+ "candidatas": [
+  {
+   "file": "File:Sintra - Palacio da Pena (20332995770).jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg/330px-Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sintra_-_Palacio_da_Pena_(20332995770).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Singa Hitam",
+   "credito": "Sintra - Palacio da Pena",
+   "nonfree": "",
+   "fecha": "2015-06-21 15:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Palacio Nacional da Pena, Sintra, Portugal, 2019-05-25, DD 76.jpg",
+   "w": 3952,
+   "h": 2481,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_76.jpg/330px-Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_76.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_76.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_da_Pena,_Sintra,_Portugal,_2019-05-25,_DD_76.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-25 15:42:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Exterior of Palácio Nacional da Pena 0420.jpg",
+   "w": 8064,
+   "h": 6048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Exterior_of_Pal%C3%A1cio_Nacional_da_Pena_0420.jpg/330px-Exterior_of_Pal%C3%A1cio_Nacional_da_Pena_0420.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Exterior_of_Pal%C3%A1cio_Nacional_da_Pena_0420.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Exterior_of_Pal%C3%A1cio_Nacional_da_Pena_0420.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Kent Wang",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-02-14 10:55:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P4291"
+  },
+  {
+   "file": "File:Palacio Nacional da Pena, Sintra, Portugal, 2019-05-25, DD 153-155 HDR.jpg",
+   "w": 3217,
+   "h": 2358,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_153-155_HDR.jpg/330px-Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_153-155_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_153-155_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_da_Pena,_Sintra,_Portugal,_2019-05-25,_DD_153-155_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-25 17:42:12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Palácio Nacional da Pena em altura.jpg",
+   "w": 3754,
+   "h": 2829,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Pal%C3%A1cio_Nacional_da_Pena_em_altura.jpg/330px-Pal%C3%A1cio_Nacional_da_Pena_em_altura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pal%C3%A1cio_Nacional_da_Pena_em_altura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Nacional_da_Pena_em_altura.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Gisx",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-09-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Palacio Nacional da Pena, Sintra, Portugal, 2019-05-25, DD 128.jpg",
+   "w": 3272,
+   "h": 2289,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_128.jpg/330px-Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_da_Pena,_Sintra,_Portugal,_2019-05-25,_DD_128.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-25 17:03:39",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Pena Palace - Tiles 02.jpg",
+   "w": 3797,
+   "h": 2526,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Pena_Palace_-_Tiles_02.jpg/330px-Pena_Palace_-_Tiles_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Pena_Palace_-_Tiles_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pena_Palace_-_Tiles_02.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Indies1",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-06-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Palacio Nacional da Pena, Sintra, Portugal, 2019-05-25, DD 146.jpg",
+   "w": 2809,
+   "h": 4214,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_146.jpg/330px-Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_146.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_146.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_da_Pena,_Sintra,_Portugal,_2019-05-25,_DD_146.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-25 17:34:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

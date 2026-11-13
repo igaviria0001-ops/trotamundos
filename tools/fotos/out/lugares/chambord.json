@@ -1,0 +1,190 @@
+{
+ "id": "chambord",
+ "enwiki": "Château de Chambord",
+ "endesc": "Castle in Chambord, France",
+ "qid": "Q205367",
+ "coord": [
+  47.61611111111111,
+  1.5172222222222222
+ ],
+ "label_es": "Castillo de Chambord",
+ "desc_es": "castillo francés en el Valle de Loira",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1519-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q751876"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": true,
+ "eswiki": "Castillo de Chambord",
+ "extracto_es": "El castillo de Chambord (en francés: château de Chambord), en la región del Centro-Valle de Loira, es uno de los châteaus más reconocibles en el mundo debido a su arquitectura renacentista francesa muy distintiva, que mezcla formas tradicionales medievales con estructuras clásicas italianas.​\nEs el castillo más grande de los castillos del Loira, pero fue construido para servir solo como un pabellón de caza para el rey Francisco I, quien mantuvo sus residencias reales en el castillo de Blois y en el castillo de Amboise.\nEn 1840, fue inscrito en la primera lista de monumentos históricos del país​ y declarado Patrimonio de la Humanidad por la Unesco en 1981.​ Actualmente forma parte del conjunto de castillos del Loira que fueron declarados Patrimonio de la Humanidad por la Unesco, como «Valle del Loira entre Sully-sur-Loire y Chalonnes», en 2000.​",
+ "candidatas": [
+  {
+   "file": "File:Aerial image of Château de Chambord (view from the southeast).jpg",
+   "w": 3600,
+   "h": 2700,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Aerial_image_of_Ch%C3%A2teau_de_Chambord_%28view_from_the_southeast%29.jpg/330px-Aerial_image_of_Ch%C3%A2teau_de_Chambord_%28view_from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Aerial_image_of_Ch%C3%A2teau_de_Chambord_%28view_from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Ch%C3%A2teau_de_Chambord_(view_from_the_southeast).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Carsten Steger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-06-18 10:46:13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:France Loir-et-Cher Chambord Chateau 03.jpg",
+   "w": 2258,
+   "h": 1686,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/France_Loir-et-Cher_Chambord_Chateau_03.jpg/330px-France_Loir-et-Cher_Chambord_Chateau_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/France_Loir-et-Cher_Chambord_Chateau_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:France_Loir-et-Cher_Chambord_Chateau_03.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "No machine-readable author provided. Calips assumed (based on copyright claims).",
+   "credito": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "nonfree": "",
+   "fecha": "Taken on 14 July 200",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Château de Chambord at dawn.jpg",
+   "w": 5210,
+   "h": 3025,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Ch%C3%A2teau_de_Chambord_at_dawn.jpg/330px-Ch%C3%A2teau_de_Chambord_at_dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ch%C3%A2teau_de_Chambord_at_dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Chambord_at_dawn.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Clément Bardot",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-03-28 06:53:06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aerial image of Schwerin Castle (view from the east).jpg",
+   "w": 4400,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg/330px-Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Schwerin_Castle_(view_from_the_east).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Carsten Steger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-27 09:56:53",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Chambord Castle Northwest facade.jpg",
+   "w": 15605,
+   "h": 6256,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Chambord_Castle_Northwest_facade.jpg/330px-Chambord_Castle_Northwest_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Chambord_Castle_Northwest_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chambord_Castle_Northwest_facade.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Benh LIEU SONG",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-05-10 16:37:24",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:F - Schloss Chambord 017.jpg",
+   "w": 6016,
+   "h": 3384,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/F_-_Schloss_Chambord_017.jpg/330px-F_-_Schloss_Chambord_017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/F_-_Schloss_Chambord_017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:F_-_Schloss_Chambord_017.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Wolkenkratzer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-05-17 08:33:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Château de Chambord (2).jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ch%C3%A2teau_de_Chambord_%282%29.jpg/330px-Ch%C3%A2teau_de_Chambord_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ch%C3%A2teau_de_Chambord_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Chambord_(2).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tim Tim (VD fr)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-10-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Château de Chambord, 2008.jpg",
+   "w": 3715,
+   "h": 2364,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Ch%C3%A2teau_de_Chambord%2C_2008.jpg/330px-Ch%C3%A2teau_de_Chambord%2C_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ch%C3%A2teau_de_Chambord%2C_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Chambord,_2008.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Michal Osmenda from Brussels, Belgium",
+   "credito": "Château de Chambord",
+   "nonfree": "",
+   "fecha": "2008-08-01 13:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

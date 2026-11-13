@@ -1,0 +1,204 @@
+{
+ "id": "baikal",
+ "enwiki": "Lake Baikal",
+ "endesc": "Freshwater rift lake in Russia",
+ "qid": "Q5513",
+ "coord": [
+  53.30277778,
+  108.00472222
+ ],
+ "label_es": "Baikal",
+ "desc_es": "lago en Rusia",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 455.5,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 31722.0,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 636.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q23397",
+  "Q9259",
+  "Q137690958",
+  "Q3505788"
+ ],
+ "p17": [
+  "Q159"
+ ],
+ "unesco": true,
+ "eswiki": "Lago Baikal",
+ "extracto_es": "El lago Baikal (del ruso: Озеро Байкал; Ózero Baikal) es un lago de origen tectónico, situado en la región sur de Siberia, Rusia, entre el óblast de Irkutsk en el noroeste y Buriatia en el sureste, cerca de la ciudad de Irkutsk. Su nombre deriva del tártaro Bai-Kul, «lago rico». También es conocido como el «Ojo Azul de Siberia» o la «Perla de Asia». Es la segunda reserva de agua dulce más grande del mundo.\nEste lago forma parte del sistema fluvial Yeniséi-Angará-lago Baikal-Selengá-Ider, que tiene una longitud de 5539 km y se considera el quinto río más largo del mundo, tras el Amazonas, Nilo, Yangtsé y el Misisipi-Misuri.\nEs uno de los lagos con menor índice de turbidez en el mundo, registrándose marcas superiores a los 20 metros de profundidad mediante la utilización de discos Secchi.​ Contiene en torno al 20 % del agua dulce no congelada del mundo y con sus 1680 m de profundidad es el lago más profundo del mundo.​ Sobre la orilla oriental del lago vive el pueblo buriato.​ Fue nombrado Patrimonio de la Humanidad por la Unesco en 1996.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Lake Baikal in winter.jpg",
+   "w": 7360,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Lake_Baikal_in_winter.jpg/330px-Lake_Baikal_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lake_Baikal_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Baikal_in_winter.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sergey Pesterev",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-01-30 08:21:55",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Khagdaev 02.jpg",
+   "w": 2870,
+   "h": 2153,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Khagdaev_02.jpg/330px-Khagdaev_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Khagdaev_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Khagdaev_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Аркадий Зарубин",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-07-31 22:14:59",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Kuznetsk Alatau 3.jpg",
+   "w": 3000,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kuznetsk_Alatau_3.jpg/330px-Kuznetsk_Alatau_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Kuznetsk_Alatau_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kuznetsk_Alatau_3.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Dmitry A. Mottl (photographer) & User:Tom_dl",
+   "credito": "File:Kuznetsk Alatau 2.jpg",
+   "nonfree": "",
+   "fecha": "2008-02-25",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Baikal.A2001296.0420.250m-NASA.jpg",
+   "w": 3400,
+   "h": 4400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/330px-Baikal.A2001296.0420.250m-NASA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Baikal.A2001296.0420.250m-NASA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Baikal.A2001296.0420.250m-NASA.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC",
+   "credito": "http://visibleearth.nasa.gov/view_rec.php?id=2239 - http://visibleearth.nasa.gov/images/2239/Baikal.A2001296.0420.500m.jpg - Visible Earth v1 ID 10671",
+   "nonfree": "",
+   "fecha": "Datastart 2001-10-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Olkhon Island and Lake Baikal.jpg",
+   "w": 2000,
+   "h": 3008,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Olkhon_Island_and_Lake_Baikal.jpg/330px-Olkhon_Island_and_Lake_Baikal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Olkhon_Island_and_Lake_Baikal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Olkhon_Island_and_Lake_Baikal.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Jason Rogers",
+   "credito": "originally posted to Flickr as Olkhon Island",
+   "nonfree": "",
+   "fecha": "2008-09-16 07:07:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Chayki v Chivyrkuyskom zalive.JPG",
+   "w": 3821,
+   "h": 2547,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Chayki_v_Chivyrkuyskom_zalive.JPG/330px-Chayki_v_Chivyrkuyskom_zalive.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Chayki_v_Chivyrkuyskom_zalive.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chayki_v_Chivyrkuyskom_zalive.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Аркадий Зарубин",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-07-16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Frozen Lake Baikal. (32419140034).jpg",
+   "w": 3484,
+   "h": 2604,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Frozen_Lake_Baikal._%2832419140034%29.jpg/330px-Frozen_Lake_Baikal._%2832419140034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Frozen_Lake_Baikal._%2832419140034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Frozen_Lake_Baikal._(32419140034).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Simon Matzinger from Austria",
+   "credito": "Frozen Lake Baikal.\n\nAlternative: https://unsplash.com/photos/OkQmQ633vDs Simon Matzinger",
+   "nonfree": "",
+   "fecha": "2011-03-05 18:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Из жизни байкальской нерпы близ Ушканьих островов 02.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_02.jpg/330px-%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nina Zhavoronkova",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-08-13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

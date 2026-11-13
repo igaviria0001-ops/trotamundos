@@ -1,0 +1,198 @@
+{
+ "id": "chefchaouen",
+ "enwiki": "Chefchaouen",
+ "endesc": "City in Tangier-Tetouan-Al Hoceima, Morocco",
+ "qid": "Q676778",
+ "coord": [
+  35.1687748,
+  -5.2683454
+ ],
+ "label_es": "Xauen",
+ "desc_es": "ciudad marroquí situada en el Rif occidental en la región de Akhmas",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1471-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 564.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 15.4,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q515",
+  "Q3327862"
+ ],
+ "p17": [
+  "Q1028"
+ ],
+ "unesco": false,
+ "eswiki": "Chauen",
+ "extracto_es": "Chauen, Xauen (en árabe: شاون‎; pronunciado [ʃawen]) o Chefchauen (en árabe: شفشاون‎, en lenguas bereberes: ⴰⵛⵛⴰⵡⵏ, en francés: Chefchaouen) es un municipio y una ciudad de Marruecos, capital de la provincia del mismo nombre. Está situada en el noroeste del país, en las estribaciones de las montañas del Rif, cerca de Tetuán. Pertenece a la región de Tánger-Tetuán-Alhucemas. En el censo del año 2014 contaba con una población de 42 786 habitantes.​",
+ "candidatas": [
+  {
+   "file": "File:2018 01 (Blue) - Chaouen.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2018_01_%28Blue%29_-_Chaouen.jpg/330px-2018_01_%28Blue%29_-_Chaouen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/2018_01_%28Blue%29_-_Chaouen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018_01_(Blue)_-_Chaouen.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fbrandao.1963",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-01-20 11:22:09",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Chefcha'ouen City , Morocco.jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Chefcha%27ouen_City_%2C_Morocco.jpg/330px-Chefcha%27ouen_City_%2C_Morocco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Chefcha%27ouen_City_%2C_Morocco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chefcha%27ouen_City_,_Morocco.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ismailbrk",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-04-17 16:10:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Chefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg",
+   "w": 6048,
+   "h": 4024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Chefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg/330px-Chefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Badr Rachadi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-03-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Vista de Xauen (2).jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Vista_de_Xauen_%282%29.jpg/330px-Vista_de_Xauen_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Vista_de_Xauen_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Xauen_(2).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "barraquito",
+   "credito": "Flickr: DSC_0120.JPG",
+   "nonfree": "",
+   "fecha": "2008-03-20 13:16:53",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Chefchaouen-blue-city-during-thesunset.jpg",
+   "w": 6048,
+   "h": 4024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Chefchaouen-blue-city-during-thesunset.jpg/330px-Chefchaouen-blue-city-during-thesunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Chefchaouen-blue-city-during-thesunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chefchaouen-blue-city-during-thesunset.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Badr Rachadi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-03-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Chefchaouen-the-blue-city-of-morocco-with-the-mountain-view-in-the-backrgound.jpg",
+   "w": 6048,
+   "h": 4024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Chefchaouen-the-blue-city-of-morocco-with-the-mountain-view-in-the-backrgound.jpg/330px-Chefchaouen-the-blue-city-of-morocco-with-the-mountain-view-in-the-backrgound.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chefchaouen-the-blue-city-of-morocco-with-the-mountain-view-in-the-backrgound.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chefchaouen-the-blue-city-of-morocco-with-the-mountain-view-in-the-backrgound.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Badr Rachadi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-03-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Chefchaouen (55312834484).jpg",
+   "w": 4032,
+   "h": 2268,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Chefchaouen_%2855312834484%29.jpg/330px-Chefchaouen_%2855312834484%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chefchaouen_%2855312834484%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chefchaouen_(55312834484).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Dennis Sylvester Hurd",
+   "credito": "Chefchaouen",
+   "nonfree": "",
+   "fecha": "2026-06-03 21:25:59",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Chefchaouen Jewish Cemetery 23092021 014.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Chefchaouen_Jewish_Cemetery_23092021_014.jpg/330px-Chefchaouen_Jewish_Cemetery_23092021_014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chefchaouen_Jewish_Cemetery_23092021_014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chefchaouen_Jewish_Cemetery_23092021_014.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Yamen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-09-23 11:04:52",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "id": "perlaoriental",
+ "enwiki": "Oriental Pearl Tower",
+ "endesc": "TV tower in Shanghai, China",
+ "qid": "Q223207",
+ "coord": [
+  31.241669444444,
+  121.49471666667
+ ],
+ "label_es": "torre Perla Oriental",
+ "desc_es": "torre de televisión en Shanghai, China",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1998-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 468.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 29.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q11303",
+  "Q1440300",
+  "Q11166728",
+  "Q6838244"
+ ],
+ "p17": [
+  "Q148"
+ ],
+ "unesco": false,
+ "eswiki": "Torre Perla Oriental",
+ "extracto_es": "La Torre de la Perla Oriental (en inglés: Oriental Pearl Tower; en chino simplificado: 东方明珠电视塔; en chino tradicional: 東方明珠電視塔; en pinyin: Dōngfāng Míngzhū diànshì tǎ; en shanghainés: Tonfån Mintsythah) es una torre de telecomunicaciones de 468 metros construida en el distrito de Pudong de la ciudad de Shanghái, en la República Popular China.​ Es uno de los edificios más altos de Asia y la quinta torre de televisión más alta del mundo por detrás de las torres de Toronto (CN Tower), y la de Tokio (Tokyo Skytree).",
+ "candidatas": [
+  {
+   "file": "File:Oriental Pearl Tower in Shanghai.jpg",
+   "w": 2000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Oriental_Pearl_Tower_in_Shanghai.jpg/330px-Oriental_Pearl_Tower_in_Shanghai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Oriental_Pearl_Tower_in_Shanghai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Oriental_Pearl_Tower_in_Shanghai.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dmitry A. Mottl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-12-22 13:46:19",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Oriental Pearl Tower 2012.jpg",
+   "w": 1200,
+   "h": 1800,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Oriental_Pearl_Tower_2012.jpg/330px-Oriental_Pearl_Tower_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Oriental_Pearl_Tower_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Oriental_Pearl_Tower_2012.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Dottie Day",
+   "credito": "https://www.flickr.com/photos/dottieday/6996941176/",
+   "nonfree": "",
+   "fecha": "2012-03-27 14:14:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Shanghai China 9Mar2018 SkySat.jpg",
+   "w": 2051,
+   "h": 1267,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Shanghai_China_9Mar2018_SkySat.jpg/330px-Shanghai_China_9Mar2018_SkySat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Shanghai_China_9Mar2018_SkySat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Shanghai_China_9Mar2018_SkySat.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Planet Labs, Inc",
+   "credito": "https://medium.com/planet-stories/earths-wonders-like-you-ve-never-seen-them-before-ac9e2f39aa56",
+   "nonfree": "",
+   "fecha": "2018-03-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Shanghai, night, towers.JPG",
+   "w": 2728,
+   "h": 1967,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Shanghai%2C_night%2C_towers.JPG/330px-Shanghai%2C_night%2C_towers.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Shanghai%2C_night%2C_towers.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Shanghai,_night,_towers.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Architect: Adrian SmithPhotographer: Architect: Adrian SmithPhotographer: Gerbil",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-07-22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:2010 Shanghai, Viewed from Oriental Pearl Tower 13.jpg",
+   "w": 4752,
+   "h": 3168,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2010_Shanghai%2C_Viewed_from_Oriental_Pearl_Tower_13.jpg/330px-2010_Shanghai%2C_Viewed_from_Oriental_Pearl_Tower_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/2010_Shanghai%2C_Viewed_from_Oriental_Pearl_Tower_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2010_Shanghai,_Viewed_from_Oriental_Pearl_Tower_13.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Gary Todd",
+   "credito": "https://www.flickr.com/photos/101561334@N08/10178983034/",
+   "nonfree": "",
+   "fecha": "2010-09-18 10:52:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2010 Shanghai Expo, Viewed from Oriental Pearl Tower.jpg",
+   "w": 4752,
+   "h": 3168,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2010_Shanghai_Expo%2C_Viewed_from_Oriental_Pearl_Tower.jpg/330px-2010_Shanghai_Expo%2C_Viewed_from_Oriental_Pearl_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/2010_Shanghai_Expo%2C_Viewed_from_Oriental_Pearl_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2010_Shanghai_Expo,_Viewed_from_Oriental_Pearl_Tower.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Gary Todd",
+   "credito": "https://www.flickr.com/photos/101561334@N08/10178984304/",
+   "nonfree": "",
+   "fecha": "2010-09-18 10:50:52",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Oriental pearl tower, Shanghai. Sightseeing Floor.jpg",
+   "w": 4480,
+   "h": 2520,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Oriental_pearl_tower%2C_Shanghai._Sightseeing_Floor.jpg/330px-Oriental_pearl_tower%2C_Shanghai._Sightseeing_Floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Oriental_pearl_tower%2C_Shanghai._Sightseeing_Floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Oriental_pearl_tower,_Shanghai._Sightseeing_Floor.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giuss DL",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-06-15 17:06:23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Shanghaiatnightpic1.jpg",
+   "w": 2461,
+   "h": 1880,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Shanghaiatnightpic1.jpg/330px-Shanghaiatnightpic1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Shanghaiatnightpic1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Shanghaiatnightpic1.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "decade_null",
+   "credito": "Shanghai memories 43",
+   "nonfree": "",
+   "fecha": "2007-05-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  }
+ ]
+}

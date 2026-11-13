@@ -1,0 +1,225 @@
+{
+ "id": "operasydney",
+ "enwiki": "Sydney Opera House",
+ "endesc": "Performing arts centre in Australia",
+ "qid": "Q45178",
+ "coord": [
+  -33.857058,
+  151.214897
+ ],
+ "label_es": "Ópera de Sídney",
+ "desc_es": "edificio de Nueva Gales del Sur, Australia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1973-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1973-10-20T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 67.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 15.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 3.82965264,
+   "u": "Q35852"
+  },
+  {
+   "v": 5.8,
+   "u": "Q35852"
+  },
+  {
+   "v": 438.1,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 7000000.0,
+   "u": "1"
+  },
+  {
+   "v": 10900000.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q153562",
+  "Q2319498",
+  "Q38048707"
+ ],
+ "p17": [
+  "Q408"
+ ],
+ "unesco": true,
+ "eswiki": "Ópera de Sídney",
+ "extracto_es": "La Ópera de Sídney, situada en la ciudad de Sídney, estado de Nueva Gales del Sur, Australia, es uno de los edificios más famosos y distintivos del siglo XX. Declarado en 2007 Patrimonio de la Humanidad, fue diseñado por el arquitecto danés Jørn Utzon en 1957 e inaugurado el 20 de octubre de 1973.\nEn el edificio se realizan obras de teatro, ballet, ópera o producciones musicales. Es sede de la compañía de Ópera de Australia, la Compañía de Teatro de Sídney y la Orquesta Sinfónica de Sídney. Está administrada por la Opera House Trust, un organismo público del gobierno estatal de Nueva Gales del Sur.",
+ "candidatas": [
+  {
+   "file": "File:Sydney Opera House 2026.jpg",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Sydney_Opera_House_2026.jpg/330px-Sydney_Opera_House_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sydney_Opera_House_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "BAVhah",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-10-25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Sydney Opera House Sails.jpg",
+   "w": 2125,
+   "h": 1405,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sydney_Opera_House_Sails.jpg/330px-Sydney_Opera_House_Sails.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sydney_Opera_House_Sails.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_Sails.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "No machine-readable author provided. Roybb95~commonswiki assumed (based on copyright claims).",
+   "credito": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "nonfree": "",
+   "fecha": "27 March 2005 (origi",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Sydney Australia. (21339175489).jpg",
+   "w": 3201,
+   "h": 1965,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sydney_Australia._%2821339175489%29.jpg/330px-Sydney_Australia._%2821339175489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Australia._(21339175489).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Bernard Spragg. NZ from Christchurch, New Zealand",
+   "credito": "Sydney Australia.",
+   "nonfree": "",
+   "fecha": "2015-08-28 14:19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Sydney Opera House (4146540834).jpg",
+   "w": 4130,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Sydney_Opera_House_%284146540834%29.jpg/330px-Sydney_Opera_House_%284146540834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sydney_Opera_House_%284146540834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_(4146540834).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Larry Johnson from New Braunfels, USA",
+   "credito": "Sydney Opera House",
+   "nonfree": "",
+   "fecha": "2009-11-27 07:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Sydney Opera House PD.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Sydney_Opera_House_PD.jpg/330px-Sydney_Opera_House_PD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sydney_Opera_House_PD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_PD.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Telluride749",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-03-19 04:02:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Interior of Sydney Opera House Concert Hall during performance.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Interior_of_Sydney_Opera_House_Concert_Hall_during_performance.jpg/330px-Interior_of_Sydney_Opera_House_Concert_Hall_during_performance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Interior_of_Sydney_Opera_House_Concert_Hall_during_performance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Interior_of_Sydney_Opera_House_Concert_Hall_during_performance.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "BennyG3255",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-11 19:26:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sydney Opera House (30111403413).jpg",
+   "w": 7219,
+   "h": 4818,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sydney_Opera_House_%2830111403413%29.jpg/330px-Sydney_Opera_House_%2830111403413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sydney_Opera_House_%2830111403413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_(30111403413).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Lenny K Photography from Sydney, Australia",
+   "credito": "Sydney Opera House",
+   "nonfree": "",
+   "fecha": "2016-10-17 22:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sydney Opera House (Front 2).jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Sydney_Opera_House_%28Front_2%29.jpg/330px-Sydney_Opera_House_%28Front_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sydney_Opera_House_%28Front_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_(Front_2).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Boyd159",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-04-09 15:06:31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "id": "horseshoe",
+ "enwiki": "Horseshoe Bend (Arizona)",
+ "endesc": "Landform in the Colorado River, Coconino County, Arizona",
+ "qid": "Q1064449",
+ "coord": [
+  36.879444444444,
+  -111.51388888889
+ ],
+ "label_es": "Curva de la Herradura",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 980.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q180537"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Curva de la Herradura",
+ "extracto_es": "La Curva de la Herradura es el nombre del meandro en forma de herradura del río Colorado situado cerca de la ciudad de Page, Arizona, en los Estados Unidos. Está situada río abajo de la presa del Cañón de Glen y del lago Powell situado en la Glen Canyon National Recreation Area, a 6 km de Page.",
+ "candidatas": [
+  {
+   "file": "File:Grand Canyon Horseshoe Bend.jpg",
+   "w": 21995,
+   "h": 11706,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Grand_Canyon_Horseshoe_Bend.jpg/330px-Grand_Canyon_Horseshoe_Bend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Grand_Canyon_Horseshoe_Bend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Horseshoe_Bend.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 7 August 20",
+   "calidad": [
+    "FP",
+    "VI"
+   ],
+   "qpts": 8,
+   "puntos": 19,
+   "origen": "en"
+  },
+  {
+   "file": "File:USA 10187 Horseshoe Bend Luca Galuzzi 2007.jpg",
+   "w": 2000,
+   "h": 1333,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/USA_10187_Horseshoe_Bend_Luca_Galuzzi_2007.jpg/330px-USA_10187_Horseshoe_Bend_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/USA_10187_Horseshoe_Bend_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:USA_10187_Horseshoe_Bend_Luca_Galuzzi_2007.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Luca Galuzzi (Lucag)",
+   "credito": "Photo taken by (Luca Galuzzi) * http://www.galuzzi.it",
+   "nonfree": "",
+   "fecha": "2007-07-21",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "es"
+  },
+  {
+   "file": "File:Grand Canyon Horseshoe Bend (crop 2).jpg",
+   "w": 17007,
+   "h": 11110,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Grand_Canyon_Horseshoe_Bend_%28crop_2%29.jpg/330px-Grand_Canyon_Horseshoe_Bend_%28crop_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Grand_Canyon_Horseshoe_Bend_%28crop_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Horseshoe_Bend_(crop_2).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 7 August 20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Horseshoe Bend overview.jpg",
+   "w": 5616,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Horseshoe_Bend_overview.jpg/330px-Horseshoe_Bend_overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Horseshoe_Bend_overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Horseshoe_Bend_overview.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Daniel Schwen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-09-19 12:52:08",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Horseshoe Bend 13 February 2023.jpg",
+   "w": 3880,
+   "h": 2182,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Horseshoe_Bend_13_February_2023.jpg/330px-Horseshoe_Bend_13_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Horseshoe_Bend_13_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Horseshoe_Bend_13_February_2023.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Charles Wang",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-02-13 15:39:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Horseshoe Bend at sunset.jpg",
+   "w": 7008,
+   "h": 4672,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Horseshoe_Bend_at_sunset.jpg/330px-Horseshoe_Bend_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Horseshoe_Bend_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Horseshoe_Bend_at_sunset.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "",
+   "credito": "Own work\n\nauthor=Nils Huenerfuerst",
+   "nonfree": "",
+   "fecha": "2024-06-18 20:47:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Horse Shoe Bend Hike.jpg",
+   "w": 4008,
+   "h": 2633,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Horse_Shoe_Bend_Hike.jpg/330px-Horse_Shoe_Bend_Hike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Horse_Shoe_Bend_Hike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Horse_Shoe_Bend_Hike.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Drums600",
+   "credito": "Personal camera",
+   "nonfree": "",
+   "fecha": "2019-08-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Horseshoe Bend, Arizona with Fisheye.jpg",
+   "w": 5863,
+   "h": 3914,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Horseshoe_Bend%2C_Arizona_with_Fisheye.jpg/330px-Horseshoe_Bend%2C_Arizona_with_Fisheye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Horseshoe_Bend%2C_Arizona_with_Fisheye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Horseshoe_Bend,_Arizona_with_Fisheye.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Daniel Oberhaus",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 19 April 20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

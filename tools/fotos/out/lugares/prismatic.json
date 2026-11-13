@@ -1,0 +1,192 @@
+{
+ "id": "prismatic",
+ "enwiki": "Grand Prismatic Spring",
+ "endesc": "Largest hot spring in the United States",
+ "qid": "Q1422831",
+ "coord": [
+  44.525,
+  -110.83805555555556
+ ],
+ "label_es": "Gran Fuente Prismática",
+ "desc_es": null,
+ "inicio": [],
+ "p31": [
+  "Q177380"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Gran Fuente Prismática",
+ "extracto_es": "La Gran Fuente Prismática, o también conocida en inglés como 'Grand Prismatic Spring', en el parque nacional Yellowstone es la mayor fuente  de aguas termales en los Estados Unidos, y la tercera más grande del mundo,​ detrás del lago Frying Pan en Nueva Zelanda y del lago Boiling en Dominica. Se encuentra en la cuenca del Midway Geyser en el estado de Wyoming.",
+ "candidatas": [
+  {
+   "file": "File:Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg",
+   "w": 6639,
+   "h": 4350,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/330px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Grand_Prismatic_Spring_--_2022_--_2514.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dietmar Rabich",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 22 June 202",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Aerial image of Grand Prismatic Spring (view from the south).jpg",
+   "w": 4800,
+   "h": 3400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg/330px-Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Grand_Prismatic_Spring_(view_from_the_south).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Carsten Steger",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-08-10 11:06:08",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 21,
+   "origen": "en"
+  },
+  {
+   "file": "File:Grand prismatic spring.jpg",
+   "w": 1999,
+   "h": 1277,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Grand_prismatic_spring.jpg/330px-Grand_prismatic_spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Grand_prismatic_spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_prismatic_spring.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Jim Peaco, National Park Service",
+   "credito": "https://www.nps.gov/features/yell/slidefile/thermalfeatures/hotspringsterraces/midwaylower/Images/17708.jpg\n\ntransferred from the English Wikipedia, original upload 1 April 2004 by ChrisO",
+   "nonfree": "",
+   "fecha": "2001-07",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Grand Prismatic Spring.jpg",
+   "w": 2911,
+   "h": 1917,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Grand_Prismatic_Spring.jpg/330px-Grand_Prismatic_Spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Grand_Prismatic_Spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_Prismatic_Spring.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Clément Bardot",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-03 19:39:24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rim of Grand Prismatic Spring 2017 03.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Rim_of_Grand_Prismatic_Spring_2017_03.jpg/330px-Rim_of_Grand_Prismatic_Spring_2017_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Rim_of_Grand_Prismatic_Spring_2017_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rim_of_Grand_Prismatic_Spring_2017_03.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Dirtsc",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-09-07 09:32:33",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rim of Grand Prismatic Spring 2017 09.jpg",
+   "w": 5106,
+   "h": 3404,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Rim_of_Grand_Prismatic_Spring_2017_09.jpg/330px-Rim_of_Grand_Prismatic_Spring_2017_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Rim_of_Grand_Prismatic_Spring_2017_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rim_of_Grand_Prismatic_Spring_2017_09.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Dirtsc",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-09-07 09:37:24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rim of Grand Prismatic Spring 2017 07.jpg",
+   "w": 5176,
+   "h": 3450,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Rim_of_Grand_Prismatic_Spring_2017_07.jpg/330px-Rim_of_Grand_Prismatic_Spring_2017_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Rim_of_Grand_Prismatic_Spring_2017_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rim_of_Grand_Prismatic_Spring_2017_07.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Dirtsc",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-09-07 09:34:33",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Grand Prismatic Spring 2013.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Grand_Prismatic_Spring_2013.jpg/330px-Grand_Prismatic_Spring_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grand_Prismatic_Spring_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_Prismatic_Spring_2013.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "James St. John from Newark, Ohio",
+   "credito": "Flickr",
+   "nonfree": "",
+   "fecha": "2013-06-05 18:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

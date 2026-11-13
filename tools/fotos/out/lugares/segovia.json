@@ -1,0 +1,211 @@
+{
+ "id": "segovia",
+ "enwiki": "Aqueduct of Segovia",
+ "endesc": "Roman aqueduct in Segovia, Spain",
+ "qid": "Q244947",
+ "coord": [
+  40.94788888888889,
+  -4.117805555555556
+ ],
+ "label_es": "Acueducto de Segovia",
+ "desc_es": "acueducto romano declarado Patrimonio de la Humanidad",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0200-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "altura": [
+  {
+   "v": 28.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 17.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q3397526",
+  "Q158438",
+  "Q811165",
+  "Q13218676"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Acueducto de Segovia",
+ "extracto_es": "El Acueducto de Segovia es un acueducto que llevaba agua a la ciudad española de Segovia hasta 1973.​ Su construcción data de principios del siglo II d. C., a finales del reinado del emperador Trajano o principios del de Adriano, durante el imperio romano. La parte más visible, y por lo tanto famosa, es la arquería que cruza la plaza del Azoguejo.\nEn 1884 fue declarado monumento nacional,​\npor lo que es bien de interés cultural con categoría de Monumento.​​\nEn 1985 fue declarado patrimonio de la humanidad junto con la ciudad antigua.​",
+ "candidatas": [
+  {
+   "file": "File:Segovia - Aqueduct - 2.jpg",
+   "w": 5445,
+   "h": 3636,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Segovia_-_Aqueduct_-_2.jpg/330px-Segovia_-_Aqueduct_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Segovia_-_Aqueduct_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Segovia_-_Aqueduct_-_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benjamin Smith",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-21 16:00:11",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aqueduct of Segovia 08.jpg",
+   "w": 3456,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Aqueduct_of_Segovia_08.jpg/330px-Aqueduct_of_Segovia_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Aqueduct_of_Segovia_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aqueduct_of_Segovia_08.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Aqueduct of Segovia 02.jpg",
+   "w": 3446,
+   "h": 2412,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Aqueduct_of_Segovia_02.jpg/330px-Aqueduct_of_Segovia_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Aqueduct_of_Segovia_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aqueduct_of_Segovia_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "es"
+  },
+  {
+   "file": "File:Acueducto, Segovia, España, 2024-06-14, DD 10.jpg",
+   "w": 5798,
+   "h": 5516,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Acueducto%2C_Segovia%2C_Espa%C3%B1a%2C_2024-06-14%2C_DD_10.jpg/330px-Acueducto%2C_Segovia%2C_Espa%C3%B1a%2C_2024-06-14%2C_DD_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Acueducto%2C_Segovia%2C_Espa%C3%B1a%2C_2024-06-14%2C_DD_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Acueducto,_Segovia,_Espa%C3%B1a,_2024-06-14,_DD_10.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-06-14 12:36:34",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 14,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aqueduct of Segovia 01.jpg",
+   "w": 3113,
+   "h": 2172,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Aqueduct_of_Segovia_01.jpg/330px-Aqueduct_of_Segovia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Aqueduct_of_Segovia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aqueduct_of_Segovia_01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Roman Aqueduct Segovia night 2012 Spain.jpg",
+   "w": 3992,
+   "h": 2002,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Roman_Aqueduct_Segovia_night_2012_Spain.jpg/330px-Roman_Aqueduct_Segovia_night_2012_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Roman_Aqueduct_Segovia_night_2012_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Roman_Aqueduct_Segovia_night_2012_Spain.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Jebulon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-07-21 22:22:25",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Aqueduct of Segovia, Segovia, Spain, April 2015.jpg",
+   "w": 4586,
+   "h": 3426,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Aqueduct_of_Segovia%2C_Segovia%2C_Spain%2C_April_2015.jpg/330px-Aqueduct_of_Segovia%2C_Segovia%2C_Spain%2C_April_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Aqueduct_of_Segovia%2C_Segovia%2C_Spain%2C_April_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aqueduct_of_Segovia,_Segovia,_Spain,_April_2015.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "MonsieurNapoléon",
+   "credito": "Taken during trip to Spain\n\nPreviously published: No",
+   "nonfree": "",
+   "fecha": "2015-04-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aqueduct of Segovia 2018.jpg",
+   "w": 4160,
+   "h": 3120,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Aqueduct_of_Segovia_2018.jpg/330px-Aqueduct_of_Segovia_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Aqueduct_of_Segovia_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aqueduct_of_Segovia_2018.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "G41rn8",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-10-10 12:54:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

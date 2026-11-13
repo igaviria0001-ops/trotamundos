@@ -1,0 +1,204 @@
+{
+ "id": "ngorongoro",
+ "enwiki": "Ngorongoro Conservation Area",
+ "endesc": "Protected area and a World Heritage Site in Arusha Region, Tanzania",
+ "qid": "Q1217726",
+ "coord": [
+  -3.21,
+  35.46
+ ],
+ "label_es": "Zona de conservación de Ngorongoro",
+ "desc_es": "área protegida en Tanzania",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1959-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 8292.0,
+   "u": "Q712226"
+  },
+  {
+   "v": 809440.0,
+   "u": "Q35852"
+  }
+ ],
+ "largo": [
+  {
+   "v": 21.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q473972"
+ ],
+ "p17": [
+  "Q924"
+ ],
+ "unesco": true,
+ "eswiki": "Zona de conservación de Ngorongoro",
+ "extracto_es": "La Zona de conservación de Ngorongoro (en inglés: Ngorongoro Conservation Area) es una zona protegida situada a 180 km al oeste de la ciudad de Arusha, en las tierras altas volcánicas de Tanzania. La delimitación de la zona de conservación va a lo largo de la frontera del Distrito de Ngorongoro. La zona protegida cubre una extensión de 8288 km². \nEn el Área de Conservación de Ngorongoro podemos encontrar nueve volcanes, de los cuales solo uno de ellos está activo, el Oldoinyo Lengai. Así mismo, se encuentran dos de los sitios con mayor interés de Tanzania y renombre mundial, el impresionante Cráter de Ngorongoro y la Garganta de Olduvai, uno de los sitios más importantes para la investigación de la evolución de la especie humana.",
+ "candidatas": [
+  {
+   "file": "File:Ngorongo 1.jpg",
+   "w": 2048,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ngorongo_1.jpg/330px-Ngorongo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ngorongo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ngorongo_1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jantjeerkamp at Dutch Wikipedia",
+   "credito": "Transferred from nl.wikipedia to Commons.",
+   "nonfree": "",
+   "fecha": "13 February 2007 (or",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Paisaje en la zona de conservación de Ngorongoro, Tanzania, 2024-05-27, DD 56.jpg",
+   "w": 8112,
+   "h": 5408,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Paisaje_en_la_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_56.jpg/330px-Paisaje_en_la_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_56.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Paisaje_en_la_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_56.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Paisaje_en_la_zona_de_conservaci%C3%B3n_de_Ngorongoro,_Tanzania,_2024-05-27,_DD_56.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-05-27 12:21:42",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ngorongoro-1001-2.jpg",
+   "w": 2981,
+   "h": 1677,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Ngorongoro-1001-2.jpg/330px-Ngorongoro-1001-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ngorongoro-1001-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ngorongoro-1001-2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Grahampurse",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "27 January 2017 (upl",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Anochecer en la zona de conservación de Ngorongoro, Tanzania, 2024-05-27, DD 66-68 HDR.jpg",
+   "w": 6926,
+   "h": 3755,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Anochecer_en_la_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_66-68_HDR.jpg/330px-Anochecer_en_la_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_66-68_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Anochecer_en_la_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_66-68_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anochecer_en_la_zona_de_conservaci%C3%B3n_de_Ngorongoro,_Tanzania,_2024-05-27,_DD_66-68_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-05-27 18:58:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ngorongoro Crater Overview.jpg",
+   "w": 1756,
+   "h": 1148,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Ngorongoro_Crater_Overview.jpg/330px-Ngorongoro_Crater_Overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ngorongoro_Crater_Overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ngorongoro_Crater_Overview.jpg",
+   "licencia": "GFDL 1.2",
+   "licurl": "",
+   "autor": "Muhammad Mahdi Karim",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Milvus aegyptius parasitus Ngorongoro Conservation Area 2.jpg",
+   "w": 1779,
+   "h": 1337,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Milvus_aegyptius_parasitus_Ngorongoro_Conservation_Area_2.jpg/330px-Milvus_aegyptius_parasitus_Ngorongoro_Conservation_Area_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Milvus_aegyptius_parasitus_Ngorongoro_Conservation_Area_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Milvus_aegyptius_parasitus_Ngorongoro_Conservation_Area_2.jpg",
+   "licencia": "CC BY-SA 2.5 ch",
+   "licurl": "cc-by-sa-2.5-ch",
+   "autor": "Leyo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-10",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lion Serengeti.JPG",
+   "w": 4352,
+   "h": 2787,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lion_Serengeti.JPG/330px-Lion_Serengeti.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lion_Serengeti.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lion_Serengeti.JPG",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "SajjadF",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-12-26 18:08:21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ngorongoro 2012 05 29 2281 (7500939612).jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ngorongoro_2012_05_29_2281_%287500939612%29.jpg/330px-Ngorongoro_2012_05_29_2281_%287500939612%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ngorongoro_2012_05_29_2281_%287500939612%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ngorongoro_2012_05_29_2281_(7500939612).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Harvey Barrison from Massapequa, NY, USA",
+   "credito": "Ngorongoro_2012 05 29_2281\n\nUploaded by Elitre",
+   "nonfree": "",
+   "fecha": "2012-05-29 18:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

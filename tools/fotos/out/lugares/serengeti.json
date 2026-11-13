@@ -1,0 +1,221 @@
+{
+ "id": "serengeti",
+ "enwiki": "Serengeti National Park",
+ "endesc": "National park in Tanzania",
+ "qid": "Q11812902",
+ "coord": [
+  -2.4,
+  34.6
+ ],
+ "label_es": "Parque nacional Serengueti",
+ "desc_es": "parque nacional en Tanzania",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1940-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 1476300.0,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 430219.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q955236",
+  "Q46169"
+ ],
+ "p17": [
+  "Q924"
+ ],
+ "unesco": true,
+ "eswiki": "Parque nacional Serengueti",
+ "extracto_es": "El  Parque Nacional Serengueti es un parque nacional de grandes proporciones (13 000 km²) en  Tanzania, África. Es famoso por las migraciones anuales de miles de ñúes. \nLos cinco grandes animales del parque, así llamados por los cazadores desde hace años, son el león, el leopardo, el elefante, el rinoceronte y el búfalo cafre. El parque también es el hábitat de hienas, guepardos, cebras, aves rapaces y muchas otras especies.\nCerca del parque se encuentra la Garganta de Olduvai, donde se han encontrado muchos fósiles y artefactos de homínidos. El parque es limítrofe con la Zona de conservación de Ngorongoro, que forma parte del gran ecosistema del Serengueti.\nPrácticamente no hay asentamientos permanentes en el Serengeti y está prohibido establecerse allí. Solo los funcionarios de supervisión, los científicos y el personal de la oficina de turismo viven en el área del parque nacional. El asentamiento más grande, Seronera, alberga la sede y la pista de aterrizaje del parque nacional. La mayoría de los científicos también viven allí.",
+ "candidatas": [
+  {
+   "file": "File:036 Usambiro barbet in the Serengeti National Park Photo by Giles Laurent.jpg",
+   "w": 3974,
+   "h": 2649,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/036_Usambiro_barbet_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-036_Usambiro_barbet_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/036_Usambiro_barbet_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:036_Usambiro_barbet_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work, from gileslaurent.com",
+   "nonfree": "",
+   "fecha": "2024-07-10 09:09:20",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 18,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:022 Grant's gazelle in the Serengeti National Park Photo by Giles Laurent.jpg",
+   "w": 8502,
+   "h": 5668,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/022_Grant%27s_gazelle_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-022_Grant%27s_gazelle_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/022_Grant%27s_gazelle_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:022_Grant%27s_gazelle_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work, from gileslaurent.com",
+   "nonfree": "",
+   "fecha": "2024-07-09 14:23:08",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:023 African wolf in the Serengeti National Park Photo by Giles Laurent.jpg",
+   "w": 5154,
+   "h": 3436,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/023_African_wolf_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-023_African_wolf_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/023_African_wolf_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:023_African_wolf_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work, from gileslaurent.com",
+   "nonfree": "",
+   "fecha": "Taken on 9 July 2024",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:043 Little bee-eater in the Serengeti National Park Photo by Giles Laurent.jpg",
+   "w": 4791,
+   "h": 3194,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/043_Little_bee-eater_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-043_Little_bee-eater_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/043_Little_bee-eater_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:043_Little_bee-eater_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work, from gileslaurent.com",
+   "nonfree": "",
+   "fecha": "2024-07-11 11:50:20",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:046 Fischer's lovebird in the Serengeti National Park Photo by Giles Laurent.jpg",
+   "w": 3367,
+   "h": 2245,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/046_Fischer%27s_lovebird_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-046_Fischer%27s_lovebird_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/046_Fischer%27s_lovebird_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:046_Fischer%27s_lovebird_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work, from gileslaurent.com",
+   "nonfree": "",
+   "fecha": "2024-07-11 13:08:58",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:031 Saddle-billed stork in flight in the Serengeti National Park Photo by Giles Laurent.jpg",
+   "w": 3875,
+   "h": 2583,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/031_Saddle-billed_stork_in_flight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-031_Saddle-billed_stork_in_flight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/031_Saddle-billed_stork_in_flight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:031_Saddle-billed_stork_in_flight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work, from gileslaurent.com",
+   "nonfree": "",
+   "fecha": "2024-07-10 08:50:26",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:030 Lilac-breasted roller in flight in the Serengeti National Park Photo by Giles Laurent.jpg",
+   "w": 4204,
+   "h": 2803,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/030_Lilac-breasted_roller_in_flight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-030_Lilac-breasted_roller_in_flight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/030_Lilac-breasted_roller_in_flight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:030_Lilac-breasted_roller_in_flight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work, from gileslaurent.com",
+   "nonfree": "",
+   "fecha": "2024-07-10 08:41:17",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:048 Hippopotamus fight in the Serengeti National Park Photo by Giles Laurent.jpg",
+   "w": 3855,
+   "h": 2570,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work, from gileslaurent.com",
+   "nonfree": "",
+   "fecha": "2024-07-11 13:57:39",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  }
+ ]
+}

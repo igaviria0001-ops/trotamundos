@@ -1,0 +1,205 @@
+{
+ "id": "lencois",
+ "enwiki": "Lençóis Maranhenses National Park",
+ "endesc": "National park in Maranhão, Brazil",
+ "qid": "Q647777",
+ "coord": [
+  -2.4833333333333334,
+  -43.13333333333333
+ ],
+ "label_es": "Parque Nacional de los Lençóis Maranhenses",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1981-06-02T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "area": [
+  {
+   "v": 1566.0,
+   "u": "Q712226"
+  },
+  {
+   "v": 149259.0,
+   "u": "Q35852"
+  },
+  {
+   "v": 7303.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q46169",
+  "Q9259",
+  "Q386426"
+ ],
+ "p17": [
+  "Q155"
+ ],
+ "unesco": true,
+ "eswiki": "Parque nacional de los Lençóis Maranhenses",
+ "extracto_es": "El Parque Nacional de los Lençóis Maranhenses es un sitio de conservación de la naturaleza brasileña. Es un área protegida integral ubicada en la región nordeste del estado de Maranhão. El territorio del parque, con una superficie de 156.584 ha, está distribuido por los municipios de Barreirinhas, Primeira Cruz y Santo Amaro do Maranhão.​ El parque fue creado con el objetivo principal de la \"protección de la flora, la fauna y la belleza natural, que están en el sitio.\"​\nInsertado en el bioma costero marino, el parque es un exponente de los ecosistemas de manglares, restinga y dunas, asociado a vientos fuertes y lluvias regulares. Su gran belleza escénica, junto con los paseos por los campos de dunas y la posibilidad de bañarse en las lagunas, atraen turistas de todo el mundo, que visitan el parque durante todo el año.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Lençóis Maranhenses 2018.jpg",
+   "w": 5061,
+   "h": 6720,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/330px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Len%C3%A7%C3%B3is_Maranhenses_2018.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Julius Dadalti",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-06-20 10:55:28",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 19,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Parque Nacional dos Lençóis Maranhenses Paulo Cattelan (03).jpg",
+   "w": 6016,
+   "h": 4016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Parque_Nacional_dos_Len%C3%A7%C3%B3is_Maranhenses_Paulo_Cattelan_%2803%29.jpg/330px-Parque_Nacional_dos_Len%C3%A7%C3%B3is_Maranhenses_Paulo_Cattelan_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Parque_Nacional_dos_Len%C3%A7%C3%B3is_Maranhenses_Paulo_Cattelan_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_dos_Len%C3%A7%C3%B3is_Maranhenses_Paulo_Cattelan_(03).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Paulo Cattelan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-07-05 16:14:55",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Duas cores fortes.jpg",
+   "w": 5456,
+   "h": 3632,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Duas_cores_fortes.jpg/330px-Duas_cores_fortes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Duas_cores_fortes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Duas_cores_fortes.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Susi Becker",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-07-11 16:41:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Lençóis Maranhenses Roberto Silva 20.jpg",
+   "w": 4000,
+   "h": 2667,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Len%C3%A7%C3%B3is_Maranhenses_Roberto_Silva_20.jpg/330px-Len%C3%A7%C3%B3is_Maranhenses_Roberto_Silva_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Len%C3%A7%C3%B3is_Maranhenses_Roberto_Silva_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Len%C3%A7%C3%B3is_Maranhenses_Roberto_Silva_20.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rocsilva",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-28 17:45:50",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ruínas 1.jpg",
+   "w": 4914,
+   "h": 3197,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ru%C3%ADnas_1.jpg/330px-Ru%C3%ADnas_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ru%C3%ADnas_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ru%C3%ADnas_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ian Storni Machado",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-02 15:32:30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Mar2024. Lençóis Maranhenses, Maranhão, Brazil Lencois 01.jpg",
+   "w": 4608,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Mar2024._Len%C3%A7%C3%B3is_Maranhenses%2C_Maranh%C3%A3o%2C_Brazil_Lencois_01.jpg/330px-Mar2024._Len%C3%A7%C3%B3is_Maranhenses%2C_Maranh%C3%A3o%2C_Brazil_Lencois_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mar2024._Len%C3%A7%C3%B3is_Maranhenses%2C_Maranh%C3%A3o%2C_Brazil_Lencois_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mar2024._Len%C3%A7%C3%B3is_Maranhenses,_Maranh%C3%A3o,_Brazil_Lencois_01.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Ridiculopathy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-03-19 13:35:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mar2024. Lençóis Maranhenses, Maranhão, Brazil Lencois 02.jpg",
+   "w": 4608,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mar2024._Len%C3%A7%C3%B3is_Maranhenses%2C_Maranh%C3%A3o%2C_Brazil_Lencois_02.jpg/330px-Mar2024._Len%C3%A7%C3%B3is_Maranhenses%2C_Maranh%C3%A3o%2C_Brazil_Lencois_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mar2024._Len%C3%A7%C3%B3is_Maranhenses%2C_Maranh%C3%A3o%2C_Brazil_Lencois_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mar2024._Len%C3%A7%C3%B3is_Maranhenses,_Maranh%C3%A3o,_Brazil_Lencois_02.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Ridiculopathy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-03-19 13:35:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mar2024. Lençóis Maranhenses, Maranhão, Brazil Lencois 07.jpg",
+   "w": 4608,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Mar2024._Len%C3%A7%C3%B3is_Maranhenses%2C_Maranh%C3%A3o%2C_Brazil_Lencois_07.jpg/330px-Mar2024._Len%C3%A7%C3%B3is_Maranhenses%2C_Maranh%C3%A3o%2C_Brazil_Lencois_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Mar2024._Len%C3%A7%C3%B3is_Maranhenses%2C_Maranh%C3%A3o%2C_Brazil_Lencois_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mar2024._Len%C3%A7%C3%B3is_Maranhenses,_Maranh%C3%A3o,_Brazil_Lencois_07.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Ridiculopathy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-03-19 13:53:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

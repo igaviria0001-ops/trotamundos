@@ -1,0 +1,220 @@
+{
+ "id": "cristo",
+ "enwiki": "Christ the Redeemer (statue)",
+ "endesc": "Colossal statue in Rio de Janeiro, Brazil",
+ "qid": "Q79961",
+ "coord": [
+  -22.951915648887244,
+  -43.21046412278801
+ ],
+ "label_es": "Cristo Redentor",
+ "desc_es": "estatua gigante de Jesucristo en Río de Janeiro, Brasil y una de las 7 maravillas del mundo moderno",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1920-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1931-10-12T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 30.1,
+   "u": "Q11573"
+  },
+  {
+   "v": 8.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 710.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q29168169",
+  "Q15135589",
+  "Q1779653",
+  "Q179700",
+  "Q4989906"
+ ],
+ "p17": [
+  "Q155"
+ ],
+ "unesco": false,
+ "eswiki": "Cristo Redentor",
+ "extracto_es": "El Cristo Redentor o Cristo del Corcovado (en portugués: Cristo do Corcovado) es una estatua art déco que representa a Jesús de Nazaret, con los brazos abiertos, mostrando a la ciudad de Río de Janeiro, Brasil. La estatua situada en la cima del cerro Corcovado se encuentra a 709 metros sobre el nivel del mar, dominando una parte considerable de la ciudad brasileña de Río de Janeiro. Está construido con hormigón armado y piedra jabón.​​​\nLa estatua tiene una altura de treinta metros sobre un pedestal de ocho metros.​​ Este monumento fue inaugurado el 12 de octubre de 1931 después de aproximadamente 5 años de construcción. Con 30 m (38 con el pedestal), es la 14.ª estatua de Jesús de Nazaret más grande del mundo, detrás de Cristo de Chiapas, 3 en Indonesia, Cristo Protector en Brasil, estatua de Cristo Rey de Świebodzin (Polonia), de 36 m, el Cristo de la Concordia de Cochabamba (Bolivia), de 34.2 m, y el Cristo Redentor de Tihuatlan (México), de 31.5 m.​​ \nEs la estatua más alta del mundo de estilo Art Déco.​ Sus brazos se extienden 28 metros de ancho y la estructura pesa 1145 toneladas.​\nEl monumento forma parte de un santuario Católico y la archidiócesis de Río de Janeiro gestiona la estatua y la meseta mirador, además de ser responsable del mantenimiento y las celebraciones en la zona. El derecho de gestión del lugar fue concedido por la Unión a la Archidiócesis de Río en la década de 1930, pero el acceso a la estatua se realiza a través del Parque Nacional da Tijuca, gestionado por el Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).\nLa idea de construir una gran estatua en la cima del Corcovado se sugirió por primera vez a mediados del siglo XIX,​ pero fue el Círculo Católico de Río de Janeiro el que consiguió las donaciones necesarias para poner en práctica la idea a principios del siglo XX.​ El monumento fue construido en Francia en 1922 mediante una colaboración entre los brasileños Heitor da Silva Costa y Carlos Oswald, los franceses Paul Landowski y Albert Caquot y el rumano Gheorghe Leonida. Fue inaugurado el 12 de octubre de 1931, fiesta de Nuestra Señora de Aparecida.​​​ \nSímbolo del cristianismo, el Cristo Redentor también se ha convertido en un icono cultural de Río de Janeiro, Brasil y Latinoamérica en su conjunto,​ y es retratado en el cine, la televisión y la música.\nEl monumento es un importante punto turístico, que recibe una media de 2 millones de visitantes al año.​ En 2012, la UNESCO consideró al Cristo Redentor como p",
+ "candidatas": [
+  {
+   "file": "File:Redentor Over Clouds 1.jpg",
+   "w": 4032,
+   "h": 2688,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Redentor_Over_Clouds_1.jpg/330px-Redentor_Over_Clouds_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Redentor_Over_Clouds_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Redentor_Over_Clouds_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Donatas Dabravolskas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-04-11 06:10:02",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 19,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Rio skyline and Cristo Redentor from Sugarloaf Mountain, Brazil.jpg",
+   "w": 8025,
+   "h": 4834,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Rio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain%2C_Brazil.jpg/330px-Rio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain,_Brazil.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-03 15:07:43",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Christ the Redeemer - Cristo Redentor.jpg",
+   "w": 2497,
+   "h": 3744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/330px-Christ_the_Redeemer_-_Cristo_Redentor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+   "licencia": "CC BY-SA 3.0 de",
+   "licurl": "cc-by-sa-3.0-de",
+   "autor": "Arne Müseler",
+   "credito": "own work\nhttp://www.arne-mueseler.com",
+   "nonfree": "",
+   "fecha": "2022-02-16",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 15,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Corcovado sunset silhouette.jpg",
+   "w": 3080,
+   "h": 2200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Corcovado_sunset_silhouette.jpg/330px-Corcovado_sunset_silhouette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Corcovado_sunset_silhouette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Corcovado_sunset_silhouette.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jay.Jarosz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-10-24",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Unique Moment with the Moon and Christ the Redeemer 3.jpg",
+   "w": 3450,
+   "h": 2300,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Unique_Moment_with_the_Moon_and_Christ_the_Redeemer_3.jpg/330px-Unique_Moment_with_the_Moon_and_Christ_the_Redeemer_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Unique_Moment_with_the_Moon_and_Christ_the_Redeemer_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Unique_Moment_with_the_Moon_and_Christ_the_Redeemer_3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Donatas Dabravolskas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-20 07:47:37",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Cristo Redentor me too (7355688898).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Cristo_Redentor_me_too_%287355688898%29.jpg/330px-Cristo_Redentor_me_too_%287355688898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Cristo_Redentor_me_too_%287355688898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cristo_Redentor_me_too_(7355688898).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Jim Killock",
+   "credito": "Cristo Redentor: me too",
+   "nonfree": "",
+   "fecha": "2012-05-29 15:11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Estátua do Cristo Redentor nas cores da Bandeira do Brasil.jpg",
+   "w": 3506,
+   "h": 2337,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Est%C3%A1tua_do_Cristo_Redentor_nas_cores_da_Bandeira_do_Brasil.jpg/330px-Est%C3%A1tua_do_Cristo_Redentor_nas_cores_da_Bandeira_do_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Est%C3%A1tua_do_Cristo_Redentor_nas_cores_da_Bandeira_do_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Est%C3%A1tua_do_Cristo_Redentor_nas_cores_da_Bandeira_do_Brasil.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Isac Nóbrega/PR",
+   "credito": "https://www.flickr.com/photos/micheltemer/44944934544/in/album-72157701542829661/",
+   "nonfree": "",
+   "fecha": "2018-10-12 21:01:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Marc Ferrez - IMS 007A6P4FP15-015.jpg",
+   "w": 5450,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Marc_Ferrez_-_IMS_007A6P4FP15-015.jpg/330px-Marc_Ferrez_-_IMS_007A6P4FP15-015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Marc_Ferrez_-_IMS_007A6P4FP15-015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Marc_Ferrez_-_IMS_007A6P4FP15-015.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "",
+   "credito": "Instituto Moreira Salles",
+   "nonfree": "",
+   "fecha": "between 1880 and 190",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

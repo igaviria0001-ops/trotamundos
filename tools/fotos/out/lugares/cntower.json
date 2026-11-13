@@ -1,0 +1,226 @@
+{
+ "id": "cntower",
+ "enwiki": "CN Tower",
+ "endesc": "Communications and observation tower in Toronto, Canada",
+ "qid": "Q134883",
+ "coord": [
+  43.642752777778,
+  -79.387147222222
+ ],
+ "label_es": "Torre CN",
+ "desc_es": "torre de comunicaciones y observación en el centro de Toronto, Canadá",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1976-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1976-06-26T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 553.3,
+   "u": "Q11573"
+  },
+  {
+   "v": 447.0,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 1500000.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q11166728",
+  "Q1440300",
+  "Q2319498"
+ ],
+ "p17": [
+  "Q16"
+ ],
+ "unesco": false,
+ "eswiki": "CN Tower",
+ "extracto_es": "La CN Tower (en francés: Tour CN), también conocida en español como Torre CN, es una torre de comunicaciones y observación de 553,3 metros de altura ubicada en Toronto, Ontario, Canadá.​​ Completada en 1976, se encuentra en el centro de Toronto, construida en los antiguos terrenos ferroviarios. Su nombre «CN» se refiere a Canadian National, la compañía ferroviaria que construyó la torre. Tras la decisión de la empresa de desinvertir activos ferroviarios no esenciales antes de su privatización en 1995, transfirió la torre a Canada Lands Company, una corporación federal de la Corona responsable del portafolio inmobiliario del gobierno.\nLa CN Tower ostentó el récord de estructura más alta sin apoyo durante 32 años, desde 1975 hasta 2007, cuando fue superada por el Burj Khalifa, y fue la torre más alta hasta 2009 cuando fue superada por la Torre de Cantón.​​​​ Actualmente es la décima estructura más alta sin apoyo en el mundo y sigue siendo la estructura más alta sin apoyo en el hemisferio occidental. En 1995, fue declarada una de las siete maravillas del mundo moderno por la Sociedad Estadounidense de Ingenieros Civiles. También pertenece a la Federación Mundial de Grandes Torres.​​​\nEs un ícono emblemático del panorama urbano​​ de Toronto y atrae a más de dos millones de visitantes internacionales anualmente.​​ Alberga varias plataformas de observación, un restaurante giratorio a unos 350 metros, y un complejo de entretenimiento.​",
+ "candidatas": [
+  {
+   "file": "File:Toronto - ON - Toronto Harbourfront7.jpg",
+   "w": 2434,
+   "h": 3834,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg/330px-Toronto_-_ON_-_Toronto_Harbourfront7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_Toronto_Harbourfront7.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Wladyslaw",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-09-10",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "es"
+  },
+  {
+   "file": "File:Toronto - ON - CN Tower bei Nacht2.jpg",
+   "w": 2848,
+   "h": 4288,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Toronto_-_ON_-_CN_Tower_bei_Nacht2.jpg/330px-Toronto_-_ON_-_CN_Tower_bei_Nacht2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Toronto_-_ON_-_CN_Tower_bei_Nacht2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_CN_Tower_bei_Nacht2.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Wladyslaw, Correction of perspective distortion: Niabot",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-05-07",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 16,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Toronto - ON - Schaft des CN Tower.jpg",
+   "w": 2873,
+   "h": 1908,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Toronto_-_ON_-_Schaft_des_CN_Tower.jpg/330px-Toronto_-_ON_-_Schaft_des_CN_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Toronto_-_ON_-_Schaft_des_CN_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_Schaft_des_CN_Tower.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Wladyslaw (talk)",
+   "credito": "Own work\n\n(Original text: selbst fotografiert)",
+   "nonfree": "",
+   "fecha": "Taken on 8 May 2009",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Toronto - ON - CN Tower - View from Skypod.jpg",
+   "w": 4008,
+   "h": 2244,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Toronto_-_ON_-_CN_Tower_-_View_from_Skypod.jpg/330px-Toronto_-_ON_-_CN_Tower_-_View_from_Skypod.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Toronto_-_ON_-_CN_Tower_-_View_from_Skypod.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_CN_Tower_-_View_from_Skypod.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Wladyslaw",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 8 May 2009",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rogers Center-restitched.jpg",
+   "w": 3246,
+   "h": 4842,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Rogers_Center-restitched.jpg/330px-Rogers_Center-restitched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Rogers_Center-restitched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rogers_Center-restitched.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "MarcusObal",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-09-30",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Toronto - ON - CN Tower - Mainpod Freiluftplattform.jpg",
+   "w": 2594,
+   "h": 1737,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Toronto_-_ON_-_CN_Tower_-_Mainpod_Freiluftplattform.jpg/330px-Toronto_-_ON_-_CN_Tower_-_Mainpod_Freiluftplattform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Toronto_-_ON_-_CN_Tower_-_Mainpod_Freiluftplattform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_CN_Tower_-_Mainpod_Freiluftplattform.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "– Wladyslaw [Disk.]",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "2008-09-10",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Toronto - ON - CN Tower - Antennenspitze.jpg",
+   "w": 1448,
+   "h": 2332,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Toronto_-_ON_-_CN_Tower_-_Antennenspitze.jpg/330px-Toronto_-_ON_-_CN_Tower_-_Antennenspitze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Toronto_-_ON_-_CN_Tower_-_Antennenspitze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_CN_Tower_-_Antennenspitze.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Wladyslaw",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-09-10",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:CN Tower at Toronto 04.jpg",
+   "w": 3864,
+   "h": 5796,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/CN_Tower_at_Toronto_04.jpg/330px-CN_Tower_at_Toronto_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/CN_Tower_at_Toronto_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:CN_Tower_at_Toronto_04.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fabian Roudra Baroi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-02-15 16:02:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
+}

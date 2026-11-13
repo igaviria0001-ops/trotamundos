@@ -1,0 +1,204 @@
+{
+ "id": "titicaca",
+ "enwiki": "Lake Titicaca",
+ "endesc": "Large lake on the border of Peru and Bolivia",
+ "qid": "Q35342",
+ "coord": [
+  -15.825,
+  -69.325
+ ],
+ "label_es": "Titicaca",
+ "desc_es": "lago peruano-boliviano",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 3812.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 8372.0,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 204.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q23397",
+  "Q4862338",
+  "Q137690958"
+ ],
+ "p17": [
+  "Q419",
+  "Q750"
+ ],
+ "unesco": false,
+ "eswiki": "Lago Titicaca",
+ "extracto_es": "El lago Titicaca (en aimara y en quechua sureño, ortografía contemporánea: Titiqaqa) es el lago navegable más alto del mundo. Se encuentra en los Andes centrales, dentro de la meseta del Collao, a una altitud media de 3812 m s. n. m., en la frontera entre Bolivia y Perú. Es el lago navegable más alto del mundo y ocupa el lugar 24.º del mundo por superficie.​  \nTiene una superficie aproximada de 8300 km², de los cuales el 56 % (4410.92 km²) corresponden a Perú y el 44 % (3790 km²) a Bolivia.​ Su profundidad máxima se estima en 281 m y la media en 107 m. El nivel del agua varía estacionalmente, con un incremento durante el verano austral.​ El lago Titicaca se encuentra entre las cordilleras andinas en una cuenca de alrededor de 58 000 km².​  \nEl lago está conformado por dos grandes cuerpos de agua, separados por el estrecho de Tiquina. El sector septentrional, denominado lago Mayor o Chucuito, tiene una superficie de 6450 km² y alcanza su mayor profundidad (283 m) cerca de la isla Soto. El sector meridional, conocido como lago Menor o Huiñaymarca, ocupa 2112 km² y presenta una profundidad máxima de 45 m.\nEl 20 de enero de 1997 fue designado sitio Ramsar para el sector peruano y el 11 de septiembre de 1998 para el sector boliviano.​​ En el 2023 registró el descenso de las aguas a mínimo histórico, más de medio metro descenso hasta llegar a los 3808,05 m sobre el nivel del mar.​​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Amanecer en el lago Titicaca, Puno, Perú, 2015-08-01, DD 01.JPG",
+   "w": 8688,
+   "h": 4205,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG/330px-Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amanecer_en_el_lago_Titicaca,_Puno,_Per%C3%BA,_2015-08-01,_DD_01.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-08-01 05:40:50",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Isla Taquile, 2023 (038).jpg",
+   "w": 6960,
+   "h": 4640,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Isla_Taquile%2C_2023_%28038%29.jpg/330px-Isla_Taquile%2C_2023_%28038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Isla_Taquile%2C_2023_%28038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Isla_Taquile,_2023_(038).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Draceane",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-22 18:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Islas flotantes de los Uros, Lago Titicaca, Perú, 2015-08-01, DD 30.JPG",
+   "w": 7754,
+   "h": 4826,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Islas_flotantes_de_los_Uros%2C_Lago_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_30.JPG/330px-Islas_flotantes_de_los_Uros%2C_Lago_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_30.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Islas_flotantes_de_los_Uros%2C_Lago_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_30.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Islas_flotantes_de_los_Uros,_Lago_Titicaca,_Per%C3%BA,_2015-08-01,_DD_30.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-08-01 11:28:41",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lake Titicaca ESA22522896.jpeg",
+   "w": 2956,
+   "h": 2956,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Lake_Titicaca_ESA22522896.jpeg/330px-Lake_Titicaca_ESA22522896.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lake_Titicaca_ESA22522896.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Titicaca_ESA22522896.jpeg",
+   "licencia": "Attribution",
+   "licurl": "",
+   "autor": "European Space Agency",
+   "credito": "Lake Titicaca",
+   "nonfree": "",
+   "fecha": "29 January 2021 (upl",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Vista de Puno y el Titicaca, Perú, 2015-08-01, DD 63.JPG",
+   "w": 8593,
+   "h": 4322,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Vista_de_Puno_y_el_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_63.JPG/330px-Vista_de_Puno_y_el_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_63.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Vista_de_Puno_y_el_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_63.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Puno_y_el_Titicaca,_Per%C3%BA,_2015-08-01,_DD_63.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-08-01 13:42:00",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lake Titicaca near Capachica, Peru.jpg",
+   "w": 3629,
+   "h": 2433,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lake_Titicaca_near_Capachica%2C_Peru.jpg/330px-Lake_Titicaca_near_Capachica%2C_Peru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lake_Titicaca_near_Capachica%2C_Peru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Titicaca_near_Capachica,_Peru.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Miro Denck",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-12-21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Houses near lake Titicaca, Bolivia.jpg",
+   "w": 4160,
+   "h": 3120,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Houses_near_lake_Titicaca%2C_Bolivia.jpg/330px-Houses_near_lake_Titicaca%2C_Bolivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Houses_near_lake_Titicaca%2C_Bolivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Houses_near_lake_Titicaca,_Bolivia.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Adamboluu",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-01-04 11:42:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Alpaca y la isla Challeca.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Alpaca_y_la_isla_Challeca.jpg/330px-Alpaca_y_la_isla_Challeca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alpaca_y_la_isla_Challeca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alpaca_y_la_isla_Challeca.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "EEJCC",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-12-31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

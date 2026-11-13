@@ -1,0 +1,201 @@
+{
+ "id": "monumentvalley",
+ "enwiki": "Monument Valley",
+ "endesc": "Region of the Colorado Plateau, US",
+ "qid": "Q192017",
+ "coord": [
+  36.983333333333,
+  -110.1
+ ],
+ "label_es": "Valle de los Monumentos",
+ "desc_es": "valle de la meseta de Colorado en la frontera entre Arizona y Utah, en Estados Unidos",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 2163.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 4951.0,
+   "u": "Q3710"
+  },
+  {
+   "v": 5111.0,
+   "u": "Q3710"
+  }
+ ],
+ "p31": [
+  "Q749565",
+  "Q39816"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Valle de los Monumentos",
+ "extracto_es": "El Valle de los Monumentos (en inglés, Monument Valley) es una gran depresión situada en la frontera norte de Arizona con Utah, en los Estados Unidos. El valle está dentro de la reserva de los nativos navajo, cerca del monumento de las Cuatro Esquinas (Four Corners) y es accesible por la Ruta 163. El nombre navajo para el valle es Tsé Bii' Ndzisgaii («valle de las Rocas»).\nEl valle es famoso por sus curiosas formaciones de mesas y ha sido escenario de numerosas películas.",
+ "candidatas": [
+  {
+   "file": "File:Forrest Gump Point Monument Valley November 2018 001.jpg",
+   "w": 6000,
+   "h": 3750,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Forrest_Gump_Point_Monument_Valley_November_2018_001.jpg/330px-Forrest_Gump_Point_Monument_Valley_November_2018_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Forrest_Gump_Point_Monument_Valley_November_2018_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Forrest_Gump_Point_Monument_Valley_November_2018_001.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "King of Hearts",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 21 November",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 20,
+   "origen": "es"
+  },
+  {
+   "file": "File:Monument Valley, Utah, USA (23611451292).jpg",
+   "w": 5811,
+   "h": 3874,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Monument_Valley%2C_Utah%2C_USA_%2823611451292%29.jpg/330px-Monument_Valley%2C_Utah%2C_USA_%2823611451292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Monument_Valley%2C_Utah%2C_USA_%2823611451292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monument_Valley,_Utah,_USA_(23611451292).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Domenico Convertini",
+   "credito": "https://www.flickr.com/photos/con4tini/23611451292/",
+   "nonfree": "",
+   "fecha": "Taken on 19 Septembe",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Monument Valley (14).jpg",
+   "w": 3348,
+   "h": 2341,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Monument_Valley_%2814%29.jpg/330px-Monument_Valley_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Monument_Valley_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monument_Valley_(14).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Pierre André Leclercq",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-04-22 11:21:04",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monumentvalleyviewfromnorth.jpg",
+   "w": 2560,
+   "h": 1920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Monumentvalleyviewfromnorth.jpg/330px-Monumentvalleyviewfromnorth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Monumentvalleyviewfromnorth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monumentvalleyviewfromnorth.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Original uploader was Averette at en.wikipedia",
+   "credito": "Transferred from en.wikipedia",
+   "nonfree": "",
+   "fecha": "28 September 2007 (o",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Monument Valley 2.jpg",
+   "w": 1600,
+   "h": 1022,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Monument_Valley_2.jpg/330px-Monument_Valley_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Monument_Valley_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monument_Valley_2.jpg",
+   "licencia": "CC BY 2.0 de",
+   "licurl": "cc-by-2.0-de",
+   "autor": "Huebi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monument valley roche.jpg",
+   "w": 2024,
+   "h": 1428,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Monument_valley_roche.jpg/330px-Monument_valley_roche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Monument_valley_roche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monument_valley_roche.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "taken by Jean-Pierre Lavoie",
+   "credito": "Own work, using Nikon coolpix 990",
+   "nonfree": "",
+   "fecha": "2001-09",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mittens and Merrick after Sunset.jpg",
+   "w": 4674,
+   "h": 3116,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Mittens_and_Merrick_after_Sunset.jpg/330px-Mittens_and_Merrick_after_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mittens_and_Merrick_after_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mittens_and_Merrick_after_Sunset.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Eric Kilby",
+   "credito": "https://www.flickr.com/photos/ekilby/49290223273/",
+   "nonfree": "",
+   "fecha": "2019-10-26 20:26:18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monument Valley, 6AM.jpg",
+   "w": 5760,
+   "h": 3840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Monument_Valley%2C_6AM.jpg/330px-Monument_Valley%2C_6AM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Monument_Valley%2C_6AM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monument_Valley,_6AM.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Franck Michel",
+   "credito": "https://www.flickr.com/photos/franckmichel/21515464540/",
+   "nonfree": "",
+   "fecha": "2015-06-23 14:03:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

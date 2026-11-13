@@ -1,0 +1,190 @@
+{
+ "id": "grancanon",
+ "enwiki": "Grand Canyon",
+ "endesc": "Steep-sided canyon in Arizona, US",
+ "qid": "Q118841",
+ "coord": [
+  36.0975,
+  -112.09527777777778
+ ],
+ "label_es": "Gran Cañón",
+ "desc_es": "garganta excavada por el río Colorado en Arizona (Estados Unidos)",
+ "inicio": [],
+ "largo": [
+  {
+   "v": 277.0,
+   "u": "Q253276"
+  }
+ ],
+ "p31": [
+  "Q150784"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Gran Cañón",
+ "extracto_es": "El Gran Cañón del Colorado o simplemente, cañón del Colorado o Gran Cañón (en inglés: Grand Canyon), es una vistosa y escarpada garganta excavada por el río Colorado a lo largo de millones de años en el norte de Arizona (Estados Unidos). Está situado en su mayor parte dentro del parque nacional del Gran Cañón (uno de los primeros parques naturales de los Estados Unidos). Fue declarado Patrimonio de la Humanidad en 1984 por la Unesco.\nEl cañón y sus aledaños se encuentran dentro del parque nacional del Gran Cañón, el Bosque Nacional de Kaibab, el Monumento Nacional del Gran Cañón-Parashant, la Hualapai, la Reserva India Havasupai y la Nación Navajo. El presidente Theodore Roosevelt fue uno de los principales defensores de la conservación de la zona del Gran Cañón y lo visitó en numerosas ocasiones para cazar y disfrutar del paisaje.\nCasi dos mil millones de años de historia geológica de la Tierra han quedado al descubierto a medida que el río Colorado y sus afluentes cortaban su canales a través de capa tras capa de roca mientras la meseta del Colorado era levantada.​​ Aunque algunos aspectos sobre la historia de la incisión del cañón son debatidos por los geólogos,​​ varios estudios recientes apoyan la hipótesis de que el río Colorado estableció su curso a través de la zona hace entre 5 y 6 millones de años.​​​ Desde entonces, el río Colorado ha impulsado el descenso de los afluentes y el retroceso de los acantilados, profundizando y ensanchando simultáneamente el congosto.\nDurante siglos, la zona ha estado habitada ininterrumpidamente por amerindios, quienes construyeron asentamientos en el interior del cañón y en sus numerosas cuevas. Los indios pueblo consideraban este desfiladero un lugar sagrado y peregrinaban a él.​ El primer europeo conocido que contempló este accidente geográfico fue el español García López de Cárdenas, quien llegó en 1540.​",
+ "candidatas": [
+  {
+   "file": "File:Glen Canyon Dam MC.jpg",
+   "w": 7000,
+   "h": 2917,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Glen_Canyon_Dam_MC.jpg/330px-Glen_Canyon_Dam_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Glen_Canyon_Dam_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Glen_Canyon_Dam_MC.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Christian Mehlführer, User:Chmehl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 13 April 20",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Grand canyon march 2013.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Grand_canyon_march_2013.jpg/330px-Grand_canyon_march_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Grand_canyon_march_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_canyon_march_2013.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Tomascastelazo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-03-18 18:47:57",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Californian Condor 50 MC.jpg",
+   "w": 2180,
+   "h": 1024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Californian_Condor_50_MC.jpg/330px-Californian_Condor_50_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Californian_Condor_50_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Californian_Condor_50_MC.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Christian Mehlführer, User:Chmehl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 13 April 20",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Grand Canyon view from Pima Point 2010.jpg",
+   "w": 2848,
+   "h": 4288,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Grand_Canyon_view_from_Pima_Point_2010.jpg/330px-Grand_Canyon_view_from_Pima_Point_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Grand_Canyon_view_from_Pima_Point_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_view_from_Pima_Point_2010.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Chensiyuan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-03-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Canyon River Tree (165872763).jpeg",
+   "w": 2048,
+   "h": 1315,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/330px-Canyon_River_Tree_%28165872763%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Canyon_River_Tree_%28165872763%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Canyon_River_Tree_(165872763).jpeg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Lennart Sikkema",
+   "credito": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+   "nonfree": "",
+   "fecha": "13 June 2016, 03:59:",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:GCRockfall.JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/GCRockfall.JPG/330px-GCRockfall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/GCRockfall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:GCRockfall.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Qfl247 (talk) (Transferred by Citypeek/Original uploaded by Qfl247)",
+   "credito": "I (Qfl247 (talk)) created this work entirely by myself. (Original uploaded on en.wikipedia)",
+   "nonfree": "",
+   "fecha": "2010-05-21 00:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Grand Canyon NP-Arizona-USA.jpg",
+   "w": 5171,
+   "h": 3688,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Grand_Canyon_NP-Arizona-USA.jpg/330px-Grand_Canyon_NP-Arizona-USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Grand_Canyon_NP-Arizona-USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_NP-Arizona-USA.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tobias Alt",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "04.07.2007",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Horseshoe Bend TC 27-09-2012 15-34-14.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg/330px-Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Paul Hermans",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-09-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

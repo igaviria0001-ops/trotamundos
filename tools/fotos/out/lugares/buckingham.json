@@ -1,0 +1,212 @@
+{
+ "id": "buckingham",
+ "enwiki": "Buckingham Palace",
+ "endesc": "Administrative headquarters of the British monarch",
+ "qid": "Q42182",
+ "coord": [
+  51.501,
+  -0.142
+ ],
+ "label_es": "Palacio de Buckingham",
+ "desc_es": "residencia oficial de los soberanos británicos en Londres, Reino Unido",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1703-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1849-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 20.0,
+   "u": "Q3710"
+  }
+ ],
+ "area": [
+  {
+   "v": 20.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q53536964",
+  "Q2087181",
+  "Q7328910",
+  "Q16884952",
+  "Q131986827"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": false,
+ "eswiki": "Palacio de Buckingham",
+ "extracto_es": "El palacio de Buckingham (en inglés Buckingham Palace) es la residencia oficial​ del monarca británico en Londres.​ También se utiliza para ceremonias oficiales, visitas de Estado y visitas turísticas. Es famoso por albergar una parte sustancial de la Royal Collection, extraordinario conjunto de obras artísticas fruto del coleccionismo real. El palacio o la explanada frente a él se ha convertido en un punto de reunión de los británicos en tiempos de calamidad, de crisis o de festividad.​ «El Palacio de Buckingham» o, simplemente, «El Palacio», también es la metonimia utilizada para designar la fuente de comunicados de prensa provenientes de la familia real británica.\nEl palacio, originalmente conocido como Buckingham House, era en un principio un petit hôtel construido para John Sheffield, el primer duque de Buckingham y Normanby en 1703 y adquirido por el rey Jorge III en 1762 para convertirlo en residencia pública. En los siguientes 75 años sufrió una serie de ampliaciones dirigidas por los arquitectos John Nash y Edward Blore (1850), creándose tres alas que conforman un patio central abierto. Con la llegada al trono de la reina Victoria del Reino Unido, el Palacio de Buckingham pasó a ser la residencia oficial de la monarquía. Durante los siglos XIX y XX se hicieron algunas reformas en el palacio, como la que se llevó a cabo en 1913 (a cargo de Aston Webb) y que dio al palacio su fachada principal actual, incluido el balcón desde donde saluda la familia real.\nEl interior georgiano original del siglo XIX, el cual aún se conserva, se compone de brillantes escayolas con incrustaciones de lapislázuli azul y rosa. Eduardo VII redecoró el palacio añadiendo una decoración Belle Époque en tonos crema y dorados. Algunos salones de recepción están decorados en estilo chino con muebles provenientes del pabellón real de Brighton y de Carlton house. El palacio cuenta con 777 habitaciones y los jardines del palacio constituyen los jardines privados más grandes de Londres. Fueron creados originalmente por Capability Brown, pero rediseñados por William Townsend Aiton y John Nash. El lago artificial fue creado en 1828 y recibe agua del lago Serpentine, el lago que se encuentra en el Hyde Park.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Buckingham Palace, London - April 2009.jpg",
+   "w": 3072,
+   "h": 2011,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg/330px-Buckingham_Palace%2C_London_-_April_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace,_London_-_April_2009.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 8 April 200",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 21,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Buckingham Palace London Morning 2020 01 (cropped).jpg",
+   "w": 3455,
+   "h": 2070,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg/330px-Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_London_Morning_2020_01_(cropped).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Julian Herzog (Website)",
+   "credito": "This image has been extracted from another file",
+   "nonfree": "",
+   "fecha": "2020-08-11 05:26:52",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Buckingham Palace from gardens, London, UK - Diliff (cropped).jpg",
+   "w": 3716,
+   "h": 2439,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Buckingham_Palace_from_gardens%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg/330px-Buckingham_Palace_from_gardens%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Buckingham_Palace_from_gardens%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_from_gardens,_London,_UK_-_Diliff_(cropped).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-04-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Guard of Buckingham Palace - 01.jpg",
+   "w": 3200,
+   "h": 2400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Guard_of_Buckingham_Palace_-_01.jpg/330px-Guard_of_Buckingham_Palace_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Guard_of_Buckingham_Palace_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Guard_of_Buckingham_Palace_-_01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Carlos Delgado",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-10-14",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Palacio de Buckingham, Londres, Inglaterra, 2022-11-23, DD 07-09 HDR.jpg",
+   "w": 8464,
+   "h": 4031,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Palacio_de_Buckingham%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_07-09_HDR.jpg/330px-Palacio_de_Buckingham%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_07-09_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Palacio_de_Buckingham%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_07-09_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Buckingham,_Londres,_Inglaterra,_2022-11-23,_DD_07-09_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-23 17:54:10",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Palacio de Buckingham, Londres, Inglaterra, 2022-11-23, DD 01-03 HDR.jpg",
+   "w": 7501,
+   "h": 3362,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Palacio_de_Buckingham%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_01-03_HDR.jpg/330px-Palacio_de_Buckingham%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_01-03_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Palacio_de_Buckingham%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_01-03_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Buckingham,_Londres,_Inglaterra,_2022-11-23,_DD_01-03_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-11-23 17:51:49",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Buckingham Palace at night.jpg",
+   "w": 6016,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Buckingham_Palace_at_night.jpg/330px-Buckingham_Palace_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Buckingham_Palace_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_at_night.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tristan Surtel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-04-24 21:09:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Buckingham Palace Garden Party in 2024.jpg",
+   "w": 5217,
+   "h": 3550,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Buckingham_Palace_Garden_Party_in_2024.jpg/330px-Buckingham_Palace_Garden_Party_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Buckingham_Palace_Garden_Party_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_Garden_Party_in_2024.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Tony Hisgett",
+   "credito": "https://www.flickr.com/photos/hisgett/53735111785/",
+   "nonfree": "",
+   "fecha": "2024-05-15 16:11:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

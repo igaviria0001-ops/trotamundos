@@ -1,0 +1,197 @@
+{
+ "id": "victoria",
+ "enwiki": "Victoria Falls",
+ "endesc": "Waterfall on the Zambezi River in Zambia and Zimbabwe",
+ "qid": "Q43278",
+ "coord": [
+  -17.924777777778,
+  25.858055555556
+ ],
+ "label_es": "cataratas Victoria",
+ "desc_es": "cataratas en el río Zambeze entre Zambia y Zimbabue",
+ "inicio": [],
+ "altura": [
+  {
+   "v": 108.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 892.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q34038",
+  "Q2270442"
+ ],
+ "p17": [
+  "Q953",
+  "Q954"
+ ],
+ "unesco": true,
+ "eswiki": "Cataratas Victoria",
+ "extracto_es": "Las Cataratas Victoria, situadas en la frontera de Zambia y Zimbabue, constituyen un salto de agua del río Zambeze.\nEstán ubicadas en el distrito de Livingstone, en la Provincia del Sur, de Zambia y en el distrito de Hwange, en la región de Mashonalandia Occidental, de Zimbabue.\nSobre las cataratas se encuentra el puente de las Cataratas Victoria, un antiguo arco de acero terminado en 1905.\nLas cataratas tienen una anchura aproximada de 1,7 km y 108 m de alto. Se consideran un espectáculo extraordinario debido al estrecho y raro abismo en que el agua cae.\nDavid Livingstone, el misionero y explorador escocés, visitó la cascada en 1855 y las bautizó con el nombre de la reina Victoria, aunque son conocidas localmente como Mosi-oa-Tunya, el Humo que Truena. La cascada forma parte de dos parques nacionales, parque nacional de Mosi-oa-Tunya en Zambia y el parque nacional de las Cataratas Victoria en Zimbabue, y son una de las mayores atracciones turísticas del África austral.​\nLas cataratas Victoria fueron declaradas Patrimonio de la Humanidad por la Unesco, en el año 1989, protegiendo un área de 8.780 ha.\nDesde 2010, están integradas dentro del Área de Conservación Kavango-Zambeze.\nLas cataratas Victoria están formadas por la caída en picado en una sola vertical de una cima de entre 60 y 120 m de alto, esculpida por sus aguas a lo largo de una meseta de basalto.\nLa profundidad de la cima, llamada Primera garganta, varía entre los 80 m en su parte más occidental hasta los 108 m en el centro.\nLa única salida de la Primera garganta es un espacio de 110 m de ancho a unas dos terceras partes del paso a lo largo de la anchura de las cataratas desde la parte oeste, a través de la cual todo el volumen del río cae en las gargantas de las cataratas Victoria.\nLa meseta por la que discurre el río Zambeze experimenta una estación lluviosa desde finales de noviembre hasta principios de abril; y una estación seca el resto del año. La inundación anual tiene lugar entre febrero y mayo con un pico en abril. El agua pulverizada de las cascadas llega a alcanzar los 400 m e incluso los 800 dependiendo de la estación.\nNo obstante, durante el periodo de inundaciones no es posible ver el pie de la cascada ni tampoco parte de la cortina de la catarata, además los paseos a lo largo del acantilado resultan ser una ducha constante debido a la abundante agua vaporizada. Cerca del borde del acantilado, el vapor de agua sube como una lluvia invertida, especialmente en el borde de Zambia.\nSeg",
+ "candidatas": [
+  {
+   "file": "File:Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 04.jpg",
+   "w": 4203,
+   "h": 6530,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg/330px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-27 15:41:40",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 18,
+   "origen": "en"
+  },
+  {
+   "file": "File:Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 05.jpg",
+   "w": 6819,
+   "h": 3891,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_05.jpg/330px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_05.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-27 15:41:52",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 36-43 PAN.jpg",
+   "w": 5531,
+   "h": 2439,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_36-43_PAN.jpg/330px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_36-43_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_36-43_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_36-43_PAN.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-27 16:48:32",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Entrance of “Mosi-oa-Tunya” Victoria Falls park of Zambabwe.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Entrance_of_%E2%80%9CMosi-oa-Tunya%E2%80%9D_Victoria_Falls_park_of_Zambabwe.jpg/330px-Entrance_of_%E2%80%9CMosi-oa-Tunya%E2%80%9D_Victoria_Falls_park_of_Zambabwe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Entrance_of_%E2%80%9CMosi-oa-Tunya%E2%80%9D_Victoria_Falls_park_of_Zambabwe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Entrance_of_%E2%80%9CMosi-oa-Tunya%E2%80%9D_Victoria_Falls_park_of_Zambabwe.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "FaysaLBinDaruL",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-12-16 17:43:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Victoria Falls - VicFalls3456.jpg",
+   "w": 4223,
+   "h": 2815,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Victoria_Falls_-_VicFalls3456.jpg/330px-Victoria_Falls_-_VicFalls3456.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Victoria_Falls_-_VicFalls3456.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Victoria_Falls_-_VicFalls3456.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "lumoplank",
+   "credito": "https://www.flickr.com/photos/199350666@N08/54398455088",
+   "nonfree": "",
+   "fecha": "before 20 March 2025",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Victoria Falls - VicFalls3464.jpg",
+   "w": 5085,
+   "h": 3390,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Victoria_Falls_-_VicFalls3464.jpg/330px-Victoria_Falls_-_VicFalls3464.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Victoria_Falls_-_VicFalls3464.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Victoria_Falls_-_VicFalls3464.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "lumoplank",
+   "credito": "https://www.flickr.com/photos/199350666@N08/54398585040",
+   "nonfree": "",
+   "fecha": "before 20 March 2025",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Victoria Falls - VicFalls3465.jpg",
+   "w": 5085,
+   "h": 3390,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Victoria_Falls_-_VicFalls3465.jpg/330px-Victoria_Falls_-_VicFalls3465.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Victoria_Falls_-_VicFalls3465.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Victoria_Falls_-_VicFalls3465.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "lumoplank",
+   "credito": "https://www.flickr.com/photos/199350666@N08/54398455228",
+   "nonfree": "",
+   "fecha": "before 20 March 2025",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Victoria Falls - VicFalls3484.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Victoria_Falls_-_VicFalls3484.jpg/330px-Victoria_Falls_-_VicFalls3484.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Victoria_Falls_-_VicFalls3484.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Victoria_Falls_-_VicFalls3484.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "lumoplank",
+   "credito": "https://www.flickr.com/photos/199350666@N08/54397331787",
+   "nonfree": "",
+   "fecha": "before 20 March 2025",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

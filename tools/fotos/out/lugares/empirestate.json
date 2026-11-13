@@ -1,0 +1,204 @@
+{
+ "id": "empirestate",
+ "enwiki": "Empire State Building",
+ "endesc": "Office skyscraper in Manhattan, New York",
+ "qid": "Q9188",
+ "coord": [
+  40.748333333333335,
+  -73.98555555555555
+ ],
+ "label_es": "Empire State Building",
+ "desc_es": "rascacielos de la ciudad de Nueva York, Estados Unidos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1931-05-08T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1931-05-01T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 453.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 1500.0,
+   "u": "Q3710"
+  }
+ ],
+ "area": [
+  {
+   "v": 2248355.0,
+   "u": "Q857027"
+  }
+ ],
+ "p31": [
+  "Q1021645",
+  "Q11303"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Empire State Building",
+ "extracto_es": "El Empire State Building es un rascacielos situado en la intersección de la Quinta Avenida con la calle 34 Oeste, en la ciudad de Nueva York (Estados Unidos). Su nombre deriva del apodo del Estado de Nueva York. Fue el edificio más alto del mundo durante cuarenta años, desde su finalización en 1931 hasta 1971, año en que se completó la construcción de la torre norte del World Trade Center. Tras la destrucción del World Trade Center el 11 de septiembre de 2001, el Empire State Building se convirtió nuevamente en el edificio más alto de la ciudad de Nueva York y del Estado de Nueva York, hasta que fue otra vez sobrepasado por One World Trade Center el 30 de abril de 2012, quedando el Empire State en segundo lugar.​ Actualmente, el Empire State es de los rascacielos más emblemáticos e icónicos del mundo por su historia y su gran altura destacable en el siglo pasado. Incluyendo la antena, su altura es de 443 metros (1453,4 pies) convirtiéndolo en el tercer edificio más alto de la ciudad de Nueva York por detrás de One World Trade Center y Central Park Tower.​​\nLa arquitectura Art Déco, la altura y las plataformas de observación del edificio lo han convertido en una atracción popular. Alrededor de cuatro millones de turistas de todo el mundo visitan anualmente los observatorios de los pisos 86 y 102 del edificio; en 2019 se inauguró un observatorio interior adicional en el piso 80. El Empire State Building es un ícono cultural internacional: ha aparecido en más de 250 series de televisión y películas desde que se estrenó la película King Kong en 1933. El Empire State Building ha sido nombrado por la Sociedad Estadounidense de Ingenieros Civiles como una de las siete maravillas de la ingeniería civil del siglo XX.​ El edificio y su interior son catalogados como monumentos de la Comisión para la Preservación de Monumentos Históricos de Nueva York, y confirmado por la Junta de Estimación de la ciudad de Nueva York. Fue designado como un monumento Histórico Nacional en 1986. El edificio es propiedad y está gestionado por W&H Properties.",
+ "candidatas": [
+  {
+   "file": "File:ESBandDowntown2015.jpg",
+   "w": 7020,
+   "h": 4680,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/ESBandDowntown2015.jpg/330px-ESBandDowntown2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/ESBandDowntown2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ESBandDowntown2015.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Anthony Quintano: https://www.flickr.com/photos/quintanomedia/",
+   "credito": "https://www.flickr.com/photos/quintanomedia/15778643103/sizes/o/",
+   "nonfree": "",
+   "fecha": "2015-01-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:EmpireStateBuilding20205thAvenueEntrance.jpg",
+   "w": 4048,
+   "h": 3036,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/EmpireStateBuilding20205thAvenueEntrance.jpg/330px-EmpireStateBuilding20205thAvenueEntrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/EmpireStateBuilding20205thAvenueEntrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:EmpireStateBuilding20205thAvenueEntrance.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DanielPenfield",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 1 January 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:EmpireStateBuilding202080thFloorSouthEastCorner.jpg",
+   "w": 4048,
+   "h": 3036,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/EmpireStateBuilding202080thFloorSouthEastCorner.jpg/330px-EmpireStateBuilding202080thFloorSouthEastCorner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/EmpireStateBuilding202080thFloorSouthEastCorner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:EmpireStateBuilding202080thFloorSouthEastCorner.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DanielPenfield",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 1 January 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:EmpireStateBuilding202086thFloorExteriorNorthwestCorner.jpg",
+   "w": 4048,
+   "h": 3036,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/EmpireStateBuilding202086thFloorExteriorNorthwestCorner.jpg/330px-EmpireStateBuilding202086thFloorExteriorNorthwestCorner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/EmpireStateBuilding202086thFloorExteriorNorthwestCorner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:EmpireStateBuilding202086thFloorExteriorNorthwestCorner.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DanielPenfield",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 1 January 2",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Empire State Building 86th floor.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Empire_State_Building_86th_floor.jpg/330px-Empire_State_Building_86th_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Empire_State_Building_86th_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_86th_floor.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "James Petts",
+   "credito": "https://www.flickr.com/photos/14730981@N08/49229809673/",
+   "nonfree": "",
+   "fecha": "2019-09-20 11:02:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Empire State Building elevators 01.jpg",
+   "w": 11608,
+   "h": 8708,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Empire_State_Building_elevators_01.jpg/330px-Empire_State_Building_elevators_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Empire_State_Building_elevators_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_elevators_01.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Carol M. Highsmith",
+   "credito": "https://www.loc.gov/pictures/item/2018699947/",
+   "nonfree": "",
+   "fecha": "2018-01-26 04:28:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Empire State Building in Rainbow Colors for Gay Pride 2015 (19076876770).jpg",
+   "w": 7020,
+   "h": 4680,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Empire_State_Building_in_Rainbow_Colors_for_Gay_Pride_2015_%2819076876770%29.jpg/330px-Empire_State_Building_in_Rainbow_Colors_for_Gay_Pride_2015_%2819076876770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Empire_State_Building_in_Rainbow_Colors_for_Gay_Pride_2015_%2819076876770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_in_Rainbow_Colors_for_Gay_Pride_2015_(19076876770).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Anthony Quintano",
+   "credito": "https://www.flickr.com/photos/quintanomedia/19076876770/",
+   "nonfree": "",
+   "fecha": "2015-06-29 01:00:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:USA-NYC-Empire State1.JPG",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/USA-NYC-Empire_State1.JPG/330px-USA-NYC-Empire_State1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/USA-NYC-Empire_State1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:USA-NYC-Empire_State1.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ingfbruno",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-04-26 14:14:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

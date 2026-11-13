@@ -1,0 +1,203 @@
+{
+ "id": "karnak",
+ "enwiki": "Karnak",
+ "endesc": "Ancient Egyptian temple complex",
+ "qid": "Q522862",
+ "coord": [
+  25.718333333333334,
+  32.65833333333333
+ ],
+ "label_es": "Templo de Karnak",
+ "desc_es": "antiguo templo del antiguo Egipto",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-1900-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 69.86,
+   "u": "Q35852"
+  },
+  {
+   "v": 443.55,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q839954",
+  "Q44539"
+ ],
+ "p17": [
+  "Q79"
+ ],
+ "unesco": false,
+ "eswiki": "Karnak",
+ "extracto_es": "Karnak (al-Karnak, الكرنك, \"ciudad fortificada\", llamada en el Antiguo Egipto Ipet isut, \"el más selecto de los lugares\") es el nombre de una pequeña población de Egipto, situada en la ribera oriental del río Nilo, al norte de Luxor, la zona de la antigua Tebas, que albergaba el complejo religioso más importante del Antiguo Egipto.​ Su construcción comenzó durante el reinado de Sesostris I (r. 1971-1926 a. C.) en el Imperio Medio y continuó hasta el Período ptolemaico (305-30 a. C.), aunque la mayoría de edificios relevantes datan del Imperio Nuevo. Fue lugar de culto principal de la tríada tebana en la Dinastía XVIII, con el dios Amón a la cabeza.​​  \nForma parte del conjunto denominado Antigua Tebas con sus necrópolis, declarado Patrimonio de la Humanidad por la Unesco en 1979.\nEs el conjunto de templos más grande de Egipto.​ Después de las pirámides de Guiza, es el segundo lugar más visitado de Egipto.",
+ "candidatas": [
+  {
+   "file": "File:Luxor, Egypt, Karnak.jpg",
+   "w": 3072,
+   "h": 2048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Luxor%2C_Egypt%2C_Karnak.jpg/330px-Luxor%2C_Egypt%2C_Karnak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Luxor%2C_Egypt%2C_Karnak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Luxor,_Egypt,_Karnak.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Vyacheslav Argenberg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-05-19 11:49:23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Karnak temple complex 12.jpg",
+   "w": 5861,
+   "h": 3913,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Karnak_temple_complex_12.jpg/330px-Karnak_temple_complex_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Karnak_temple_complex_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Karnak_temple_complex_12.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hamerani",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-25 13:33:36",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Karnak temple complex 14.JPG",
+   "w": 6016,
+   "h": 4016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Karnak_temple_complex_14.JPG/330px-Karnak_temple_complex_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Karnak_temple_complex_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Karnak_temple_complex_14.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hamerani",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-25 12:58:08",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Temple de Louxor 68.jpg",
+   "w": 2816,
+   "h": 2112,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Temple_de_Louxor_68.jpg/330px-Temple_de_Louxor_68.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Temple_de_Louxor_68.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "René Hourdry",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-09-05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Karnak Temples.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Karnak_Temples.jpg/330px-Karnak_Temples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Karnak_Temples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Karnak_Temples.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ahmed Bahloul Khier Galal",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-10-03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Templo de Karnak, Luxor, Egipto, 2022-04-03, DD 139.jpg",
+   "w": 8064,
+   "h": 5376,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_139.jpg/330px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_139.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_139.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_139.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-03 13:41:16",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Templo de Karnak, Luxor, Egipto, 2022-04-03, DD 156.jpg",
+   "w": 7462,
+   "h": 4975,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_156.jpg/330px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_156.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-03 14:08:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Templo de Karnak, Luxor, Egipto, 2022-04-03, DD 157.jpg",
+   "w": 6102,
+   "h": 4068,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_157.jpg/330px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_157.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-03 14:08:49",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  }
+ ]
+}

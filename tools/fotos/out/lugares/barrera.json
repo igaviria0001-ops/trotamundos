@@ -1,0 +1,192 @@
+{
+ "id": "barrera",
+ "enwiki": "Great Barrier Reef",
+ "endesc": "Coral reef system in Queensland, Australia",
+ "qid": "Q7343",
+ "coord": [
+  -16.4,
+  145.8
+ ],
+ "label_es": "Gran barrera de coral",
+ "desc_es": "mayor arrecife de coral del mundo",
+ "inicio": [],
+ "area": [
+  {
+   "v": 348000.0,
+   "u": "Q712226"
+  },
+  {
+   "v": 344.4,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 2300.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q11292"
+ ],
+ "p17": [
+  "Q408"
+ ],
+ "unesco": true,
+ "eswiki": "Gran Barrera de Coral",
+ "extracto_es": "La Gran Barrera de Coral (también denominada Gran Barrera o Gran Barrera de Arrecifes, en inglés Great Barrier Reef)​ es el mayor arrecife de coral del mundo. El arrecife está situado en el mar del Coral, frente a la costa de Queensland al nordeste de Australia. El arrecife, que se extiende a lo largo de unos 2600 kilómetros, puede apreciarse desde el espacio.​\nAunque no fue el primer explorador europeo en divisar la Gran Barrera de Coral, el inglés James Cook fue el primero en realizar una exploración científica de la zona tras encallar el HMB Endeavour en el arrecife, el 11 de junio de 1770 y permanecer seis semanas en la zona mientras se reparaba.​\nDebido a su vasta diversidad biológica, sus aguas claras templadas y su fácil accesibilidad, el arrecife es un destino muy popular entre los aficionados al submarinismo. Muchas ciudades de la costa de Queensland (como Cairns y Townsville) ofrecen viajes diarios en barco al arrecife. \nLa Gran Barrera de Coral es mencionada a veces como el ser animal vivo más grande del mundo. En realidad, consiste en la acumulación milenaria de muchos esqueletos de colonias de corales del orden Scleractinia, compuestos de carbonato cálcico y aragonita principalmente. Sobre esas estructuras, que se extienden a lo largo de kilómetros, se aglutina una de las mayores concentraciones de biodiversidad del planeta.\nUna gran zona del arrecife está protegida por el Parque Marino de la Gran Barrera de Coral. La Gran Barrera de Coral fue declarada Patrimonio de la Humanidad por la Unesco en el año 1981. Cuenta con una extensión de 34 870 000 ha.",
+ "candidatas": [
+  {
+   "file": "File:ISS-45 StoryOfWater, Great Barrier Reef, Australia.jpg",
+   "w": 1600,
+   "h": 1065,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg/330px-ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ISS-45_StoryOfWater,_Great_Barrier_Reef,_Australia.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "NASA/Kjell Lindgren",
+   "credito": "https://www.flickr.com/photos/nasa2explore/24150324632/",
+   "nonfree": "",
+   "fecha": "2015-09-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Great Barrier Reef Queensland Ank Kumar.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Great_Barrier_Reef_Queensland_Ank_Kumar.jpg/330px-Great_Barrier_Reef_Queensland_Ank_Kumar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Great_Barrier_Reef_Queensland_Ank_Kumar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Barrier_Reef_Queensland_Ank_Kumar.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ank Kumar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-13 03:02:47",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Great Barrier Reef snorkeling 18.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Great_Barrier_Reef_snorkeling_18.jpg/330px-Great_Barrier_Reef_snorkeling_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Great_Barrier_Reef_snorkeling_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Barrier_Reef_snorkeling_18.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dmitry Brant",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-03-26 19:38:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aerial View of Great Barrier Reef (Ank Kumar) 09.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_09.jpg/330px-Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Great_Barrier_Reef_(Ank_Kumar)_09.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ank Kumar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-10 11:37:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aerial View of Great Barrier Reef (Ank Kumar) 02.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_02.jpg/330px-Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Great_Barrier_Reef_(Ank_Kumar)_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ank Kumar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-10 11:37:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Amazing Great Barrier Reef 1.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Amazing_Great_Barrier_Reef_1.jpg/330px-Amazing_Great_Barrier_Reef_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Amazing_Great_Barrier_Reef_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amazing_Great_Barrier_Reef_1.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Sarah_Ackerman",
+   "credito": "https://www.flickr.com/photos/sackerman519/4251357083/",
+   "nonfree": "",
+   "fecha": "2009-12-27 00:14:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Arlington-Reef-2018-aerial-view-Luka-Peternel.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Arlington-Reef-2018-aerial-view-Luka-Peternel.jpg/330px-Arlington-Reef-2018-aerial-view-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Arlington-Reef-2018-aerial-view-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arlington-Reef-2018-aerial-view-Luka-Peternel.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Luka Peternel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-05-26 01:52:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Coral Outcrop Flynn Reef.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Coral_Outcrop_Flynn_Reef.jpg/330px-Coral_Outcrop_Flynn_Reef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Coral_Outcrop_Flynn_Reef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Toby Hudson",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-07-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

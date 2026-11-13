@@ -1,0 +1,208 @@
+{
+ "id": "eljem",
+ "enwiki": "Amphitheatre of El Jem",
+ "endesc": "Ancient Roman amphitheater in El Djem, Tunisia",
+ "qid": "Q2914326",
+ "coord": [
+  35.29638889,
+  10.70694444
+ ],
+ "label_es": "Anfiteatro de El Djem",
+ "desc_es": "anfiteatro romano en Túnez",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0238-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 1.37,
+   "u": "Q35852"
+  },
+  {
+   "v": 26.42,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q7362268"
+ ],
+ "p17": [
+  "Q948"
+ ],
+ "unesco": true,
+ "eswiki": "Anfiteatro de El Djem",
+ "extracto_es": "El anfiteatro de El Djem    , también llamado coliseo de Thysdrus, está situado en la ciudad de El Djem, en el vilayato de Mahdía, en Túnez, la antigua ciudad de Thysdrus ubicada en la entonces provincia romana de África. Es el mayor anfiteatro romano de África y el cuarto del mundo, tras el Coliseo de Roma, el anfiteatro de Capua y el anfiteatro de Pozzuoli, y uno de los mejor conservados del norte de África. Es el monumento romano más conocido de Túnez​ y acoge cada año a unos 530 000 visitantes.​\nFue construido en 238 d. C. por el procónsul Gordiano, bajo el reinado del emperador Maximino el Tracio. Reemplazó a dos edificios del mismo tipo, cuyo estudio ha permitido analizar el origen de estas grandes construcciones destinadas al ocio. Probablemente fue escenario de combates de gladiadores, carreras de carros y otros juegos de circo, en especial exhibiciones de fieras y representaciones de cacerías de animales.​\nSus dimensiones son de 147.9 metros de largo y 122 metros de ancho, la arena interior es una elipse de 64.5 por 38.8 metros y tenía capacidad para unos 35 000 espectadores.​\nA pesar de que una parte de sus piedras se utilizaron para construir la ciudad de El Djem, aún se conserva en muy buen estado. Se cree que se mantuvo intacto hasta el siglo XVII y que a partir de 1695, de acuerdo con la tradición árabe, se comenzó a demoler la fachada exterior. Todavía se conservan los fosos de los leones y un sistema muy elaborado de canalizaciones y cisternas para la recogida del agua de lluvia.\nA veces recibe el nombre de Ksar de la Kahena, por la princesa bereber Kahena, que en el siglo VII unió las tribus bereberes para frenar el avance de los invasores musulmanes. Vencida y perseguida, se refugió con sus seguidores en el anfiteatro, donde resistió durante cuatro años. Según la leyenda fue traicionada por su joven amante, que la apuñaló y envió su cabeza embalsamada al jefe del ejército árabe.\nDe acuerdo con el especialista Jean-Claude Golvin el edificio constituye, junto con otros ejemplos, el apogeo de este tipo de monumentos, «al final de una evolución arquitectónica que se extiende a lo largo de casi cuatro siglos».​ Sin embargo, según el arqueólogo e historiador Hédi Slim la situación de Thysdrus, con sus tres anfiteatros estudiados con métodos científicos, «parece única en el mundo».​\nEl anfiteatro fue declarado Patrimonio de la Humanidad por la Unesco en 1979.​",
+ "candidatas": [
+  {
+   "file": "File:Amphithéâtre d’El Jem vue aerienne (2023) 1.jpg",
+   "w": 5850,
+   "h": 3900,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Amphith%C3%A9%C3%A2tre_d%E2%80%99El_Jem_vue_aerienne_%282023%29_1.jpg/330px-Amphith%C3%A9%C3%A2tre_d%E2%80%99El_Jem_vue_aerienne_%282023%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Amphith%C3%A9%C3%A2tre_d%E2%80%99El_Jem_vue_aerienne_%282023%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Amphith%C3%A9%C3%A2tre_d%E2%80%99El_Jem_vue_aerienne_(2023)_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Skander zarrad",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-15 17:28:42",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Anfiteatro, El Jem, Túnez, 2016-09-04, DD 38-40 HDR.jpg",
+   "w": 8379,
+   "h": 4632,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_38-40_HDR.jpg/330px-Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_38-40_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_38-40_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_El_Jem,_T%C3%BAnez,_2016-09-04,_DD_38-40_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-04 15:50:00",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Anfiteatro, El Jem, Túnez, 2016-09-04, DD 22.jpg",
+   "w": 8359,
+   "h": 5575,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_22.jpg/330px-Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_El_Jem,_T%C3%BAnez,_2016-09-04,_DD_22.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-04 15:28:41",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Anfiteatro, El Jem, Túnez, 2016-09-04, DD 11.jpg",
+   "w": 7996,
+   "h": 4240,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_11.jpg/330px-Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_El_Jem,_T%C3%BAnez,_2016-09-04,_DD_11.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-04 15:24:09",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Anfiteatro, El Jem, Túnez, 2016-09-04, DD 08.jpg",
+   "w": 7336,
+   "h": 5517,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_08.jpg/330px-Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_El_Jem,_T%C3%BAnez,_2016-09-04,_DD_08.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-04 15:14:19",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Amphitheatre of El Jem, built around AD 238 in Thysdrus in Africa Proconsularis, the estimated capacity is 35,000, Tunisia - 52717762494.jpg",
+   "w": 2048,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/The_Amphitheatre_of_El_Jem%2C_built_around_AD_238_in_Thysdrus_in_Africa_Proconsularis%2C_the_estimated_capacity_is_35%2C000%2C_Tunisia_-_52717762494.jpg/330px-The_Amphitheatre_of_El_Jem%2C_built_around_AD_238_in_Thysdrus_in_Africa_Proconsularis%2C_the_estimated_capacity_is_35%2C000%2C_Tunisia_-_52717762494.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/The_Amphitheatre_of_El_Jem%2C_built_around_AD_238_in_Thysdrus_in_Africa_Proconsularis%2C_the_estimated_capacity_is_35%2C000%2C_Tunisia_-_52717762494.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Amphitheatre_of_El_Jem,_built_around_AD_238_in_Thysdrus_in_Africa_Proconsularis,_the_estimated_capacity_is_35,000,_Tunisia_-_52717762494.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Carole Raddato",
+   "credito": "https://www.flickr.com/photos/41523983@N08/52717762494/",
+   "nonfree": "",
+   "fecha": "Taken on 16 February",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Anfiteatro, El Jem, Túnez, 2016-09-04, DD 09.jpg",
+   "w": 6073,
+   "h": 3337,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_09.jpg/330px-Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_El_Jem,_T%C3%BAnez,_2016-09-04,_DD_09.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-04 15:16:15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Anfiteatro, El Jem, Túnez, 2016-09-04, DD 44.jpg",
+   "w": 8688,
+   "h": 5792,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_44.jpg/330px-Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_El_Jem,_T%C3%BAnez,_2016-09-04,_DD_44.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-04 15:57:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "id": "sossusvlei",
+ "enwiki": "Sossusvlei",
+ "endesc": "Salt and clay pan in the Namib Desert, Namibia",
+ "qid": "Q1932730",
+ "coord": [
+  -24.73983,
+  15.28765
+ ],
+ "label_es": "Sossusvlei",
+ "desc_es": "salar del parque nacional de Namib-Naukluft, Namibia",
+ "inicio": [],
+ "p31": [
+  "Q39816"
+ ],
+ "p17": [
+  "Q1030"
+ ],
+ "unesco": false,
+ "eswiki": "Sossusvlei",
+ "extracto_es": "Sossusvlei es un salar en el desierto de Namib central, que está dentro del parque nacional de Namib-Naukluft. Alimentado por el río Tsauchab, es conocido por las altas dunas de arena roja que lo rodean, formando un importante mar de arena (mar de dunas).\nDead Vlei y Hidden Vlei están cerca de Sossusvlei.",
+ "candidatas": [
+  {
+   "file": "File:006 Dune 45 in Sossusvlei at sunrise Photo by Giles Laurent.jpg",
+   "w": 5385,
+   "h": 3590,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg/330px-006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 24 July 202",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sossusvlei.jpg",
+   "w": 3879,
+   "h": 2586,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Sossusvlei.jpg/330px-Sossusvlei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sossusvlei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sossusvlei.jpg",
+   "licencia": "GFDL 1.2",
+   "licurl": "",
+   "autor": "Ikiwaner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-10-06",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sossusvlei sand dunes.jpg",
+   "w": 2288,
+   "h": 1712,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Sossusvlei_sand_dunes.jpg/330px-Sossusvlei_sand_dunes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sossusvlei_sand_dunes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sossusvlei_sand_dunes.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Winfried Bruenken (Amrum)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2005-09",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2011-02-09 066.JPG",
+   "w": 4752,
+   "h": 3168,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/2011-02-09_066.JPG/330px-2011-02-09_066.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/2011-02-09_066.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2011-02-09_066.JPG",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Anagoria",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-02-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:123 Single tree in Sossusvlei Photo by Giles Laurent.jpg",
+   "w": 7952,
+   "h": 5304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/123_Single_tree_in_Sossusvlei_Photo_by_Giles_Laurent.jpg/330px-123_Single_tree_in_Sossusvlei_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/123_Single_tree_in_Sossusvlei_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:123_Single_tree_in_Sossusvlei_Photo_by_Giles_Laurent.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Giles Laurent",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-07-24 06:50:04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Dead Vlei, Sossusvlei, Namibia, 2018-08-06, DD 097.jpg",
+   "w": 7993,
+   "h": 5329,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Dead_Vlei%2C_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_097.jpg/330px-Dead_Vlei%2C_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_097.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Dead_Vlei%2C_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_097.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dead_Vlei,_Sossusvlei,_Namibia,_2018-08-06,_DD_097.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-08-06 10:58:24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Thorn Tree Sossusvlei Namib Desert Namibia Luca Galuzzi 2004.JPG",
+   "w": 2000,
+   "h": 1333,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Thorn_Tree_Sossusvlei_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG/330px-Thorn_Tree_Sossusvlei_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Thorn_Tree_Sossusvlei_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Thorn_Tree_Sossusvlei_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Luca Galuzzi (Lucag)",
+   "credito": "Photo taken by (Luca Galuzzi) * http://www.galuzzi.it",
+   "nonfree": "",
+   "fecha": "2004-07-19",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sossusvlei 1.jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sossusvlei_1.jpg/330px-Sossusvlei_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sossusvlei_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sossusvlei_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "FrankBothe",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-06-30 12:16:37",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

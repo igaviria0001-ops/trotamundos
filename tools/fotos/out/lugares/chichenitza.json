@@ -1,0 +1,190 @@
+{
+ "id": "chichenitza",
+ "enwiki": "Chichen Itza",
+ "endesc": "Pre-Columbian Maya city in Mexico",
+ "qid": "Q5859",
+ "coord": [
+  20.683055555556,
+  -88.568611111111
+ ],
+ "label_es": "Chichén Itzá",
+ "desc_es": "sitio arqueológico de la península de Yucatán y una de las 7 maravillas del mundo moderno",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0455-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q15661340",
+  "Q839954"
+ ],
+ "p17": [
+  "Q96"
+ ],
+ "unesco": true,
+ "eswiki": "Chichén Itzá",
+ "extracto_es": "Chichén Itzá (en maya: )  es uno de los principales sitios arqueológicos mayas de la península de Yucatán en México. Se encuentra a escasos 2.5 km de la localidad de Pisté, en el municipio de Tinum, en el estado de Yucatán, al sureste de México. Consistió en una ciudad o un centro ceremonial que pasó por diversas épocas constructivas e influencias de los distintos pueblos que la ocuparon y que la impulsaron desde su fundación.​ Vestigio importante y renombrado de la civilización maya, las construcciones principales que ahí perduran corresponden al periodo denominado clásico tardío o posclásico temprano (800-1100 d. C.) dentro del período posclásico mesoamericano.\nFue inscrita  como Patrimonio de la Humanidad por la Unesco en 1988.​ En 2007 el templo de Kukulcán conocido tradicionalmente como \"El Castillo\" fue votado como una de las nuevas siete maravillas del mundo moderno.​ La arquitectura monumental que ha llegado hasta nuestros días, que es emblemática del yacimiento, tiene una clara influencia tolteca. El dios que preside el sitio, según la mitología maya, es Kukulcán, representación maya de Quetzalcóatl, dios tomado del panteón de la cultura tolteca.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Chichen Itza 3.jpg",
+   "w": 9771,
+   "h": 5197,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/330px-Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Daniel Schwen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-08-18",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 22,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Templo el Castillo - Chichen Itza-Yucatan-Mexico0222.jpg",
+   "w": 2464,
+   "h": 1848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Templo_el_Castillo_-_Chichen_Itza-Yucatan-Mexico0222.jpg/330px-Templo_el_Castillo_-_Chichen_Itza-Yucatan-Mexico0222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Templo_el_Castillo_-_Chichen_Itza-Yucatan-Mexico0222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_el_Castillo_-_Chichen_Itza-Yucatan-Mexico0222.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-07-01",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kukulkán rodeada de azul..JPG",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Kukulk%C3%A1n_rodeada_de_azul..JPG/330px-Kukulk%C3%A1n_rodeada_de_azul..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Kukulk%C3%A1n_rodeada_de_azul..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kukulk%C3%A1n_rodeada_de_azul..JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Antonio Gracia Ibarrola",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-03-20 00:27:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Chichen Itza 4.jpg",
+   "w": 7334,
+   "h": 3030,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Chichen_Itza_4.jpg/330px-Chichen_Itza_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Chichen_Itza_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Daniel Schwen",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-08-18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Chichen Itza Junio 1973 - Monjas.jpg",
+   "w": 4942,
+   "h": 3707,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Chichen_Itza_Junio_1973_-_Monjas.jpg/330px-Chichen_Itza_Junio_1973_-_Monjas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Chichen_Itza_Junio_1973_-_Monjas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_Junio_1973_-_Monjas.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "As described in source.  \n\nPlease credit \"Family photo collection of Infrogmation\".",
+   "credito": "Photos taken at Chichen Itza in June 1973 with multiple cameras by Infrogmation's deceased parents, deceased sister, and Infrogmation, from photo collection inherited by Infrogmation with all rights.",
+   "nonfree": "",
+   "fecha": "1973-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Chichen-Itza-Chac-Mool-2010.jpg",
+   "w": 3399,
+   "h": 2549,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Chichen-Itza-Chac-Mool-2010.jpg/330px-Chichen-Itza-Chac-Mool-2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chichen-Itza-Chac-Mool-2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chichen-Itza-Chac-Mool-2010.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bjørn Christian Tørrissen",
+   "credito": "Own work by uploader, https://bjornfree.com/galleries.html",
+   "nonfree": "",
+   "fecha": "2010-12-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Chichen Itza TresDinteles.jpg",
+   "w": 4299,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Chichen_Itza_TresDinteles.jpg/330px-Chichen_Itza_TresDinteles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Chichen_Itza_TresDinteles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_TresDinteles.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "HJPD",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Chichen Itza Junio 1973 - Sweathbaths.jpg",
+   "w": 4970,
+   "h": 3659,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Chichen_Itza_Junio_1973_-_Sweathbaths.jpg/330px-Chichen_Itza_Junio_1973_-_Sweathbaths.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chichen_Itza_Junio_1973_-_Sweathbaths.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_Junio_1973_-_Sweathbaths.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "As described in source.  \n\nPlease credit \"Family photo collection of Infrogmation\".",
+   "credito": "Photos taken at Chichen Itza in June 1973 with multiple cameras by Infrogmation's deceased parents, deceased sister, and Infrogmation, from photo collection inherited by Infrogmation with all rights.",
+   "nonfree": "",
+   "fecha": "1973-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

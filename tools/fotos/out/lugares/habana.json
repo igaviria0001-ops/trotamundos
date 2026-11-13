@@ -1,0 +1,192 @@
+{
+ "id": "habana",
+ "enwiki": "Old Havana",
+ "endesc": "First Subdivision of Havana in Cuba",
+ "qid": "Q1165566",
+ "coord": [
+  23.135944444444,
+  -82.358333333333
+ ],
+ "label_es": "La Habana Vieja",
+ "desc_es": "sitio del Patrimonio Mundial y municipio de La Habana, Cuba",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 11.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 4.37,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q676050",
+  "Q558330",
+  "Q702492"
+ ],
+ "p17": [
+  "Q241"
+ ],
+ "unesco": false,
+ "eswiki": "La Habana Vieja",
+ "extracto_es": "La Habana Vieja es la zona más antigua de la ciudad de  La Habana capital de Cuba. En su conjunto posee un trazado urbanístico semejante a una gran lente biconvexa de unos 5 km² de superficie, donde todavía quedan restos de las murallas que durante dos siglos la protegieron con un cerco de piedras y la configuraron como un recinto militar defensivo. El derribo de la muralla se inició en 1863. \nDebido a la naturaleza cosmopolita de sus habitantes a través de la historia, La Habana Vieja es el reflejo de una mezcla de estilos arquitectónicos y el testimonio de diferentes épocas: Corona española, británicos, franceses y estadounidenses. Cuando estuvo en manos del gobierno interventor de Estados Unidos, las viejas construcciones coloniales fueron demolidas para levantar otras imponentes con fachadas neoclásicas. Durante la década de los 90 del siglo XX comienza el rescate del ambiente histórico de La Habana Vieja, impulsado por la oficina del historiador de la ciudad, que había dejado los edificios y monumentos sin mantenimiento por más de cuarenta años. Desde entonces se lleva a cabo un trabajo de investigación y restauración, el cual se lleva a cabo por los habitantes de La Habana Vieja. En esta actividad ha tenido un peso considerable la labor de dirección y planificación de la Oficina del Historiador de la Ciudad.\nEn 1982, La Habana Vieja fue declarada Patrimonio de la Humanidad por la Unesco. \nEn la actualidad, La Habana Vieja es una de las zonas más turísticas de La Habana debido a la restauración de iglesias, fortalezas y otros edificios históricos. Además La Habana Vieja dispone de restaurantes de todo tipo: desde los paladares hasta restaurantes gourmet e internacionales. También se encuentran muchas librerías, museos y tiendas (ropa, artesanías, suvenires). Debido a la gran cantidad de turistas la vida en La Habana Vieja es muy activa y en ella se llevan a cabo ferias de artesanías, libros, presentaciones artísticas, etc.",
+ "candidatas": [
+  {
+   "file": "File:Old Square, Havana.jpg",
+   "w": 3504,
+   "h": 2336,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Old_Square%2C_Havana.jpg/330px-Old_Square%2C_Havana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Old_Square%2C_Havana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Old_Square,_Havana.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Brian Snelson",
+   "credito": "https://www.flickr.com/photos/exfordy/495266522/",
+   "nonfree": "",
+   "fecha": "2007-04-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:A 95 year old woman with her pet rooster, Havana, Cuba.jpg",
+   "w": 2912,
+   "h": 4368,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/A_95_year_old_woman_with_her_pet_rooster%2C_Havana%2C_Cuba.jpg/330px-A_95_year_old_woman_with_her_pet_rooster%2C_Havana%2C_Cuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/A_95_year_old_woman_with_her_pet_rooster%2C_Havana%2C_Cuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_95_year_old_woman_with_her_pet_rooster,_Havana,_Cuba.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jorge Royan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-01-02",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Arco de Belén. Habana Vieja, La Habana, Cuba. Agosto de 2016 01.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Arco_de_Bel%C3%A9n._Habana_Vieja%2C_La_Habana%2C_Cuba._Agosto_de_2016_01.jpg/330px-Arco_de_Bel%C3%A9n._Habana_Vieja%2C_La_Habana%2C_Cuba._Agosto_de_2016_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Arco_de_Bel%C3%A9n._Habana_Vieja%2C_La_Habana%2C_Cuba._Agosto_de_2016_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Arco_de_Bel%C3%A9n._Habana_Vieja,_La_Habana,_Cuba._Agosto_de_2016_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Yoeztudioz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-08-08 17:53:18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Floridita bar, Havana, Cuba 1.jpg",
+   "w": 4752,
+   "h": 3168,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Floridita_bar%2C_Havana%2C_Cuba_1.jpg/330px-Floridita_bar%2C_Havana%2C_Cuba_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Floridita_bar%2C_Havana%2C_Cuba_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Floridita_bar,_Havana,_Cuba_1.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Tony Hisgett from Birmingham, UK",
+   "credito": "Hemingway at the Floridita 1\n\nUploaded by stegop",
+   "nonfree": "",
+   "fecha": "2009-01-06 16:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Havana, Cuba (37585010486).jpg",
+   "w": 4725,
+   "h": 3544,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Havana%2C_Cuba_%2837585010486%29.jpg/330px-Havana%2C_Cuba_%2837585010486%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Havana%2C_Cuba_%2837585010486%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Havana,_Cuba_(37585010486).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Pedro Szekely from Los Angeles, USA",
+   "credito": "Havana, Cuba",
+   "nonfree": "",
+   "fecha": "2017-02-04 14:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Havana - Cuba - 3992.jpg",
+   "w": 4368,
+   "h": 2912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Havana_-_Cuba_-_3992.jpg/330px-Havana_-_Cuba_-_3992.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Havana_-_Cuba_-_3992.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Havana_-_Cuba_-_3992.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jorge Royan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-01-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Street 3 La Habana Vieja.JPG",
+   "w": 2560,
+   "h": 1920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Street_3_La_Habana_Vieja.JPG/330px-Street_3_La_Habana_Vieja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Street_3_La_Habana_Vieja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Street_3_La_Habana_Vieja.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Photo: gildemax",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-12-14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Havana - View from Cabaña heights.jpg",
+   "w": 1972,
+   "h": 1248,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Havana_-_View_from_Caba%C3%B1a_heights.jpg/330px-Havana_-_View_from_Caba%C3%B1a_heights.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Havana_-_View_from_Caba%C3%B1a_heights.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Havana_-_View_from_Caba%C3%B1a_heights.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Carlos Jordi, Havana",
+   "credito": "Digital scan of postcard",
+   "nonfree": "",
+   "fecha": "1925",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "busqueda"
+  }
+ ]
+}

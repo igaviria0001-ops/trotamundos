@@ -1,0 +1,200 @@
+{
+ "id": "alberobello",
+ "enwiki": "Alberobello",
+ "endesc": "Town in Apulia, Italy",
+ "qid": "Q51812",
+ "label_es": "Alberobello",
+ "desc_es": "municipio italiano",
+ "coord": [
+  40.784061111111,
+  17.237461111111
+ ],
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 416.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 40.82,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q747074"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Alberobello",
+ "extracto_es": "Alberobello («Ajarubbèdde» en apulo-barese) es una pequeña ciudad y un municipio italiano de 10.931 habitantes en la provincia de Bari (Apulia). Son célebres «Los trullos de Alberobello», declarados Patrimonio de la Humanidad por la Unesco en el año 1996.​",
+ "candidatas": [
+  {
+   "file": "File:Alberobello BW 2016-10-16 13-43-03.jpg",
+   "w": 5722,
+   "h": 3852,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Alberobello_BW_2016-10-16_13-43-03.jpg/330px-Alberobello_BW_2016-10-16_13-43-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Alberobello_BW_2016-10-16_13-43-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alberobello_BW_2016-10-16_13-43-03.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Berthold Werner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-16",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "es"
+  },
+  {
+   "file": "File:Alberobello con il drone.jpg",
+   "w": 4367,
+   "h": 3131,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Alberobello_con_il_drone.jpg/330px-Alberobello_con_il_drone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Alberobello_con_il_drone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alberobello_con_il_drone.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "ParisTaras",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-08-25 17:59:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Alberobello BW 2016-10-16 13-10-43.jpg",
+   "w": 5563,
+   "h": 3482,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Alberobello_BW_2016-10-16_13-10-43.jpg/330px-Alberobello_BW_2016-10-16_13-10-43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Alberobello_BW_2016-10-16_13-10-43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alberobello_BW_2016-10-16_13-10-43.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Berthold Werner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-10-16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:I Trulli di Alberobello di sera.jpg",
+   "w": 6720,
+   "h": 4224,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/I_Trulli_di_Alberobello_di_sera.jpg/330px-I_Trulli_di_Alberobello_di_sera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/I_Trulli_di_Alberobello_di_sera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:I_Trulli_di_Alberobello_di_sera.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Maurizio Moro5153",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-07-24 20:26:36",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Alberobello - Sant'Antonio di Padova - 1.jpg",
+   "w": 5792,
+   "h": 4344,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Alberobello_-_Sant%27Antonio_di_Padova_-_1.jpg/330px-Alberobello_-_Sant%27Antonio_di_Padova_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Alberobello_-_Sant%27Antonio_di_Padova_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alberobello_-_Sant%27Antonio_di_Padova_-_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benjamin Smith",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-04-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Alberobello - Trulli del Rione Monti - 03.jpg",
+   "w": 6621,
+   "h": 4418,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Alberobello_-_Trulli_del_Rione_Monti_-_03.jpg/330px-Alberobello_-_Trulli_del_Rione_Monti_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Alberobello_-_Trulli_del_Rione_Monti_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alberobello_-_Trulli_del_Rione_Monti_-_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benjamin Smith",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-04-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Alberobello - Trullo Sovrano - 1.jpg",
+   "w": 6361,
+   "h": 3578,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Alberobello_-_Trullo_Sovrano_-_1.jpg/330px-Alberobello_-_Trullo_Sovrano_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Alberobello_-_Trullo_Sovrano_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alberobello_-_Trullo_Sovrano_-_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benjamin Smith",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-04-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Bottega nel trullo - Alberobello.jpg",
+   "w": 5761,
+   "h": 8869,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bottega_nel_trullo_-_Alberobello.jpg/330px-Bottega_nel_trullo_-_Alberobello.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bottega_nel_trullo_-_Alberobello.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bottega_nel_trullo_-_Alberobello.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "ParisTaras",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-08-25 17:34:57",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
+}

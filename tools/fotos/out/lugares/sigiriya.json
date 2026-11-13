@@ -1,0 +1,194 @@
+{
+ "id": "sigiriya",
+ "enwiki": "Sigiriya",
+ "endesc": "Ancient rock fortress near Dambulla, Sri Lanka",
+ "qid": "Q272153",
+ "coord": [
+  7.9569444444444,
+  80.759722222222
+ ],
+ "label_es": "Sigiriya",
+ "desc_es": "antiguo palacio ubicado cerca de la ciudad de Dambulla en Sri Lanka",
+ "inicio": [],
+ "altura": [
+  {
+   "v": 180.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 349.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 1.5,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q486972"
+ ],
+ "p17": [
+  "Q854"
+ ],
+ "unesco": true,
+ "eswiki": "Sigiriya",
+ "extracto_es": "Sigiriya o Sinhagiri (/ˈsiːgirijə/) es un yacimiento arqueológico localizado en el distrito de Matale, en la provincia Central de Sri Lanka. Contiene las ruinas de un antiguo complejo palaciego, construido durante el reino del rey Kasyapa (477 – 495). Es uno de los destinos turísticos más populares del país y los habitantes de la isla se suelen referir a Sigiriya en Sri Lanka como la octava maravilla del mundo.​ Fue declarado Patrimonio de la Humanidad por la Unesco en el año 1982.​​",
+ "candidatas": [
+  {
+   "file": "File:Sigiriya.jpg",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Sigiriya.jpg/330px-Sigiriya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sigiriya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sigiriya.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2006-01-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Sigiriya (141688197).jpeg",
+   "w": 2048,
+   "h": 1365,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Sigiriya_%28141688197%29.jpeg/330px-Sigiriya_%28141688197%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sigiriya_%28141688197%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sigiriya_(141688197).jpeg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Wrobell",
+   "credito": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+   "nonfree": "",
+   "fecha": "11 February 2016, 17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Sigiriya Luftbild (29781064900).jpg",
+   "w": 3241,
+   "h": 1820,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Sigiriya_Luftbild_%2829781064900%29.jpg/330px-Sigiriya_Luftbild_%2829781064900%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Sigiriya_Luftbild_%2829781064900%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sigiriya_Luftbild_(29781064900).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "dronepicr",
+   "credito": "Sigiriya Luftbild",
+   "nonfree": "",
+   "fecha": "2016-07-26 11:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Sigiriya, Wolkenmädchen 3.jpg",
+   "w": 4111,
+   "h": 2741,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Sigiriya%2C_Wolkenm%C3%A4dchen_3.jpg/330px-Sigiriya%2C_Wolkenm%C3%A4dchen_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Sigiriya%2C_Wolkenm%C3%A4dchen_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sigiriya,_Wolkenm%C3%A4dchen_3.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Schnobby",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-02-28 19:47:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Frescoes at Sigiriya-at cobra cave, Sri lanka.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Frescoes_at_Sigiriya-at_cobra_cave%2C_Sri_lanka.jpg/330px-Frescoes_at_Sigiriya-at_cobra_cave%2C_Sri_lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Frescoes_at_Sigiriya-at_cobra_cave%2C_Sri_lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Frescoes_at_Sigiriya-at_cobra_cave,_Sri_lanka.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Prof Ranga Sai",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-08-17 09:30:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Frescoes at Sigiriya SriLanka 3.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Frescoes_at_Sigiriya_SriLanka_3.jpg/330px-Frescoes_at_Sigiriya_SriLanka_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Frescoes_at_Sigiriya_SriLanka_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Frescoes_at_Sigiriya_SriLanka_3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Prof Ranga Sai",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-08-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lions Paw, Sigirya.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Lions_Paw%2C_Sigirya.jpg/330px-Lions_Paw%2C_Sigirya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Lions_Paw%2C_Sigirya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lions_Paw,_Sigirya.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Venkasub",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-08-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:On top of Sigirîya's Lion Rock (36399791715).jpg",
+   "w": 5184,
+   "h": 2970,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/On_top_of_Sigir%C3%AEya%27s_Lion_Rock_%2836399791715%29.jpg/330px-On_top_of_Sigir%C3%AEya%27s_Lion_Rock_%2836399791715%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/On_top_of_Sigir%C3%AEya%27s_Lion_Rock_%2836399791715%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:On_top_of_Sigir%C3%AEya%27s_Lion_Rock_(36399791715).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "V. Epiney",
+   "credito": "On top of Sigirîya's Lion Rock",
+   "nonfree": "",
+   "fecha": "2016-07-10 13:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

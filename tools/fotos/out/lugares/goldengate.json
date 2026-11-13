@@ -1,0 +1,223 @@
+{
+ "id": "goldengate",
+ "enwiki": "Golden Gate Bridge",
+ "endesc": "Bridge in the San Francisco Bay Area",
+ "qid": "Q44440",
+ "coord": [
+  37.819722222222,
+  -122.47861111111
+ ],
+ "label_es": "puente Golden Gate",
+ "desc_es": "puente colgante situado en la bahía de San Francisco, California, Estados Unidos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1937-05-27T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1937-05-28T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 746.0,
+   "u": "Q3710"
+  }
+ ],
+ "largo": [
+  {
+   "v": 8981.0,
+   "u": "Q3710"
+  }
+ ],
+ "p31": [
+  "Q12570",
+  "Q12042110",
+  "Q7814330",
+  "Q537127"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Puente Golden Gate",
+ "extracto_es": "El puente Golden Gate (en español: Puente de puerta de oro) es un puente colgante situado en California, Estados Unidos, que une la península de San Francisco por el norte con el sur del condado de Marin, cerca de Sausalito. Golden Gate es también el nombre del estrecho en el cual el puente está construido, y recibe su nombre del estrecho en Constantinopla, llamado también la Puerta Dorada, ya que comunicaba Europa con Asia.​\nEl Golden Gate es el puente más famoso de San Francisco a pesar de no ser el mayor en esta ciudad, ya que el puente de la Bahía es la vía principal.\nEn la década posterior a la Primera Guerra Mundial el tráfico rodado en la región de la bahía de San Francisco se multiplicó por siete, de modo que el sistema de ferris fue incapaz de absorber ese crecimiento. Catalogado como puente colgante, construido entre 1933 y 1937, con una longitud aproximada de 1280 metros, está suspendido de dos torres de 227 m de altura. Tiene una calzada de seis carriles (tres en cada dirección) y dispone de carriles protegidos accesibles para peatones y bicicletas. El puente se utiliza para el cruce de tendidos eléctricos y conducciones de combustible. Bajo su estructura, deja 67 m de altura para el paso de los barcos a través de la bahía. El Golden Gate constituyó la mayor obra de ingeniería de su época, Fue pintado con suma urgencia para evitar la rápida oxidación producida en el acero de su estructura por el océano Pacífico.",
+ "candidatas": [
+  {
+   "file": "File:Golden Gate Bridge as seen from Battery East.jpg",
+   "w": 5388,
+   "h": 3368,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/330px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Frank Schulenburg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-06-24 08:45:10",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 21,
+   "origen": "en"
+  },
+  {
+   "file": "File:Golden Gate Bridge at sunset 1.jpg",
+   "w": 2222,
+   "h": 1481,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Golden_Gate_Bridge_at_sunset_1.jpg/330px-Golden_Gate_Bridge_at_sunset_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Golden_Gate_Bridge_at_sunset_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_at_sunset_1.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Brocken Inaglory",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-10-15",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Bridge (August 2013).jpg",
+   "w": 4839,
+   "h": 2118,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/The_Bridge_%28August_2013%29.jpg/330px-The_Bridge_%28August_2013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/The_Bridge_%28August_2013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Bridge_(August_2013).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Frank Schulenburg",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-15 05:55:46",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Aerial view of Golden Gate Bridge from southwest dllu.jpg",
+   "w": 7345,
+   "h": 4515,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_view_of_Golden_Gate_Bridge_from_southwest_dllu.jpg/330px-Aerial_view_of_Golden_Gate_Bridge_from_southwest_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Aerial_view_of_Golden_Gate_Bridge_from_southwest_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Golden_Gate_Bridge_from_southwest_dllu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Daniel L. Lu (user:dllu)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-04-14 23:33:50",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Golden Gate Bridge bw.jpg",
+   "w": 3923,
+   "h": 2611,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Golden_Gate_Bridge_bw.jpg/330px-Golden_Gate_Bridge_bw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Golden_Gate_Bridge_bw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_bw.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Almonroth",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 16 February",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:San francisco in fog with rays.jpg",
+   "w": 3000,
+   "h": 3222,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/San_francisco_in_fog_with_rays.jpg/330px-San_francisco_in_fog_with_rays.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/San_francisco_in_fog_with_rays.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:San_francisco_in_fog_with_rays.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Brocken Inaglory",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 26 Septembe",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:San Francisco Bay, Golden Gate Bridge and Marin Headlands at sunset.jpg",
+   "w": 3000,
+   "h": 2740,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/San_Francisco_Bay%2C_Golden_Gate_Bridge_and_Marin_Headlands_at_sunset.jpg/330px-San_Francisco_Bay%2C_Golden_Gate_Bridge_and_Marin_Headlands_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/San_Francisco_Bay%2C_Golden_Gate_Bridge_and_Marin_Headlands_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_Bay,_Golden_Gate_Bridge_and_Marin_Headlands_at_sunset.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Brocken Inaglory",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Aerial view of Golden Gate Bridge from the south dllu.jpg",
+   "w": 4848,
+   "h": 4848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Aerial_view_of_Golden_Gate_Bridge_from_the_south_dllu.jpg/330px-Aerial_view_of_Golden_Gate_Bridge_from_the_south_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Aerial_view_of_Golden_Gate_Bridge_from_the_south_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Golden_Gate_Bridge_from_the_south_dllu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Daniel L. Lu (user:dllu)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 14 April 20",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "P8592"
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "id": "teotihuacan",
+ "enwiki": "Teotihuacan",
+ "endesc": "Ancient Mesoamerican city",
+ "qid": "Q172613",
+ "coord": [
+  19.6925,
+  -98.843888888889
+ ],
+ "label_es": "Teotihuacan",
+ "desc_es": "ciudad prehispánica de Mesoamérica",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "-0180-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 250.0,
+   "u": "Q35852"
+  },
+  {
+   "v": 3118.15,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 1785275.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q839954",
+  "Q1081138"
+ ],
+ "p17": [
+  "Q96"
+ ],
+ "unesco": true,
+ "eswiki": "Teotihuacán",
+ "extracto_es": "Teotihuacan o Teotihuacán​ (en náhuatl: Teōtīhuacān, 'lugar donde los hombres se convierten en dioses, lugar de la apoteosis,​ lugar de los dioses',​ AFI: /te.oː.tiː.ˈwá.kaːn/, ),​ que, según nuevas investigaciones, también pudo haber sido conocida como Teohuacan (en náhuatl: Teōhuahcān, 'ciudad/lugar del sol, lugar de los sumos sacerdotes', AFI: /te.oː.ˈwáʔ.kaːn/),​ es el nombre que se le da al gran complejo arqueológico que fue uno de los mayores de Mesoamérica durante el clásico (c. 200/250-600/650 d. C.), más precisamente entre c. 100 a. C. y 600 d. C./650 d. C.​ Los mexicas emplearon dichos topónimos para identificar a esta urbe construida por una civilización anterior a ellos y que ya se encontraba en ruinas para cuando la vieron por primera vez.​\nLos restos de la ciudad se encuentran aproximadamente a 42 km al noreste de la Ciudad de México, dentro del valle de México (Altiplano Central), más concisamente en el valle homónimo en el homónimo municipio del Estado de México. La zona de monumentos arqueológicos fue declarada Patrimonio de la Humanidad por la Unesco en 1987.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:ZA77 Teotihuacán edo de mex Herberto de la rosa.jpg",
+   "w": 3008,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg/330px-ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hdlrosa",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-08-06 07:37:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Chac Mool, Teotihuacán.JPG",
+   "w": 4750,
+   "h": 3442,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Chac_Mool%2C_Teotihuac%C3%A1n.JPG/330px-Chac_Mool%2C_Teotihuac%C3%A1n.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chac_Mool%2C_Teotihuac%C3%A1n.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chac_Mool,_Teotihuac%C3%A1n.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "لا روسا",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Teotihuacán, México, 2013-10-13, DD 48.JPG",
+   "w": 5416,
+   "h": 2714,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_48.JPG/330px-Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_48.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_48.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Teotihuac%C3%A1n,_M%C3%A9xico,_2013-10-13,_DD_48.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-13 11:09:49",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Cabeza de felino, Teotihuacán, México, 2013-10-13, DD 03.JPG",
+   "w": 2776,
+   "h": 3897,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Cabeza_de_felino%2C_Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_03.JPG/330px-Cabeza_de_felino%2C_Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cabeza_de_felino%2C_Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cabeza_de_felino,_Teotihuac%C3%A1n,_M%C3%A9xico,_2013-10-13,_DD_03.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-13 10:08:04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Teotihuacan Sun Front.jpg",
+   "w": 3774,
+   "h": 2829,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Teotihuacan_Sun_Front.jpg/330px-Teotihuacan_Sun_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Teotihuacan_Sun_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Teotihuacan_Sun_Front.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Malkowo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-09-07 11:59:32",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Wiki Loves Pyramids, Wikimania15, ArmAg (16).JPG",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Wiki_Loves_Pyramids%2C_Wikimania15%2C_ArmAg_%2816%29.JPG/330px-Wiki_Loves_Pyramids%2C_Wikimania15%2C_ArmAg_%2816%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Wiki_Loves_Pyramids%2C_Wikimania15%2C_ArmAg_%2816%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Wiki_Loves_Pyramids,_Wikimania15,_ArmAg_(16).JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Armineaghayan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-07-20 20:59:11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Teotihuacan doorway.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Teotihuacan_doorway.jpg/330px-Teotihuacan_doorway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Teotihuacan_doorway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Teotihuacan_doorway.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "HighVibrationStation",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-02-18 14:38:34",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Teotihuacan tossed boulders.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Teotihuacan_tossed_boulders.jpg/330px-Teotihuacan_tossed_boulders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Teotihuacan_tossed_boulders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Teotihuacan_tossed_boulders.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "HighVibrationStation",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-02-18 14:36:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

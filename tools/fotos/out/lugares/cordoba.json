@@ -1,0 +1,213 @@
+{
+ "id": "cordoba",
+ "enwiki": "Mosque–Cathedral of Córdoba",
+ "endesc": "Cathedral and former mosque in Córdoba, Spain",
+ "qid": "Q33200",
+ "coord": [
+  37.8788654292767,
+  -4.77934163461387
+ ],
+ "label_es": "Mezquita-catedral de Córdoba",
+ "desc_es": "edificio religioso, declarado Patrimonio Cultural de la Humanidad",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0786-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 54.0,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 1923305.0,
+   "u": "1"
+  }
+ ],
+ "largo": [
+  {
+   "v": 178.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q1454820",
+  "Q56242215"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": true,
+ "eswiki": "Mezquita-catedral de Córdoba",
+ "extracto_es": "La mezquita-catedral de Córdoba,​​​ conocida eclesiásticamente como catedral de Nuestra Señora de la Asunción​ y de forma popular como la Mezquita, es la catedral de la diócesis de Córdoba ubicada en la ciudad española de Córdoba, Andalucía.​\nSegún las fuentes islámicas, antes de la conquista musulmana de la península ibérica, en este lugar se encontraba la basílica de San Vicente,​​ mientras que las excavaciones indican la existencia de un complejo episcopal erigido en el siglo V.​​ Los musulmanes habrían reutilizado parte de este templo cristiano​ hasta la llegada de Abderramán I, quien fundó el Emirato de Córdoba, y construyó la mezquita aljama al final de su vida, en 786. La mezquita fue objeto de ampliaciones durante el emirato y especialmente durante el Califato de Córdoba: el primer califa, Abderramán III, añadió un nuevo minarete en 958, mientras que su hijo al-Hakam II realizó la parte más suntuosa, el nuevo mihrab y la macsura, realizados en 971. Llegó a cubrir un área de 23 400 metros cuadrados, con lo cual quedó como la segunda mezquita más grande del mundo en superficie, sólo por detrás de la Gran Mezquita de La Meca, y sólo superada en el siglo XVI por la Mezquita Azul (1588). El muro de la quibla no fue orientado hacia La Meca, sino 51.º grados hacia el sur, práctica habitual en las mezquitas de al-Ándalus. \nEn 1236, tras la conquista cristiana de la ciudad por Fernando III de Castilla, se llevó a cabo su consagración como edificio cristiano, aunque no fue convertida en catedral de la diócesis hasta la ordenación episcopal de su primer obispo, Lope de Fitero, dos años más tarde.​ Sin embargo, no se produjeron grandes cambios arquitectónicos hasta la construcción de la capilla mayor cruciforme, realizada entre 1523 y 1607 bajo la dirección de los arquitectos Hernán Ruiz I, Hernán Ruiz II y Juan de Ochoa.​ \nActualmente el conjunto constituye el monumento más importante de Córdoba y del arte hispanomusulmán, concretamente el arte emiral y califal. Declarada como Bien de interés cultural​ y Patrimonio Cultural de la Humanidad desde 1984. Integrado dentro del centro histórico de la ciudad,​ desde 1994 se incluyó por el público entre los 12 Tesoros de España en 2007​ y fue premiada como el mejor sitio de interés turístico de Europa y sexto del mundo según un concurso de TripAdvisor.​ En 2025 alcanzó su récord histórico de visitantes con 2,19 millones de personas, uno de los monumentos más visitados de España.​ \n\n",
+ "candidatas": [
+  {
+   "file": "File:Mezquita de Córdoba desde el aire (Córdoba, España).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg/330px-Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mezquita_de_C%C3%B3rdoba_desde_el_aire_(C%C3%B3rdoba,_Espa%C3%B1a).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Toni Castillo Quero",
+   "credito": "Flickr: [1]",
+   "nonfree": "",
+   "fecha": "2010-03-21 18:39:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Córdoba - Mezquita-Catedral - Interior - 07.jpg",
+   "w": 6462,
+   "h": 4312,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/C%C3%B3rdoba_-_Mezquita-Catedral_-_Interior_-_07.jpg/330px-C%C3%B3rdoba_-_Mezquita-Catedral_-_Interior_-_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/C%C3%B3rdoba_-_Mezquita-Catedral_-_Interior_-_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba_-_Mezquita-Catedral_-_Interior_-_07.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benjamin Smith",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-04-18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Mosque-Cathedral Puente Romano de Córdoba.jpg",
+   "w": 5100,
+   "h": 3400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mosque-Cathedral_Puente_Romano_de_C%C3%B3rdoba.jpg/330px-Mosque-Cathedral_Puente_Romano_de_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mosque-Cathedral_Puente_Romano_de_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mosque-Cathedral_Puente_Romano_de_C%C3%B3rdoba.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-12-13 17:51:53",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mezquita-catedral de Córdoba interior 22.jpg",
+   "w": 5100,
+   "h": 3400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Mezquita-catedral_de_C%C3%B3rdoba_interior_22.jpg/330px-Mezquita-catedral_de_C%C3%B3rdoba_interior_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mezquita-catedral_de_C%C3%B3rdoba_interior_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mezquita-catedral_de_C%C3%B3rdoba_interior_22.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-01-15 19:59:15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Mosque Cordoba edited.jpg",
+   "w": 2592,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Mosque_Cordoba_edited.jpg/330px-Mosque_Cordoba_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mosque_Cordoba_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mosque_Cordoba_edited.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Timor Espallargas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2004-12-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Mezquita-catedral de Córdoba interior 20.jpg",
+   "w": 4600,
+   "h": 3800,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mezquita-catedral_de_C%C3%B3rdoba_interior_20.jpg/330px-Mezquita-catedral_de_C%C3%B3rdoba_interior_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mezquita-catedral_de_C%C3%B3rdoba_interior_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mezquita-catedral_de_C%C3%B3rdoba_interior_20.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-01-15 19:50:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Puerta de San Esteban, Mosque-Cathedral of Córdoba.jpg",
+   "w": 3070,
+   "h": 4900,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Puerta_de_San_Esteban%2C_Mosque-Cathedral_of_C%C3%B3rdoba.jpg/330px-Puerta_de_San_Esteban%2C_Mosque-Cathedral_of_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Puerta_de_San_Esteban%2C_Mosque-Cathedral_of_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puerta_de_San_Esteban,_Mosque-Cathedral_of_C%C3%B3rdoba.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-12-13 17:43:49",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Puerta de San Ildefonso, Mosque-Cathedral of Córdoba.jpg",
+   "w": 3300,
+   "h": 4885,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Puerta_de_San_Ildefonso%2C_Mosque-Cathedral_of_C%C3%B3rdoba.jpg/330px-Puerta_de_San_Ildefonso%2C_Mosque-Cathedral_of_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Puerta_de_San_Ildefonso%2C_Mosque-Cathedral_of_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puerta_de_San_Ildefonso,_Mosque-Cathedral_of_C%C3%B3rdoba.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-12-13 17:46:13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  }
+ ]
+}

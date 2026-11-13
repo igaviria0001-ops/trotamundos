@@ -1,0 +1,199 @@
+{
+ "id": "djenne",
+ "enwiki": "Great Mosque of Djenné",
+ "endesc": "Mosque in Djenné, Mali",
+ "qid": "Q683632",
+ "coord": [
+  13.905277777778,
+  -4.5555555555556
+ ],
+ "label_es": "Mezquita Grande de Djenné",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1906-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1907-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 16.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 75.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q32815"
+ ],
+ "p17": [
+  "Q912"
+ ],
+ "unesco": false,
+ "eswiki": "Gran Mezquita de Djenné",
+ "extracto_es": "La Gran Mezquita de Djenné es el mayor edificio sagrado hecho de barro del mundo, y también el mayor hecho de este material de una sola pieza (véase Bam) con una superficie de 75×75m (5 625m²) y está considerada una cumbre de la arquitectura sudanesa-saheliana. La mezquita está en el centro de la pequeña ciudad de Djenné, Malí, en el delta interior del río Níger. Es uno de los monumentos más conocidos de África y desde 1988 está considerada, junto con el casco antiguo de Djenné, Patrimonio de la Humanidad por la Unesco.",
+ "candidatas": [
+  {
+   "file": "File:Djenne great mud mosque.jpg",
+   "w": 2048,
+   "h": 1362,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Djenne_great_mud_mosque.jpg/330px-Djenne_great_mud_mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Djenne_great_mud_mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ruud Zwart",
+   "credito": "Photo taken by Ruud Zwart",
+   "nonfree": "",
+   "fecha": "2005-01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Djenne ruins ancient mosque - Albert Rousseau.jpg",
+   "w": 3566,
+   "h": 2482,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg/330px-Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Albert Rousseau",
+   "credito": "Gardi, Bernard; Maas, Pierre; Mommersteeg, Geert (1995), Djenné, il y a cent ans, Amsterdam: Institute Royal des Tropiques, ISBN 90-6832-250-8. p. 78 No. 53",
+   "nonfree": "",
+   "fecha": "circa 1894date QS:P,",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Mosquée de Fréjus 002.jpg",
+   "w": 4000,
+   "h": 2248,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Mosqu%C3%A9e_de_Fr%C3%A9jus_002.jpg/330px-Mosqu%C3%A9e_de_Fr%C3%A9jus_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mosqu%C3%A9e_de_Fr%C3%A9jus_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_de_Fr%C3%A9jus_002.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Pipicacadodo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-11-14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:ASC Leiden - van Achterberg Collection - 05 - 65 - La mosquée de Djenné avec trois tours d'un côté - Djenné, Mali - Novembre-décembre 1993.jpg",
+   "w": 6756,
+   "h": 4450,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_65_-_La_mosqu%C3%A9e_de_Djenn%C3%A9_avec_trois_tours_d%27un_c%C3%B4t%C3%A9_-_Djenn%C3%A9%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg/330px-ASC_Leiden_-_van_Achterberg_Collection_-_05_-_65_-_La_mosqu%C3%A9e_de_Djenn%C3%A9_avec_trois_tours_d%27un_c%C3%B4t%C3%A9_-_Djenn%C3%A9%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_65_-_La_mosqu%C3%A9e_de_Djenn%C3%A9_avec_trois_tours_d%27un_c%C3%B4t%C3%A9_-_Djenn%C3%A9%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_65_-_La_mosqu%C3%A9e_de_Djenn%C3%A9_avec_trois_tours_d%27un_c%C3%B4t%C3%A9_-_Djenn%C3%A9,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Angeline A. van Achterberg",
+   "credito": "Angeline van Achterberg collection",
+   "nonfree": "",
+   "fecha": "November-December 19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Djenne ruins ancient mosque - H. Danel.jpg",
+   "w": 3278,
+   "h": 2116,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Djenne_ruins_ancient_mosque_-_H._Danel.jpg/330px-Djenne_ruins_ancient_mosque_-_H._Danel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Djenne_ruins_ancient_mosque_-_H._Danel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Djenne_ruins_ancient_mosque_-_H._Danel.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "H. Danel",
+   "credito": "Gardi, Bernard; Maas, Pierre; Mommersteeg, Geert (1995), Djenné, il y a cent ans, Amsterdam: Institute Royal des Tropiques, ISBN 90-6832-250-8 p. 104 no. 77",
+   "nonfree": "",
+   "fecha": "1904",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Great Mosque of Djenne.jpg",
+   "w": 2272,
+   "h": 1704,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Great_Mosque_of_Djenne.jpg/330px-Great_Mosque_of_Djenne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Great_Mosque_of_Djenne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Djenne.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Brittany Danisch",
+   "credito": "https://www.flickr.com/photos/bdanisch/22996413315/",
+   "nonfree": "",
+   "fecha": "2005-06-14 10:36:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Great Mosque, Djenne.jpg",
+   "w": 3072,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/The_Great_Mosque%2C_Djenne.jpg/330px-The_Great_Mosque%2C_Djenne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_Great_Mosque%2C_Djenne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Great_Mosque,_Djenne.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Jurgen",
+   "credito": "https://www.flickr.com/photos/300tdorg/3518820176/",
+   "nonfree": "",
+   "fecha": "2006-09-18 13:03:11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Djenné.jpg",
+   "w": 1536,
+   "h": 1024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Djenn%C3%A9.jpg/330px-Djenn%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Djenn%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Devriese",
+   "credito": "Originally uploaded to Flickr as Djenné #2",
+   "nonfree": "",
+   "fecha": "2003-11-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "art-en"
+  }
+ ]
+}

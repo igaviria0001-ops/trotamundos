@@ -1,0 +1,188 @@
+{
+ "id": "cocora",
+ "enwiki": "Cocora Valley",
+ "endesc": "Valley in Quindío, Colombia",
+ "qid": "Q965776",
+ "coord": [
+  4.6411111111111,
+  -75.541388888889
+ ],
+ "label_es": "Valle de Cocora",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 2366.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q39816"
+ ],
+ "p17": [
+  "Q739"
+ ],
+ "unesco": false,
+ "eswiki": "Valle de Cocora",
+ "extracto_es": "El valle de Cocora es un paisaje natural localizado en la cordillera central de los Andes colombianos, específicamente en el departamento del Quindío, en el área de influencia del Parque nacional natural Los Nevados. Cuenta con algunas poblaciones del árbol nacional de Colombia, la palma de cera del Quindío (Ceroxylon quindiuense), así como de una gran variedad de flora y fauna, mucha de ella en peligro de extinción, protegida bajo el estatus de parque nacional natural. El valle, así como la localidad cercana de Salento, se ubican entre los principales destinos turísticos de Colombia.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Valle de Cocora, Colombia 03.jpg",
+   "w": 4804,
+   "h": 3203,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Valle_de_Cocora%2C_Colombia_03.jpg/330px-Valle_de_Cocora%2C_Colombia_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Valle_de_Cocora%2C_Colombia_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Valle_de_Cocora,_Colombia_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Valle de Cocora, Colombia 07.jpg",
+   "w": 7300,
+   "h": 3874,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Valle_de_Cocora%2C_Colombia_07.jpg/330px-Valle_de_Cocora%2C_Colombia_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Valle_de_Cocora%2C_Colombia_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Valle_de_Cocora,_Colombia_07.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Valle de Cocora, Colombia 06.jpg",
+   "w": 7308,
+   "h": 3724,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Valle_de_Cocora%2C_Colombia_06.jpg/330px-Valle_de_Cocora%2C_Colombia_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Valle_de_Cocora%2C_Colombia_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Valle_de_Cocora,_Colombia_06.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Paisaje Valle del Cocora.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Paisaje_Valle_del_Cocora.jpg/330px-Paisaje_Valle_del_Cocora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Paisaje_Valle_del_Cocora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Paisaje_Valle_del_Cocora.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Estebanhphoto",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-01-24 15:54:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cocora Valley.jpg",
+   "w": 4375,
+   "h": 3279,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Cocora_Valley.jpg/330px-Cocora_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Cocora_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cocora_Valley.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ricardo Gonzalez Arango",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-10-26 12:59:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Valle del cocora - general view.jpg",
+   "w": 1280,
+   "h": 1704,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Valle_del_cocora_-_general_view.jpg/330px-Valle_del_cocora_-_general_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Valle_del_cocora_-_general_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Valle_del_cocora_-_general_view.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Angela Calle and Daniel Di Palma",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-08-15 17:21:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Colibríes en Valle de Cocora, Colombia.jpg",
+   "w": 3629,
+   "h": 2433,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Colibr%C3%ADes_en_Valle_de_Cocora%2C_Colombia.jpg/330px-Colibr%C3%ADes_en_Valle_de_Cocora%2C_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colibr%C3%ADes_en_Valle_de_Cocora%2C_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colibr%C3%ADes_en_Valle_de_Cocora,_Colombia.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Miro Denck",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-10-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:R1-07949-019A.jpg",
+   "w": 3629,
+   "h": 2433,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/R1-07949-019A.jpg/330px-R1-07949-019A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/R1-07949-019A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:R1-07949-019A.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Miro Denck",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-10-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

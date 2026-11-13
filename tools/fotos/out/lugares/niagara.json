@@ -1,0 +1,193 @@
+{
+ "id": "niagara",
+ "enwiki": "Niagara Falls",
+ "endesc": "Waterfalls between the United States and Canada",
+ "qid": "Q34221",
+ "coord": [
+  43.08,
+  -79.071
+ ],
+ "label_es": "Cataratas del Niágara",
+ "desc_es": "grupo de tres cascadas situadas en el río Niágara entre la frontera de Canadá y los Estados Unidos de América",
+ "inicio": [],
+ "altura": [
+  {
+   "v": 51.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 57.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q34038",
+  "Q2270442"
+ ],
+ "p17": [
+  "Q30",
+  "Q16"
+ ],
+ "unesco": false,
+ "eswiki": "Cataratas del Niágara",
+ "extracto_es": "Las cataratas del Niágara (Niagara Falls en inglés, Chutes du Niagara en francés) son un conjunto de cascadas situadas en el río Niágara, en la zona noreste de América del Norte, entre  Canadá y Estados Unidos. Situadas a unos 236 metros sobre el nivel del mar, su caída es de aproximadamente 51 metros.​\nComprenden tres cataratas: la «catarata canadiense» (Ontario), la «catarata estadounidense» (Nueva York) y la «catarata Velo de Novia», más pequeña. Aunque no tienen una gran altura, son muy amplias y son las más voluminosas de América del Norte, ya que por ellas pasa toda el agua de los Grandes Lagos. Entre las cataratas canadienses y las estadounidenses se encuentra la Isla de la Cabra.\nDesde que fueron descubiertas por los colonizadores europeos se han hecho muy populares, no solo por su belleza sino también por ser una fuente de energía y un desafiante proyecto de conservación medioambiental. Son un lugar de turismo compartido por las ciudades de Cataratas del Niágara (Nueva York) y Cataratas del Niágara (Ontario).\nEl nombre «Niágara» es originario de una palabra iroquesa que significa «trueno de agua». Los habitantes originarios de la región eran los ongiara, una tribu iroquesa llamada los neutrales por los conquistadores franceses, quienes encontraron en ellos ayuda como mediadores de disputas con otras tribus.\n\nLas raíces históricas de las cataratas del Niágara se encuentran en la glaciación que culminó hace unos 10 000 años. Tanto la región de los Grandes Lagos de Norteamérica como el río Niágara son efectos de esta glaciación continental. Fue un enorme glaciar que avanzó sobre el área oriental de Canadá como una gran excavadora moliendo rocas y suelo, removiéndolos y profundizando algunos canales de ríos hasta convertirlos en lagos.",
+ "candidatas": [
+  {
+   "file": "File:Maid of the Mist - pot-o-gold.jpg",
+   "w": 1968,
+   "h": 2460,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Maid_of_the_Mist_-_pot-o-gold.jpg/330px-Maid_of_the_Mist_-_pot-o-gold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Maid_of_the_Mist_-_pot-o-gold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Maid_of_the_Mist_-_pot-o-gold.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Saffron Blaze",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-08-06",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 12,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:3Falls Niagara.jpg",
+   "w": 3008,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/3Falls_Niagara.jpg/330px-3Falls_Niagara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/3Falls_Niagara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Saffron Blaze",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 6 August 20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Horseshoe Falls (Niagara Falls).jpg",
+   "w": 5908,
+   "h": 3939,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Horseshoe_Falls_%28Niagara_Falls%29.jpg/330px-Horseshoe_Falls_%28Niagara_Falls%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Horseshoe_Falls_%28Niagara_Falls%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Horseshoe_Falls_(Niagara_Falls).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Maksimsokolov",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-06-12 16:29:24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:John Frederick Kensett - Niagara Falls - Google Art Project.jpg",
+   "w": 6130,
+   "h": 4195,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/John_Frederick_Kensett_-_Niagara_Falls_-_Google_Art_Project.jpg/330px-John_Frederick_Kensett_-_Niagara_Falls_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/John_Frederick_Kensett_-_Niagara_Falls_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:John_Frederick_Kensett_-_Niagara_Falls_-_Google_Art_Project.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "John Frederick Kensett",
+   "credito": "DgEtBJh0db_R8Q at Google Cultural Institute maximum zoom level",
+   "nonfree": "",
+   "fecha": "(c. 1852 - 1854)",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:JoseMariaHeredia-plaque-niagarafalls.JPG",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/JoseMariaHeredia-plaque-niagarafalls.JPG/330px-JoseMariaHeredia-plaque-niagarafalls.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/JoseMariaHeredia-plaque-niagarafalls.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:JoseMariaHeredia-plaque-niagarafalls.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Themightyquill",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-06-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Niagara Whirlpool with aerocar.JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Niagara_Whirlpool_with_aerocar.JPG/330px-Niagara_Whirlpool_with_aerocar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Niagara_Whirlpool_with_aerocar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Niagara_Whirlpool_with_aerocar.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ad Meskens",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Niagra Falls at night2.jpg",
+   "w": 2896,
+   "h": 1944,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Niagra_Falls_at_night2.jpg/330px-Niagra_Falls_at_night2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Niagra_Falls_at_night2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Niagra_Falls_at_night2.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "JR (talk)",
+   "credito": "Own work (Original text: I created this work entirely by myself.)",
+   "nonfree": "",
+   "fecha": "07/14/08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Niagara Falls 001.JPG",
+   "w": 3072,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Niagara_Falls_001.JPG/330px-Niagara_Falls_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Niagara_Falls_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Niagara_Falls_001.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Nandaro",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-08-17 09:31:30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

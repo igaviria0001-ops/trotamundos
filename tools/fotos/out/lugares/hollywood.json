@@ -1,0 +1,205 @@
+{
+ "id": "hollywood",
+ "enwiki": "Hollywood Sign",
+ "endesc": "Landmark in Los Angeles, California",
+ "qid": "Q180376",
+ "coord": [
+  34.134102777778,
+  -118.32169444444
+ ],
+ "label_es": "Hollywood Sign",
+ "desc_es": "letrero ubicado en Los Ángeles, California, Estados Unidos",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1923-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 44.0,
+   "u": "Q3710"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 491.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 352.0,
+   "u": "Q3710"
+  }
+ ],
+ "p31": [
+  "Q2319498",
+  "Q3139104",
+  "Q3695082",
+  "Q570116"
+ ],
+ "p17": [
+  "Q30"
+ ],
+ "unesco": false,
+ "eswiki": "Hollywood Sign",
+ "extracto_es": "Hollywood Sign es el nombre con el que se conoce al famoso letrero gigantesco situado en una colina conocida como Monte Lee, que forma parte del Parque Griffith, en el distrito de Hollywood Hills, en Los Ángeles, California. El letrero está formado por las letras de la palabra «Hollywood» en mayúsculas y de color blanco. Cada letra mide unos 13,7 metros de altura​ y en total, el cartel mide unos 106,7 metros de longitud. \nFue creado como parte de una campaña publicitaria en 1923 y desde aquel entonces ha aumentado continuamente su popularidad.​ El cartel ha sido frecuentemente objeto de ataques y actos vandálicos; ha sido restaurado en varias ocasiones y se le ha incorporado un sistema de seguridad para evitar el vandalismo. Se encuentra protegido y promocionado por una asociación sin ánimo de lucro, la Hollywood Sign Trust, que se encarga de su mantenimiento y de su divulgación histórica por todo el mundo.\nDesde lejos, el contorno de las colinas le da su apariencia ondulada, pero visto desde más cerca, aparece recto, como se aprecia en  esta fotografía.\nEl cartel ha hecho frecuentes apariciones en la cultura popular, particularmente en localizaciones de películas y series de televisión ambientadas en Hollywood o en sus alrededores, inspiró el título de la película The Hollywood Sign (2001),​ y aparece fugazmente al fondo del logotipo de 20th Century Fox y Fox Searchlight Pictures. Otros letreros del mismo estilo, pero con diferentes palabras o frases, son frecuentemente utilizados como parodias.\nEl cartel representa a Los Ángeles como un destino turístico en la red social Facebook.",
+ "candidatas": [
+  {
+   "file": "File:Hollywood Sign (Zuschnitt).jpg",
+   "w": 11065,
+   "h": 6916,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/330px-Hollywood_Sign_%28Zuschnitt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Thomas Wolf, www.foto-tw.de",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-09-11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Hollywood sign (8485145044).jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hollywood_sign_%288485145044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hollywood_sign_(8485145044).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Gnaphron",
+   "credito": "https://www.flickr.com/photos/gnaphron/8485145044/in/dateposted/",
+   "nonfree": "",
+   "fecha": "2013-02-04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Hollywood sign seen from Dolby Theatre.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hollywood_sign_seen_from_Dolby_Theatre.jpg/330px-Hollywood_sign_seen_from_Dolby_Theatre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hollywood_sign_seen_from_Dolby_Theatre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hollywood_sign_seen_from_Dolby_Theatre.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "AramilFeraxa",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-04-27 00:31:07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:View from the balcony at Griffith Observatory on the Hollywood sign and Mt. Lee 20220509 141352 (1).jpg",
+   "w": 8000,
+   "h": 6000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/View_from_the_balcony_at_Griffith_Observatory_on_the_Hollywood_sign_and_Mt._Lee_20220509_141352_%281%29.jpg/330px-View_from_the_balcony_at_Griffith_Observatory_on_the_Hollywood_sign_and_Mt._Lee_20220509_141352_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/View_from_the_balcony_at_Griffith_Observatory_on_the_Hollywood_sign_and_Mt._Lee_20220509_141352_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_from_the_balcony_at_Griffith_Observatory_on_the_Hollywood_sign_and_Mt._Lee_20220509_141352_(1).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Steveshelokhonov",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-05-09 14:13:52",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:White sunset next to Hollywood sign (Unsplash).jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/White_sunset_next_to_Hollywood_sign_%28Unsplash%29.jpg/330px-White_sunset_next_to_Hollywood_sign_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/White_sunset_next_to_Hollywood_sign_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:White_sunset_next_to_Hollywood_sign_(Unsplash).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Florian Klauer florianklauer",
+   "credito": "http://unsplash.com/photos/O11NShFEUtY\narchive copy at the Wayback Machine\n\nImage at the Wayback Machine",
+   "nonfree": "",
+   "fecha": "2013-12-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:BehindHollywoodSign-7842p.jpg",
+   "w": 2560,
+   "h": 1920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/BehindHollywoodSign-7842p.jpg/330px-BehindHollywoodSign-7842p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BehindHollywoodSign-7842p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:BehindHollywoodSign-7842p.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DrReload",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2003-05-04 16:47:26",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:View from behind Hollywood Sign overlooking LA.jpg",
+   "w": 5518,
+   "h": 2630,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/View_from_behind_Hollywood_Sign_overlooking_LA.jpg/330px-View_from_behind_Hollywood_Sign_overlooking_LA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/View_from_behind_Hollywood_Sign_overlooking_LA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_from_behind_Hollywood_Sign_overlooking_LA.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Michael E. Arth",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-01-06 16:29:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Hollywood Sign February 2010.jpg",
+   "w": 3000,
+   "h": 1500,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hollywood_Sign_February_2010.jpg/330px-Hollywood_Sign_February_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Hollywood_Sign_February_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hollywood_Sign_February_2010.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "SAVETHEPEAK.jpg: Ian Rutherford\nderivative work: Monkeynutbar at en.wikipedia",
+   "credito": "This file was derived from:  SAVETHEPEAK.jpg:",
+   "nonfree": "",
+   "fecha": "2010-02-13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "id": "uyuni",
+ "enwiki": "Salar de Uyuni",
+ "endesc": "Salt flat in Bolivia",
+ "qid": "Q76122",
+ "coord": [
+  -20.33333,
+  -67.7
+ ],
+ "label_es": "Salar de Uyuni",
+ "desc_es": "desierto de sal en Bolivia, en donde se alberga la mayor reserva de litio del planeta",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 3661.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 10582.0,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 140.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q935277",
+  "Q1367330"
+ ],
+ "p17": [
+  "Q750"
+ ],
+ "unesco": false,
+ "eswiki": "Salar de Uyuni",
+ "extracto_es": "El salar de Uyuni, a veces conocido como salar de Tunupa,​​​ es el mayor desierto de sal continuo y alto del mundo, con una superficie de 10 582 km² (4085,7 millas cuadradas).​ Está situado a unos 3650 m s. n. m. en el suroeste de Bolivia, en la provincia de Daniel Campos del departamento de Potosí, y en la provincia de Ladislao Cabrera del departamento de Oruro, dentro de la región altiplánica de la cordillera de los Andes. El salar de Uyuni es una de las más importantes reservas de litio del mundo e igualmente cuenta con importantes cantidades de potasio, boro y magnesio.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Culpeo MC.jpg",
+   "w": 3000,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Culpeo_MC.jpg/330px-Culpeo_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Culpeo_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Culpeo_MC.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Christian Mehlführer, User:Chmehl",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-02-24",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 17,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Bolivian vizcacha.jpg",
+   "w": 2611,
+   "h": 1736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Bolivian_vizcacha.jpg/330px-Bolivian_vizcacha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bolivian_vizcacha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bolivian_vizcacha.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Alexandre Buisse (Nattfodd)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-09-26",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 15,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Reflection on the Salar de Uyuni, bolivia.jpg",
+   "w": 4896,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg/330px-Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Reflection_on_the_Salar_de_Uyuni,_bolivia.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christopher Crouzet",
+   "credito": "Own work, also available on Flickr",
+   "nonfree": "",
+   "fecha": "2014-06-14 07:02:43",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Salar de Uyuni - panoramio (10).jpg",
+   "w": 4837,
+   "h": 3218,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Salar_de_Uyuni_-_panoramio_%2810%29.jpg/330px-Salar_de_Uyuni_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Salar_de_Uyuni_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni_-_panoramio_(10).jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Pavel Špindler",
+   "credito": "https://web.archive.org/web/20161024161658/http://www.panoramio.com/photo/78183711",
+   "nonfree": "",
+   "fecha": "Taken on 11 July 201",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Piles of Salt Salar de Uyuni Bolivia Luca Galuzzi 2006 a.jpg",
+   "w": 2000,
+   "h": 1320,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg/330px-Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Luca Galuzzi (Lucag), edit by Trialsanderrors",
+   "credito": "Photo taken by (Luca Galuzzi) * http://www.galuzzi.it",
+   "nonfree": "",
+   "fecha": "2006-04-14",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Salar de Uyuni, Bolivia, 2016-02-04, DD 36.JPG",
+   "w": 4811,
+   "h": 7908,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Salar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_36.JPG/330px-Salar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_36.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Salar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_36.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_36.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-02-04 06:48:57",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Bolivia - Salar de Uyuni 01.jpg",
+   "w": 5873,
+   "h": 3863,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Bolivia_-_Salar_de_Uyuni_01.jpg/330px-Bolivia_-_Salar_de_Uyuni_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bolivia_-_Salar_de_Uyuni_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bolivia_-_Salar_de_Uyuni_01.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "P. Hughes",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Bolivia - Salar de Uyuni - Wiki Commons.jpg",
+   "w": 3923,
+   "h": 2946,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bolivia_-_Salar_de_Uyuni_-_Wiki_Commons.jpg/330px-Bolivia_-_Salar_de_Uyuni_-_Wiki_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bolivia_-_Salar_de_Uyuni_-_Wiki_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bolivia_-_Salar_de_Uyuni_-_Wiki_Commons.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mario Falcetti",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "id": "canalpanama",
+ "enwiki": "Panama Canal",
+ "endesc": "Shipping route across Central America",
+ "qid": "Q7350",
+ "coord": [
+  9.12,
+  -79.75
+ ],
+ "label_es": "Canal de Panamá",
+ "desc_es": "canal navegable artificial entre los océanos Atlántico y Pacífico",
+ "inicio": [
+  {
+   "p": "P1619",
+   "time": "+1914-08-15T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 26.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 82.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q949819"
+ ],
+ "p17": [
+  "Q804"
+ ],
+ "unesco": false,
+ "eswiki": "Canal de Panamá",
+ "extracto_es": "El canal de Panamá​ es un canal de navegación ubicado entre el mar Caribe y el océano Pacífico. Atraviesa el punto más estrecho del istmo de Panamá (82 km).​ Considerado como una de las grandes obras de la ingeniería mundial del siglo XX,​​​​​​​ el canal funciona a través de esclusas en cada extremo que elevan los barcos hasta el lago Gatún, un lago artificial creado para reducir la cantidad de trabajo requerido para la excavación del canal, a 27,5 metros sobre el nivel del mar, para después descenderlos hasta el nivel del océano Pacífico o el Atlántico. Se utiliza un promedio de 200 millones de litros de agua dulce en el paso de un solo barco.​ Antes de su apertura, los pasos naturales utilizados entre los océanos Atlántico y Pacífico eran el estrecho de Magallanes y el cabo de Hornos, ubicados en el extremo austral de Chile.​\nColombia, Francia y más tarde Estados Unidos controlaron el territorio que rodeaba el canal durante su construcción. Francia inició las obras del canal en 1881, pero las detuvo en 1889 por falta de confianza de los inversores debido a problemas de ingeniería y a la elevada tasa de mortalidad de los trabajadores. Estados Unidos se hizo cargo del proyecto en 1904 e inauguró el canal en 1914. Estados Unidos siguió controlando el canal y la Zona del Canal circundante hasta que los Tratados Torrijos-Carter dispusieron su entrega a Panamá en 1977. Tras un periodo de control conjunto estadounidense-panameño, el gobierno panameño tomó el control en 1999. Ahora lo gestiona y opera la Autoridad del Canal de Panamá, propiedad del gobierno panameño.\nDesde su inauguración el 15 de agosto de 1914, el canal ha conseguido acortar en tiempo y distancia la comunicación marítima, dinamizando el transporte marítimo y económico al proporcionar una vía de tránsito corta y relativamente barata​ entre los dos océanos, influyendo decisivamente en los patrones del comercio mundial,​ impulsando el crecimiento económico de los países desarrollados y en vías de desarrollo,​ además de proporcionar el impulso básico para la expansión económica de muchas regiones remotas del mundo.​​​ En 2012, Estados Unidos, China, Chile, Japón y Corea del Sur fueron los cinco principales usuarios del canal,​ que lleva de ocho a diez horas cruzar.​ El canal ampliado se inauguró en 2016, tras una década de obras. Desde los años 2020´s, el canal se encuentra amenazado por los bajos niveles de agua en los tiempos de sequía, producto de la falta de lluvias y del cambio climático.​​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Panama Canal, Agua Clara locks, Control tower (Torre de control).jpg",
+   "w": 5184,
+   "h": 2916,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Panama_Canal%2C_Agua_Clara_locks%2C_Control_tower_%28Torre_de_control%29.jpg/330px-Panama_Canal%2C_Agua_Clara_locks%2C_Control_tower_%28Torre_de_control%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Panama_Canal%2C_Agua_Clara_locks%2C_Control_tower_%28Torre_de_control%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Panama_Canal,_Agua_Clara_locks,_Control_tower_(Torre_de_control).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dr. Thomas Liptak",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-03-19 20:07:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Panama Canal Gatun Locks.jpg",
+   "w": 1600,
+   "h": 1067,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Panama_Canal_Gatun_Locks.jpg/330px-Panama_Canal_Gatun_Locks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Panama_Canal_Gatun_Locks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Panama_Canal_Gatun_Locks.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "User:Stan Shebs",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2000-01-02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Vessels locking into the Panama Canal.jpg",
+   "w": 3000,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vessels_locking_into_the_Panama_Canal.jpg/330px-Vessels_locking_into_the_Panama_Canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vessels_locking_into_the_Panama_Canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Vessels_locking_into_the_Panama_Canal.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Paul Harrison",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-05-21 01:21:38",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Panama Canal Trip 1994 01.jpg",
+   "w": 2958,
+   "h": 2016,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Panama_Canal_Trip_1994_01.jpg/330px-Panama_Canal_Trip_1994_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Panama_Canal_Trip_1994_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Panama_Canal_Trip_1994_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Please credit \"Family collection of Infrogmation of New Orleans\".",
+   "credito": "Photo by deceased parent of Infrogmation of New Orleans, inherited by Infrogmation with rights.",
+   "nonfree": "",
+   "fecha": "1994",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:USS Oklahoma in Panama Canal (52733024726).jpg",
+   "w": 5000,
+   "h": 3176,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/USS_Oklahoma_in_Panama_Canal_%2852733024726%29.jpg/330px-USS_Oklahoma_in_Panama_Canal_%2852733024726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/USS_Oklahoma_in_Panama_Canal_%2852733024726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:USS_Oklahoma_in_Panama_Canal_(52733024726).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Harley Flowers from Daphne Al, USA",
+   "credito": "USS Oklahoma in Panama Canal",
+   "nonfree": "",
+   "fecha": "2023-03-07 15:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:USS Ranger in Panama Canal (50717165172).jpg",
+   "w": 5453,
+   "h": 3358,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/USS_Ranger_in_Panama_Canal_%2850717165172%29.jpg/330px-USS_Ranger_in_Panama_Canal_%2850717165172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/USS_Ranger_in_Panama_Canal_%2850717165172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:USS_Ranger_in_Panama_Canal_(50717165172).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Harley Flowers from Mobile, USA",
+   "credito": "USS Ranger  in Panama Canal",
+   "nonfree": "",
+   "fecha": "2020-12-13 19:54",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Locomotives Tow Container Ship through Miraflores Locks - Panama Canal.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Locomotives_Tow_Container_Ship_through_Miraflores_Locks_-_Panama_Canal.jpg/330px-Locomotives_Tow_Container_Ship_through_Miraflores_Locks_-_Panama_Canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Locomotives_Tow_Container_Ship_through_Miraflores_Locks_-_Panama_Canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Locomotives_Tow_Container_Ship_through_Miraflores_Locks_-_Panama_Canal.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Adam Jones",
+   "credito": "https://www.flickr.com/photos/adam_jones/11441946674/",
+   "nonfree": "",
+   "fecha": "2013-12-18 13:04:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Administration Building, Panama Canal.jpg",
+   "w": 3456,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Administration_Building%2C_Panama_Canal.jpg/330px-Administration_Building%2C_Panama_Canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Administration_Building%2C_Panama_Canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Administration_Building,_Panama_Canal.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Gualberto107",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 20 Septembe",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  }
+ ]
+}
