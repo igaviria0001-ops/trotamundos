@@ -403,5 +403,4516 @@
    "Su techo está cubierto por más de un millón de tejas.",
    "La diseñó el arquitecto danés Jørn Utzon."
   ]
+ },
+ "arcotriunfo": {
+  "lugar": "París",
+  "porque": "Un arco gigante en lo alto de los Campos Elíseos, encargado por Napoleón.",
+  "anio": 1806,
+  "anioTxt": "1806",
+  "alto": 50,
+  "datos": [
+   "Napoleón lo mandó construir en 1806 para celebrar sus victorias; se terminó en 1836.",
+   "Debajo está la Tumba del Soldado Desconocido, con una llama que nunca se apaga.",
+   "Desde su terraza salen 12 avenidas como los rayos de una estrella."
+  ]
+ },
+ "montsaintmichel": {
+  "lugar": "Normandía",
+  "porque": "Una abadía sobre un islote que el mar rodea cuando sube la marea.",
+  "anio": 966,
+  "anioTxt": "siglo X",
+  "datos": [
+   "Allí las mareas son de las más fuertes de Europa: el agua puede subir más de 10 m.",
+   "La abadía fue creciendo durante siglos, piso sobre piso, hasta la cima.",
+   "Durante siglos fue un lugar de peregrinación muy importante."
+  ]
+ },
+ "alhambra": {
+  "lugar": "Granada",
+  "porque": "El palacio y fortaleza de los reyes nazaríes, joya del arte islámico en Europa.",
+  "anio": 1238,
+  "anioTxt": "siglo XIII",
+  "datos": [
+   "Su nombre viene del árabe y significa «la roja», por el color de sus muros.",
+   "En 1492 pasó a manos de los Reyes Católicos.",
+   "En el Patio de los Leones, 12 leones de mármol sostienen una fuente."
+  ]
+ },
+ "trevi": {
+  "lugar": "Roma",
+  "porque": "La fuente barroca más famosa del mundo.",
+  "anio": 1762,
+  "anioTxt": "1762",
+  "alto": 26,
+  "datos": [
+   "Se terminó en 1762 y mide 26 m de alto.",
+   "La tradición dice que si lanzas una moneda de espaldas, volverás a Roma.",
+   "Las monedas que se recogen cada año, más de un millón de euros, se donan a obras de caridad."
+  ]
+ },
+ "towerbridge": {
+  "lugar": "Londres",
+  "porque": "El puente levadizo de dos torres que cruza el río Támesis.",
+  "anio": 1894,
+  "anioTxt": "1894",
+  "alto": 65,
+  "datos": [
+   "Se inauguró en 1894.",
+   "Su parte central se levanta para que pasen los barcos altos.",
+   "Muchos lo confunden con el Puente de Londres, que está muy cerca."
+  ]
+ },
+ "brandeburgo": {
+  "lugar": "Berlín",
+  "porque": "La puerta que se volvió símbolo de la reunificación de Alemania.",
+  "anio": 1791,
+  "anioTxt": "1791",
+  "alto": 26,
+  "datos": [
+   "Se terminó en 1791.",
+   "Arriba tiene un carro tirado por cuatro caballos con la diosa de la victoria.",
+   "Durante la Guerra Fría quedó junto al Muro de Berlín; al caer el muro en 1989 se volvió símbolo de unión."
+  ]
+ },
+ "puentecarlos": {
+  "lugar": "Praga",
+  "porque": "El puente de piedra más famoso de Praga, sobre el río Moldava.",
+  "anio": 1357,
+  "anioTxt": "1357",
+  "datos": [
+   "Se empezó en 1357, por orden del rey Carlos IV.",
+   "Lo adornan 30 estatuas de santos.",
+   "Mide unos 516 m de largo y solo se puede cruzar a pie."
+  ]
+ },
+ "matterhorn": {
+  "lugar": "Alpes, entre Suiza e Italia",
+  "porque": "La montaña en forma de pirámide más famosa de los Alpes.",
+  "elev": 4478,
+  "datos": [
+   "Su silueta aparece en el logo de un famoso chocolate suizo.",
+   "La escalaron por primera vez en 1865.",
+   "En italiano se llama Monte Cervino y en alemán, Matterhorn."
+  ]
+ },
+ "dubrovnik": {
+  "lugar": "Dalmacia",
+  "porque": "Una ciudad amurallada junto al mar Adriático, llamada la «perla del Adriático».",
+  "datos": [
+   "Sus murallas rodean el casco antiguo por casi 2 km.",
+   "Desde las murallas se ve un mar de tejados naranjas.",
+   "Durante siglos fue una república independiente: la República de Ragusa."
+  ]
+ },
+ "moher": {
+  "lugar": "Condado de Clare",
+  "porque": "Acantilados gigantes que caen de golpe al océano Atlántico.",
+  "datos": [
+   "Se extienden por unos 14 km de costa.",
+   "En su punto más alto miden 214 m.",
+   "Allí anidan miles de aves marinas, como los frailecillos."
+  ]
+ },
+ "edimburgo": {
+  "lugar": "Edimburgo, Escocia",
+  "porque": "Un castillo sobre una roca volcánica que domina toda la ciudad.",
+  "datos": [
+   "Está construido sobre un volcán apagado hace millones de años.",
+   "Guarda las joyas de la corona de Escocia.",
+   "Casi todos los días, a la una de la tarde, se dispara un cañón desde sus murallas."
+  ]
+ },
+ "amsterdam": {
+  "lugar": "Ámsterdam",
+  "porque": "Una ciudad atravesada por canales, con casas altas y angostas.",
+  "anio": 1613,
+  "anioTxt": "1613",
+  "datos": [
+   "Tiene más de 100 km de canales y unos 1500 puentes.",
+   "Sus canales principales se excavaron en el siglo XVII.",
+   "Muchas casas tienen un gancho arriba para subir los muebles con cuerdas por la ventana."
+  ]
+ },
+ "belem": {
+  "lugar": "Lisboa",
+  "porque": "Una torre-fortaleza junto al río Tajo, símbolo de los grandes viajes portugueses.",
+  "anio": 1514,
+  "anioTxt": "1514",
+  "datos": [
+   "Se construyó entre 1514 y 1519.",
+   "Desde aquí partían los navegantes portugueses hacia África, Asia y América.",
+   "Su estilo, lleno de cuerdas y conchas talladas en piedra, se llama manuelino."
+  ]
+ },
+ "cinqueterre": {
+  "lugar": "Liguria",
+  "porque": "Cinco pueblitos de colores colgados de los acantilados junto al mar.",
+  "datos": [
+   "Sus pueblos son Monterosso, Vernazza, Corniglia, Manarola y Riomaggiore.",
+   "Se pueden recorrer a pie por senderos entre viñedos.",
+   "Sus casas de colores se ven desde lejos en el mar."
+  ]
+ },
+ "pompeya": {
+  "lugar": "Campania, cerca de Nápoles",
+  "porque": "Una ciudad romana que quedó sepultada por la erupción del volcán Vesubio.",
+  "datos": [
+   "El volcán la cubrió de ceniza en el año 79.",
+   "Gracias a la ceniza, sus calles, casas y pinturas se conservaron casi intactas.",
+   "Se redescubrió en el siglo XVIII y todavía se sigue excavando."
+  ]
+ },
+ "florencia": {
+  "lugar": "Florencia",
+  "porque": "La catedral de la gran cúpula roja, símbolo del Renacimiento.",
+  "anio": 1296,
+  "anioTxt": "1296",
+  "alto": 114,
+  "datos": [
+   "Se empezó en 1296 y su cúpula se terminó en 1436.",
+   "La cúpula de Brunelleschi fue la más grande del mundo en su época.",
+   "Está cubierta por mármoles blancos, verdes y rosados."
+  ]
+ },
+ "versalles": {
+  "lugar": "Versalles, cerca de París",
+  "porque": "El palacio de los reyes de Francia, famoso por su lujo y sus jardines.",
+  "anio": 1661,
+  "anioTxt": "1661",
+  "datos": [
+   "Luis XIV, el Rey Sol, lo convirtió en un palacio enorme desde 1661.",
+   "Su Galería de los Espejos tiene 357 espejos.",
+   "Sus jardines ocupan unas 800 hectáreas, con fuentes y estatuas."
+  ]
+ },
+ "kremlin": {
+  "lugar": "Moscú",
+  "porque": "La fortaleza del corazón de Moscú, sede del gobierno de Rusia.",
+  "anio": 1485,
+  "anioTxt": "siglo XV",
+  "datos": [
+   "Sus murallas rojas miden más de 2 km y tienen 20 torres.",
+   "Adentro hay palacios y catedrales con cúpulas doradas.",
+   "Kremlin significa «fortaleza» en ruso."
+  ]
+ },
+ "budapest": {
+  "lugar": "Budapest",
+  "porque": "El enorme parlamento a orillas del río Danubio.",
+  "anio": 1885,
+  "anioTxt": "1885",
+  "alto": 96,
+  "datos": [
+   "Es el edificio más grande de Hungría y tiene 691 habitaciones.",
+   "Su cúpula mide 96 m, en recuerdo del año 896, cuando llegaron los húngaros.",
+   "Se terminó en 1904."
+  ]
+ },
+ "parkguell": {
+  "lugar": "Barcelona",
+  "porque": "Un parque lleno de mosaicos de colores diseñado por Antoni Gaudí.",
+  "anio": 1900,
+  "anioTxt": "1900",
+  "datos": [
+   "Se construyó entre 1900 y 1914.",
+   "Su salamandra de mosaicos es uno de los símbolos de Barcelona.",
+   "Su banco ondulado mide más de 100 m y está cubierto de trocitos de cerámica."
+  ]
+ },
+ "colonia": {
+  "lugar": "Colonia",
+  "porque": "Una catedral gótica gigantesca con dos torres puntiagudas.",
+  "anio": 1248,
+  "anioTxt": "1248",
+  "alto": 157,
+  "datos": [
+   "Tardaron más de 600 años en terminarla: de 1248 a 1880.",
+   "Fue la construcción más alta del mundo entre 1880 y 1884.",
+   "Sobrevivió en pie a los bombardeos de la Segunda Guerra Mundial."
+  ]
+ },
+ "buckingham": {
+  "lugar": "Londres",
+  "porque": "La residencia oficial del rey del Reino Unido.",
+  "anio": 1703,
+  "anioTxt": "1703",
+  "datos": [
+   "Tiene 775 habitaciones.",
+   "Frente al palacio se hace el famoso cambio de guardia.",
+   "Cuando el rey está adentro, en lo alto ondea el estandarte real."
+  ]
+ },
+ "meteora": {
+  "lugar": "Tesalia",
+  "porque": "Monasterios construidos en lo alto de enormes columnas de roca.",
+  "anio": 1350,
+  "anioTxt": "siglo XIV",
+  "datos": [
+   "Su nombre significa «suspendidos en el aire».",
+   "Antes los monjes subían en redes colgadas de cuerdas, porque no había escaleras.",
+   "Hoy quedan seis monasterios habitados."
+  ]
+ },
+ "plitvice": {
+  "lugar": "Croacia",
+  "porque": "Dieciséis lagos turquesa unidos por cascadas.",
+  "datos": [
+   "Los lagos están en escalones y el agua cae de uno a otro.",
+   "Su color cambia entre verde, azul y gris según los minerales y la luz.",
+   "Es el parque nacional más antiguo de Croacia, desde 1949."
+  ]
+ },
+ "hallstatt": {
+  "lugar": "Alta Austria",
+  "porque": "Un pueblito de cuento a orillas de un lago entre montañas.",
+  "datos": [
+   "Tiene una de las minas de sal más antiguas del mundo, de hace unos 7000 años.",
+   "Su nombre viene de una antigua palabra celta para la sal.",
+   "Es tan famoso que en China construyeron una copia del pueblo."
+  ]
+ },
+ "atomium": {
+  "lugar": "Bruselas",
+  "porque": "Un edificio con forma de átomo gigante, hecho para la Exposición Universal de 1958.",
+  "anio": 1958,
+  "anioTxt": "1958",
+  "alto": 102,
+  "datos": [
+   "Representa un cristal de hierro agrandado 165 000 millones de veces.",
+   "Tiene nueve esferas de acero unidas por tubos con escaleras eléctricas.",
+   "Algunas de sus esferas se pueden visitar por dentro."
+  ]
+ },
+ "torrelondres": {
+  "lugar": "Londres",
+  "porque": "Un castillo junto al río Támesis con casi mil años de historia.",
+  "anio": 1066,
+  "anioTxt": "1066",
+  "datos": [
+   "Se fundó en 1066, cuando los normandos conquistaron Inglaterra.",
+   "Allí se guardan las joyas de la Corona británica.",
+   "Una leyenda dice que si los cuervos se van de la Torre, el reino caerá; por eso siempre cuidan a varios."
+  ]
+ },
+ "londoneye": {
+  "lugar": "Londres",
+  "porque": "Una noria gigante a la orilla del Támesis desde donde se ve todo Londres.",
+  "anio": 1999,
+  "anioTxt": "1999",
+  "alto": 135,
+  "datos": [
+   "Mide 135 m de alto.",
+   "Cuando abrió en el año 2000 era la noria más alta del mundo.",
+   "Una vuelta completa dura unos 30 minutos, de lo despacio que gira."
+  ]
+ },
+ "westminster": {
+  "lugar": "Londres",
+  "porque": "La gran iglesia gótica donde se coronan los reyes de Inglaterra.",
+  "anio": 1245,
+  "anioTxt": "1245",
+  "datos": [
+   "Desde 1066 casi todos los reyes ingleses se han coronado allí.",
+   "Allí están enterrados reyes, reinas y científicos como Isaac Newton.",
+   "La iglesia gótica que se ve hoy se empezó en 1245."
+  ]
+ },
+ "sacrecoeur": {
+  "lugar": "Montmartre, París",
+  "porque": "Una basílica blanca en lo alto de la colina de Montmartre.",
+  "anio": 1875,
+  "anioTxt": "1875",
+  "alto": 83,
+  "datos": [
+   "Se empezó en 1875 y se consagró en 1919.",
+   "Su piedra blanquea con la lluvia, por eso siempre se ve tan blanca.",
+   "Desde sus escaleras se ve casi todo París."
+  ]
+ },
+ "carcasona": {
+  "lugar": "Occitania, Francia",
+  "porque": "Una ciudad medieval fortificada que parece sacada de un cuento.",
+  "datos": [
+   "Tiene dos murallas y 52 torres.",
+   "En el siglo XIX la restauraron porque estaba a punto de ser demolida.",
+   "Inspiró a muchos castillos de juegos y películas."
+  ]
+ },
+ "plazaespana": {
+  "lugar": "Sevilla",
+  "porque": "Una enorme plaza en semicírculo con canal, puentes y azulejos de colores.",
+  "anio": 1914,
+  "anioTxt": "1914",
+  "datos": [
+   "Se construyó entre 1914 y 1929 para la Exposición Iberoamericana.",
+   "Tiene un banco de azulejos dedicado a cada provincia de España.",
+   "Por su canal se puede pasear en bote."
+  ]
+ },
+ "giralda": {
+  "lugar": "Sevilla",
+  "porque": "La torre campanario de la catedral de Sevilla.",
+  "anio": 1184,
+  "anioTxt": "siglo XII",
+  "alto": 104,
+  "datos": [
+   "Su parte de abajo fue el minarete de una mezquita del siglo XII.",
+   "En el siglo XVI le agregaron arriba el campanario cristiano.",
+   "Por dentro se sube por rampas, no escaleras: así subían a caballo."
+  ]
+ },
+ "guggenheim": {
+  "lugar": "Bilbao",
+  "porque": "Un museo de curvas brillantes de titanio que parece un barco de metal.",
+  "anio": 1997,
+  "anioTxt": "1997",
+  "datos": [
+   "Lo diseñó el arquitecto Frank Gehry y se inauguró en 1997.",
+   "Está cubierto por miles de placas finitas de titanio.",
+   "Su éxito cambió tanto a Bilbao que se habla del «efecto Guggenheim»."
+  ]
+ },
+ "duomomilan": {
+  "lugar": "Milán",
+  "porque": "Una catedral gótica de mármol blanco con un bosque de agujas.",
+  "anio": 1386,
+  "anioTxt": "1386",
+  "alto": 108.5,
+  "datos": [
+   "Se empezó en 1386 y tardaron casi seis siglos en terminarla.",
+   "Tiene unas 3400 estatuas y 135 agujas.",
+   "Se puede caminar por su techo, entre las agujas."
+  ]
+ },
+ "positano": {
+  "lugar": "Costa Amalfitana",
+  "porque": "Un pueblo de casitas de colores en cascada sobre el mar.",
+  "datos": [
+   "Sus casas bajan por la montaña casi hasta la playa.",
+   "Está en la Costa Amalfitana, en el sur de Italia.",
+   "Sus calles son tan empinadas que muchas son escaleras."
+  ]
+ },
+ "lagocomo": {
+  "lugar": "Lombardía",
+  "porque": "Un lago entre montañas, con villas elegantes en sus orillas.",
+  "datos": [
+   "Tiene forma de Y invertida.",
+   "Con 410 m de profundidad, es uno de los lagos más hondos de Europa.",
+   "En sus orillas hay villas y jardines famosos."
+  ]
+ },
+ "pontevecchio": {
+  "lugar": "Florencia",
+  "porque": "Un puente medieval con tiendas construidas encima.",
+  "anio": 1345,
+  "anioTxt": "1345",
+  "datos": [
+   "Cruza el río Arno por su parte más angosta.",
+   "Sobre el puente hay joyerías desde hace más de 400 años.",
+   "Fue el único puente de Florencia que no destruyeron en la Segunda Guerra Mundial."
+  ]
+ },
+ "panteon": {
+  "lugar": "Roma",
+  "porque": "Un templo romano con una cúpula enorme y un agujero en el techo.",
+  "anio": 125,
+  "anioTxt": "hacia el año 125",
+  "alto": 43.3,
+  "datos": [
+   "Su cúpula de concreto, de 43 m, sigue siendo la más grande del mundo sin refuerzos.",
+   "En el centro tiene un agujero, el óculo, por donde entra la luz y también la lluvia.",
+   "Tiene casi 1900 años y se sigue usando."
+  ]
+ },
+ "foroamano": {
+  "lugar": "Roma",
+  "porque": "Las ruinas de la plaza central de la antigua Roma.",
+  "anio": -600,
+  "anioTxt": "siglo VII a. C.",
+  "datos": [
+   "Fue el centro de la vida de Roma: mercado, juicios, discursos y desfiles.",
+   "Allí hay templos, arcos de triunfo y edificios del Senado.",
+   "Durante siglos quedó enterrado y se usó como pasto para vacas."
+  ]
+ },
+ "sanmarcos": {
+  "lugar": "Venecia",
+  "porque": "Una basílica bizantina llena de mosaicos dorados.",
+  "anio": 1063,
+  "anioTxt": "1063",
+  "datos": [
+   "Su interior está cubierto por más de 8000 m² de mosaicos dorados.",
+   "La llaman «iglesia de oro».",
+   "Sobre su fachada hay cuatro caballos de bronce muy antiguos."
+  ]
+ },
+ "rialto": {
+  "lugar": "Venecia",
+  "porque": "El puente de piedra más famoso del Gran Canal de Venecia.",
+  "anio": 1588,
+  "anioTxt": "1588",
+  "datos": [
+   "El puente de piedra se terminó en 1591; antes hubo puentes de madera.",
+   "Sobre él hay tiendas a ambos lados.",
+   "Fue el único puente sobre el Gran Canal durante casi 300 años."
+  ]
+ },
+ "vesubio": {
+  "lugar": "Bahía de Nápoles",
+  "porque": "El volcán que sepultó Pompeya en el año 79.",
+  "elev": 1281,
+  "datos": [
+   "Es uno de los volcanes más vigilados del mundo porque tiene ciudades alrededor.",
+   "Su última erupción fue en 1944.",
+   "Se puede subir caminando hasta el borde de su cráter."
+  ]
+ },
+ "mykonos": {
+  "lugar": "Islas Cícladas",
+  "porque": "Una isla griega de casas blancas y molinos de viento.",
+  "datos": [
+   "Sus molinos blancos se usaban para moler trigo.",
+   "Su barrio junto al mar se llama la Pequeña Venecia.",
+   "Un pelícano llamado Petros es la mascota de la isla desde hace años."
+  ]
+ },
+ "granplace": {
+  "lugar": "Bruselas",
+  "porque": "Una de las plazas más bellas del mundo, rodeada de edificios dorados.",
+  "datos": [
+   "Está rodeada por el Ayuntamiento y las casas de los antiguos gremios.",
+   "Cada dos años se cubre con una alfombra gigante de flores.",
+   "Es Patrimonio de la Humanidad desde 1998."
+  ]
+ },
+ "reichstag": {
+  "lugar": "Berlín",
+  "porque": "El edificio del parlamento alemán, con una cúpula de vidrio.",
+  "anio": 1894,
+  "anioTxt": "1894",
+  "alto": 47,
+  "datos": [
+   "Se terminó en 1894.",
+   "Su cúpula de vidrio, de 1999, se puede recorrer en espiral.",
+   "Desde la cúpula se ve la sala donde trabajan los diputados."
+  ]
+ },
+ "relojpraga": {
+  "lugar": "Praga",
+  "porque": "El reloj astronómico medieval más antiguo que sigue funcionando.",
+  "anio": 1410,
+  "anioTxt": "1410",
+  "datos": [
+   "Se instaló en 1410.",
+   "Cada hora salen figuras de los 12 apóstoles por unas ventanitas.",
+   "Además de la hora, muestra la posición del Sol y la Luna."
+  ]
+ },
+ "plazaroja": {
+  "lugar": "Moscú",
+  "porque": "La plaza más famosa de Rusia, junto al Kremlin.",
+  "anio": 1493,
+  "anioTxt": "siglo XV",
+  "datos": [
+   "Mide 330 m de largo.",
+   "En ruso antiguo su nombre significaba «plaza hermosa».",
+   "A su alrededor están el Kremlin, la Catedral de San Basilio y el museo de Historia."
+  ]
+ },
+ "sangre": {
+  "lugar": "San Petersburgo",
+  "porque": "Una iglesia rusa de cúpulas de colores, con el interior cubierto de mosaicos.",
+  "anio": 1883,
+  "anioTxt": "1883",
+  "alto": 81,
+  "datos": [
+   "Se construyó entre 1883 y 1907.",
+   "Está donde fue atacado el zar Alejandro II en 1881.",
+   "Por dentro tiene más de 7000 m² de mosaicos."
+  ]
+ },
+ "gibraltar": {
+  "lugar": "Gibraltar, sur de la península ibérica",
+  "porque": "Una gran roca junto al estrecho que separa Europa de África.",
+  "elev": 426,
+  "datos": [
+   "En la Antigüedad era una de las Columnas de Hércules.",
+   "Allí viven los únicos monos salvajes de Europa.",
+   "Desde la cima, en días claros, se ve África."
+  ]
+ },
+ "montecarlo": {
+  "lugar": "Mónaco",
+  "porque": "El barrio más famoso de Mónaco, con su casino y su carrera de Fórmula 1.",
+  "anio": 1866,
+  "anioTxt": "1866",
+  "datos": [
+   "Mónaco es el segundo país más pequeño del mundo.",
+   "Por sus calles pasa el Gran Premio de Mónaco de Fórmula 1.",
+   "Su nombre honra al príncipe Carlos III."
+  ]
+ },
+ "mezquitaazul": {
+  "lugar": "Estambul",
+  "porque": "Una mezquita de seis minaretes, famosa por sus azulejos azules.",
+  "anio": 1609,
+  "anioTxt": "1609",
+  "alto": 64,
+  "datos": [
+   "Se construyó entre 1609 y 1616.",
+   "Por dentro tiene más de 20 000 azulejos azules, de ahí su nombre.",
+   "Está frente a Santa Sofía, separadas por un parque."
+  ]
+ },
+ "ciudadprohibida": {
+  "lugar": "Pekín",
+  "porque": "El enorme palacio de los emperadores de China, prohibido para la gente común.",
+  "anio": 1406,
+  "anioTxt": "1406",
+  "datos": [
+   "Fue el palacio imperial durante casi 500 años, de 1420 a 1912.",
+   "Tiene unos 980 edificios.",
+   "Sus techos son amarillos porque ese era el color del emperador."
+  ]
+ },
+ "fushimi": {
+  "lugar": "Kioto",
+  "porque": "Un santuario famoso por sus miles de portales rojos en la montaña.",
+  "anio": 711,
+  "anioTxt": "711",
+  "datos": [
+   "Tiene unos 10 000 portales rojos, llamados torii, que forman túneles.",
+   "Está dedicado a Inari, protector del arroz y los negocios.",
+   "Por todo el santuario hay estatuas de zorros, los mensajeros de Inari."
+  ]
+ },
+ "capadocia": {
+  "lugar": "Anatolia central",
+  "porque": "Chimeneas de roca, casas en cuevas y cientos de globos al amanecer.",
+  "datos": [
+   "Sus «chimeneas de hadas» se formaron con ceniza de volcanes que el viento fue tallando.",
+   "Allí hay ciudades subterráneas excavadas hace siglos.",
+   "Al amanecer se elevan cientos de globos aerostáticos."
+  ]
+ },
+ "zayed": {
+  "lugar": "Abu Dabi",
+  "porque": "Una gigantesca mezquita blanca de mármol con 82 cúpulas.",
+  "anio": 2007,
+  "anioTxt": "2007",
+  "datos": [
+   "Se inauguró en 2007.",
+   "Tiene una de las alfombras tejidas a mano más grandes del mundo.",
+   "Cabe más de 40 000 personas."
+  ]
+ },
+ "petronas": {
+  "lugar": "Kuala Lumpur",
+  "porque": "Dos torres gemelas unidas por un puente en el aire.",
+  "anio": 1998,
+  "anioTxt": "1998",
+  "alto": 452,
+  "datos": [
+   "Fueron los edificios más altos del mundo entre 1998 y 2004.",
+   "Un puente las une en los pisos 41 y 42.",
+   "Su forma se inspira en una estrella de ocho puntas del arte islámico."
+  ]
+ },
+ "marinabay": {
+  "lugar": "Singapur",
+  "porque": "Tres torres sostienen un parque con piscina en lo alto, como un barco en el cielo.",
+  "anio": 2010,
+  "anioTxt": "2010",
+  "alto": 194,
+  "datos": [
+   "Se abrió en 2010.",
+   "Arriba tiene una piscina infinita de 150 m que parece caer al vacío.",
+   "La plataforma de arriba es más larga que la Torre Eiffel acostada."
+  ]
+ },
+ "halong": {
+  "lugar": "Golfo de Tonkín",
+  "porque": "Cientos de islas de roca caliza que salen del mar esmeralda.",
+  "datos": [
+   "Tiene unas 1600 islas e islotes.",
+   "Su nombre significa «donde el dragón desciende al mar».",
+   "Muchas islas tienen cuevas por dentro."
+  ]
+ },
+ "borobudur": {
+  "lugar": "Isla de Java",
+  "porque": "El templo budista más grande del mundo.",
+  "anio": 800,
+  "anioTxt": "siglo IX",
+  "datos": [
+   "Se construyó en el siglo IX, sin pegamento entre las piedras.",
+   "Tiene 504 estatuas de Buda y 72 estupas con forma de campana.",
+   "Estuvo cubierto por ceniza volcánica y selva durante siglos."
+  ]
+ },
+ "granpalacio": {
+  "lugar": "Bangkok",
+  "porque": "El brillante palacio de los reyes de Tailandia.",
+  "anio": 1782,
+  "anioTxt": "1782",
+  "datos": [
+   "Se empezó en 1782, cuando Bangkok se volvió capital.",
+   "Allí está el Buda de Esmeralda, la estatua más sagrada del país.",
+   "Sus techos brillan con vidrios de colores y oro."
+  ]
+ },
+ "potala": {
+  "lugar": "Lhasa, Tíbet",
+  "porque": "Un palacio enorme sobre una colina, en el «techo del mundo».",
+  "anio": 1645,
+  "anioTxt": "1645",
+  "datos": [
+   "Está a unos 3700 m de altura.",
+   "Tiene más de 1000 habitaciones.",
+   "Fue la residencia del Dalái Lama."
+  ]
+ },
+ "templooro": {
+  "lugar": "Amritsar",
+  "porque": "El templo más sagrado de los sijes, cubierto de oro, en medio de un estanque.",
+  "anio": 1589,
+  "anioTxt": "1589",
+  "datos": [
+   "Su parte de arriba está cubierta de oro.",
+   "Su cocina da comida gratis a unas 100 000 personas cada día.",
+   "Tiene cuatro puertas: está abierto a gente de todas partes."
+  ]
+ },
+ "taipei101": {
+  "lugar": "Taipéi",
+  "porque": "Un rascacielos con forma de tallo de bambú.",
+  "anio": 2004,
+  "anioTxt": "2004",
+  "alto": 508,
+  "datos": [
+   "Fue el edificio más alto del mundo entre 2004 y 2010.",
+   "Adentro tiene una bola de acero de 660 toneladas que lo protege del viento y los terremotos.",
+   "Sus ascensores estuvieron entre los más rápidos del mundo."
+  ]
+ },
+ "skytree": {
+  "lugar": "Tokio",
+  "porque": "La torre más alta de Japón.",
+  "anio": 2012,
+  "anioTxt": "2012",
+  "alto": 634,
+  "datos": [
+   "Mide 634 m y se abrió en 2012.",
+   "Es la torre más alta del mundo (sin contar edificios).",
+   "Se ilumina de noche con colores distintos."
+  ]
+ },
+ "kinkakuji": {
+  "lugar": "Kioto",
+  "porque": "Un templo cubierto de oro que se refleja en un estanque.",
+  "anio": 1397,
+  "anioTxt": "1397",
+  "datos": [
+   "Sus dos pisos de arriba están cubiertos con hojitas de oro.",
+   "Fue la casa de descanso de un shogún.",
+   "El edificio actual se reconstruyó en 1955 tras un incendio."
+  ]
+ },
+ "zhangjiajie": {
+  "lugar": "Hunan",
+  "porque": "Montañas como columnas de piedra que se pierden entre la niebla.",
+  "datos": [
+   "Tiene miles de pilares de roca, algunos de más de 200 m.",
+   "Inspiró las montañas flotantes de una famosa película de ciencia ficción.",
+   "Fue el primer parque nacional forestal de China, en 1982."
+  ]
+ },
+ "pamukkale": {
+  "lugar": "Denizli",
+  "porque": "Terrazas blancas de piedra con piscinas naturales de agua tibia.",
+  "datos": [
+   "Su nombre en turco significa «castillo de algodón».",
+   "El agua termal deja calcio que forma las terrazas blancas.",
+   "Arriba están las ruinas de la antigua ciudad de Hierápolis."
+  ]
+ },
+ "abusimbel": {
+  "lugar": "Nubia, sur de Egipto",
+  "porque": "Dos templos tallados en la montaña con estatuas gigantes del faraón Ramsés II.",
+  "anio": -1264,
+  "anioTxt": "hacia 1264 a. C.",
+  "datos": [
+   "Las cuatro estatuas de la entrada miden unos 20 m.",
+   "En los años 60 los cortaron en bloques y los subieron 65 m para salvarlos de una represa.",
+   "Dos veces al año el sol entra hasta el fondo del templo e ilumina las estatuas."
+  ]
+ },
+ "victoria": {
+  "lugar": "Frontera entre Zambia y Zimbabue",
+  "porque": "Una de las cataratas más grandes del mundo, sobre el río Zambeze.",
+  "alto": 108,
+  "datos": [
+   "Miden casi 1,7 km de ancho y 108 m de alto.",
+   "Los locales las llaman «el humo que truena», por su nube de agua.",
+   "Su rocío se ve desde a más de 30 km."
+  ]
+ },
+ "mesa": {
+  "lugar": "Ciudad del Cabo",
+  "porque": "Una montaña con la cima plana como una mesa, sobre Ciudad del Cabo.",
+  "elev": 1085,
+  "datos": [
+   "A veces una nube la cubre como un mantel.",
+   "Se puede subir en un teleférico que gira mientras sube.",
+   "Aparece en la bandera de Ciudad del Cabo."
+  ]
+ },
+ "serengeti": {
+  "lugar": "Tanzania",
+  "porque": "Una enorme sabana famosa por la gran migración de ñúes y cebras.",
+  "datos": [
+   "Cada año más de un millón de ñúes migran en busca de pasto.",
+   "Allí viven leones, elefantes, jirafas, guepardos y leopardos.",
+   "En lengua masái, Serengueti significa «llanura sin fin»."
+  ]
+ },
+ "chefchaouen": {
+  "lugar": "Montañas del Rif",
+  "porque": "La ciudad azul de Marruecos, con casas pintadas de todos los tonos de azul.",
+  "anio": 1471,
+  "anioTxt": "1471",
+  "datos": [
+   "Fue fundada en 1471.",
+   "Casi todas sus casas y calles están pintadas de azul.",
+   "Está entre montañas, en el norte de Marruecos."
+  ]
+ },
+ "jemaa": {
+  "lugar": "Marrakech",
+  "porque": "La plaza más famosa de Marruecos, llena de vida de día y de noche.",
+  "datos": [
+   "Allí hay cuentacuentos, músicos, encantadores de serpientes y puestos de jugo de naranja.",
+   "Al atardecer se llena de puestos de comida.",
+   "Es Patrimonio Oral e Inmaterial de la Humanidad."
+  ]
+ },
+ "timessquare": {
+  "lugar": "Nueva York",
+  "porque": "El cruce de calles más iluminado del mundo.",
+  "anio": 1904,
+  "anioTxt": "1904",
+  "datos": [
+   "Su nombre viene del periódico The New York Times, que tuvo allí sus oficinas.",
+   "Lo cruzan unas 330 000 personas cada día.",
+   "Cada Año Nuevo baja una bola brillante y miles de personas cuentan los segundos."
+  ]
+ },
+ "empirestate": {
+  "lugar": "Nueva York",
+  "porque": "El rascacielos más famoso de Nueva York.",
+  "anio": 1931,
+  "anioTxt": "1931",
+  "alto": 443,
+  "datos": [
+   "Se construyó en solo 410 días y se inauguró en 1931.",
+   "Fue el edificio más alto del mundo durante casi 40 años.",
+   "Sus luces de arriba cambian de color según la fecha."
+  ]
+ },
+ "hollywood": {
+  "lugar": "Los Ángeles",
+  "porque": "Las letras gigantes que se volvieron símbolo del cine.",
+  "anio": 1923,
+  "anioTxt": "1923",
+  "datos": [
+   "Cada letra mide unos 14 m de alto.",
+   "Al principio decía HOLLYWOODLAND y era un anuncio de casas.",
+   "Está en el monte Lee, en las colinas de Los Ángeles."
+  ]
+ },
+ "casablanca": {
+  "lugar": "Washington D. C.",
+  "porque": "La casa y oficina del presidente de los Estados Unidos.",
+  "anio": 1792,
+  "anioTxt": "1792",
+  "datos": [
+   "Se empezó en 1792 y desde 1800 vive allí el presidente.",
+   "Tiene 132 habitaciones y 35 baños.",
+   "Su oficina más famosa, el Despacho Oval, es ovalada."
+  ]
+ },
+ "cntower": {
+  "lugar": "Toronto",
+  "porque": "La torre de comunicaciones que domina Toronto.",
+  "anio": 1976,
+  "anioTxt": "1976",
+  "alto": 553,
+  "datos": [
+   "Mide 553 m y se terminó en 1976.",
+   "Fue la estructura independiente más alta del mundo durante 32 años.",
+   "Tiene un piso de vidrio para mirar hacia abajo a 342 m."
+  ]
+ },
+ "teotihuacan": {
+  "lugar": "Valle de México",
+  "porque": "Una enorme ciudad antigua con la Pirámide del Sol y la de la Luna.",
+  "anio": -100,
+  "anioTxt": "hacia el 100 a. C.",
+  "datos": [
+   "Fue una de las ciudades más grandes del mundo hace unos 1500 años.",
+   "Su Pirámide del Sol es de las más grandes de América.",
+   "Los aztecas la encontraron ya abandonada y le pusieron el nombre: «donde nacen los dioses»."
+  ]
+ },
+ "canalpanama": {
+  "lugar": "Panamá",
+  "porque": "Un canal que une el océano Atlántico con el Pacífico.",
+  "anio": 1914,
+  "anioTxt": "1914",
+  "datos": [
+   "Se abrió en 1914.",
+   "Unas esclusas suben los barcos 26 m sobre el mar y luego los bajan.",
+   "Atravesarlo ahorra a los barcos rodear toda Suramérica."
+  ]
+ },
+ "prismatic": {
+  "lugar": "Parque Yellowstone, Wyoming",
+  "porque": "Un manantial caliente con anillos de colores como un arcoíris.",
+  "datos": [
+   "Es el manantial termal más grande de Estados Unidos.",
+   "Sus colores los forman bacterias diminutas que viven en el agua caliente.",
+   "Su agua azul del centro está a unos 70 °C."
+  ]
+ },
+ "antelope": {
+  "lugar": "Arizona",
+  "porque": "Un cañón estrecho de roca ondulada donde la luz entra como rayos.",
+  "datos": [
+   "El agua y el viento tallaron sus paredes onduladas durante miles de años.",
+   "Al mediodía entran rayos de luz desde arriba, como linternas.",
+   "Está en tierras del pueblo navajo y solo se visita con guía navajo."
+  ]
+ },
+ "monumentvalley": {
+  "lugar": "Frontera entre Arizona y Utah",
+  "porque": "Torres y mesas de roca roja en medio del desierto, escenario de muchas películas del Oeste.",
+  "datos": [
+   "Sus rocas gigantes se llaman mesas y otras, más delgadas, «buttes».",
+   "Está dentro de la nación navaja.",
+   "En navajo se llama «valle de las rocas»."
+  ]
+ },
+ "tulum": {
+  "lugar": "Quintana Roo, México",
+  "porque": "Una ciudad maya amurallada sobre un acantilado junto al mar Caribe.",
+  "anio": 1200,
+  "anioTxt": "siglo XIII",
+  "datos": [
+   "Es una de las pocas ciudades mayas construidas junto al mar.",
+   "Tenía murallas por tres lados y el mar por el cuarto.",
+   "Era un puerto importante para el comercio maya."
+  ]
+ },
+ "tikal": {
+  "lugar": "Petén, Guatemala",
+  "porque": "Una gran ciudad maya con templos que sobresalen de la selva.",
+  "anio": -400,
+  "anioTxt": "siglo IV a. C.",
+  "datos": [
+   "Su nombre significa «lugar de las voces».",
+   "Sus templos más altos superan los 60 m y asoman sobre los árboles.",
+   "En la selva que la rodea viven monos aulladores, tucanes y jaguares."
+  ]
+ },
+ "panazucar": {
+  "lugar": "Río de Janeiro",
+  "porque": "Un cerro redondeado a la entrada de la bahía de Río, al que se sube en teleférico.",
+  "elev": 396,
+  "datos": [
+   "Su teleférico funciona desde 1912.",
+   "Su nombre viene de la forma de los antiguos panes de azúcar.",
+   "Desde la cima se ven Copacabana y el Cristo Redentor."
+  ]
+ },
+ "uyuni": {
+  "lugar": "Potosí, Bolivia",
+  "porque": "El desierto de sal más grande del mundo, que con lluvia se vuelve un espejo gigante.",
+  "elev": 3656,
+  "datos": [
+   "Mide más de 10 000 km² y está a unos 3650 m de altura.",
+   "Cuando llueve, una capita de agua refleja el cielo como un espejo.",
+   "Debajo de la sal hay una de las mayores reservas de litio del mundo."
+  ]
+ },
+ "peritomoreno": {
+  "lugar": "Patagonia argentina",
+  "porque": "Un glaciar enorme cuyo frente de hielo se rompe con estruendo sobre el lago.",
+  "datos": [
+   "Su pared de hielo mide unos 60 m sobre el agua.",
+   "Es uno de los pocos glaciares que no está retrocediendo.",
+   "Cada pocos años forma un puente de hielo que luego se derrumba."
+  ]
+ },
+ "torrespaine": {
+  "lugar": "Patagonia chilena",
+  "porque": "Tres torres de granito sobre lagos turquesa, en el sur de Chile.",
+  "datos": [
+   "Las torres de granito miden más de 2000 m.",
+   "Allí viven pumas, guanacos y cóndores.",
+   "Es uno de los parques más famosos para caminar por varios días."
+  ]
+ },
+ "galapagos": {
+  "lugar": "Océano Pacífico, Ecuador",
+  "porque": "Islas volcánicas con animales únicos que ayudaron a entender la evolución.",
+  "datos": [
+   "Están a casi 1000 km de la costa de Ecuador.",
+   "Charles Darwin las visitó en 1835 y le ayudaron a pensar su teoría de la evolución.",
+   "Allí viven tortugas gigantes que pueden vivir más de 100 años."
+  ]
+ },
+ "saltoangel": {
+  "lugar": "Parque Canaima, Venezuela",
+  "porque": "La cascada más alta del mundo.",
+  "alto": 979,
+  "datos": [
+   "Cae 979 m desde lo alto del Auyantepuy.",
+   "En lengua pemón se llama Kerepakupai Merú.",
+   "El agua cae tan alto que se vuelve neblina antes de llegar abajo."
+  ]
+ },
+ "titicaca": {
+  "lugar": "Frontera entre Perú y Bolivia",
+  "porque": "El lago navegable más alto del mundo.",
+  "elev": 3812,
+  "datos": [
+   "Está a 3812 m sobre el nivel del mar.",
+   "Allí viven los uros, en islas flotantes hechas de totora.",
+   "Según la leyenda inca, de sus aguas salieron los fundadores del imperio."
+  ]
+ },
+ "amazonas": {
+  "lugar": "Suramérica",
+  "porque": "El río más caudaloso del mundo, que atraviesa la selva más grande del planeta.",
+  "datos": [
+   "Lleva más agua que el Nilo, el Yangtsé y el Misisipi juntos.",
+   "Nace en los Andes del Perú, pasa por Colombia y desemboca en Brasil.",
+   "En sus aguas vive el delfín rosado."
+  ]
+ },
+ "cartagena": {
+  "lugar": "Costa Caribe de Colombia",
+  "porque": "Una ciudad colonial amurallada de calles de colores junto al mar Caribe.",
+  "anio": 1533,
+  "anioTxt": "1533",
+  "datos": [
+   "Fue fundada en 1533.",
+   "Sus murallas, de unos 11 km, la protegían de los piratas.",
+   "Sus balcones de madera llenos de flores son famosos."
+  ]
+ },
+ "nazca": {
+  "lugar": "Desierto de Nazca, Perú",
+  "porque": "Dibujos gigantes trazados en el desierto que solo se ven bien desde el aire.",
+  "anio": -200,
+  "anioTxt": "hacia 200 a. C.",
+  "datos": [
+   "Hay figuras de un mono, un colibrí, una araña y cientos de líneas.",
+   "El colibrí mide unos 90 m de largo.",
+   "Se conservan porque en ese desierto casi nunca llueve."
+  ]
+ },
+ "uluru": {
+  "lugar": "Centro de Australia",
+  "porque": "Una enorme roca roja en el desierto, sagrada para el pueblo anangu.",
+  "elev": 863,
+  "datos": [
+   "Se eleva unos 348 m sobre la llanura.",
+   "Cambia de color con la luz: al atardecer se vuelve rojo encendido.",
+   "Es sagrada para los anangu y desde 2019 no se permite escalarla."
+  ]
+ },
+ "barrera": {
+  "lugar": "Queensland, Australia",
+  "porque": "El arrecife de coral más grande del mundo.",
+  "datos": [
+   "Mide unos 2300 km de largo.",
+   "Lo forman miles de arrecifes construidos por animalitos llamados corales.",
+   "Allí viven miles de especies de peces, tortugas y tiburones."
+  ]
+ },
+ "harbour": {
+  "lugar": "Sídney",
+  "porque": "El gran puente en arco de la bahía de Sídney.",
+  "anio": 1932,
+  "anioTxt": "1932",
+  "alto": 134,
+  "datos": [
+   "Se inauguró en 1932.",
+   "Los habitantes lo llaman «la percha», por su forma.",
+   "Se puede escalar con guía hasta la cima del arco."
+  ]
+ },
+ "apostoles": {
+  "lugar": "Victoria, Australia",
+  "porque": "Columnas de roca caliza que salen del mar junto a la Gran Carretera Oceánica.",
+  "datos": [
+   "El mar las fue tallando de los acantilados.",
+   "Nunca fueron 12: hoy quedan siete u ocho en pie.",
+   "Algunas miden unos 45 m."
+  ]
+ },
+ "borabora": {
+  "lugar": "Polinesia Francesa",
+  "porque": "Una isla de montaña rodeada por una laguna turquesa y arrecifes.",
+  "elev": 727,
+  "datos": [
+   "En el centro tiene un antiguo volcán, el monte Otemanu.",
+   "Una laguna de agua turquesa rodea la isla.",
+   "Sus hoteles tienen cabañas sobre el agua."
+  ]
+ },
+ "shibuya": {
+  "lugar": "Tokio",
+  "porque": "El cruce peatonal más concurrido del mundo.",
+  "datos": [
+   "Cuando el semáforo se pone en verde para peatones, cruzan hasta unas 3000 personas a la vez.",
+   "Junto al cruce está la estatua de Hachikō, un perro famoso por su lealtad.",
+   "Está rodeado de pantallas gigantes."
+  ]
+ },
+ "torretokio": {
+  "lugar": "Tokio",
+  "porque": "Una torre roja y blanca inspirada en la Torre Eiffel.",
+  "anio": 1958,
+  "anioTxt": "1958",
+  "alto": 333,
+  "datos": [
+   "Se terminó en 1958.",
+   "Es unos metros más alta que la Torre Eiffel.",
+   "Se pinta de blanco y naranja para que la vean los aviones."
+  ]
+ },
+ "kiyomizu": {
+  "lugar": "Kioto",
+  "porque": "Un templo de madera con una gran terraza sobre la montaña.",
+  "anio": 778,
+  "anioTxt": "778",
+  "datos": [
+   "Su terraza de madera se sostiene sin usar ni un clavo.",
+   "Su nombre significa «agua pura», por una cascada del templo.",
+   "En otoño, los árboles de alrededor se vuelven rojos."
+  ]
+ },
+ "arashiyama": {
+  "lugar": "Kioto",
+  "porque": "Un rincón de Kioto con un bosque de bambú y un río entre montañas.",
+  "datos": [
+   "Su bosque de bambú forma pasillos altísimos y verdes.",
+   "El puente Togetsukyō cruza su río.",
+   "En las montañas cercanas viven monos salvajes."
+  ]
+ },
+ "hiroshima": {
+  "lugar": "Hiroshima",
+  "porque": "Las ruinas que quedaron en pie tras la bomba atómica de 1945, hoy símbolo de paz.",
+  "anio": 1915,
+  "anioTxt": "1915",
+  "datos": [
+   "El edificio se construyó en 1915.",
+   "Fue de los pocos que quedó en pie cerca de la explosión de 1945.",
+   "Se dejó tal cual como recuerdo y llamado a la paz."
+  ]
+ },
+ "templocielo": {
+  "lugar": "Pekín",
+  "porque": "El templo redondo donde los emperadores de China pedían buenas cosechas.",
+  "anio": 1420,
+  "anioTxt": "1420",
+  "datos": [
+   "Se construyó en 1420.",
+   "Su salón principal es redondo, de madera, y no tiene clavos.",
+   "El cielo se representaba con círculos y la tierra con cuadrados."
+  ]
+ },
+ "leshan": {
+  "lugar": "Sichuan",
+  "porque": "El Buda tallado en piedra más grande del mundo.",
+  "anio": 713,
+  "anioTxt": "713",
+  "alto": 71,
+  "datos": [
+   "Mide 71 m de alto.",
+   "Tardaron unos 90 años en tallarlo.",
+   "Se talló para calmar las aguas peligrosas de los ríos que pasan a sus pies."
+  ]
+ },
+ "hongkong": {
+  "lugar": "Hong Kong",
+  "porque": "Una bahía rodeada de rascacielos con un espectáculo de luces cada noche.",
+  "datos": [
+   "Separa la isla de Hong Kong de la península de Kowloon.",
+   "Cada noche hay un show de luces y láser en los rascacielos.",
+   "Los barquitos Star Ferry la cruzan desde hace más de 100 años."
+  ]
+ },
+ "phiphi": {
+  "lugar": "Mar de Andamán",
+  "porque": "Islas de acantilados y playas de agua cristalina en Tailandia.",
+  "datos": [
+   "Son seis islas, y dos son las principales.",
+   "Una de sus bahías, Maya Bay, se hizo famosa por una película.",
+   "Allí hay barquitos de cola larga típicos de Tailandia."
+  ]
+ },
+ "fuerterojo": {
+  "lugar": "Delhi",
+  "porque": "Una enorme fortaleza de piedra roja de los emperadores mogoles.",
+  "anio": 1639,
+  "anioTxt": "1639",
+  "datos": [
+   "Lo mandó construir Shah Jahan, el mismo del Taj Mahal.",
+   "Sus murallas de arenisca roja miden unos 2,5 km.",
+   "Cada año, el Día de la Independencia, allí se iza la bandera de la India."
+  ]
+ },
+ "puertaindiadelhi": {
+  "lugar": "Nueva Delhi",
+  "porque": "Un gran arco en honor a los soldados indios de la Primera Guerra Mundial.",
+  "anio": 1921,
+  "anioTxt": "1921",
+  "alto": 42,
+  "datos": [
+   "Mide 42 m de alto.",
+   "En sus muros están escritos los nombres de miles de soldados.",
+   "Está al final de una gran avenida, el Kartavya Path."
+  ]
+ },
+ "varanasi": {
+  "lugar": "Varanasi (Benarés), India",
+  "porque": "Escalinatas sagradas que bajan al río Ganges, en una de las ciudades más antiguas del mundo.",
+  "datos": [
+   "Tiene 88 ghats, escalinatas que llegan hasta el río.",
+   "Cada atardecer se celebra una ceremonia con fuego llamada aarti.",
+   "Es una de las ciudades habitadas más antiguas del mundo."
+  ]
+ },
+ "mezquitaharam": {
+  "lugar": "La Meca",
+  "porque": "La mezquita más grande del mundo y la más sagrada del islam.",
+  "datos": [
+   "En su patio está la Kaaba, el lugar más sagrado del islam.",
+   "Millones de personas la visitan cada año en la peregrinación del Hach.",
+   "Puede recibir a más de dos millones de personas a la vez."
+  ]
+ },
+ "burjalarab": {
+  "lugar": "Dubái",
+  "porque": "Un hotel con forma de vela de barco sobre una isla artificial.",
+  "anio": 1999,
+  "anioTxt": "1999",
+  "alto": 321,
+  "datos": [
+   "Se inauguró en 1999.",
+   "Está sobre una isla artificial, a unos 280 m de la playa.",
+   "Arriba tiene un helipuerto que se usó hasta para jugar tenis."
+  ]
+ },
+ "marmuerto": {
+  "lugar": "Entre Jordania, Israel y Palestina",
+  "porque": "Un lago tan salado que las personas flotan sin esfuerzo.",
+  "datos": [
+   "Su orilla es el punto más bajo de la tierra firme: más de 430 m bajo el nivel del mar.",
+   "Es unas diez veces más salado que el océano.",
+   "Casi ningún ser vivo puede vivir en él: por eso se llama «muerto»."
+  ]
+ },
+ "efeso": {
+  "lugar": "Costa del mar Egeo, Turquía",
+  "porque": "Una gran ciudad grecorromana con una biblioteca de fachada impresionante.",
+  "anio": -1000,
+  "anioTxt": "siglo X a. C.",
+  "datos": [
+   "Su Biblioteca de Celso guardaba unos 12 000 rollos.",
+   "Allí estuvo el Templo de Artemisa, una de las siete maravillas antiguas.",
+   "Su teatro tenía capacidad para unas 25 000 personas."
+  ]
+ },
+ "luxor": {
+  "lugar": "Lúxor (antigua Tebas)",
+  "porque": "Un gran templo egipcio dedicado al dios Amón.",
+  "anio": -1400,
+  "anioTxt": "hacia 1400 a. C.",
+  "datos": [
+   "Lo construyeron sobre todo los faraones Amenhotep III y Ramsés II.",
+   "Una avenida de esfinges de casi 3 km lo une con el templo de Karnak.",
+   "En su entrada había dos obeliscos: uno está hoy en la Plaza de la Concordia de París."
+  ]
+ },
+ "valledelosreyes": {
+  "lugar": "Cerca de Lúxor",
+  "porque": "El valle donde enterraban a los faraones del Imperio Nuevo.",
+  "anio": -1500,
+  "anioTxt": "hacia 1500 a. C.",
+  "datos": [
+   "Tiene más de 60 tumbas excavadas en la roca.",
+   "En 1922 se encontró allí la tumba de Tutankamón, casi intacta.",
+   "Las tumbas se escondían en el desierto para protegerlas de ladrones."
+  ]
+ },
+ "maasaimara": {
+  "lugar": "Kenia",
+  "porque": "Una reserva de sabana famosa por sus leones y la gran migración.",
+  "datos": [
+   "Es la continuación del Serengueti, del lado de Kenia.",
+   "Entre julio y octubre la cruzan más de un millón de ñúes.",
+   "Lleva el nombre del pueblo masái y del río Mara."
+  ]
+ },
+ "kruger": {
+  "lugar": "Noreste de Sudáfrica",
+  "porque": "Uno de los parques de animales salvajes más grandes de África.",
+  "datos": [
+   "Mide unos 19 000 km², casi como un país pequeño.",
+   "Allí viven los «cinco grandes»: león, leopardo, elefante, rinoceronte y búfalo.",
+   "Se creó en 1926."
+  ]
+ },
+ "capitolio": {
+  "lugar": "Washington D. C.",
+  "porque": "La sede del Congreso de Estados Unidos, con su gran cúpula blanca.",
+  "anio": 1793,
+  "anioTxt": "1793",
+  "alto": 88,
+  "datos": [
+   "Se empezó en 1793.",
+   "Su cúpula de hierro pintado de blanco pesa unos 4000 toneladas.",
+   "Las calles de Washington se numeran a partir de él."
+  ]
+ },
+ "brooklyn": {
+  "lugar": "Nueva York",
+  "porque": "Un puente colgante histórico entre Manhattan y Brooklyn.",
+  "anio": 1870,
+  "anioTxt": "1870",
+  "alto": 84,
+  "datos": [
+   "Se construyó entre 1870 y 1883.",
+   "Al abrir fue el puente colgante más largo del mundo.",
+   "Tiene un paseo de madera para caminar por encima de los carros."
+  ]
+ },
+ "centralpark": {
+  "lugar": "Manhattan, Nueva York",
+  "porque": "Un parque enorme en medio de los rascacielos de Manhattan.",
+  "anio": 1857,
+  "anioTxt": "1857",
+  "datos": [
+   "Mide unos 4 km de largo por 800 m de ancho.",
+   "Es más grande que el país de Mónaco.",
+   "Lo visitan unos 40 millones de personas al año."
+  ]
+ },
+ "lincoln": {
+  "lugar": "Washington D. C.",
+  "porque": "Un templo de estilo griego con una estatua gigante de Abraham Lincoln.",
+  "anio": 1922,
+  "anioTxt": "1922",
+  "datos": [
+   "Se inauguró en 1922.",
+   "Tiene 36 columnas, una por cada estado que había cuando murió Lincoln.",
+   "Allí Martin Luther King dio su famoso discurso «Tengo un sueño» en 1963."
+  ]
+ },
+ "lasvegas": {
+  "lugar": "Nevada",
+  "porque": "Una avenida llena de hoteles gigantes con luces en medio del desierto.",
+  "datos": [
+   "Mide unos 6,8 km.",
+   "Tiene copias de la Torre Eiffel, una pirámide egipcia y los canales de Venecia.",
+   "De noche es uno de los lugares más brillantes vistos desde el espacio."
+  ]
+ },
+ "alcatraz": {
+  "lugar": "Bahía de San Francisco",
+  "porque": "Una isla que fue una cárcel famosa por ser casi imposible de escapar.",
+  "datos": [
+   "Funcionó como prisión federal hasta 1963.",
+   "Las corrientes heladas de la bahía dificultaban las fugas a nado.",
+   "Hoy es un museo y tiene el primer faro de la costa oeste de EE. UU."
+  ]
+ },
+ "oldfaithful": {
+  "lugar": "Parque Yellowstone, Wyoming",
+  "porque": "El géiser más famoso del mundo, que lanza agua hirviendo como un reloj.",
+  "datos": [
+   "Hace erupción más o menos cada 60 a 110 minutos.",
+   "Su chorro puede llegar a unos 55 m de alto.",
+   "Old Faithful significa «viejo fiel», por lo puntual que es."
+  ]
+ },
+ "aconcagua": {
+  "lugar": "Mendoza, Argentina",
+  "porque": "La montaña más alta de América.",
+  "elev": 6961,
+  "datos": [
+   "Es la montaña más alta fuera de Asia.",
+   "Su nombre podría venir del quechua y significar «centinela de piedra».",
+   "Se puede subir sin escalar paredes, pero el frío y la altura son muy duros."
+  ]
+ },
+ "copacabana": {
+  "lugar": "Río de Janeiro",
+  "porque": "La playa más famosa de Brasil, con su paseo de ondas blancas y negras.",
+  "datos": [
+   "Su playa mide unos 4 km.",
+   "El dibujo de ondas de su andén imita las olas del mar.",
+   "Cada Año Nuevo se reúnen allí más de dos millones de personas para ver fuegos artificiales."
+  ]
+ },
+ "bled": {
+  "lugar": "Alpes Julianos, Eslovenia",
+  "porque": "Un lago verde esmeralda con una islita y una iglesia en el centro.",
+  "elev": 475,
+  "datos": [
+   "Tiene la única isla natural de Eslovenia.",
+   "Para llegar a la iglesia se sube una escalera de 99 escalones.",
+   "Sobre un acantilado de la orilla hay un castillo medieval."
+  ]
+ },
+ "calzada": {
+  "lugar": "Irlanda del Norte",
+  "porque": "Miles de columnas de piedra de seis lados, como un gran panal junto al mar.",
+  "datos": [
+   "Tiene unas 40 000 columnas de basalto.",
+   "Se formaron cuando la lava de un volcán se enfrió hace unos 60 millones de años.",
+   "La leyenda dice que la construyó un gigante para cruzar el mar hasta Escocia."
+  ]
+ },
+ "kinderdijk": {
+  "lugar": "Holanda Meridional",
+  "porque": "Diecinueve molinos de viento alineados entre canales.",
+  "anio": 1738,
+  "anioTxt": "1738",
+  "datos": [
+   "Sus 19 molinos se construyeron hacia 1740.",
+   "Servían para sacar agua y que la tierra no se inundara.",
+   "Gran parte de los Países Bajos está por debajo del nivel del mar."
+  ]
+ },
+ "pena": {
+  "lugar": "Sintra, Portugal",
+  "porque": "Un palacio de colores en lo alto de una montaña, como de cuento.",
+  "anio": 1838,
+  "anioTxt": "1838",
+  "datos": [
+   "Sus torres son rojas, amarillas y azules.",
+   "Lo mandó construir el rey Fernando II en el siglo XIX.",
+   "En días claros se ve desde Lisboa."
+  ]
+ },
+ "cordoba": {
+  "lugar": "Córdoba, España",
+  "porque": "Una antigua mezquita con un bosque de arcos rojos y blancos, con una catedral adentro.",
+  "anio": 786,
+  "anioTxt": "786",
+  "datos": [
+   "Se empezó a construir en el año 786.",
+   "Tiene más de 850 columnas con arcos de dos colores.",
+   "En el siglo XVI se construyó una catedral en su centro."
+  ]
+ },
+ "segovia": {
+  "lugar": "Segovia, España",
+  "porque": "Un acueducto romano de piedras sin pegamento que llevó agua durante siglos.",
+  "anio": 100,
+  "anioTxt": "siglo II",
+  "alto": 28,
+  "datos": [
+   "Sus piedras se sostienen sin argamasa, solo por equilibrio.",
+   "Tiene unos 167 arcos.",
+   "Llevó agua a la ciudad hasta el siglo XX."
+  ]
+ },
+ "matera": {
+  "lugar": "Basilicata, Italia",
+  "porque": "Una ciudad de casas excavadas en la roca, de las más antiguas habitadas del mundo.",
+  "datos": [
+   "Sus barrios de cuevas, los Sassi, están habitados desde hace miles de años.",
+   "Muchas casas e iglesias están talladas dentro de la piedra.",
+   "Se ha usado como escenario para películas sobre Jerusalén antigua."
+  ]
+ },
+ "alberobello": {
+  "lugar": "Apulia, Italia",
+  "porque": "Un pueblo de casitas blancas con techos de piedra en forma de cono.",
+  "datos": [
+   "Esas casitas se llaman trullos.",
+   "Sus techos se hacen con piedras apiladas sin mezcla.",
+   "Algunos techos tienen símbolos pintados en blanco."
+  ]
+ },
+ "chambord": {
+  "lugar": "Valle del Loira, Francia",
+  "porque": "El castillo más grande del valle del Loira, con un bosque de torres en el techo.",
+  "anio": 1519,
+  "anioTxt": "1519",
+  "datos": [
+   "Lo mandó construir el rey Francisco I en 1519.",
+   "Tiene una escalera doble: dos personas pueden subir sin cruzarse.",
+   "Se cree que Leonardo da Vinci inspiró esa escalera."
+  ]
+ },
+ "geiranger": {
+  "lugar": "Møre og Romsdal, Noruega",
+  "porque": "Un fiordo de agua profunda entre montañas, con cascadas que caen al mar.",
+  "datos": [
+   "Mide unos 15 km de largo.",
+   "Su cascada más famosa se llama las Siete Hermanas.",
+   "Los fiordos se formaron cuando glaciares excavaron valles que luego llenó el mar."
+  ]
+ },
+ "preikestolen": {
+  "lugar": "Lysefjord, Noruega",
+  "porque": "Una roca plana como un púlpito, a 604 m sobre un fiordo.",
+  "elev": 604,
+  "datos": [
+   "Su cima es casi plana, de unos 25 por 25 m.",
+   "Para llegar se camina unas dos horas por la montaña.",
+   "Apareció en una película de acción de Misión Imposible."
+  ]
+ },
+ "nyhavn": {
+  "lugar": "Copenhague",
+  "porque": "Un canal con casas de colores y barcos antiguos en Copenhague.",
+  "anio": 1671,
+  "anioTxt": "1671",
+  "datos": [
+   "Su nombre significa «puerto nuevo».",
+   "Se excavó en el siglo XVII.",
+   "El escritor Hans Christian Andersen vivió en una de sus casas."
+  ]
+ },
+ "gullfoss": {
+  "lugar": "Sur de Islandia",
+  "porque": "Una catarata de dos saltos que cae dentro de un cañón.",
+  "datos": [
+   "Su nombre significa «cascada dorada».",
+   "El río Hvítá cae en dos escalones de 11 y 21 m.",
+   "Una mujer, Sigríður Tómasdóttir, luchó para que no la usaran para una represa."
+  ]
+ },
+ "jokulsarlon": {
+  "lugar": "Sureste de Islandia",
+  "porque": "Una laguna llena de icebergs que se desprenden de un glaciar.",
+  "datos": [
+   "Apareció hacia 1935 y crece porque el glaciar se derrite.",
+   "Sus icebergs flotan hacia el mar y quedan en una playa de arena negra.",
+   "A veces se ven focas nadando entre el hielo."
+  ]
+ },
+ "schonbrunn": {
+  "lugar": "Viena",
+  "porque": "El palacio de verano de los emperadores de Austria.",
+  "anio": 1696,
+  "anioTxt": "1696",
+  "datos": [
+   "Tiene 1441 habitaciones.",
+   "Allí está el zoológico más antiguo del mundo que sigue abierto, de 1752.",
+   "Mozart tocó en él cuando tenía seis años."
+  ]
+ },
+ "kotor": {
+  "lugar": "Montenegro",
+  "porque": "Una ciudad medieval amurallada al fondo de una bahía entre montañas.",
+  "datos": [
+   "Sus murallas suben por la montaña hasta un fuerte.",
+   "La bahía parece un fiordo, aunque es un antiguo cañón de río.",
+   "La ciudad es famosa por sus muchos gatos."
+  ]
+ },
+ "dolomitas": {
+  "lugar": "Dolomitas, Italia",
+  "porque": "Tres picos de roca gigantes, símbolo de los Dolomitas.",
+  "elev": 2999,
+  "datos": [
+   "El pico más alto, la Cima Grande, mide 2999 m.",
+   "Los Dolomitas eran arrecifes de coral bajo el mar hace millones de años.",
+   "Se puede caminar alrededor de los tres picos en unas horas."
+  ]
+ },
+ "starimost": {
+  "lugar": "Mostar, Bosnia y Herzegovina",
+  "porque": "Un elegante puente de piedra en arco sobre el río Neretva.",
+  "anio": 1566,
+  "anioTxt": "1566",
+  "datos": [
+   "Se construyó en 1566.",
+   "Fue destruido en una guerra en 1993 y reconstruido en 2004.",
+   "Los jóvenes saltan desde él al río, una tradición de siglos."
+  ]
+ },
+ "bran": {
+  "lugar": "Transilvania, Rumania",
+  "porque": "El castillo que muchos relacionan con la leyenda de Drácula.",
+  "anio": 1377,
+  "anioTxt": "1377",
+  "datos": [
+   "Se construyó en 1377 como fortaleza.",
+   "Se dice que inspiró el castillo de la novela «Drácula».",
+   "Fue residencia de la reina María de Rumania."
+  ]
+ },
+ "sanpablo": {
+  "lugar": "Londres",
+  "porque": "Una gran catedral con cúpula en lo alto de la ciudad de Londres.",
+  "anio": 1675,
+  "anioTxt": "1675",
+  "alto": 111,
+  "datos": [
+   "La construyó el arquitecto Christopher Wren tras el gran incendio de 1666.",
+   "Su Galería de los Susurros deja oír un susurro al otro lado de la cúpula.",
+   "Su cúpula es una de las más grandes del mundo."
+  ]
+ },
+ "windsor": {
+  "lugar": "Berkshire, Inglaterra",
+  "porque": "El castillo habitado más antiguo y grande del mundo.",
+  "anio": 1070,
+  "anioTxt": "siglo XI",
+  "datos": [
+   "Se empezó en el siglo XI, tras la conquista normanda.",
+   "Ha sido residencia de reyes durante casi mil años.",
+   "Por dentro tiene una casita de muñecas famosa, de la reina María."
+  ]
+ },
+ "eileandonan": {
+  "lugar": "Tierras Altas de Escocia",
+  "porque": "Un castillo en una islita donde se juntan tres lagos de mar.",
+  "anio": 1220,
+  "anioTxt": "siglo XIII",
+  "datos": [
+   "Se llega por un puente de piedra.",
+   "Quedó en ruinas en 1719 y se reconstruyó entre 1912 y 1932.",
+   "Es uno de los castillos más fotografiados de Escocia."
+  ]
+ },
+ "glenfinnan": {
+  "lugar": "Tierras Altas de Escocia",
+  "porque": "Un viaducto curvo de 21 arcos por donde pasa un tren de vapor.",
+  "anio": 1897,
+  "anioTxt": "1897",
+  "alto": 30,
+  "datos": [
+   "Tiene 21 arcos y se terminó en 1901.",
+   "Fue de los primeros grandes puentes hechos de concreto.",
+   "Por él pasa un tren de vapor que salió en las películas de Harry Potter."
+  ]
+ },
+ "conwy": {
+  "lugar": "Gales",
+  "porque": "Un castillo medieval con ocho grandes torres junto al mar.",
+  "anio": 1283,
+  "anioTxt": "1283",
+  "datos": [
+   "Lo construyó el rey Eduardo I entre 1283 y 1289.",
+   "Tiene ocho torres redondas.",
+   "Murallas de más de 1 km rodean todavía el pueblo."
+  ]
+ },
+ "pontdugard": {
+  "lugar": "Sur de Francia",
+  "porque": "Un acueducto romano de tres pisos de arcos.",
+  "anio": 50,
+  "anioTxt": "siglo I",
+  "alto": 48,
+  "datos": [
+   "Es el puente romano más alto que se conserva: 48 m.",
+   "Llevaba agua a la ciudad de Nîmes por un canal de 50 km.",
+   "Sus piedras grandes pesan hasta 6 toneladas y no tienen mezcla."
+  ]
+ },
+ "etretat": {
+  "lugar": "Normandía, Francia",
+  "porque": "Acantilados blancos con arcos de roca que entran al mar.",
+  "datos": [
+   "Sus arcos de roca se formaron por el golpe del mar.",
+   "Uno de los arcos parece un elefante metiendo la trompa al agua.",
+   "Pintores como Monet los pintaron muchas veces."
+  ]
+ },
+ "avinon": {
+  "lugar": "Aviñón, Francia",
+  "porque": "El enorme palacio donde vivieron los papas en el siglo XIV.",
+  "anio": 1335,
+  "anioTxt": "1335",
+  "datos": [
+   "Siete papas vivieron allí durante el siglo XIV.",
+   "Es uno de los edificios góticos más grandes de Europa.",
+   "Cerca está el famoso puente de Aviñón, que quedó cortado a la mitad."
+  ]
+ },
+ "palaciomadrid": {
+  "lugar": "Madrid",
+  "porque": "El palacio real más grande de Europa occidental.",
+  "anio": 1738,
+  "anioTxt": "1738",
+  "datos": [
+   "Tiene 3418 habitaciones.",
+   "El rey no vive allí: se usa para ceremonias.",
+   "Se construyó en el lugar de un antiguo alcázar que se quemó en 1734."
+  ]
+ },
+ "casabatllo": {
+  "lugar": "Barcelona",
+  "porque": "Una casa de Gaudí con techo de escamas de dragón y balcones como máscaras.",
+  "anio": 1904,
+  "anioTxt": "1904",
+  "datos": [
+   "Gaudí la transformó entre 1904 y 1906.",
+   "Su techo parece el lomo de un dragón.",
+   "La llaman «la casa de los huesos» por sus columnas."
+  ]
+ },
+ "montserrat": {
+  "lugar": "Cataluña",
+  "porque": "Un monasterio entre montañas de rocas redondeadas como dedos.",
+  "anio": 1025,
+  "anioTxt": "siglo XI",
+  "elev": 720,
+  "datos": [
+   "Las rocas de la montaña parecen una sierra, de ahí su nombre: «monte serrado».",
+   "Allí está la Virgen de Montserrat, llamada la Moreneta.",
+   "Tiene uno de los coros de niños más antiguos de Europa."
+  ]
+ },
+ "toledo": {
+  "lugar": "Castilla-La Mancha",
+  "porque": "Una ciudad medieval sobre una colina rodeada por el río Tajo.",
+  "datos": [
+   "La llaman la «ciudad de las tres culturas», por cristianos, judíos y musulmanes.",
+   "El río Tajo la rodea casi por completo.",
+   "Es famosa por sus espadas de acero."
+  ]
+ },
+ "santiagocomp": {
+  "lugar": "Galicia",
+  "porque": "La catedral donde termina el Camino de Santiago.",
+  "anio": 1075,
+  "anioTxt": "1075",
+  "alto": 75,
+  "datos": [
+   "Allí llegan cientos de miles de peregrinos a pie cada año.",
+   "Su incensario gigante, el botafumeiro, pesa unos 53 kg y vuela por la iglesia.",
+   "La catedral románica se empezó en 1075."
+  ]
+ },
+ "ronda": {
+  "lugar": "Málaga, España",
+  "porque": "Un puente de piedra que salta un tajo de casi 100 m.",
+  "anio": 1751,
+  "anioTxt": "1751",
+  "alto": 98,
+  "datos": [
+   "Se construyó entre 1751 y 1793.",
+   "Mide 98 m de alto sobre el río Guadalevín.",
+   "Une la parte antigua y la parte nueva de la ciudad."
+  ]
+ },
+ "etna": {
+  "lugar": "Sicilia",
+  "porque": "El volcán activo más alto de Europa.",
+  "elev": 3357,
+  "datos": [
+   "Es uno de los volcanes más activos del mundo.",
+   "Su altura cambia con las erupciones.",
+   "Su ceniza hace muy fértiles los campos de alrededor."
+  ]
+ },
+ "agrigento": {
+  "lugar": "Sicilia",
+  "porque": "Templos griegos muy bien conservados sobre una colina.",
+  "anio": -500,
+  "anioTxt": "siglo V a. C.",
+  "datos": [
+   "Tiene siete templos griegos de hace unos 2500 años.",
+   "El Templo de la Concordia es de los mejor conservados del mundo.",
+   "Pese a su nombre, los templos están sobre una colina, no en un valle."
+  ]
+ },
+ "burano": {
+  "lugar": "Laguna de Venecia",
+  "porque": "Una islita de casas de colores muy vivos.",
+  "datos": [
+   "Cada casa tiene un color distinto y no se puede pintar sin permiso.",
+   "Es famosa por sus encajes hechos a mano.",
+   "Su campanario está inclinado."
+  ]
+ },
+ "navagio": {
+  "lugar": "Isla de Zante, Grecia",
+  "porque": "Una playa escondida entre acantilados, con un barco naufragado en la arena.",
+  "datos": [
+   "El barco encalló allí en 1980.",
+   "Solo se llega en barco.",
+   "Su agua tiene un color turquesa intenso."
+  ]
+ },
+ "delfos": {
+  "lugar": "Grecia central",
+  "porque": "El santuario del oráculo de Apolo, que los griegos llamaban el centro del mundo.",
+  "anio": -800,
+  "anioTxt": "siglo VIII a. C.",
+  "datos": [
+   "Allí una sacerdotisa, la pitia, daba los mensajes del dios Apolo.",
+   "Los griegos creían que era el «ombligo del mundo».",
+   "Tiene un teatro y un estadio en la montaña."
+  ]
+ },
+ "knossos": {
+  "lugar": "Creta",
+  "porque": "El palacio de la antigua civilización minoica, ligado al mito del Minotauro.",
+  "anio": -1900,
+  "anioTxt": "hacia 1900 a. C.",
+  "datos": [
+   "Es el palacio más antiguo de Europa.",
+   "Su laberinto de salas inspiró la leyenda del Minotauro.",
+   "Sus paredes tienen pinturas de colores con delfines y toros."
+  ]
+ },
+ "brujas": {
+  "lugar": "Brujas, Bélgica",
+  "porque": "Un campanario medieval sobre la plaza del Mercado de Brujas.",
+  "anio": 1240,
+  "anioTxt": "1240",
+  "alto": 83,
+  "datos": [
+   "Para llegar arriba hay que subir 366 escalones.",
+   "Tiene un carillón de 47 campanas que suena con melodías.",
+   "Brujas tiene tantos canales que la llaman la Venecia del Norte."
+  ]
+ },
+ "keukenhof": {
+  "lugar": "Lisse, Países Bajos",
+  "porque": "El jardín de tulipanes más famoso del mundo.",
+  "datos": [
+   "Cada primavera florecen allí unos 7 millones de bulbos.",
+   "Solo abre unas ocho semanas al año, entre marzo y mayo.",
+   "Su nombre significa «jardín de la cocina»."
+  ]
+ },
+ "rijksmuseum": {
+  "lugar": "Ámsterdam",
+  "porque": "El gran museo de los Países Bajos, hogar de pintores como Rembrandt.",
+  "anio": 1885,
+  "anioTxt": "1885",
+  "datos": [
+   "Allí está «La ronda de noche», el cuadro más famoso de Rembrandt.",
+   "Su edificio actual se inauguró en 1885.",
+   "Una ciclovía atraviesa el edificio por debajo."
+  ]
+ },
+ "heidelberg": {
+  "lugar": "Baden-Wurtemberg, Alemania",
+  "porque": "Un castillo en ruinas de piedra roja sobre el río Neckar.",
+  "anio": 1214,
+  "anioTxt": "siglo XIII",
+  "datos": [
+   "Está construido con arenisca roja.",
+   "Tiene uno de los barriles de vino más grandes del mundo.",
+   "Lo dañaron guerras y rayos, y quedó en parte en ruinas."
+  ]
+ },
+ "rothenburg": {
+  "lugar": "Baviera",
+  "porque": "Un pueblo medieval amurallado que parece detenido en el tiempo.",
+  "datos": [
+   "Su muralla se puede recorrer casi completa por arriba.",
+   "Su esquina más fotografiada se llama Plönlein.",
+   "Tiene una tienda de Navidad abierta todo el año."
+  ]
+ },
+ "konigssee": {
+  "lugar": "Baviera",
+  "porque": "Un lago de agua verde entre montañas, con una iglesita de cúpulas rojas.",
+  "elev": 603,
+  "datos": [
+   "Lo recorren barcos eléctricos para no ensuciar el agua.",
+   "En el lago, un músico toca la trompeta para mostrar el eco de las montañas.",
+   "La iglesia de San Bartolomé está en una orilla a la que solo se llega en barco."
+  ]
+ },
+ "elbphilharmonie": {
+  "lugar": "Hamburgo",
+  "porque": "Una sala de conciertos de vidrio ondulado sobre un viejo almacén del puerto.",
+  "anio": 2017,
+  "anioTxt": "2017",
+  "alto": 110,
+  "datos": [
+   "Se inauguró en 2017.",
+   "Su parte de vidrio parece olas o una vela.",
+   "Su sala principal está diseñada para que el sonido llegue igual a todos."
+  ]
+ },
+ "krumlov": {
+  "lugar": "Bohemia Meridional",
+  "porque": "Un pueblo de cuento en una curva del río Moldava, con un castillo de colores.",
+  "datos": [
+   "El río Moldava hace una curva en forma de S alrededor del pueblo.",
+   "Su castillo es el segundo más grande de Chequia.",
+   "La torre del castillo está pintada de colores."
+  ]
+ },
+ "sanesteban": {
+  "lugar": "Viena",
+  "porque": "La catedral gótica de Viena, con su techo de tejas de colores.",
+  "anio": 1137,
+  "anioTxt": "1137",
+  "alto": 136,
+  "datos": [
+   "Su techo tiene unas 230 000 tejas que forman dibujos de águilas.",
+   "Su torre sur mide 136 m.",
+   "Su campana grande, la Pummerin, es de las más grandes de Europa."
+  ]
+ },
+ "salzburgo": {
+  "lugar": "Salzburgo",
+  "porque": "Una gran fortaleza blanca sobre la ciudad de Mozart.",
+  "anio": 1077,
+  "anioTxt": "1077",
+  "datos": [
+   "Se empezó en 1077.",
+   "Es una de las fortalezas medievales más grandes de Europa.",
+   "Se sube en un funicular muy antiguo."
+  ]
+ },
+ "bastion": {
+  "lugar": "Budapest",
+  "porque": "Una terraza de cuento con siete torres blancas sobre el Danubio.",
+  "anio": 1895,
+  "anioTxt": "1895",
+  "datos": [
+   "Se construyó entre 1895 y 1902.",
+   "Sus siete torres recuerdan a las siete tribus que fundaron Hungría.",
+   "Desde allí se ve el Parlamento al otro lado del río."
+  ]
+ },
+ "wieliczka": {
+  "lugar": "Cerca de Cracovia",
+  "porque": "Una mina de sal con una capilla y esculturas talladas en sal.",
+  "anio": 1280,
+  "anioTxt": "siglo XIII",
+  "datos": [
+   "Se excava sal allí desde el siglo XIII.",
+   "Tiene una capilla subterránea donde todo, hasta las lámparas, es de sal.",
+   "Sus túneles suman unos 300 km."
+  ]
+ },
+ "cracovia": {
+  "lugar": "Cracovia",
+  "porque": "La plaza medieval más grande de Europa.",
+  "anio": 1257,
+  "anioTxt": "1257",
+  "datos": [
+   "Mide unos 40 000 m².",
+   "En el centro está la Lonja de los Paños, un mercado de hace siglos.",
+   "Cada hora, un trompetista toca desde la torre de una iglesia."
+  ]
+ },
+ "malbork": {
+  "lugar": "Polonia",
+  "porque": "El castillo de ladrillo más grande del mundo.",
+  "anio": 1274,
+  "anioTxt": "1274",
+  "datos": [
+   "Lo construyeron los caballeros teutónicos a partir de 1274.",
+   "Está hecho de ladrillo rojo.",
+   "Fue muy dañado en 1945 y se reconstruyó."
+  ]
+ },
+ "peterhof": {
+  "lugar": "Cerca de San Petersburgo",
+  "porque": "Un palacio de verano con fuentes doradas que bajan hasta el mar.",
+  "anio": 1714,
+  "anioTxt": "1714",
+  "datos": [
+   "Lo mandó construir el zar Pedro el Grande.",
+   "Tiene más de 150 fuentes que funcionan sin bombas, solo con la gravedad.",
+   "Por su lujo lo llaman el «Versalles ruso»."
+  ]
+ },
+ "tallinn": {
+  "lugar": "Tallin, Estonia",
+  "porque": "Una ciudad medieval con murallas y torres de techo rojo en punta.",
+  "datos": [
+   "Es uno de los cascos medievales mejor conservados de Europa.",
+   "Todavía tiene unas 20 torres en sus murallas.",
+   "Su farmacia del ayuntamiento funciona desde hace más de 600 años."
+  ]
+ },
+ "trakai": {
+  "lugar": "Lituania",
+  "porque": "Un castillo de ladrillo rojo en una isla de un lago.",
+  "anio": 1350,
+  "anioTxt": "siglo XIV",
+  "datos": [
+   "Se construyó en el siglo XIV.",
+   "Se llega por un puente de madera.",
+   "Fue reconstruido en el siglo XX a partir de sus ruinas."
+  ]
+ },
+ "gamlastan": {
+  "lugar": "Estocolmo",
+  "porque": "El casco antiguo de Estocolmo, con casas de colores en una isla.",
+  "datos": [
+   "Es uno de los centros medievales mejor conservados de Europa.",
+   "Su calle más estrecha mide solo 90 cm de ancho.",
+   "Allí está el Palacio Real de Suecia."
+  ]
+ },
+ "lofoten": {
+  "lugar": "Nordland, Noruega",
+  "porque": "Islas de montañas afiladas y casitas rojas de pescadores sobre el agua.",
+  "datos": [
+   "Están por encima del círculo polar ártico.",
+   "En verano el sol no se pone y en invierno se ven auroras boreales.",
+   "Sus casitas rojas sobre palos se llaman rorbuer."
+  ]
+ },
+ "bryggen": {
+  "lugar": "Bergen, Noruega",
+  "porque": "Un muelle con casas de madera de colores, de antiguos comerciantes.",
+  "datos": [
+   "Fue un puerto de la Liga Hanseática, una red de comerciantes medievales.",
+   "Sus casas de madera se han reconstruido tras varios incendios.",
+   "Allí se comerciaba bacalao seco."
+  ]
+ },
+ "hallgrimskirkja": {
+  "lugar": "Reikiavik",
+  "porque": "Una iglesia blanca que imita las columnas de lava de Islandia.",
+  "anio": 1945,
+  "anioTxt": "1945",
+  "alto": 74,
+  "datos": [
+   "Su forma imita las columnas de basalto de la lava.",
+   "Tardaron 41 años en construirla, hasta 1986.",
+   "Es una de las construcciones más altas de Islandia."
+  ]
+ },
+ "seljalandsfoss": {
+  "lugar": "Sur de Islandia",
+  "porque": "Una cascada por detrás de la cual se puede caminar.",
+  "alto": 60,
+  "datos": [
+   "El agua cae unos 60 m.",
+   "Un sendero pasa por detrás de la cortina de agua.",
+   "Antes, el acantilado de donde cae estaba junto al mar."
+  ]
+ },
+ "valletta": {
+  "lugar": "Malta",
+  "porque": "La pequeña capital de Malta, una ciudad fortificada sobre el mar.",
+  "anio": 1566,
+  "anioTxt": "1566",
+  "datos": [
+   "La fundaron los Caballeros de San Juan en 1566.",
+   "Es una de las capitales más pequeñas de Europa.",
+   "Toda la ciudad es Patrimonio de la Humanidad."
+  ]
+ },
+ "diocleciano": {
+  "lugar": "Split, Croacia",
+  "porque": "El palacio de un emperador romano convertido en el centro de una ciudad.",
+  "anio": 295,
+  "anioTxt": "siglo III",
+  "datos": [
+   "El emperador Diocleciano lo construyó para retirarse.",
+   "Hoy, dentro de sus muros viven personas y hay tiendas y cafés.",
+   "Sus sótanos sirvieron de escenario para una famosa serie de dragones."
+  ]
+ },
+ "portodomluis": {
+  "lugar": "Oporto",
+  "porque": "Un puente de hierro de dos pisos sobre el río Duero.",
+  "anio": 1881,
+  "anioTxt": "1881",
+  "alto": 45,
+  "datos": [
+   "Se inauguró en 1886.",
+   "Por arriba pasa el metro y por abajo los carros.",
+   "Lo diseñó un alumno de Gustave Eiffel."
+  ]
+ },
+ "benagil": {
+  "lugar": "Algarve, Portugal",
+  "porque": "Una cueva marina con un agujero en el techo que deja entrar el sol.",
+  "datos": [
+   "Solo se llega por agua.",
+   "El mar talló la cueva en la roca caliza.",
+   "Su techo tiene un óculo natural, como el Panteón de Roma."
+  ]
+ },
+ "lucerna": {
+  "lugar": "Lucerna, Suiza",
+  "porque": "Un puente de madera cubierto, con una torre en el agua.",
+  "anio": 1333,
+  "anioTxt": "1333",
+  "datos": [
+   "Es uno de los puentes de madera cubiertos más antiguos de Europa.",
+   "Por dentro tiene pinturas antiguas en el techo.",
+   "Se quemó en parte en 1993 y fue reconstruido."
+  ]
+ },
+ "chillon": {
+  "lugar": "Lago Lemán, Suiza",
+  "porque": "Un castillo medieval que parece flotar sobre un lago.",
+  "anio": 1160,
+  "anioTxt": "siglo XII",
+  "datos": [
+   "Está sobre una islita de roca en el lago Lemán.",
+   "Tiene más de 25 edificios.",
+   "El poeta Lord Byron escribió un poema sobre un prisionero del castillo."
+  ]
+ },
+ "lauterbrunnen": {
+  "lugar": "Alpes de Berna",
+  "porque": "Un valle verde entre paredes de roca con 72 cascadas.",
+  "elev": 795,
+  "datos": [
+   "Tiene 72 cascadas.",
+   "Su cascada Staubbach cae casi 300 m.",
+   "Inspiró el valle élfico de Rivendel en «El señor de los anillos»."
+  ]
+ },
+ "cashel": {
+  "lugar": "Tipperary, Irlanda",
+  "porque": "Ruinas de una catedral y un castillo sobre una roca, antigua sede de reyes.",
+  "anio": 1100,
+  "anioTxt": "siglo XII",
+  "datos": [
+   "Fue la sede de los reyes de Munster.",
+   "Según la leyenda, San Patricio estuvo allí en el siglo V.",
+   "Tiene una torre redonda de unos 28 m."
+  ]
+ },
+ "skellig": {
+  "lugar": "Kerry, Irlanda",
+  "porque": "Una isla de roca en el océano con un antiguo monasterio en lo alto.",
+  "anio": 600,
+  "anioTxt": "siglo VII",
+  "datos": [
+   "Unos monjes vivieron allí desde el siglo VII.",
+   "Para llegar arriba hay que subir más de 600 escalones de piedra.",
+   "Apareció en una película de La guerra de las galaxias."
+  ]
+ },
+ "galata": {
+  "lugar": "Estambul",
+  "porque": "Una torre medieval de piedra con techo cónico en Estambul.",
+  "anio": 1348,
+  "anioTxt": "1348",
+  "alto": 63,
+  "datos": [
+   "La construyeron los genoveses en 1348.",
+   "Desde su mirador se ve el Bósforo y el Cuerno de Oro.",
+   "Una leyenda cuenta que un hombre voló desde ella con alas."
+  ]
+ },
+ "rila": {
+  "lugar": "Montañas de Rila, Bulgaria",
+  "porque": "Un monasterio de arcos de colores entre montañas.",
+  "anio": 927,
+  "anioTxt": "siglo X",
+  "datos": [
+   "Lo fundó un ermitaño, San Juan de Rila, en el siglo X.",
+   "Sus galerías tienen rayas rojas, blancas y negras.",
+   "Está lleno de pinturas de colores por dentro y por fuera."
+  ]
+ },
+ "lavra": {
+  "lugar": "Kiev",
+  "porque": "Un antiguo monasterio de cúpulas doradas con cuevas debajo.",
+  "anio": 1051,
+  "anioTxt": "1051",
+  "datos": [
+   "Se fundó en 1051.",
+   "Debajo tiene cuevas donde vivían monjes.",
+   "Su campanario fue uno de los más altos de su época."
+  ]
+ },
+ "afrodita": {
+  "lugar": "Pafos, Chipre",
+  "porque": "Una roca en el mar donde, según la leyenda, nació la diosa Afrodita.",
+  "datos": [
+   "Según el mito griego, Afrodita nació de la espuma del mar en este lugar.",
+   "En griego se llama Petra tou Romiou, «roca del griego».",
+   "Es un lugar muy visitado al atardecer."
+  ]
+ },
+ "himeji": {
+  "lugar": "Hyōgo, Japón",
+  "porque": "Un castillo japonés blanco y elegante, llamado «la garza blanca».",
+  "anio": 1609,
+  "anioTxt": "1609",
+  "datos": [
+   "Su forma blanca recuerda a un ave que levanta el vuelo.",
+   "Es uno de los pocos castillos originales de Japón que nunca se destruyó.",
+   "Su laberinto de caminos estaba hecho para confundir a los enemigos."
+  ]
+ },
+ "itsukushima": {
+  "lugar": "Isla de Miyajima, Japón",
+  "porque": "Un santuario con un gran portal rojo que parece flotar en el mar.",
+  "anio": 1168,
+  "anioTxt": "1168",
+  "datos": [
+   "Su torii rojo, de unos 16 m, queda en el agua cuando sube la marea.",
+   "Con marea baja se puede caminar hasta el portal.",
+   "En la isla viven ciervos que pasean libres."
+  ]
+ },
+ "gardensbay": {
+  "lugar": "Singapur",
+  "porque": "Un jardín futurista con árboles gigantes de metal llenos de plantas.",
+  "anio": 2012,
+  "anioTxt": "2012",
+  "datos": [
+   "Sus «superárboles» miden hasta 50 m y están cubiertos de plantas.",
+   "De noche se iluminan con un show de luces y música.",
+   "Tiene un invernadero con la cascada interior más alta del mundo."
+  ]
+ },
+ "hoian": {
+  "lugar": "Vietnam central",
+  "porque": "Un antiguo pueblo de comerciantes famoso por sus faroles de colores.",
+  "datos": [
+   "Fue un puerto comercial importante entre los siglos XV y XIX.",
+   "Sus calles se llenan de faroles de seda por la noche.",
+   "Tiene un puente cubierto japonés de hace unos 400 años."
+  ]
+ },
+ "tanahlot": {
+  "lugar": "Bali, Indonesia",
+  "porque": "Un templo hindú sobre una roca en el mar.",
+  "anio": 1500,
+  "anioTxt": "siglo XVI",
+  "datos": [
+   "Con marea alta queda rodeado de agua.",
+   "Es uno de los siete templos del mar que protegen Bali.",
+   "Se dice que serpientes marinas protegen la roca."
+  ]
+ },
+ "bromo": {
+  "lugar": "Java oriental, Indonesia",
+  "porque": "Un volcán activo humeante en medio de un mar de arena.",
+  "elev": 2329,
+  "datos": [
+   "Está dentro de una gran caldera llamada el «mar de arena».",
+   "El pueblo tengger le lleva ofrendas cada año en una fiesta.",
+   "Al amanecer, la niebla lo rodea como un mar de nubes."
+  ]
+ },
+ "bagan": {
+  "lugar": "Myanmar",
+  "porque": "Una llanura con miles de templos antiguos.",
+  "anio": 1044,
+  "anioTxt": "siglo XI",
+  "datos": [
+   "Llegó a tener más de 10 000 templos; hoy quedan más de 2000.",
+   "Fue la capital del primer reino birmano.",
+   "Al amanecer, globos sobrevuelan los templos."
+  ]
+ },
+ "shwedagon": {
+  "lugar": "Rangún, Myanmar",
+  "porque": "Una enorme estupa cubierta de oro, la más sagrada de Myanmar.",
+  "alto": 99,
+  "datos": [
+   "Está cubierta con placas de oro.",
+   "En la punta tiene miles de diamantes y rubíes.",
+   "Es el lugar budista más sagrado del país."
+  ]
+ },
+ "watarun": {
+  "lugar": "Bangkok",
+  "porque": "El «templo del amanecer», decorado con porcelana, junto al río.",
+  "anio": 1656,
+  "anioTxt": "siglo XVII",
+  "datos": [
+   "Su torre central está cubierta de trocitos de porcelana de colores.",
+   "Su nombre significa «templo del amanecer».",
+   "Aparece en la moneda tailandesa de 10 bahts."
+  ]
+ },
+ "rioli": {
+  "lugar": "Guangxi, China",
+  "porque": "Un río entre montañas de piedra caliza con formas de cuento.",
+  "datos": [
+   "Su paisaje aparece en el billete chino de 20 yuanes.",
+   "Los pescadores pescaban con aves llamadas cormoranes.",
+   "Se navega en balsas de bambú."
+  ]
+ },
+ "hawamahal": {
+  "lugar": "Jaipur, India",
+  "porque": "El «palacio de los vientos», con 953 ventanitas.",
+  "anio": 1799,
+  "anioTxt": "1799",
+  "datos": [
+   "Tiene 953 ventanitas talladas.",
+   "Las mujeres de la corte veían la calle sin ser vistas.",
+   "Las ventanas dejaban pasar la brisa y lo mantenían fresco."
+  ]
+ },
+ "puertaindia": {
+  "lugar": "Bombay (Mumbai)",
+  "porque": "Un arco monumental junto al mar en Bombay.",
+  "anio": 1924,
+  "anioTxt": "1924",
+  "alto": 26,
+  "datos": [
+   "Se terminó en 1924 para recordar la visita de un rey británico.",
+   "Está frente al mar Arábigo.",
+   "Por allí salieron los últimos soldados británicos en 1948."
+  ]
+ },
+ "taktsang": {
+  "lugar": "Valle de Paro, Bután",
+  "porque": "Un monasterio pegado a un acantilado a 900 m sobre el valle.",
+  "anio": 1692,
+  "anioTxt": "1692",
+  "datos": [
+   "Se llega caminando unas dos o tres horas.",
+   "Según la leyenda, un maestro llegó volando en una tigresa.",
+   "Está a unos 3100 m de altura."
+  ]
+ },
+ "sigiriya": {
+  "lugar": "Sri Lanka",
+  "porque": "Una fortaleza sobre una enorme roca, con una entrada en forma de garras de león.",
+  "anio": 477,
+  "anioTxt": "siglo V",
+  "alto": 180,
+  "datos": [
+   "La roca mide unos 180 m de alto.",
+   "Para subir se pasa entre dos garras de león gigantes de piedra.",
+   "Tiene pinturas antiguas de mujeres en sus paredes."
+  ]
+ },
+ "registan": {
+  "lugar": "Samarcanda, Uzbekistán",
+  "porque": "Una plaza rodeada por tres grandes escuelas con mosaicos azules.",
+  "anio": 1417,
+  "anioTxt": "1417",
+  "datos": [
+   "Samarcanda fue una ciudad clave de la Ruta de la Seda.",
+   "Sus tres madrasas están cubiertas de mosaicos turquesa.",
+   "Su nombre significa «lugar de arena»."
+  ]
+ },
+ "naqshjahan": {
+  "lugar": "Isfahán, Irán",
+  "porque": "Una de las plazas más grandes del mundo, rodeada de mezquitas y palacios.",
+  "anio": 1598,
+  "anioTxt": "1598",
+  "datos": [
+   "Mide 560 m de largo.",
+   "Su nombre significa «imagen del mundo».",
+   "En ella se jugaba al polo; aún quedan los arcos de las porterías."
+  ]
+ },
+ "persepolis": {
+  "lugar": "Fars, Irán",
+  "porque": "Las ruinas de la gran capital del antiguo Imperio persa.",
+  "anio": -518,
+  "anioTxt": "518 a. C.",
+  "datos": [
+   "El rey Darío I la empezó hacia el año 518 a. C.",
+   "Sus escaleras tienen relieves de pueblos llevando regalos al rey.",
+   "Alejandro Magno la incendió en el año 330 a. C."
+  ]
+ },
+ "wadirum": {
+  "lugar": "Sur de Jordania",
+  "porque": "Un desierto de arena roja y montañas, llamado el «valle de la luna».",
+  "datos": [
+   "Se parece tanto a Marte que allí se filmaron películas espaciales.",
+   "Lo habitan beduinos que viven en carpas.",
+   "Sus montañas son de arenisca y granito."
+  ]
+ },
+ "gyeongbokgung": {
+  "lugar": "Seúl",
+  "porque": "El palacio principal de la antigua dinastía Joseon de Corea.",
+  "anio": 1395,
+  "anioTxt": "1395",
+  "datos": [
+   "Se construyó en 1395.",
+   "Allí se hace el cambio de guardia con trajes tradicionales.",
+   "Quien lo visita con hanbok, el traje tradicional, entra gratis."
+  ]
+ },
+ "chocolate": {
+  "lugar": "Bohol, Filipinas",
+  "porque": "Cientos de colinas redondas que en época seca se ponen color chocolate.",
+  "datos": [
+   "Son unas 1268 colinas casi iguales.",
+   "En época seca la hierba se vuelve café, como chocolate.",
+   "Una leyenda dice que son lágrimas de un gigante."
+  ]
+ },
+ "banaue": {
+  "lugar": "Luzón, Filipinas",
+  "porque": "Terrazas de arroz talladas a mano en las montañas hace unos 2000 años.",
+  "datos": [
+   "Las hizo el pueblo ifugao.",
+   "Se riegan con agua que baja de la selva de arriba.",
+   "Las llaman la «escalera al cielo»."
+  ]
+ },
+ "baikal": {
+  "lugar": "Siberia, Rusia",
+  "porque": "El lago más profundo y antiguo del mundo.",
+  "elev": 456,
+  "datos": [
+   "Llega a 1642 m de profundidad.",
+   "Guarda cerca de una quinta parte del agua dulce líquida del planeta.",
+   "Allí vive la nerpa, una foca de agua dulce."
+  ]
+ },
+ "perlaoriental": {
+  "lugar": "Shanghái",
+  "porque": "Una torre de televisión con esferas rosadas, símbolo de Shanghái.",
+  "anio": 1994,
+  "anioTxt": "1994",
+  "alto": 468,
+  "datos": [
+   "Mide 468 m.",
+   "Sus esferas parecen perlas sobre un plato de jade, según un poema chino.",
+   "Tiene un piso de vidrio para ver hacia abajo."
+  ]
+ },
+ "osaka": {
+  "lugar": "Osaka, Japón",
+  "porque": "Un castillo blanco con adornos dorados sobre murallas de piedra.",
+  "anio": 1583,
+  "anioTxt": "1583",
+  "datos": [
+   "Lo mandó construir Toyotomi Hideyoshi en 1583.",
+   "Sus muros de piedra tienen rocas gigantes.",
+   "El castillo actual se reconstruyó en 1931."
+  ]
+ },
+ "todaiji": {
+  "lugar": "Nara, Japón",
+  "porque": "Un templo de madera gigante con un Buda de bronce adentro.",
+  "anio": 752,
+  "anioTxt": "752",
+  "datos": [
+   "Su Gran Buda de bronce mide unos 15 m.",
+   "Fue el edificio de madera más grande del mundo durante siglos.",
+   "En su parque viven más de 1000 ciervos que hacen reverencias."
+  ]
+ },
+ "shirakawago": {
+  "lugar": "Gifu, Japón",
+  "porque": "Un pueblo de casas con techos de paja muy empinados, como manos en oración.",
+  "datos": [
+   "Sus techos se llaman gassho, «manos que rezan».",
+   "Los techos empinados dejan resbalar la nieve.",
+   "En invierno, iluminado de noche, parece un pueblo de cuento."
+  ]
+ },
+ "kamakura": {
+  "lugar": "Kamakura, Japón",
+  "porque": "Una gran estatua de Buda de bronce al aire libre.",
+  "anio": 1252,
+  "anioTxt": "1252",
+  "alto": 13.4,
+  "datos": [
+   "Mide unos 13 m y pesa unas 121 toneladas.",
+   "Antes estaba dentro de un templo que un tsunami destruyó en 1498.",
+   "Se puede entrar dentro de la estatua."
+  ]
+ },
+ "palacioverano": {
+  "lugar": "Pekín",
+  "porque": "Un gran jardín imperial con un lago, puentes y pabellones.",
+  "anio": 1750,
+  "anioTxt": "1750",
+  "datos": [
+   "Tiene un pasillo cubierto de 728 m con miles de pinturas.",
+   "El lago Kunming ocupa gran parte del parque.",
+   "Tiene un barco de mármol que nunca navegó."
+  ]
+ },
+ "bund": {
+  "lugar": "Shanghái",
+  "porque": "Un paseo junto al río con edificios antiguos frente a rascacielos modernos.",
+  "datos": [
+   "De un lado hay edificios de estilo europeo de hace unos 100 años.",
+   "Del otro lado del río están los rascacielos de Pudong.",
+   "De noche ambos lados se iluminan."
+  ]
+ },
+ "huangshan": {
+  "lugar": "Anhui, China",
+  "porque": "Picos de granito entre mares de nubes y pinos retorcidos.",
+  "elev": 1864,
+  "datos": [
+   "Sus pinos crecen agarrados de la roca.",
+   "Un mar de nubes cubre a menudo los valles.",
+   "Ha inspirado a pintores y poetas chinos durante siglos."
+  ]
+ },
+ "jiuzhaigou": {
+  "lugar": "Sichuan, China",
+  "porque": "Un valle de lagos de colores imposibles y cascadas.",
+  "datos": [
+   "Su nombre significa «valle de las nueve aldeas».",
+   "Sus lagos se ven turquesa, verdes y azules por los minerales.",
+   "Allí viven pandas, aunque es difícil verlos."
+  ]
+ },
+ "bulguksa": {
+  "lugar": "Gyeongju, Corea del Sur",
+  "porque": "Un templo budista antiguo con escaleras de piedra y pagodas.",
+  "anio": 751,
+  "anioTxt": "751",
+  "datos": [
+   "Guarda siete tesoros nacionales de Corea.",
+   "Sus escaleras se llaman puentes de la Nube Azul y la Nube Blanca.",
+   "Su pagoda Dabotap aparece en la moneda de 10 wones."
+  ]
+ },
+ "bayon": {
+  "lugar": "Angkor Thom, Camboya",
+  "porque": "Un templo con torres llenas de caras sonrientes talladas en piedra.",
+  "anio": 1190,
+  "anioTxt": "siglo XII",
+  "datos": [
+   "Tiene más de 200 caras gigantes sonriendo.",
+   "Está en el centro de la antigua ciudad de Angkor Thom.",
+   "Sus muros muestran escenas de batallas y de la vida diaria."
+  ]
+ },
+ "taprohm": {
+  "lugar": "Angkor, Camboya",
+  "porque": "Un templo atrapado por las raíces de árboles gigantes.",
+  "anio": 1186,
+  "anioTxt": "1186",
+  "datos": [
+   "Lo dejaron con la selva encima para mostrar cómo se encontró.",
+   "Raíces enormes cubren muros y puertas.",
+   "Salió en una película de aventuras famosa."
+  ]
+ },
+ "kuangsi": {
+  "lugar": "Luang Prabang, Laos",
+  "porque": "Cascadas en escalones con pozas turquesa en la selva.",
+  "datos": [
+   "Cae en varios niveles y la más alta mide unos 60 m.",
+   "Sus pozas turquesa se pueden nadar en algunas zonas.",
+   "Junto a ellas hay un refugio de osos rescatados."
+  ]
+ },
+ "ayutthaya": {
+  "lugar": "Tailandia",
+  "porque": "Las ruinas de una antigua capital del reino de Siam.",
+  "anio": 1350,
+  "anioTxt": "1350",
+  "datos": [
+   "Fue fundada en 1350.",
+   "En uno de sus templos, una cabeza de Buda está atrapada entre raíces de un árbol.",
+   "Fue una de las ciudades más grandes del mundo en el siglo XVII."
+  ]
+ },
+ "batu": {
+  "lugar": "Cerca de Kuala Lumpur, Malasia",
+  "porque": "Cuevas sagradas a las que se sube por una escalera de colores, junto a una estatua dorada.",
+  "datos": [
+   "Para llegar a la cueva-templo hay que subir 272 escalones de colores.",
+   "A la entrada hay una estatua dorada del dios Murugan de 43 m.",
+   "En la escalera viven monos muy traviesos."
+  ]
+ },
+ "kinabalu": {
+  "lugar": "Borneo, Malasia",
+  "porque": "La montaña más alta de Borneo, con una cima de granito.",
+  "elev": 4095,
+  "datos": [
+   "Mide 4095 m.",
+   "En sus laderas crecen plantas carnívoras gigantes.",
+   "Se sube en dos días para ver el amanecer desde la cima."
+  ]
+ },
+ "merlion": {
+  "lugar": "Singapur",
+  "porque": "Una estatua mitad león y mitad pez que echa agua por la boca, símbolo de Singapur.",
+  "anio": 1972,
+  "anioTxt": "1972",
+  "alto": 8.6,
+  "datos": [
+   "Su cabeza de león recuerda el nombre de Singapur, «ciudad del león».",
+   "Su cuerpo de pez recuerda su pasado de pueblo pesquero.",
+   "Mide 8,6 m."
+  ]
+ },
+ "prambanan": {
+  "lugar": "Java, Indonesia",
+  "porque": "Un gran conjunto de templos hindúes con torres en punta.",
+  "anio": 850,
+  "anioTxt": "siglo IX",
+  "alto": 47,
+  "datos": [
+   "Tenía unos 240 templos.",
+   "Su torre principal mide 47 m.",
+   "Sus relieves cuentan la historia del Ramayana."
+  ]
+ },
+ "komodo": {
+  "lugar": "Islas menores de la Sonda, Indonesia",
+  "porque": "Islas donde vive el dragón de Komodo, el lagarto más grande del mundo.",
+  "datos": [
+   "El dragón de Komodo puede medir 3 m.",
+   "También tiene una playa de arena rosada.",
+   "Se creó en 1980 para proteger a los dragones."
+  ]
+ },
+ "uluwatu": {
+  "lugar": "Bali, Indonesia",
+  "porque": "Un templo sobre un acantilado de 70 m frente al océano.",
+  "anio": 1000,
+  "anioTxt": "siglo XI",
+  "datos": [
+   "Está al borde de un acantilado sobre el mar.",
+   "Cada atardecer se presenta una danza tradicional, el kecak.",
+   "Allí viven monos que roban gafas y sombreros."
+  ]
+ },
+ "mayon": {
+  "lugar": "Luzón, Filipinas",
+  "porque": "Un volcán con forma de cono casi perfecto.",
+  "elev": 2462,
+  "datos": [
+   "Es famoso por su forma de cono casi perfecta.",
+   "Es el volcán más activo de Filipinas.",
+   "Su nombre viene de una leyenda de una princesa llamada Magayon."
+  ]
+ },
+ "riosubterraneo": {
+  "lugar": "Palawan, Filipinas",
+  "porque": "Un río que corre por dentro de una montaña hasta el mar.",
+  "datos": [
+   "Su río subterráneo mide más de 8 km.",
+   "Se recorre en bote dentro de una cueva.",
+   "Es una de las siete maravillas naturales del mundo elegidas en 2011."
+  ]
+ },
+ "qutbminar": {
+  "lugar": "Delhi",
+  "porque": "El minarete de ladrillo más alto del mundo.",
+  "anio": 1199,
+  "anioTxt": "1199",
+  "alto": 72.5,
+  "datos": [
+   "Mide 72,5 m y tiene 379 escalones.",
+   "Se empezó hacia 1199.",
+   "Cerca hay un pilar de hierro de 1600 años que no se oxida."
+  ]
+ },
+ "amber": {
+  "lugar": "Jaipur, India",
+  "porque": "Un palacio fortaleza de piedra dorada sobre una colina junto a un lago.",
+  "anio": 1592,
+  "anioTxt": "1592",
+  "datos": [
+   "Se construyó con arenisca de color miel y mármol.",
+   "Tiene una Sala de los Espejos que brilla con una sola vela.",
+   "Antes se subía a lomo de elefante."
+  ]
+ },
+ "loto": {
+  "lugar": "Nueva Delhi",
+  "porque": "Un templo con forma de flor de loto blanca.",
+  "anio": 1986,
+  "anioTxt": "1986",
+  "alto": 34,
+  "datos": [
+   "Tiene 27 «pétalos» de mármol blanco.",
+   "Está abierto a gente de todas las religiones.",
+   "Lo rodean nueve estanques."
+  ]
+ },
+ "meenakshi": {
+  "lugar": "Madurai, India",
+  "porque": "Un templo hindú con torres cubiertas de miles de estatuas de colores.",
+  "anio": 1600,
+  "anioTxt": "siglo XVII",
+  "datos": [
+   "Sus 14 torres, llamadas gopuram, están llenas de figuras pintadas.",
+   "La torre más alta mide unos 52 m.",
+   "Lo visitan miles de personas cada día."
+  ]
+ },
+ "mysore": {
+  "lugar": "Karnataka, India",
+  "porque": "Un palacio de cuento que se ilumina con casi 100 000 bombillos.",
+  "anio": 1897,
+  "anioTxt": "1897",
+  "datos": [
+   "Se terminó en 1912 tras un incendio del palacio anterior.",
+   "En las fiestas lo iluminan unos 97 000 bombillos.",
+   "Es uno de los lugares más visitados de la India."
+  ]
+ },
+ "hampi": {
+  "lugar": "Karnataka, India",
+  "porque": "Las ruinas de una gran capital entre rocas gigantes redondeadas.",
+  "anio": 1336,
+  "anioTxt": "1336",
+  "datos": [
+   "Fue la capital del Imperio Vijayanagara.",
+   "Está entre miles de rocas enormes en equilibrio.",
+   "Tiene un carro de piedra tallado que es su símbolo."
+  ]
+ },
+ "badshahi": {
+  "lugar": "Lahore, Pakistán",
+  "porque": "Una enorme mezquita mogol de piedra roja y cúpulas blancas.",
+  "anio": 1671,
+  "anioTxt": "1671",
+  "datos": [
+   "La mandó construir el emperador Aurangzeb.",
+   "Su patio cabe unas 100 000 personas.",
+   "Fue durante siglos la mezquita más grande del mundo."
+  ]
+ },
+ "k2": {
+  "lugar": "Karakórum, entre Pakistán y China",
+  "porque": "La segunda montaña más alta del mundo y una de las más difíciles de escalar.",
+  "elev": 8611,
+  "datos": [
+   "Mide 8611 m.",
+   "Se llama K2 porque fue el pico número 2 de una lista del Karakórum.",
+   "La llaman «la montaña salvaje» por lo difícil que es."
+  ]
+ },
+ "boudhanath": {
+  "lugar": "Katmandú, Nepal",
+  "porque": "Una estupa blanca gigante con ojos pintados que miran a los cuatro lados.",
+  "alto": 36,
+  "datos": [
+   "Es una de las estupas más grandes del mundo.",
+   "Sus ojos de Buda miran hacia los cuatro puntos cardinales.",
+   "De ella cuelgan miles de banderitas de oración de colores."
+  ]
+ },
+ "diente": {
+  "lugar": "Kandy, Sri Lanka",
+  "porque": "Un templo donde se guarda un diente de Buda.",
+  "anio": 1595,
+  "anioTxt": "siglo XVI",
+  "datos": [
+   "Guarda una reliquia que se cree es un diente de Buda.",
+   "Cada año hay un desfile con elefantes adornados.",
+   "Está junto a un lago en la ciudad de Kandy."
+  ]
+ },
+ "hegra": {
+  "lugar": "AlUla, Arabia Saudita",
+  "porque": "Tumbas talladas en rocas del desierto, hermana de Petra.",
+  "anio": -100,
+  "anioTxt": "siglo I a. C.",
+  "datos": [
+   "La construyeron los nabateos, los mismos de Petra.",
+   "Tiene más de 100 tumbas talladas en la roca.",
+   "Su tumba más famosa está tallada en una roca solitaria."
+  ]
+ },
+ "palmjumeirah": {
+  "lugar": "Dubái",
+  "porque": "Una isla artificial con forma de palmera, visible desde el espacio.",
+  "anio": 2001,
+  "anioTxt": "2001",
+  "datos": [
+   "Se hizo con millones de toneladas de arena y roca del mar.",
+   "Sus «hojas» están llenas de casas junto al agua.",
+   "Un monorriel la recorre hasta el hotel del final."
+  ]
+ },
+ "qaboos": {
+  "lugar": "Mascate, Omán",
+  "porque": "La gran mezquita de Omán, con una alfombra y una lámpara gigantes.",
+  "anio": 1995,
+  "anioTxt": "1995",
+  "datos": [
+   "Se inauguró en 2001.",
+   "Su alfombra persa la tejieron 600 mujeres durante cuatro años.",
+   "Su lámpara de cristal mide 14 m de alto."
+  ]
+ },
+ "nasirmulk": {
+  "lugar": "Shiraz, Irán",
+  "porque": "La «mezquita rosa», donde la luz de vitrales pinta el suelo de colores.",
+  "anio": 1876,
+  "anioTxt": "1876",
+  "datos": [
+   "Se construyó entre 1876 y 1888.",
+   "Por la mañana, el sol atraviesa sus vitrales y llena todo de colores.",
+   "Sus azulejos tienen muchos tonos de rosa."
+  ]
+ },
+ "azadi": {
+  "lugar": "Teherán",
+  "porque": "Una torre blanca en forma de arco, símbolo de Teherán.",
+  "anio": 1971,
+  "anioTxt": "1971",
+  "alto": 45,
+  "datos": [
+   "Se construyó en 1971.",
+   "Su nombre significa «libertad».",
+   "Está hecha con unos 8000 bloques de mármol blanco."
+  ]
+ },
+ "ur": {
+  "lugar": "Sur de Irak",
+  "porque": "Una gran pirámide escalonada de ladrillo de los antiguos sumerios.",
+  "anio": -2100,
+  "anioTxt": "hacia 2100 a. C.",
+  "datos": [
+   "Tiene más de 4000 años.",
+   "Era un templo dedicado al dios de la Luna.",
+   "Ur fue una de las primeras grandes ciudades de la historia."
+  ]
+ },
+ "baalbek": {
+  "lugar": "Valle de la Becá, Líbano",
+  "porque": "Templos romanos gigantes con algunas de las piedras más grandes jamás talladas.",
+  "anio": -15,
+  "anioTxt": "siglo I a. C.",
+  "datos": [
+   "Su templo de Baco es de los templos romanos mejor conservados.",
+   "Hay bloques de piedra de más de 800 toneladas.",
+   "Los romanos la llamaban Heliópolis, «ciudad del Sol»."
+  ]
+ },
+ "palmira": {
+  "lugar": "Desierto de Siria",
+  "porque": "Las ruinas de una ciudad de caravanas en un oasis del desierto.",
+  "anio": -100,
+  "anioTxt": "siglo I a. C.",
+  "datos": [
+   "Fue una parada clave de las caravanas entre Roma y Oriente.",
+   "Su reina más famosa fue Zenobia.",
+   "Su nombre significa «ciudad de las palmeras»."
+  ]
+ },
+ "masada": {
+  "lugar": "Desierto de Judea",
+  "porque": "Una antigua fortaleza en lo alto de una meseta junto al mar Muerto.",
+  "anio": -37,
+  "anioTxt": "siglo I a. C.",
+  "datos": [
+   "El rey Herodes construyó allí palacios.",
+   "Se sube a pie por el «camino de la serpiente» o en teleférico.",
+   "Desde arriba se ve el mar Muerto."
+  ]
+ },
+ "nemrut": {
+  "lugar": "Sureste de Turquía",
+  "porque": "Una montaña con cabezas de piedra gigantes de antiguos dioses y reyes.",
+  "anio": -62,
+  "anioTxt": "siglo I a. C.",
+  "elev": 2134,
+  "datos": [
+   "Las cabezas miden unos 2 m cada una.",
+   "Las mandó hacer el rey Antíoco I para su tumba.",
+   "Se visita al amanecer o al atardecer."
+  ]
+ },
+ "gergeti": {
+  "lugar": "Kazbegi, Georgia",
+  "porque": "Una iglesia solitaria en una colina bajo una montaña nevada.",
+  "anio": 1350,
+  "anioTxt": "siglo XIV",
+  "elev": 2170,
+  "datos": [
+   "Está a 2170 m de altura.",
+   "Detrás se levanta el monte Kazbek, de más de 5000 m.",
+   "Se llega caminando o en todoterreno."
+  ]
+ },
+ "khorvirap": {
+  "lugar": "Ararat, Armenia",
+  "porque": "Un monasterio frente al monte Ararat, la montaña del arca de Noé.",
+  "anio": 642,
+  "anioTxt": "siglo VII",
+  "datos": [
+   "Tiene una vista famosa del monte Ararat, de 5137 m.",
+   "Su nombre significa «pozo profundo».",
+   "Allí estuvo preso San Gregorio, quien llevó el cristianismo a Armenia."
+  ]
+ },
+ "bayterek": {
+  "lugar": "Astaná, Kazajistán",
+  "porque": "Una torre blanca con una esfera dorada, como un árbol que sostiene un huevo.",
+  "anio": 2002,
+  "anioTxt": "2002",
+  "alto": 105,
+  "datos": [
+   "Representa una leyenda de un árbol de la vida con el huevo de un ave mágica.",
+   "Su esfera dorada tiene un mirador.",
+   "Mide 97 m, por el año 1997, cuando Astaná se volvió capital."
+  ]
+ },
+ "darvaza": {
+  "lugar": "Desierto de Karakum, Turkmenistán",
+  "porque": "Un cráter de gas que lleva ardiendo desde hace décadas.",
+  "datos": [
+   "Lo llaman la «puerta del infierno».",
+   "Arde desde los años 70, cuando prendieron el gas que salía.",
+   "Mide unos 70 m de ancho."
+  ]
+ },
+ "geiseres": {
+  "lugar": "Kamchatka, Rusia",
+  "porque": "Un valle verde lleno de géiseres en el extremo este de Rusia.",
+  "datos": [
+   "Tiene unos 90 géiseres.",
+   "Es el segundo campo de géiseres más grande del mundo.",
+   "Solo se llega en helicóptero."
+  ]
+ },
+ "karnak": {
+  "lugar": "Lúxor, Egipto",
+  "porque": "El conjunto de templos más grande del antiguo Egipto.",
+  "anio": -1900,
+  "anioTxt": "hacia 1900 a. C.",
+  "datos": [
+   "Lo fueron ampliando unos 30 faraones durante 2000 años.",
+   "Su Gran Sala Hipóstila tiene 134 columnas gigantes.",
+   "Algunas columnas miden más de 20 m."
+  ]
+ },
+ "hassan2": {
+  "lugar": "Casablanca, Marruecos",
+  "porque": "Una enorme mezquita junto al océano, con el minarete más alto del mundo.",
+  "anio": 1986,
+  "anioTxt": "1986",
+  "alto": 210,
+  "datos": [
+   "Su minarete mide 210 m.",
+   "Parte de la mezquita está construida sobre el mar.",
+   "Su techo se puede abrir para que entre el aire."
+  ]
+ },
+ "baobabs": {
+  "lugar": "Menabe, Madagascar",
+  "porque": "Un camino de tierra bordeado de baobabs gigantes.",
+  "datos": [
+   "Algunos de sus baobabs tienen unos 800 años.",
+   "Pueden medir unos 30 m de alto.",
+   "Su tronco guarda agua para la época seca."
+  ]
+ },
+ "sossusvlei": {
+  "lugar": "Desierto de Namib, Namibia",
+  "porque": "Dunas rojas gigantes alrededor de un lago seco de arcilla blanca.",
+  "datos": [
+   "Sus dunas están entre las más altas del mundo, de más de 300 m.",
+   "El color rojo viene del hierro oxidado de la arena.",
+   "El Namib es uno de los desiertos más antiguos del mundo."
+  ]
+ },
+ "lalibela": {
+  "lugar": "Amhara, Etiopía",
+  "porque": "Una iglesia en forma de cruz tallada hacia abajo en una sola roca.",
+  "anio": 1200,
+  "anioTxt": "siglo XIII",
+  "datos": [
+   "Está excavada en la roca, como esculpida desde arriba.",
+   "Es una de las 11 iglesias talladas en roca de Lalibela.",
+   "Todavía se usa para la oración."
+  ]
+ },
+ "djenne": {
+  "lugar": "Malí",
+  "porque": "La construcción de barro más grande del mundo.",
+  "anio": 1907,
+  "anioTxt": "1907",
+  "alto": 16,
+  "datos": [
+   "Está hecha de adobe, barro secado al sol.",
+   "Cada año el pueblo entero la recubre con barro nuevo en una fiesta.",
+   "Sus palos de madera sirven de andamio para repararla."
+  ]
+ },
+ "okavango": {
+  "lugar": "Botsuana",
+  "porque": "Un río que en vez de llegar al mar se pierde en el desierto, creando un paraíso de agua.",
+  "datos": [
+   "El río Okavango forma un gran delta en medio del desierto del Kalahari.",
+   "Allí viven elefantes, hipopótamos y cocodrilos.",
+   "Se recorre en canoas llamadas mokoro."
+  ]
+ },
+ "ngorongoro": {
+  "lugar": "Tanzania",
+  "porque": "Un enorme cráter volcánico lleno de animales salvajes.",
+  "datos": [
+   "Es la mayor caldera volcánica intacta del mundo.",
+   "En su interior viven unos 25 000 animales grandes.",
+   "Es una de las pocas zonas donde viven rinocerontes negros."
+  ]
+ },
+ "eljem": {
+  "lugar": "El Djem, Túnez",
+  "porque": "Un gran anfiteatro romano en medio de un pueblo tunecino.",
+  "anio": 238,
+  "anioTxt": "siglo III",
+  "datos": [
+   "Cabían unas 35 000 personas.",
+   "Es el anfiteatro romano más grande de África.",
+   "Está muy bien conservado y se usa para conciertos."
+  ]
+ },
+ "zimbabue": {
+  "lugar": "Zimbabue",
+  "porque": "Las ruinas de piedra de una gran ciudad africana medieval.",
+  "anio": 1100,
+  "anioTxt": "siglo XI",
+  "datos": [
+   "Sus muros de piedra se hicieron sin mezcla.",
+   "El país Zimbabue tomó su nombre de estas ruinas.",
+   "El pájaro tallado que se halló allí está en la bandera del país."
+  ]
+ },
+ "buenaesperanza": {
+  "lugar": "Cerca de Ciudad del Cabo",
+  "porque": "Un cabo rocoso famoso en la punta sur de África.",
+  "datos": [
+   "El navegante Bartolomeu Dias lo vio en 1488.",
+   "Durante siglos fue una ruta clave entre Europa y Asia.",
+   "Allí viven babuinos y avestruces."
+  ]
+ },
+ "meroe": {
+  "lugar": "Sudán",
+  "porque": "Cientos de pirámides pequeñas y puntiagudas en el desierto de Sudán.",
+  "anio": -300,
+  "anioTxt": "siglo III a. C.",
+  "datos": [
+   "Sudán tiene más pirámides que Egipto.",
+   "Son más pequeñas y empinadas que las de Guiza.",
+   "Fueron tumbas de los reyes y reinas de Kush."
+  ]
+ },
+ "filae": {
+  "lugar": "Asuán, Egipto",
+  "porque": "Un templo de la diosa Isis en una isla del Nilo.",
+  "anio": -380,
+  "anioTxt": "siglo IV a. C.",
+  "datos": [
+   "Lo movieron piedra por piedra a otra isla para salvarlo de una represa.",
+   "Fue de los últimos lugares donde se adoró a los dioses egipcios.",
+   "Se llega en bote."
+  ]
+ },
+ "ciudadeladelcairo": {
+  "lugar": "El Cairo",
+  "porque": "Una fortaleza medieval sobre la ciudad, con la gran mezquita de Mehmet Alí.",
+  "anio": 1176,
+  "anioTxt": "1176",
+  "datos": [
+   "La empezó Saladino en 1176.",
+   "Su mezquita de alabastro tiene cúpulas y minaretes altísimos.",
+   "Desde allí se ve todo El Cairo."
+  ]
+ },
+ "sinai": {
+  "lugar": "Península del Sinaí, Egipto",
+  "porque": "Una montaña sagrada en el desierto, donde se dice que Moisés recibió los Diez Mandamientos.",
+  "elev": 2285,
+  "datos": [
+   "Mucha gente la sube de noche para ver el amanecer.",
+   "Al pie está el monasterio de Santa Catalina, uno de los más antiguos del mundo.",
+   "Tiene unos 3750 escalones de piedra."
+  ]
+ },
+ "aitbenhaddou": {
+  "lugar": "Uarzazat, Marruecos",
+  "porque": "Un pueblo fortificado de barro rojo en una colina.",
+  "anio": 1600,
+  "anioTxt": "siglo XVII",
+  "datos": [
+   "Está construido con barro y paja.",
+   "Era una parada de caravanas que cruzaban el Sahara.",
+   "Ha aparecido en muchas películas y series."
+  ]
+ },
+ "fez": {
+  "lugar": "Fez, Marruecos",
+  "porque": "Pozas de colores donde se tiñe el cuero como hace siglos.",
+  "datos": [
+   "Es una de las curtidurías más antiguas del mundo.",
+   "Sus pozas parecen una paleta de pintor.",
+   "Se tiñe con tintes naturales como la amapola o el índigo."
+  ]
+ },
+ "ergchebbi": {
+  "lugar": "Sahara marroquí",
+  "porque": "Grandes dunas de arena anaranjada en el Sahara de Marruecos.",
+  "datos": [
+   "Sus dunas miden hasta 150 m.",
+   "Se recorren en camello.",
+   "Al atardecer la arena se vuelve rojo intenso."
+  ]
+ },
+ "majorelle": {
+  "lugar": "Marrakech",
+  "porque": "Un jardín de plantas exóticas con una casa pintada de azul intenso.",
+  "anio": 1923,
+  "anioTxt": "1923",
+  "datos": [
+   "Lo creó el pintor Jacques Majorelle.",
+   "Su color se llama «azul Majorelle».",
+   "Tiene cactus y plantas de los cinco continentes."
+  ]
+ },
+ "sidibousaid": {
+  "lugar": "Cerca de Túnez",
+  "porque": "Un pueblo blanco y azul sobre un acantilado del Mediterráneo.",
+  "datos": [
+   "Sus casas son blancas con puertas y ventanas azules.",
+   "Desde arriba se ve el golfo de Túnez.",
+   "Es famoso por sus dulces y su té con piñones."
+  ]
+ },
+ "cartago": {
+  "lugar": "Cerca de Túnez",
+  "porque": "Las ruinas de la gran ciudad rival de Roma.",
+  "anio": -814,
+  "anioTxt": "siglo IX a. C.",
+  "datos": [
+   "La fundaron los fenicios hace casi 3000 años.",
+   "Su general Aníbal cruzó los Alpes con elefantes.",
+   "Roma la destruyó en el año 146 a. C."
+  ]
+ },
+ "leptis": {
+  "lugar": "Cerca de Trípoli, Libia",
+  "porque": "Una de las ciudades romanas mejor conservadas del mundo, junto al mar.",
+  "anio": -700,
+  "anioTxt": "siglo VII a. C.",
+  "datos": [
+   "Fue la ciudad del emperador Septimio Severo.",
+   "Tiene un teatro, mercados y un gran arco.",
+   "La arena del desierto la protegió durante siglos."
+  ]
+ },
+ "tassili": {
+  "lugar": "Sureste de Argelia",
+  "porque": "Una meseta del Sahara con bosques de roca y pinturas rupestres antiguas.",
+  "datos": [
+   "Tiene más de 15 000 pinturas y grabados en roca.",
+   "Muestran que el Sahara fue verde, con jirafas y elefantes.",
+   "Sus rocas forman como ciudades de piedra."
+  ]
+ },
+ "simien": {
+  "lugar": "Norte de Etiopía",
+  "porque": "Montañas de picos y precipicios donde viven babuinos únicos.",
+  "elev": 4550,
+  "datos": [
+   "Allí viven los geladas, monos que comen hierba.",
+   "Su pico más alto, el Ras Dashen, mide unos 4550 m.",
+   "Sus precipicios caen más de 1000 m."
+  ]
+ },
+ "dallol": {
+  "lugar": "Depresión de Danakil, Etiopía",
+  "porque": "Un paisaje de colores imposibles: amarillo, verde y naranja, sobre un volcán.",
+  "elev": -48,
+  "datos": [
+   "Está por debajo del nivel del mar.",
+   "Sus colores vienen de sales, azufre y hierro.",
+   "Es uno de los lugares más calurosos de la Tierra."
+  ]
+ },
+ "nakuru": {
+  "lugar": "Valle del Rift, Kenia",
+  "porque": "Un lago donde a veces se juntan miles de flamencos rosados.",
+  "elev": 1754,
+  "datos": [
+   "Sus orillas se vuelven rosadas por los flamencos.",
+   "En su parque viven rinocerontes blancos y negros.",
+   "Es un lago salado."
+  ]
+ },
+ "stonetown": {
+  "lugar": "Zanzíbar, Tanzania",
+  "porque": "Un laberinto de calles con puertas de madera talladas, en una isla de especias.",
+  "datos": [
+   "Es famosa por sus puertas de madera talladas.",
+   "Zanzíbar es conocida como la «isla de las especias».",
+   "Mezcla culturas africana, árabe, india y europea."
+  ]
+ },
+ "bwindi": {
+  "lugar": "Suroeste de Uganda",
+  "porque": "Una selva espesa donde vive casi la mitad de los gorilas de montaña.",
+  "datos": [
+   "Allí vive casi la mitad de los gorilas de montaña del mundo.",
+   "Su nombre significa «impenetrable» por lo espesa que es.",
+   "Se visitan los gorilas en grupos pequeños con guías."
+  ]
+ },
+ "nyiragongo": {
+  "lugar": "Congo",
+  "porque": "Un volcán con un lago de lava hirviendo en su cráter.",
+  "elev": 3470,
+  "datos": [
+   "Tiene uno de los lagos de lava más grandes del mundo.",
+   "Su lava es muy líquida y corre muy rápido.",
+   "Se puede subir y dormir en el borde del cráter."
+  ]
+ },
+ "blyde": {
+  "lugar": "Mpumalanga, Sudáfrica",
+  "porque": "Uno de los cañones más grandes del mundo, verde y lleno de árboles.",
+  "datos": [
+   "Es de los cañones más verdes del mundo.",
+   "Tiene tres colinas redondas llamadas los Tres Rondavels.",
+   "Sus paredes caen unos 750 m."
+  ]
+ },
+ "boulders": {
+  "lugar": "Ciudad del Cabo",
+  "porque": "Una playa entre rocas gigantes donde viven pingüinos africanos.",
+  "datos": [
+   "Allí vive una colonia de unos 3000 pingüinos africanos.",
+   "Los pingüinos llegaron en 1982 y se quedaron.",
+   "Las rocas de granito tienen unos 540 millones de años."
+  ]
+ },
+ "robben": {
+  "lugar": "Bahía de la Mesa, Sudáfrica",
+  "porque": "Una isla que fue prisión, donde estuvo Nelson Mandela.",
+  "datos": [
+   "Nelson Mandela estuvo preso allí 18 años.",
+   "Hoy es un museo y un símbolo de libertad.",
+   "Su nombre significa «isla de las focas»."
+  ]
+ },
+ "deadvlei": {
+  "lugar": "Desierto de Namib, Namibia",
+  "porque": "Árboles muertos negros sobre arcilla blanca y dunas rojas.",
+  "datos": [
+   "Sus árboles murieron hace unos 900 años, pero no se pudren por la sequía.",
+   "Lo rodean algunas de las dunas más altas del mundo.",
+   "Parece una pintura por sus colores tan fuertes."
+  ]
+ },
+ "fishriver": {
+  "lugar": "Sur de Namibia",
+  "porque": "El cañón más grande de África.",
+  "datos": [
+   "Mide unos 160 km de largo.",
+   "Llega a 550 m de profundidad.",
+   "Se recorre a pie en una caminata de cinco días."
+  ]
+ },
+ "tsingy": {
+  "lugar": "Madagascar",
+  "porque": "Un bosque de agujas de piedra afiladas como cuchillos.",
+  "datos": [
+   "Tsingy significa «donde no se puede caminar descalzo».",
+   "Se recorre por puentes colgantes entre las agujas.",
+   "Allí viven lémures que saltan entre las rocas."
+  ]
+ },
+ "ansesource": {
+  "lugar": "Isla La Digue, Seychelles",
+  "porque": "Una playa de agua turquesa con rocas de granito gigantes y redondeadas.",
+  "datos": [
+   "Sus rocas de granito tienen formas redondas y vetas rosadas.",
+   "Es una de las playas más fotografiadas del mundo.",
+   "En la isla la gente se mueve en bicicleta."
+  ]
+ },
+ "lemorne": {
+  "lugar": "Mauricio",
+  "porque": "Una montaña junto al mar, frente a un arrecife que parece una cascada bajo el agua.",
+  "elev": 556,
+  "datos": [
+   "Desde el aire, el arrecife parece una cascada submarina.",
+   "Fue refugio de esclavos que escapaban.",
+   "Es Patrimonio de la Humanidad."
+  ]
+ },
+ "lagorosa": {
+  "lugar": "Cerca de Dakar, Senegal",
+  "porque": "Un lago de agua rosada por unas algas especiales.",
+  "datos": [
+   "Su color rosa viene de un alga que vive en agua muy salada.",
+   "Es tan salado que se flota como en el mar Muerto.",
+   "La gente saca sal a mano de su fondo."
+  ]
+ },
+ "goree": {
+  "lugar": "Frente a Dakar, Senegal",
+  "porque": "Una islita de casas coloridas, hoy lugar de memoria de la trata de esclavos.",
+  "datos": [
+   "Su Casa de los Esclavos es un museo de memoria.",
+   "No tiene carros: se camina por calles de arena.",
+   "Es Patrimonio de la Humanidad."
+  ]
+ },
+ "timbuktu": {
+  "lugar": "Tombuctú, Malí",
+  "porque": "Una antigua mezquita de barro en la legendaria ciudad del desierto.",
+  "anio": 1327,
+  "anioTxt": "1327",
+  "alto": 16,
+  "datos": [
+   "Se construyó en 1327.",
+   "Tombuctú fue un gran centro de libros y sabios.",
+   "Se repara con barro cada año."
+  ]
+ },
+ "zuma": {
+  "lugar": "Cerca de Abuya, Nigeria",
+  "porque": "Una enorme roca que parece tener una cara.",
+  "elev": 725,
+  "datos": [
+   "Se eleva unos 300 m sobre la llanura.",
+   "Algunos ven en ella una cara humana.",
+   "Aparece en el billete nigeriano de 100 nairas."
+  ]
+ },
+ "capecoast": {
+  "lugar": "Ghana",
+  "porque": "Un castillo blanco junto al mar, recuerdo de la trata de esclavos.",
+  "anio": 1653,
+  "anioTxt": "1653",
+  "datos": [
+   "Se empezó en 1653.",
+   "Su «puerta sin retorno» recuerda a los africanos llevados a América.",
+   "Hoy es un museo de memoria."
+  ]
+ },
+ "assal": {
+  "lugar": "Yibuti",
+  "porque": "El lago más salado fuera de la Antártida y el punto más bajo de África.",
+  "elev": -155,
+  "datos": [
+   "Está a unos 155 m bajo el nivel del mar.",
+   "Es uno de los lagos más salados del mundo.",
+   "Sus orillas están cubiertas de sal blanca."
+  ]
+ },
+ "spaceneedle": {
+  "lugar": "Seattle, Estados Unidos",
+  "porque": "Una torre con forma de platillo volador, símbolo de Seattle.",
+  "anio": 1962,
+  "anioTxt": "1962",
+  "alto": 184,
+  "datos": [
+   "Se construyó para la Feria Mundial de 1962.",
+   "Su ascensor sube a la cima en unos 41 segundos.",
+   "Arriba tiene un piso de vidrio que gira."
+  ]
+ },
+ "horseshoe": {
+  "lugar": "Page, Arizona, Estados Unidos",
+  "porque": "Una curva del río Colorado con forma perfecta de herradura.",
+  "datos": [
+   "Desde el mirador, el río está unos 300 m más abajo.",
+   "Es el mismo río que formó el Gran Cañón.",
+   "No tiene barandas en la mayor parte del borde."
+  ]
+ },
+ "halfdome": {
+  "lugar": "Yosemite, California",
+  "porque": "Una montaña de granito que parece una cúpula cortada por la mitad.",
+  "elev": 2693,
+  "datos": [
+   "Se alza unos 1400 m sobre el valle de Yosemite.",
+   "Los últimos metros se suben agarrados de cables.",
+   "Aparece en la moneda de 25 centavos de California."
+  ]
+ },
+ "gatewayarch": {
+  "lugar": "San Luis, Misuri, Estados Unidos",
+  "porque": "El arco más alto del mundo, de acero brillante.",
+  "anio": 1965,
+  "anioTxt": "1965",
+  "alto": 192,
+  "datos": [
+   "Mide lo mismo de alto que de ancho: 192 m.",
+   "Por dentro, unas cabinas pequeñas suben hasta la cima.",
+   "Recuerda a los pioneros que viajaron hacia el oeste."
+  ]
+ },
+ "moraine": {
+  "lugar": "Parque Nacional Banff, Canadá",
+  "porque": "Un lago turquesa al pie de diez picos nevados.",
+  "elev": 1884,
+  "datos": [
+   "Su color viene de un polvo de roca fino que traen los glaciares.",
+   "Sale en el antiguo billete canadiense de 20 dólares.",
+   "Solo se descongela a partir de junio."
+  ]
+ },
+ "frontenac": {
+  "lugar": "Quebec, Canadá",
+  "porque": "Un hotel con forma de castillo sobre el río San Lorenzo.",
+  "anio": 1893,
+  "anioTxt": "1893",
+  "datos": [
+   "Dicen que es el hotel más fotografiado del mundo.",
+   "Lo construyó una compañía de trenes.",
+   "En 1943 se reunieron allí Churchill y Roosevelt."
+  ]
+ },
+ "palenque": {
+  "lugar": "Chiapas, México",
+  "porque": "Una ciudad maya escondida en la selva, con templos de piedra.",
+  "anio": 615,
+  "anioTxt": "siglo VII",
+  "datos": [
+   "Su rey más famoso fue Pakal, que gobernó casi 70 años.",
+   "Su tumba se descubrió en 1952 dentro de una pirámide.",
+   "Hoy solo se ha descubierto una pequeña parte de la ciudad."
+  ]
+ },
+ "arenal": {
+  "lugar": "Alajuela, Costa Rica",
+  "porque": "Un volcán con forma de cono casi perfecto.",
+  "elev": 1670,
+  "datos": [
+   "Despertó en 1968 tras siglos dormido.",
+   "Estuvo muy activo hasta 2010.",
+   "A su alrededor hay ríos de aguas termales."
+  ]
+ },
+ "habana": {
+  "lugar": "La Habana, Cuba",
+  "porque": "El centro antiguo de La Habana, con plazas coloniales y carros clásicos.",
+  "anio": 1519,
+  "anioTxt": "1519",
+  "datos": [
+   "La Habana se fundó en este lugar en 1519.",
+   "Por sus calles circulan carros de los años 50.",
+   "Es Patrimonio de la Humanidad desde 1982."
+  ]
+ },
+ "agujeroazul": {
+  "lugar": "Frente a la costa de Belice",
+  "porque": "Un enorme círculo azul oscuro en medio de un arrecife.",
+  "datos": [
+   "Mide unos 300 m de ancho y 125 m de profundidad.",
+   "Fue una cueva seca en la Edad de Hielo; luego se inundó.",
+   "El explorador Jacques Cousteau lo hizo famoso."
+  ]
+ },
+ "washington": {
+  "lugar": "Washington D. C., Estados Unidos",
+  "porque": "Un obelisco blanco en honor al primer presidente de Estados Unidos.",
+  "anio": 1848,
+  "anioTxt": "1848",
+  "alto": 169,
+  "datos": [
+   "Se nota un cambio de color en la piedra porque la obra se detuvo años.",
+   "Fue la estructura más alta del mundo hasta la Torre Eiffel.",
+   "Se terminó en 1884."
+  ]
+ },
+ "hoover": {
+  "lugar": "Entre Arizona y Nevada, Estados Unidos",
+  "porque": "Una gigantesca presa de concreto en el río Colorado.",
+  "anio": 1931,
+  "anioTxt": "1931",
+  "alto": 221,
+  "datos": [
+   "Con su concreto se podría hacer una carretera de costa a costa de EE. UU.",
+   "Formó el lago Mead, uno de los embalses más grandes del país.",
+   "Su construcción tardó unos 5 años."
+  ]
+ },
+ "delicatearch": {
+  "lugar": "Parque Nacional Arches, Utah",
+  "porque": "Un arco de roca roja que se sostiene solo en el desierto.",
+  "alto": 16,
+  "datos": [
+   "Aparece en las placas de los carros de Utah.",
+   "El parque tiene más de 2000 arcos de roca natural.",
+   "Lo formaron el viento, el agua y el hielo."
+  ]
+ },
+ "bryce": {
+  "lugar": "Utah, Estados Unidos",
+  "porque": "Un anfiteatro lleno de torres de roca anaranjada.",
+  "datos": [
+   "Sus torres de roca se llaman hoodoos.",
+   "Tiene la mayor cantidad de hoodoos del mundo.",
+   "Su cielo es tan oscuro que se ven miles de estrellas."
+  ]
+ },
+ "mesaverde": {
+  "lugar": "Mesa Verde, Colorado",
+  "porque": "Una aldea de piedra construida bajo un acantilado.",
+  "anio": 1190,
+  "anioTxt": "hacia 1190",
+  "datos": [
+   "La hicieron los antiguos pueblos indígenas de la zona.",
+   "Tiene unas 150 habitaciones.",
+   "Fue uno de los primeros sitios Patrimonio de la Humanidad."
+  ]
+ },
+ "zion": {
+  "lugar": "Utah, Estados Unidos",
+  "porque": "Un cañón de paredes rojas y altísimas con un río en el fondo.",
+  "anio": 1919,
+  "anioTxt": "parque desde 1919",
+  "datos": [
+   "Una de sus caminatas va por dentro del río.",
+   "Sus paredes de roca miden hasta 600 m.",
+   "Lo excavó el río Virgen durante millones de años."
+  ]
+ },
+ "cratera": {
+  "lugar": "Oregón, Estados Unidos",
+  "porque": "Un lago azul intenso dentro de un volcán derrumbado.",
+  "elev": 1883,
+  "datos": [
+   "Es el lago más profundo de Estados Unidos, de unos 594 m.",
+   "Se formó hace unos 7700 años cuando un volcán se hundió.",
+   "Ningún río llega a él: solo lo llenan la lluvia y la nieve."
+  ]
+ },
+ "rainier": {
+  "lugar": "Washington, Estados Unidos",
+  "porque": "Un volcán nevado gigante que se ve desde Seattle.",
+  "elev": 4392,
+  "datos": [
+   "Es un volcán activo.",
+   "Tiene más glaciares que cualquier otra montaña de EE. UU. continental.",
+   "En verano sus prados se llenan de flores."
+  ]
+ },
+ "grandteton": {
+  "lugar": "Wyoming, Estados Unidos",
+  "porque": "Picos afilados que se levantan de golpe sobre lagos y praderas.",
+  "elev": 4199,
+  "datos": [
+   "Son de las montañas más jóvenes de las Rocosas.",
+   "No tienen colinas al pie: se alzan de repente.",
+   "Allí viven alces, bisontes y osos."
+  ]
+ },
+ "everglades": {
+  "lugar": "Florida, Estados Unidos",
+  "porque": "Un enorme pantano tropical lleno de vida.",
+  "anio": 1947,
+  "anioTxt": "parque desde 1947",
+  "datos": [
+   "Lo llaman «el río de hierba».",
+   "Es el único lugar donde viven juntos caimanes y cocodrilos.",
+   "Se recorre en lanchas con un ventilador gigante."
+  ]
+ },
+ "denali": {
+  "lugar": "Alaska, Estados Unidos",
+  "porque": "La montaña más alta de América del Norte.",
+  "elev": 6190,
+  "datos": [
+   "Su nombre significa «el alto» en una lengua indígena.",
+   "Desde su base hasta la cima sube más que el Everest.",
+   "Hace tanto frío que su cumbre tiene nieve todo el año."
+  ]
+ },
+ "kilauea": {
+  "lugar": "Isla de Hawái, Estados Unidos",
+  "porque": "Uno de los volcanes más activos de la Tierra.",
+  "elev": 1247,
+  "datos": [
+   "Estuvo en erupción casi sin parar de 1983 a 2018.",
+   "Según la leyenda hawaiana, allí vive la diosa Pele.",
+   "Su lava ha hecho crecer la isla."
+  ]
+ },
+ "diamondhead": {
+  "lugar": "Honolulu, Hawái",
+  "porque": "Un viejo cráter volcánico junto a la playa de Waikiki.",
+  "elev": 232,
+  "datos": [
+   "Unos marineros creyeron que sus cristales eran diamantes.",
+   "Su nombre hawaiano es Lēʻahi.",
+   "Un sendero con túneles sube hasta el borde del cráter."
+  ]
+ },
+ "napali": {
+  "lugar": "Kauai, Hawái",
+  "porque": "Acantilados verdes y arrugados que caen al mar.",
+  "datos": [
+   "Sus acantilados llegan a unos 1200 m de alto.",
+   "No hay carreteras: se llega a pie, en barco o en helicóptero.",
+   "Ha salido en muchas películas de aventuras."
+  ]
+ },
+ "lakelouise": {
+  "lugar": "Parque Nacional Banff, Canadá",
+  "porque": "Un lago verde esmeralda frente a un glaciar.",
+  "elev": 1731,
+  "datos": [
+   "Su nombre viene de una hija de la reina Victoria.",
+   "En invierno se congela y se patina sobre él.",
+   "Lo alimenta el glaciar Victoria."
+  ]
+ },
+ "parlamentocanada": {
+  "lugar": "Ottawa, Canadá",
+  "porque": "Los edificios del Parlamento de Canadá, con su Torre de la Paz.",
+  "anio": 1859,
+  "anioTxt": "1859",
+  "datos": [
+   "Su edificio central se quemó en 1916 y se reconstruyó.",
+   "Frente a él arde una llama eterna desde 1967.",
+   "Su Torre de la Paz mide unos 92 m."
+  ]
+ },
+ "notredamemontreal": {
+  "lugar": "Montreal, Canadá",
+  "porque": "Una basílica con un interior azul lleno de estrellas doradas.",
+  "anio": 1824,
+  "anioTxt": "1824",
+  "datos": [
+   "Su techo azul está decorado con estrellas doradas.",
+   "Su órgano tiene unos 7000 tubos.",
+   "Allí se casó la cantante Céline Dion."
+  ]
+ },
+ "hopewell": {
+  "lugar": "Bahía de Fundy, Canadá",
+  "porque": "Rocas con forma de maceta que el mar esculpe con sus mareas.",
+  "datos": [
+   "La bahía de Fundy tiene las mareas más altas del mundo.",
+   "Con marea baja se camina por el fondo del mar.",
+   "Con marea alta se pasa entre las rocas en kayak."
+  ]
+ },
+ "peggyscove": {
+  "lugar": "Nueva Escocia, Canadá",
+  "porque": "Un pueblito de pescadores con un faro sobre rocas de granito.",
+  "anio": 1915,
+  "anioTxt": "faro de 1915",
+  "datos": [
+   "Su faro es de los más fotografiados de Canadá.",
+   "Las rocas fueron pulidas por glaciares.",
+   "En el pueblo viven muy pocas personas."
+  ]
+ },
+ "ilulissat": {
+  "lugar": "Groenlandia",
+  "porque": "Un fiordo lleno de icebergs gigantes que salen de un glaciar.",
+  "datos": [
+   "Ilulissat significa «icebergs» en groenlandés.",
+   "Su glaciar es de los más rápidos del mundo: avanza decenas de metros al día.",
+   "Se cree que de allí salió el iceberg que hundió el Titanic."
+  ]
+ },
+ "bellasartes": {
+  "lugar": "Ciudad de México",
+  "porque": "Un palacio de mármol blanco con cúpulas doradas y anaranjadas.",
+  "anio": 1934,
+  "anioTxt": "1934",
+  "datos": [
+   "Tardaron 30 años en terminarlo.",
+   "Por dentro tiene murales de Diego Rivera.",
+   "Su telón de cristal muestra dos volcanes."
+  ]
+ },
+ "ikkil": {
+  "lugar": "Yucatán, México",
+  "porque": "Un pozo natural de agua azul rodeado de lianas.",
+  "datos": [
+   "Los cenotes eran sagrados para los mayas.",
+   "Se baja por una escalera tallada en la roca hasta el agua.",
+   "Está muy cerca de Chichén Itzá."
+  ]
+ },
+ "hierveagua": {
+  "lugar": "Oaxaca, México",
+  "porque": "Cascadas que parecen de agua, pero son de piedra.",
+  "datos": [
+   "Son cascadas petrificadas de minerales.",
+   "Tiene pozas naturales al borde del precipicio.",
+   "El agua no hierve: burbujea al salir de la tierra."
+  ]
+ },
+ "montealban": {
+  "lugar": "Oaxaca, México",
+  "porque": "La antigua capital zapoteca, en la cima aplanada de una montaña.",
+  "anio": -500,
+  "anioTxt": "hacia 500 a. C.",
+  "datos": [
+   "Fue una de las primeras ciudades de Mesoamérica.",
+   "Aplanaron la cima de la montaña para construirla.",
+   "Tiene piedras talladas llamadas «los danzantes»."
+  ]
+ },
+ "cobre": {
+  "lugar": "Chihuahua, México",
+  "porque": "Un sistema de siete barrancas más grande que el Gran Cañón.",
+  "datos": [
+   "Algunas barrancas son más profundas que el Gran Cañón.",
+   "Un tren llamado El Chepe las cruza por puentes y túneles.",
+   "Allí vive el pueblo rarámuri, famoso por correr largas distancias."
+  ]
+ },
+ "guanajuato": {
+  "lugar": "Guanajuato, México",
+  "porque": "Una ciudad de casas de colores entre colinas y túneles.",
+  "anio": 1546,
+  "anioTxt": "1546",
+  "elev": 2045,
+  "datos": [
+   "Muchas de sus calles van por túneles bajo tierra.",
+   "Su Callejón del Beso es tan estrecho que se tocan los balcones.",
+   "Allí nació el pintor Diego Rivera."
+  ]
+ },
+ "uxmal": {
+  "lugar": "Yucatán, México",
+  "porque": "Una ciudad maya con una pirámide de esquinas redondeadas.",
+  "anio": 700,
+  "anioTxt": "siglo VII",
+  "alto": 35,
+  "datos": [
+   "Su Pirámide del Adivino tiene la base ovalada.",
+   "Según la leyenda, un enano mágico la construyó en una noche.",
+   "Sus edificios tienen mosaicos de piedra con caras del dios Chaac."
+  ]
+ },
+ "guadalupe": {
+  "lugar": "Ciudad de México",
+  "porque": "Uno de los santuarios católicos más visitados del mundo.",
+  "anio": 1976,
+  "anioTxt": "1976",
+  "datos": [
+   "Cada 12 de diciembre llegan millones de peregrinos.",
+   "La basílica nueva es redonda.",
+   "Al lado está la basílica antigua, que se ha ido inclinando."
+  ]
+ },
+ "arcocabo": {
+  "lugar": "Cabo San Lucas, México",
+  "porque": "Un arco de roca en la punta de la península de Baja California.",
+  "datos": [
+   "Allí se encuentran el océano Pacífico y el mar de Cortés.",
+   "Sobre sus rocas descansan lobos marinos.",
+   "Hay quien dice que parece un dinosaurio bebiendo agua."
+  ]
+ },
+ "copan": {
+  "lugar": "Copán, Honduras",
+  "porque": "Una ciudad maya famosa por sus esculturas y escalinata de jeroglíficos.",
+  "anio": 426,
+  "anioTxt": "426",
+  "datos": [
+   "Su escalinata tiene el texto maya más largo que se conoce.",
+   "Sus estelas tienen figuras talladas con mucho detalle.",
+   "Por las ruinas vuelan guacamayas rojas."
+  ]
+ },
+ "atitlan": {
+  "lugar": "Sololá, Guatemala",
+  "porque": "Un lago rodeado de tres volcanes y pueblos mayas.",
+  "elev": 1562,
+  "datos": [
+   "Es el lago más profundo de Centroamérica: unos 340 m.",
+   "Se formó en el cráter de un supervolcán.",
+   "Entre sus pueblos se viaja en lancha."
+  ]
+ },
+ "antigua": {
+  "lugar": "Sacatepéquez, Guatemala",
+  "porque": "Una ciudad colonial de calles empedradas a los pies de volcanes.",
+  "anio": 1543,
+  "anioTxt": "1543",
+  "elev": 1530,
+  "datos": [
+   "Fue capital de Guatemala hasta los terremotos de 1773.",
+   "Su arco amarillo de Santa Catalina tiene un reloj.",
+   "La rodean tres volcanes."
+  ]
+ },
+ "semuc": {
+  "lugar": "Alta Verapaz, Guatemala",
+  "porque": "Pozas turquesa escalonadas sobre un puente de piedra natural.",
+  "datos": [
+   "Su nombre significa «donde el río se esconde bajo las piedras».",
+   "El río pasa por debajo de las pozas.",
+   "Está en medio de la selva."
+  ]
+ },
+ "masaya": {
+  "lugar": "Masaya, Nicaragua",
+  "porque": "Un volcán donde a veces se ve un lago de lava al asomarse al cráter.",
+  "elev": 635,
+  "datos": [
+   "Los españoles lo llamaron «la boca del infierno».",
+   "Pusieron una cruz en su borde hace casi 500 años.",
+   "Es el primer parque nacional de Nicaragua."
+  ]
+ },
+ "manuelantonio": {
+  "lugar": "Puntarenas, Costa Rica",
+  "porque": "Un parque pequeño donde la selva llega hasta la playa.",
+  "anio": 1972,
+  "anioTxt": "parque desde 1972",
+  "datos": [
+   "Allí viven perezosos, monos y mapaches.",
+   "Es uno de los parques más visitados de Costa Rica.",
+   "Sus playas están rodeadas de selva."
+  ]
+ },
+ "elmorro": {
+  "lugar": "San Juan, Puerto Rico",
+  "porque": "Una fortaleza española que vigila la entrada a la bahía de San Juan.",
+  "anio": 1539,
+  "anioTxt": "1539",
+  "datos": [
+   "Tiene seis niveles de altura.",
+   "Sus muros miden hasta 5 m de grueso.",
+   "En su gran prado las familias elevan cometas."
+  ]
+ },
+ "pitones": {
+  "lugar": "Santa Lucía",
+  "porque": "Dos montañas puntiagudas que salen del mar Caribe.",
+  "elev": 786,
+  "datos": [
+   "Son volcanes antiguos.",
+   "Aparecen en la bandera de Santa Lucía como triángulos.",
+   "Son Patrimonio de la Humanidad."
+  ]
+ },
+ "vinales": {
+  "lugar": "Pinar del Río, Cuba",
+  "porque": "Un valle verde con montañas redondeadas llamadas mogotes.",
+  "datos": [
+   "Sus mogotes son montañas de roca caliza con forma de pan.",
+   "Allí se cultiva tabaco con métodos tradicionales.",
+   "Tiene cuevas con ríos subterráneos."
+  ]
+ },
+ "capitoliohabana": {
+  "lugar": "La Habana, Cuba",
+  "porque": "Un gran edificio con cúpula, inspirado en los capitolios clásicos.",
+  "anio": 1929,
+  "anioTxt": "1929",
+  "alto": 92,
+  "datos": [
+   "Por dentro hay una estatua gigante de casi 15 m.",
+   "En su piso está el kilómetro cero de las carreteras de Cuba.",
+   "Hoy es la sede de la Asamblea Nacional."
+  ]
+ },
+ "dunnsriver": {
+  "lugar": "Ocho Ríos, Jamaica",
+  "porque": "Una cascada en escalones que termina en la playa del Caribe.",
+  "alto": 55,
+  "datos": [
+   "Los visitantes la suben agarrados de la mano en cadena.",
+   "El agua cae directamente al mar.",
+   "Salió en una película de James Bond."
+  ]
+ },
+ "santodomingo": {
+  "lugar": "Santo Domingo, República Dominicana",
+  "porque": "La ciudad europea más antigua de América.",
+  "anio": 1502,
+  "anioTxt": "1502",
+  "datos": [
+   "Tiene la primera catedral de América.",
+   "Allí vivió el hijo de Cristóbal Colón.",
+   "Sus calles de piedra son Patrimonio de la Humanidad."
+  ]
+ },
+ "citadelle": {
+  "lugar": "Norte de Haití",
+  "porque": "La fortaleza más grande de América, en la cima de una montaña.",
+  "anio": 1805,
+  "anioTxt": "1805",
+  "elev": 910,
+  "datos": [
+   "Se construyó tras la independencia de Haití para defenderse.",
+   "Tiene cientos de cañones.",
+   "Su forma recuerda la proa de un barco."
+  ]
+ },
+ "vinicunca": {
+  "lugar": "Cusco, Perú",
+  "porque": "Una montaña con franjas de colores, como un arcoíris de roca.",
+  "elev": 5036,
+  "datos": [
+   "Sus colores vienen de distintos minerales de la roca.",
+   "Hasta hace pocos años estaba cubierta de nieve.",
+   "Se sube caminando a más de 5000 m de altura."
+  ]
+ },
+ "lencois": {
+  "lugar": "Maranhão, Brasil",
+  "porque": "Dunas blancas con lagunas azules de lluvia entre ellas.",
+  "anio": 1981,
+  "anioTxt": "parque desde 1981",
+  "datos": [
+   "Su nombre significa «sábanas» en portugués.",
+   "Las lagunas se llenan con las lluvias de la primera mitad del año.",
+   "Aunque parece un desierto, llueve mucho."
+  ]
+ },
+ "valleluna": {
+  "lugar": "San Pedro de Atacama, Chile",
+  "porque": "Un paisaje de roca y sal que parece la superficie de la Luna.",
+  "datos": [
+   "Está en el desierto de Atacama, uno de los más secos del mundo.",
+   "Sus rocas están cubiertas de cristales de sal.",
+   "Al atardecer las montañas cambian de color."
+  ]
+ },
+ "fitzroy": {
+  "lugar": "Patagonia, entre Argentina y Chile",
+  "porque": "Una montaña de granito afilada, casi siempre rodeada de nubes.",
+  "elev": 3405,
+  "datos": [
+   "Los tehuelches lo llamaban Chaltén, «montaña que humea».",
+   "Es de las montañas más difíciles de escalar del mundo.",
+   "Lo rodean glaciares y lagunas turquesa."
+  ]
+ },
+ "obelisco": {
+  "lugar": "Buenos Aires, Argentina",
+  "porque": "El símbolo de Buenos Aires, en medio de una avenida enorme.",
+  "anio": 1936,
+  "anioTxt": "1936",
+  "alto": 67,
+  "datos": [
+   "Se construyó en solo 31 días.",
+   "Está en la avenida 9 de Julio, una de las más anchas del mundo.",
+   "Celebra los 400 años de la primera fundación de la ciudad."
+  ]
+ },
+ "cotopaxi": {
+  "lugar": "Cotopaxi, Ecuador",
+  "porque": "Un volcán nevado con forma de cono casi perfecto.",
+  "elev": 5897,
+  "datos": [
+   "Es uno de los volcanes activos más altos del mundo.",
+   "En días despejados se ve desde Quito.",
+   "Su cima está cubierta por un glaciar."
+  ]
+ },
+ "canocristales": {
+  "lugar": "Meta, Colombia",
+  "porque": "«El río de los cinco colores»: rojo, amarillo, verde, azul y negro.",
+  "datos": [
+   "Su color rojo viene de una planta acuática.",
+   "Los colores se ven mejor entre junio y noviembre.",
+   "Está en la Sierra de La Macarena."
+  ]
+ },
+ "laslajas": {
+  "lugar": "Ipiales, Nariño, Colombia",
+  "porque": "Una iglesia con forma de castillo construida sobre un cañón.",
+  "anio": 1916,
+  "anioTxt": "1916",
+  "datos": [
+   "Se apoya en un puente sobre el río Guáitara.",
+   "La imagen de la Virgen está pintada en la roca.",
+   "Tardaron más de 30 años en construirla."
+  ]
+ },
+ "ciudadperdida": {
+  "lugar": "Sierra Nevada de Santa Marta, Colombia",
+  "porque": "Una antigua ciudad tayrona de terrazas en medio de la selva.",
+  "anio": 800,
+  "anioTxt": "hacia el año 800",
+  "elev": 975,
+  "datos": [
+   "Es unos 650 años más antigua que Machu Picchu.",
+   "Se llega tras varios días de caminata y unos 1200 escalones.",
+   "Sus terrazas redondas sostenían casas de madera."
+  ]
+ },
+ "cocora": {
+  "lugar": "Salento, Quindío, Colombia",
+  "porque": "Un valle verde con las palmas más altas del mundo.",
+  "elev": 2366,
+  "datos": [
+   "Sus palmas de cera pueden medir más de 50 m.",
+   "La palma de cera es el árbol nacional de Colombia.",
+   "Entre la neblina las palmas parecen flotar."
+  ]
+ },
+ "kaieteur": {
+  "lugar": "Guyana",
+  "porque": "Una catarata enorme en medio de la selva.",
+  "alto": 226,
+  "datos": [
+   "Tiene una sola caída de 226 m.",
+   "Es unas cuatro veces más alta que las cataratas del Niágara.",
+   "A su alrededor viven ranas doradas diminutas."
+  ]
+ },
+ "sacsayhuaman": {
+  "lugar": "Cusco, Perú",
+  "porque": "Murallas incas de piedras gigantes que encajan sin mezcla.",
+  "anio": 1440,
+  "anioTxt": "siglo XV",
+  "datos": [
+   "Algunas piedras pesan más de 100 toneladas.",
+   "Sus muros forman zigzags.",
+   "Cada 24 de junio se celebra allí la fiesta del Sol, el Inti Raymi."
+  ]
+ },
+ "huacachina": {
+  "lugar": "Ica, Perú",
+  "porque": "Un oasis con palmeras rodeado de dunas gigantes.",
+  "elev": 403,
+  "datos": [
+   "Se baja por las dunas en tabla, como en la nieve.",
+   "Una leyenda dice que en su laguna vive una sirena.",
+   "Es un pueblito construido alrededor de la laguna."
+  ]
+ },
+ "colca": {
+  "lugar": "Arequipa, Perú",
+  "porque": "Uno de los cañones más profundos del mundo, donde vuelan cóndores.",
+  "datos": [
+   "Tiene unos 3400 m de profundidad.",
+   "Es más del doble de profundo que el Gran Cañón.",
+   "Desde la Cruz del Cóndor se ven cóndores planeando."
+  ]
+ },
+ "cusco": {
+  "lugar": "Cusco, Perú",
+  "porque": "La plaza principal de la antigua capital del Imperio inca.",
+  "elev": 3400,
+  "datos": [
+   "Cusco fue la capital del Imperio inca.",
+   "Los incas la llamaban Huacaypata.",
+   "La rodean una catedral y la iglesia de la Compañía."
+  ]
+ },
+ "kuelap": {
+  "lugar": "Amazonas, Perú",
+  "porque": "Una fortaleza de piedra en la cima de una montaña, de los «guerreros de las nubes».",
+  "anio": 500,
+  "anioTxt": "siglo VI",
+  "datos": [
+   "La construyeron los chachapoyas.",
+   "Sus murallas llegan a unos 20 m de alto.",
+   "Tenía cientos de casas redondas."
+  ]
+ },
+ "uros": {
+  "lugar": "Lago Titicaca, Perú",
+  "porque": "Islas flotantes hechas a mano con juncos de totora.",
+  "elev": 3810,
+  "datos": [
+   "Las islas se renuevan añadiendo totora nueva.",
+   "Sus casas y botes también son de totora.",
+   "El Titicaca es el lago navegable más alto del mundo."
+  ]
+ },
+ "tiwanaku": {
+  "lugar": "La Paz, Bolivia",
+  "porque": "Las ruinas de una gran ciudad andina anterior a los incas.",
+  "anio": 500,
+  "anioTxt": "siglo V",
+  "datos": [
+   "Su Puerta del Sol está tallada en un solo bloque.",
+   "Fue una gran ciudad cerca del lago Titicaca.",
+   "Está a casi 4000 m de altura."
+  ]
+ },
+ "lagunacolorada": {
+  "lugar": "Potosí, Bolivia",
+  "porque": "Una laguna de agua roja donde viven miles de flamencos.",
+  "elev": 4278,
+  "datos": [
+   "Su color rojo viene de algas y minerales.",
+   "Allí viven flamencos andinos.",
+   "Sus orillas tienen islas blancas de bórax."
+  ]
+ },
+ "valparaiso": {
+  "lugar": "Valparaíso, Chile",
+  "porque": "Un puerto de casas de colores trepadas en los cerros.",
+  "anio": 1536,
+  "anioTxt": "1536",
+  "datos": [
+   "Sus ascensores funiculares suben los cerros desde 1883.",
+   "Sus muros están llenos de murales.",
+   "Allí funciona el Congreso de Chile."
+  ]
+ },
+ "marmol": {
+  "lugar": "Lago General Carrera, Chile",
+  "porque": "Cuevas de mármol que el agua tiñe de azul.",
+  "datos": [
+   "Las olas tardaron miles de años en tallarlas.",
+   "Se visitan en bote o en kayak.",
+   "El color de la roca cambia con el nivel del agua."
+  ]
+ },
+ "osorno": {
+  "lugar": "Los Lagos, Chile",
+  "porque": "Un volcán nevado de cono perfecto junto a un gran lago.",
+  "elev": 2652,
+  "datos": [
+   "Lo comparan con el monte Fuji por su forma.",
+   "Está junto al lago Llanquihue.",
+   "En invierno se esquía en sus laderas."
+  ]
+ },
+ "casarosada": {
+  "lugar": "Buenos Aires, Argentina",
+  "porque": "La sede del Gobierno argentino, pintada de rosado.",
+  "anio": 1898,
+  "anioTxt": "1898",
+  "datos": [
+   "Una leyenda dice que su pintura llevaba sangre de vaca.",
+   "Desde su balcón han hablado presidentes al pueblo.",
+   "Está frente a la Plaza de Mayo."
+  ]
+ },
+ "caminito": {
+  "lugar": "La Boca, Buenos Aires",
+  "porque": "Un callejón de casas de chapa pintadas de todos los colores.",
+  "anio": 1959,
+  "anioTxt": "1959",
+  "datos": [
+   "Se pintaban con la pintura que sobraba de los barcos.",
+   "Su nombre viene de un tango.",
+   "Allí se baila tango en la calle."
+  ]
+ },
+ "humahuaca": {
+  "lugar": "Jujuy, Argentina",
+  "porque": "Un valle de montañas de colores en el norte de Argentina.",
+  "elev": 3224,
+  "datos": [
+   "Mide unos 155 km de largo.",
+   "Cerca está el Cerro de los Siete Colores.",
+   "Por allí pasaba un camino de los incas."
+  ]
+ },
+ "ushuaia": {
+  "lugar": "Tierra del Fuego, Argentina",
+  "porque": "Una de las ciudades más al sur del mundo, «el fin del mundo».",
+  "anio": 1884,
+  "anioTxt": "1884",
+  "datos": [
+   "De allí salen barcos hacia la Antártida.",
+   "La rodean montañas nevadas y el canal Beagle.",
+   "Su antigua cárcel hoy es un museo."
+  ]
+ },
+ "ischigualasto": {
+  "lugar": "San Juan, Argentina",
+  "porque": "Un desierto de rocas extrañas donde se hallaron dinosaurios antiquísimos.",
+  "elev": 1291,
+  "datos": [
+   "Allí se hallaron algunos de los dinosaurios más antiguos.",
+   "Sus rocas tienen unos 230 millones de años.",
+   "Una de sus rocas tiene forma de hongo."
+  ]
+ },
+ "brasilia": {
+  "lugar": "Brasilia, Brasil",
+  "porque": "Una catedral con forma de manos abiertas hacia el cielo.",
+  "anio": 1970,
+  "anioTxt": "1970",
+  "datos": [
+   "La diseñó el arquitecto Oscar Niemeyer.",
+   "Tiene 16 columnas curvas de concreto.",
+   "Su interior está bañado de luz por vitrales azules y verdes."
+  ]
+ },
+ "selaron": {
+  "lugar": "Río de Janeiro, Brasil",
+  "porque": "Una escalera cubierta de baldosas de colores de todo el mundo.",
+  "anio": 1990,
+  "anioTxt": "1990",
+  "datos": [
+   "La decoró el artista chileno Jorge Selarón.",
+   "Tiene unos 215 escalones.",
+   "Lleva baldosas de más de 60 países."
+  ]
+ },
+ "pelourinho": {
+  "lugar": "Salvador de Bahía, Brasil",
+  "porque": "Un barrio colonial de casas de colores, lleno de música.",
+  "anio": 1549,
+  "anioTxt": "1549",
+  "datos": [
+   "Salvador fue la primera capital de Brasil.",
+   "En sus calles suenan tambores y se practica capoeira.",
+   "Es Patrimonio de la Humanidad."
+  ]
+ },
+ "noronha": {
+  "lugar": "Pernambuco, Brasil",
+  "porque": "Islas volcánicas en el Atlántico con aguas cristalinas.",
+  "datos": [
+   "Está a unos 350 km de la costa de Brasil.",
+   "Allí viven delfines que saltan girando.",
+   "Solo se permite un número limitado de visitantes."
+  ]
+ },
+ "pantanal": {
+  "lugar": "Brasil, Bolivia y Paraguay",
+  "porque": "El humedal tropical más grande del mundo.",
+  "datos": [
+   "En la época de lluvias se inunda gran parte.",
+   "Allí viven jaguares, capibaras y caimanes.",
+   "Es uno de los mejores lugares para ver jaguares."
+  ]
+ },
+ "encuentroaguas": {
+  "lugar": "Manaos, Brasil",
+  "porque": "Dos ríos, uno negro y otro color café, que corren juntos sin mezclarse.",
+  "datos": [
+   "El río Negro y el Solimões corren lado a lado unos 6 km.",
+   "No se mezclan por su distinta temperatura y velocidad.",
+   "Juntos forman el río Amazonas."
+  ]
+ },
+ "teatroamazonas": {
+  "lugar": "Manaos, Brasil",
+  "porque": "Un teatro de ópera elegante en medio de la selva amazónica.",
+  "anio": 1896,
+  "anioTxt": "1896",
+  "datos": [
+   "Se construyó con la riqueza del caucho.",
+   "Su cúpula tiene unas 36 000 tejas con los colores de Brasil.",
+   "Muchos de sus materiales llegaron en barco desde Europa."
+  ]
+ },
+ "mitad": {
+  "lugar": "Cerca de Quito, Ecuador",
+  "porque": "Un monumento sobre la línea del ecuador, entre los dos hemisferios.",
+  "anio": 1982,
+  "anioTxt": "1982",
+  "datos": [
+   "Se puede poner un pie en cada hemisferio.",
+   "Ecuador recibe su nombre de esta línea.",
+   "Con GPS se sabe que la línea real pasa a unos 240 m."
+  ]
+ },
+ "chimborazo": {
+  "lugar": "Chimborazo, Ecuador",
+  "porque": "El punto de la Tierra más lejano de su centro.",
+  "elev": 6263,
+  "datos": [
+   "Por la forma de la Tierra, su cima está más cerca del espacio que el Everest.",
+   "Aparece en el escudo de Ecuador.",
+   "Es la montaña más alta de Ecuador."
+  ]
+ },
+ "quito": {
+  "lugar": "Quito, Ecuador",
+  "porque": "Una basílica gótica con gárgolas de animales de Ecuador.",
+  "anio": 1892,
+  "anioTxt": "1892",
+  "datos": [
+   "Sus gárgolas son tortugas, iguanas y armadillos.",
+   "Se puede subir a sus torres por escaleras.",
+   "Es una de las iglesias neogóticas más grandes de América."
+  ]
+ },
+ "zipaquira": {
+  "lugar": "Zipaquirá, Colombia",
+  "porque": "Una catedral excavada dentro de una mina de sal.",
+  "anio": 1995,
+  "anioTxt": "1995",
+  "datos": [
+   "Está a unos 180 m bajo tierra.",
+   "Sus paredes y cruces son de sal.",
+   "Está iluminada con luces de colores."
+  ]
+ },
+ "tayrona": {
+  "lugar": "Santa Marta, Colombia",
+  "porque": "Selva y montañas que llegan hasta playas del Caribe.",
+  "anio": 1969,
+  "anioTxt": "parque desde 1969",
+  "datos": [
+   "Está al pie de la Sierra Nevada de Santa Marta.",
+   "Allí vivía el pueblo tayrona.",
+   "Sus playas tienen grandes rocas redondas."
+  ]
+ },
+ "guatape": {
+  "lugar": "Guatapé, Antioquia, Colombia",
+  "porque": "Una roca gigante con una escalera en zigzag hasta la cima.",
+  "alto": 220,
+  "datos": [
+   "Mide unos 220 m de alto.",
+   "Se sube por unos 700 escalones.",
+   "Desde arriba se ve un embalse lleno de islas."
+  ]
+ },
+ "roraima": {
+  "lugar": "Entre Venezuela, Brasil y Guyana",
+  "porque": "Una montaña con la cima plana, como una mesa gigante.",
+  "elev": 2810,
+  "datos": [
+   "Las montañas así se llaman tepuyes.",
+   "Inspiró la novela «El mundo perdido».",
+   "En su cima hay plantas que no existen en ningún otro lugar."
+  ]
+ },
+ "coloniasacramento": {
+  "lugar": "Colonia, Uruguay",
+  "porque": "Un pueblo colonial de calles de piedra junto al Río de la Plata.",
+  "anio": 1680,
+  "anioTxt": "1680",
+  "datos": [
+   "La fundaron los portugueses en 1680.",
+   "Su Calle de los Suspiros es una de las más antiguas.",
+   "Desde allí se ve Buenos Aires en días claros."
+  ]
+ },
+ "trinidad": {
+  "lugar": "Itapúa, Paraguay",
+  "porque": "Las ruinas de una misión jesuita de piedra rojiza.",
+  "anio": 1706,
+  "anioTxt": "1706",
+  "datos": [
+   "La construyeron jesuitas junto al pueblo guaraní.",
+   "Tiene ángeles tallados que tocan instrumentos.",
+   "Es Patrimonio de la Humanidad."
+  ]
+ },
+ "milford": {
+  "lugar": "Fiordland, Nueva Zelanda",
+  "porque": "Un fiordo de acantilados verdes con cascadas que caen al mar.",
+  "datos": [
+   "Es uno de los lugares más lluviosos del mundo.",
+   "Cuando llueve aparecen cientos de cascadas nuevas.",
+   "Allí viven delfines, focas y pingüinos."
+  ]
+ },
+ "aoraki": {
+  "lugar": "Isla Sur, Nueva Zelanda",
+  "porque": "La montaña más alta de Nueva Zelanda, cubierta de glaciares.",
+  "elev": 3724,
+  "datos": [
+   "Su nombre maorí significa «el que perfora las nubes».",
+   "En 1991 se derrumbó parte de su cima y perdió altura.",
+   "Edmund Hillary entrenó allí antes de subir el Everest."
+  ]
+ },
+ "bondi": {
+  "lugar": "Sídney, Australia",
+  "porque": "La playa más famosa de Australia, llena de surfistas.",
+  "datos": [
+   "Tiene una piscina junto al mar donde rompen las olas.",
+   "Allí nació en 1907 uno de los primeros clubes de salvavidas.",
+   "Tiene forma de media luna de un kilómetro."
+  ]
+ },
+ "flinders": {
+  "lugar": "Melbourne, Australia",
+  "porque": "Una estación de tren amarilla con cúpula verde y relojes en la entrada.",
+  "anio": 1910,
+  "anioTxt": "1910",
+  "datos": [
+   "En ese lugar estuvo la primera estación de tren de una ciudad australiana, en 1854.",
+   "«Nos vemos bajo los relojes» es una cita típica en Melbourne.",
+   "Es una de las estaciones más usadas de Australia."
+  ]
+ },
+ "kakadu": {
+  "lugar": "Territorio del Norte, Australia",
+  "porque": "Un enorme parque con pinturas aborígenes en las rocas y cocodrilos.",
+  "anio": 1979,
+  "anioTxt": "parque desde 1979",
+  "datos": [
+   "Algunas de sus pinturas rupestres tienen miles de años.",
+   "Allí viven cocodrilos de agua salada.",
+   "Es casi la mitad del tamaño de Suiza."
+  ]
+ },
+ "whitehaven": {
+  "lugar": "Islas Whitsunday, Australia",
+  "porque": "Una playa de arena blanquísima y agua turquesa.",
+  "datos": [
+   "Su arena es casi pura sílice y no quema los pies.",
+   "En la ensenada de Hill Inlet la arena y el mar forman remolinos.",
+   "Está cerca de la Gran Barrera de Coral."
+  ]
+ },
+ "tresermanas": {
+  "lugar": "Montañas Azules, Australia",
+  "porque": "Tres torres de roca en un acantilado sobre un valle de bosque.",
+  "elev": 922,
+  "datos": [
+   "Una leyenda aborigen dice que eran tres hermanas convertidas en piedra.",
+   "Las montañas se ven azules por el aceite que sueltan los eucaliptos.",
+   "Están cerca del pueblo de Katoomba."
+  ]
+ },
+ "pinnacles": {
+  "lugar": "Australia Occidental",
+  "porque": "Miles de columnas de piedra que salen de la arena amarilla.",
+  "datos": [
+   "Algunos pináculos miden más de 3 m.",
+   "Están hechos de piedra caliza.",
+   "Al atardecer sus sombras se alargan mucho."
+  ]
+ },
+ "katatjuta": {
+  "lugar": "Territorio del Norte, Australia",
+  "porque": "Un grupo de cúpulas de roca roja cerca de Uluru.",
+  "elev": 1069,
+  "datos": [
+   "Su nombre significa «muchas cabezas».",
+   "Son 36 cúpulas de roca.",
+   "Es un lugar sagrado para el pueblo anangu."
+  ]
+ },
+ "waverock": {
+  "lugar": "Hyden, Australia Occidental",
+  "porque": "Una roca con forma de ola a punto de romper.",
+  "alto": 15,
+  "datos": [
+   "Mide unos 15 m de alto y 110 m de largo.",
+   "Sus franjas de colores las hizo el agua de lluvia.",
+   "Su granito tiene más de 2500 millones de años."
+  ]
+ },
+ "daintree": {
+  "lugar": "Queensland, Australia",
+  "porque": "Una de las selvas tropicales más antiguas del mundo.",
+  "datos": [
+   "Es más antigua que la Amazonía.",
+   "En el cabo Tribulación la selva llega hasta el arrecife.",
+   "Allí vive el casuario, un ave grande que no vuela."
+  ]
+ },
+ "taranaki": {
+  "lugar": "Isla Norte, Nueva Zelanda",
+  "porque": "Un volcán nevado con forma de cono casi perfecto.",
+  "elev": 2518,
+  "datos": [
+   "Salió en una película haciendo de monte Fuji.",
+   "Por ley es considerado una persona.",
+   "Es un volcán dormido."
+  ]
+ },
+ "waiotapu": {
+  "lugar": "Cerca de Rotorua, Nueva Zelanda",
+  "porque": "Pozas burbujeantes de colores increíbles por la actividad volcánica.",
+  "datos": [
+   "Su nombre maorí significa «aguas sagradas».",
+   "Su Piscina de Champán tiene un borde anaranjado.",
+   "Su Baño del Diablo es verde fosforescente."
+  ]
+ },
+ "tekapo": {
+  "lugar": "Isla Sur, Nueva Zelanda",
+  "porque": "Un lago turquesa con una capillita de piedra a la orilla.",
+  "elev": 710,
+  "datos": [
+   "Su color viene del polvo de roca de los glaciares.",
+   "Su cielo nocturno está protegido para ver estrellas.",
+   "A fin de año sus orillas se llenan de flores de lupino."
+  ]
+ },
+ "skytower": {
+  "lugar": "Auckland, Nueva Zelanda",
+  "porque": "La estructura más alta del hemisferio sur.",
+  "anio": 1997,
+  "anioTxt": "1997",
+  "alto": 328,
+  "datos": [
+   "Mide 328 m.",
+   "Desde 192 m de altura se puede saltar atado a un cable.",
+   "Tiene pisos de vidrio para mirar hacia abajo."
+  ]
+ },
+ "waitomo": {
+  "lugar": "Waikato, Nueva Zelanda",
+  "porque": "Cuevas cuyo techo brilla con miles de gusanos luminosos.",
+  "datos": [
+   "Los gusanitos brillan como un cielo de estrellas.",
+   "Se recorren en bote, en silencio y a oscuras.",
+   "Un jefe maorí y un explorador la recorrieron en 1887."
+  ]
+ },
+ "franzjosef": {
+  "lugar": "Costa oeste, Nueva Zelanda",
+  "porque": "Un glaciar que baja hasta muy cerca de la selva y el mar.",
+  "datos": [
+   "Mide unos 12 km de largo.",
+   "Su nombre viene de un emperador de Austria.",
+   "Se puede sobrevolar en helicóptero."
+  ]
+ },
+ "cathedralcove": {
+  "lugar": "Coromandel, Nueva Zelanda",
+  "porque": "Un gran arco de roca que une dos playas.",
+  "datos": [
+   "Salió en una película de Narnia.",
+   "Solo se llega caminando o por mar.",
+   "El mar que la rodea es una reserva marina."
+  ]
+ },
+ "moeraki": {
+  "lugar": "Otago, Nueva Zelanda",
+  "porque": "Rocas redondas gigantes repartidas por la playa.",
+  "datos": [
+   "Algunas miden unos 2 m de ancho.",
+   "Se formaron en el fondo del mar, como perlas, durante millones de años.",
+   "Una leyenda maorí dice que son cestas de comida de una canoa."
+  ]
+ },
+ "rockislands": {
+  "lugar": "Palaos",
+  "porque": "Cientos de islitas verdes con forma de hongo en un mar turquesa.",
+  "datos": [
+   "Son entre 250 y 300 islas de piedra caliza.",
+   "Tiene un lago lleno de medusas doradas que casi no pican.",
+   "Son Patrimonio de la Humanidad."
+  ]
+ },
+ "moorea": {
+  "lugar": "Polinesia Francesa",
+  "porque": "Una isla de picos verdes rodeada de una laguna turquesa.",
+  "elev": 1207,
+  "datos": [
+   "Está muy cerca de Tahití.",
+   "En su laguna se nada junto a rayas y tiburones pequeños.",
+   "Tiene cultivos de piña en sus valles."
+  ]
+ },
+ "yasur": {
+  "lugar": "Isla Tanna, Vanuatu",
+  "porque": "Un volcán que lleva siglos en erupción y se puede ver desde su borde.",
+  "elev": 361,
+  "datos": [
+   "Lleva cientos de años en erupción casi sin parar.",
+   "Lo llaman «el faro del Pacífico» por su brillo de noche.",
+   "Es de los volcanes activos más fáciles de visitar."
+  ]
  }
 }
