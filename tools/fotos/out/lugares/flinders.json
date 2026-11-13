@@ -1,0 +1,193 @@
+{
+ "id": "flinders",
+ "enwiki": "Flinders Street railway station",
+ "endesc": "Railway station in Melbourne, Australia",
+ "qid": "Q260986",
+ "coord": [
+  -37.818078,
+  144.96681
+ ],
+ "label_es": "Flinders Street Station",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1854-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1854-09-12T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "p31": [
+  "Q55488",
+  "Q1339195",
+  "Q22808404"
+ ],
+ "p17": [
+  "Q408"
+ ],
+ "unesco": false,
+ "eswiki": "Estación de Flinders Street",
+ "extracto_es": "Flinders Street Station es la estación central del sistema de ferrocarriles y subterráneos de Melbourne en Australia. Se sitúa la intersección entre las calles Flinders y Swanston, en la costa del río Yarra en el centro de la ciudad, se extiende desde la calle Swanston hasta la calle Queen (nombre puesto en honor a la Reina Victoria) y cubre dos hectáreas de la ciudad. Cada día de la semana, 110.000 pasajeros,​ y 1500 trenes pasan por la estación. \nEsta estación está gestionada por las empresas Metro Trains Melbourne en el servicio de los suburbios, y V/Line de la EAS para Bairnsdale.\nLa expresión utilizada por los habitantes de Melbourne I'll meet you under the clocks (Traducción : «Te veré en los relojes») se refiere a la serie de relojes situada sobre la entrada principal, que indican el tiempo de espera para la partida del futuro tren de cada línea. Este es un sitio de encuentro popular, en la intersección de dos de los caminos más importantes de la ciudad. Los relojes originales fueron reemplazados por un corto período por otros digitales, pero a causa de las protestas ciudadanas que se produjeron, se volvieron a poner. Los proyectos de los años '70 para derrumbar la estación y sustituirla por un edificio de oficinas fueron finalmente abandonados.",
+ "candidatas": [
+  {
+   "file": "File:Flinders Street Station, Melbourne, at the intersection of Swanston Street and Flinders Street, 1927 - Glass plate.jpg",
+   "w": 11121,
+   "h": 8023,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Flinders_Street_Station%2C_Melbourne%2C_at_the_intersection_of_Swanston_Street_and_Flinders_Street%2C_1927_-_Glass_plate.jpg/330px-Flinders_Street_Station%2C_Melbourne%2C_at_the_intersection_of_Swanston_Street_and_Flinders_Street%2C_1927_-_Glass_plate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flinders_Street_Station%2C_Melbourne%2C_at_the_intersection_of_Swanston_Street_and_Flinders_Street%2C_1927_-_Glass_plate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Flinders_Street_Station,_Melbourne,_at_the_intersection_of_Swanston_Street_and_Flinders_Street,_1927_-_Glass_plate.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Victoria State Transport Authority, restored by Adam Cuerden",
+   "credito": "https://prov.vic.gov.au/archive/60C8F534-F822-11E9-AE98-4574A4A8EA25?image=1",
+   "nonfree": "",
+   "fecha": "1927",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Flinders Street Station Main Building, May 2019.jpg",
+   "w": 4096,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flinders_Street_Station_Main_Building%2C_May_2019.jpg/330px-Flinders_Street_Station_Main_Building%2C_May_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flinders_Street_Station_Main_Building%2C_May_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Flinders_Street_Station_Main_Building,_May_2019.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Medelam",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-05 16:31:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Melbourne (AU), Flinders Street Railway Station -- 2019 -- 202623.jpg",
+   "w": 3826,
+   "h": 2866,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_202623.jpg/330px-Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_202623.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_202623.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Flinders_Street_Railway_Station_--_2019_--_202623.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dietmar Rabich",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 14 October ",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Flinders Station and trams.jpg",
+   "w": 3054,
+   "h": 1909,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Flinders_Station_and_trams.jpg/330px-Flinders_Station_and_trams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flinders_Station_and_trams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Flinders_Station_and_trams.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Created by Philip Mallis in 2021; cropped by HappyWaldo",
+   "credito": "Flinders Street Station and Eureka Tower, Melbourne (51381676618)",
+   "nonfree": "",
+   "fecha": "2022-05-24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "en"
+  },
+  {
+   "file": "File:Melbourne Flinders St. Station.jpg",
+   "w": 2254,
+   "h": 1651,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Melbourne_Flinders_St._Station.jpg/330px-Melbourne_Flinders_St._Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Melbourne_Flinders_St._Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Melbourne_Flinders_St._Station.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Donaldytong",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-03-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Alstom Comeng at Flinders Street.jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Alstom_Comeng_at_Flinders_Street.jpg/330px-Alstom_Comeng_at_Flinders_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Alstom_Comeng_at_Flinders_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alstom_Comeng_at_Flinders_Street.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "MetroManMelbourne",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-04-06 12:47:20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Melbourne CBD including Flinders Street Station.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Melbourne_CBD_including_Flinders_Street_Station.jpg/330px-Melbourne_CBD_including_Flinders_Street_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Melbourne_CBD_including_Flinders_Street_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Melbourne_CBD_including_Flinders_Street_Station.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "KoineJay",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-07-10 11:51:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Flinders Street Railway Station (16331352554).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Flinders_Street_Railway_Station_%2816331352554%29.jpg/330px-Flinders_Street_Railway_Station_%2816331352554%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flinders_Street_Railway_Station_%2816331352554%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Flinders_Street_Railway_Station_(16331352554).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Jorge Láscar from Australia",
+   "credito": "Flinders Street Railway Station",
+   "nonfree": "",
+   "fecha": "Taken on 12 October ",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

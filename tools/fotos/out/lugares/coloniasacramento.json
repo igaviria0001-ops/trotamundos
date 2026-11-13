@@ -1,0 +1,194 @@
+{
+ "id": "coloniasacramento",
+ "enwiki": "Colonia del Sacramento",
+ "endesc": "Capital city in Colonia, Uruguay",
+ "qid": "Q56064",
+ "coord": [
+  -34.46988611111111,
+  -57.84336944444444
+ ],
+ "label_es": "Colonia del Sacramento",
+ "desc_es": "ciudad de Uruguay, capital departamental de Colonia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1680-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 27.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 22.853855,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q62129985"
+ ],
+ "p17": [
+  "Q77"
+ ],
+ "unesco": false,
+ "eswiki": "Colonia del Sacramento",
+ "extracto_es": "Colonia del Sacramento, conocida en el medio local como Colonia, es la capital del departamento de Colonia, en el suroeste de Uruguay. Está ubicada en la ribera norte —izquierda— del Río de la Plata, a 177 km de Montevideo y a 50 km de la ciudad de Buenos Aires en barco.\nSe encuentra emplazada sobre el cabo que forman las puntas de San Pedro y Santa Rita. Su casco antiguo, el barrio histórico que comprende 12 hectáreas del extremo occidental de la ciudad, fue declarado Patrimonio de la Humanidad en 1995 al ilustrar la fusión exitosa de los estilos portugués, español y poscolonial. El plano es de origen portugués y contrasta con el estándar que prescribía la ley española sobre las Indias Occidentales. Se caracteriza por sus calles angostas de piedra, que resaltan su tradición militar.",
+ "candidatas": [
+  {
+   "file": "File:Basilica del Sanctísimo Sacramento.jpg",
+   "w": 1500,
+   "h": 1000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg/330px-Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg",
+   "licencia": "Attribution",
+   "licurl": "",
+   "autor": "JGHowes, photographer (Canon AE-1 camera).",
+   "credito": "User:JGHowes",
+   "nonfree": "",
+   "fecha": "2007-11-08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Calle de los Suspiros, Colonia del Sacramento, Uruguay - panoramio.jpg",
+   "w": 2190,
+   "h": 1367,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Calle_de_los_Suspiros%2C_Colonia_del_Sacramento%2C_Uruguay_-_panoramio.jpg/330px-Calle_de_los_Suspiros%2C_Colonia_del_Sacramento%2C_Uruguay_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Calle_de_los_Suspiros%2C_Colonia_del_Sacramento%2C_Uruguay_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Calle_de_los_Suspiros,_Colonia_del_Sacramento,_Uruguay_-_panoramio.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "rodoluca",
+   "credito": "https://web.archive.org/web/20161017033532/http://www.panoramio.com/photo/42966515",
+   "nonfree": "",
+   "fecha": "30 October 2010 (ori",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Colonia del Sacramento with ferry port.JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colonia_del_Sacramento_with_ferry_port.JPG/330px-Colonia_del_Sacramento_with_ferry_port.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colonia_del_Sacramento_with_ferry_port.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento_with_ferry_port.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Helge Høifødt",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-12-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Colonia del Sacramento 2016 072.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Colonia_del_Sacramento_2016_072.jpg/330px-Colonia_del_Sacramento_2016_072.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Colonia_del_Sacramento_2016_072.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento_2016_072.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Photograph by Mike Peel (www.mikepeel.net).",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-05-01 20:14:16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Colonia del Sacramento 2016 048.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Colonia_del_Sacramento_2016_048.jpg/330px-Colonia_del_Sacramento_2016_048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Colonia_del_Sacramento_2016_048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento_2016_048.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Photograph by Mike Peel (www.mikepeel.net).",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-05-01 20:05:21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:ColoniaDelSacramentoCalleMisionesDeLosTapesDeNoche.JPG",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/ColoniaDelSacramentoCalleMisionesDeLosTapesDeNoche.JPG/330px-ColoniaDelSacramentoCalleMisionesDeLosTapesDeNoche.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/ColoniaDelSacramentoCalleMisionesDeLosTapesDeNoche.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ColoniaDelSacramentoCalleMisionesDeLosTapesDeNoche.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Flc1980",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-01-26 22:12:38",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:ColoniaDelSacramentoCalleReal.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/ColoniaDelSacramentoCalleReal.jpg/330px-ColoniaDelSacramentoCalleReal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/ColoniaDelSacramentoCalleReal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ColoniaDelSacramentoCalleReal.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Flc1980",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-01-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Colonia del Sacramento water front2.JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Colonia_del_Sacramento_water_front2.JPG/330px-Colonia_del_Sacramento_water_front2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Colonia_del_Sacramento_water_front2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento_water_front2.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Helge Høifødt",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-12-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

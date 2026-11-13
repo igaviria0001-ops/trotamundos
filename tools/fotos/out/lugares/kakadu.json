@@ -1,0 +1,207 @@
+{
+ "id": "kakadu",
+ "enwiki": "Kakadu National Park",
+ "endesc": "Protected area in the Northern Territory of Australia",
+ "qid": "Q189657",
+ "coord": [
+  -13.005471,
+  132.519512
+ ],
+ "label_es": "Parque Nacional Kakadu",
+ "desc_es": "parque nacional en Australia.",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1979-04-05T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 53.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 19804.0,
+   "u": "Q712226"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 250001.0,
+   "u": "1"
+  },
+  {
+   "v": 208056.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q18618819",
+  "Q38048753",
+  "Q61457040",
+  "Q19683138"
+ ],
+ "p17": [
+  "Q408"
+ ],
+ "unesco": true,
+ "eswiki": "Parque nacional Kakadu",
+ "extracto_es": "El parque nacional Kakadu es un parque nacional del Territorio del Norte (Australia), ubicado a 171 km al este de Darwin. El nombre 'Kakadu' proviene de la lengua aborigen llamada gagudju, una de las que se hablaban al norte del parque a principios del siglo XX. El gagudju ya no se habla regularmente, pero los descendientes de aquellos que la hablaban todavía habitan la región del parque. El parque forma parte del Patrimonio de la Humanidad según la Unesco. Su extensión es equivalente a la de Israel y se cree que contiene un 10% de las reservas mundiales de uranio. El parque tiene dos temporadas: la de lluvias y la seca. Durante las lluvias (entre octubre y abril) generalmente no es posible acceder a muchas zonas del parque; en cambio, durante la temporada de sequía (entre mayo y septiembre), puede visitarse. Los aborígenes de los pueblos Bininj y Mungguy dividen el año en seis temporadas:\n\nGunumeleng – entre mediados de octubre y finales de diciembre, temporada de tormentas pre-monzónicas con temperaturas cálidas y tormentas eléctricas frecuentes en las tardes\nGudjewg – entre enero y marzo, temporada del monzón con tormentas, fuertes lluvias e inundaciones; el calor y la humedad generan una explosión en la vida animal y vegetal\nBanggerreng – abril, época de violentas tormentas y fuertes vientos, si bien las inundaciones disminuyen\nYegge – entre mayo y mediados de junio, tiempo más fresco con baja humedad, época en la que los aborígenes queman la vegetación para que crezca el pasto para el ganado\nWurrgeng – entre mediados de junio y mediados de agosto, tiempo más frío con baja humedad, la mayoría de los arroyos se secan y las planicies inundadas en la temporada de lluvia se secan\nGurrung -entre mediados de agosto y mediados de octubre, tiempo cálido y seco. Los pozos (billabongs) se secan poco a poco.\nLas atracciones del parque incluyen la oportunidad de relacionarse con los habitantes de la región, la geología, la flora y fauna que hacen de Kakadu una fuente única y apreciada, tanto en Australia como en el resto del mundo. El centro de visitantes de Bowali ofrece información sobre el parque. El centro Warradjan para la cultura aborigen presenta aspectos de la cultura local en forma accesible.\nLa parte más interesante del parque son las planicies inundables, que ofrecen el mejor aspecto visual. Los cocodrilos marinos y cocodrilos de Johnston duermen gran parte del día en los bancos de arena de los ríos de cocodrilos y de los múltiples pozos. Igualmente pue",
+ "candidatas": [
+  {
+   "file": "File:MotorCarFallsKakadu.jpg",
+   "w": 4794,
+   "h": 3196,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/MotorCarFallsKakadu.jpg/330px-MotorCarFallsKakadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/MotorCarFallsKakadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:MotorCarFallsKakadu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Andrea Schaffer",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-06-30 10:47:07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:.00 323. Rock paintings in Australia.jpg",
+   "w": 3300,
+   "h": 2200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/.00_323._Rock_paintings_in_Australia.jpg/330px-.00_323._Rock_paintings_in_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/.00_323._Rock_paintings_in_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:.00_323._Rock_paintings_in_Australia.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "W. Bulach",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-05-24 13:38:12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:00 2236 Kakadu National Park - Australien.jpg",
+   "w": 3300,
+   "h": 2200,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/00_2236_Kakadu_National_Park_-_Australien.jpg/330px-00_2236_Kakadu_National_Park_-_Australien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/00_2236_Kakadu_National_Park_-_Australien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:00_2236_Kakadu_National_Park_-_Australien.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "W. Bulach",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-05-24 13:46:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Kakadu National Park and Crocodile photo 1.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kakadu_National_Park_and_Crocodile_photo_1.jpg/330px-Kakadu_National_Park_and_Crocodile_photo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Kakadu_National_Park_and_Crocodile_photo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kakadu_National_Park_and_Crocodile_photo_1.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "BindiS",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-01-06 09:02:38",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Magpie Geese at Mamukala Wetlands, Kakadu National Park.jpg",
+   "w": 5000,
+   "h": 3333,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Magpie_Geese_at_Mamukala_Wetlands%2C_Kakadu_National_Park.jpg/330px-Magpie_Geese_at_Mamukala_Wetlands%2C_Kakadu_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Magpie_Geese_at_Mamukala_Wetlands%2C_Kakadu_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Magpie_Geese_at_Mamukala_Wetlands,_Kakadu_National_Park.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "PotMart186",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-10-13 16:34:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Black Neck Stork Kakadu 2025 BPS.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Black_Neck_Stork_Kakadu_2025_BPS.jpg/330px-Black_Neck_Stork_Kakadu_2025_BPS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Black_Neck_Stork_Kakadu_2025_BPS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Black_Neck_Stork_Kakadu_2025_BPS.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "BindiS",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-01-06 09:40:29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Bowali Visitor Centre, Jabiru NT, October 2025 08.jpg",
+   "w": 5712,
+   "h": 4284,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bowali_Visitor_Centre%2C_Jabiru_NT%2C_October_2025_08.jpg/330px-Bowali_Visitor_Centre%2C_Jabiru_NT%2C_October_2025_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bowali_Visitor_Centre%2C_Jabiru_NT%2C_October_2025_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bowali_Visitor_Centre,_Jabiru_NT,_October_2025_08.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DaHuzyBru",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-10-11 08:15:50",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Kakadu Brolga and Pied Geese.jpg",
+   "w": 3504,
+   "h": 2336,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Kakadu_Brolga_and_Pied_Geese.jpg/330px-Kakadu_Brolga_and_Pied_Geese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Kakadu_Brolga_and_Pied_Geese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kakadu_Brolga_and_Pied_Geese.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Gilian McLaughlin",
+   "credito": "https://www.flickr.com/photos/gillian_in_brussels/2063891198/",
+   "nonfree": "",
+   "fecha": "2007-11-15 04:31:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

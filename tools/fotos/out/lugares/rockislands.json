@@ -1,0 +1,190 @@
+{
+ "id": "rockislands",
+ "enwiki": "Rock Islands",
+ "endesc": "Collection of reef islands in Palau",
+ "qid": "Q1068224",
+ "coord": [
+  7.25,
+  134.35
+ ],
+ "label_es": "Islas Chelbacheb",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 207.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 41.12,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q33837"
+ ],
+ "p17": [
+  "Q695"
+ ],
+ "unesco": false,
+ "eswiki": "Islas Chelbacheb",
+ "extracto_es": "Las islas Chelbacheb (también conocidas como islas Roca) son un pequeño archipiélago de 200 a 300 islas de piedra caliza en Palaos, entre las islas de Koror y Peleliu. Las islas están formadas de un arrecife de coral parcialmente emergido​  y están deshabitadas, pero son famosas por sus playas y bosques tropicales y por la peculiar forma en la mayoría de las islas.\nEl archipiélago se divide en siete grupos distribuidos de norte a sur:​\n\nIslas Ulebsechel (6 km²): ubicado al noroeste y justo al sur de la isla de Koror. Está conformado por 20 islas;\nIslas Urukthapel o Ngeruktabel (25 km²): al suroeste de Ulubsechel y conformado por 80 islas, del cual sobresale la isla de Ngerukthable;\nIslas Ulong (0,08 km²): quince islas ubicadas al oeste de Urukthapel;\nIslas Mecherchar (19 km²): 70 islas ubicadas al sur de Ngeruktabel, del cual sobresale la isla de Eil Malk. En esta isla está situado el llamado lago de las Medusas.\nIslas Ngerukeuid o Seventy Islands (0,2 km²): 40 islas ubicadas al oeste de Mecherchar;\nIslas Ngemelis (0,9 km²): 20 islas ubicadas al sur de Ngerkeuid, sobresale la isla de Dmasech;\nIslas Ngeroi (1,2 km²): en el extremo meridional del archipiélago, a sólo 5 km al norte del estado de Peleliu. Consiste en cinco islas.",
+ "candidatas": [
+  {
+   "file": "File:Ngerukewid-2016-aerial-view-Luka-Peternel.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Ngerukewid-2016-aerial-view-Luka-Peternel.jpg/330px-Ngerukewid-2016-aerial-view-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ngerukewid-2016-aerial-view-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ngerukewid-2016-aerial-view-Luka-Peternel.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Luka Peternel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-04-02 03:25:03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Rock-Islands-Palau-1-2016-sea-view-Luka-Peternel.jpg",
+   "w": 5225,
+   "h": 3429,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Rock-Islands-Palau-1-2016-sea-view-Luka-Peternel.jpg/330px-Rock-Islands-Palau-1-2016-sea-view-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Rock-Islands-Palau-1-2016-sea-view-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rock-Islands-Palau-1-2016-sea-view-Luka-Peternel.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Luka Peternel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-03-29 07:14:55",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Palau-rock-islands20071222.jpg",
+   "w": 1680,
+   "h": 915,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Palau-rock-islands20071222.jpg/330px-Palau-rock-islands20071222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Palau-rock-islands20071222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palau-rock-islands20071222.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Peter R. Binter (=Binter); The original uploader was Binter at German Wikipedia.\n\n(Original text: Peter Binter)",
+   "credito": "own photography by Binter; Transferred from de.wikipedia to Commons.\n\n(Original text: Privatreise Peter R. Binter Dezember 2007)",
+   "nonfree": "",
+   "fecha": "December 2007; 22 De",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Rock-Islands-Palau-2-2016-aerial-view-Luka-Peternel.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Rock-Islands-Palau-2-2016-aerial-view-Luka-Peternel.jpg/330px-Rock-Islands-Palau-2-2016-aerial-view-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rock-Islands-Palau-2-2016-aerial-view-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rock-Islands-Palau-2-2016-aerial-view-Luka-Peternel.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Luka Peternel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-04-02 03:34:51",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rock-Islands-Palau-1-2016-aerial-view-Luka-Peternel.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Rock-Islands-Palau-1-2016-aerial-view-Luka-Peternel.jpg/330px-Rock-Islands-Palau-1-2016-aerial-view-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Rock-Islands-Palau-1-2016-aerial-view-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rock-Islands-Palau-1-2016-aerial-view-Luka-Peternel.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Luka Peternel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-04-02 03:33:02",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Paddling at Rock Islands, Palau.jpg",
+   "w": 3072,
+   "h": 2048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Paddling_at_Rock_Islands%2C_Palau.jpg/330px-Paddling_at_Rock_Islands%2C_Palau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Paddling_at_Rock_Islands%2C_Palau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Paddling_at_Rock_Islands,_Palau.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "LuxTonnerre",
+   "credito": "Flickr: Palau_2008030818_p1020746",
+   "nonfree": "",
+   "fecha": "2008-03-16 09:41:22",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Interior of Madison Square, a gay bar Rock Island, IL.jpg",
+   "w": 1565,
+   "h": 1037,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Interior_of_Madison_Square%2C_a_gay_bar_Rock_Island%2C_IL.jpg/330px-Interior_of_Madison_Square%2C_a_gay_bar_Rock_Island%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Interior_of_Madison_Square%2C_a_gay_bar_Rock_Island%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Interior_of_Madison_Square,_a_gay_bar_Rock_Island,_IL.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Alan Light",
+   "credito": "https://www.flickr.com/photos/alan-light/3554422563/",
+   "nonfree": "",
+   "fecha": "2009-05-21 19:16:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Palau Rock Islands 03.jpg",
+   "w": 1633,
+   "h": 1225,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Palau_Rock_Islands_03.jpg/330px-Palau_Rock_Islands_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Palau_Rock_Islands_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palau_Rock_Islands_03.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dbuges33",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-17 15:14:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "busqueda"
+  }
+ ]
+}

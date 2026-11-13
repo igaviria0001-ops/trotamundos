@@ -1,0 +1,198 @@
+{
+ "id": "tekapo",
+ "enwiki": "Lake Tekapo",
+ "endesc": "Lake in the South Island of New Zealand",
+ "qid": "Q1194022",
+ "coord": [
+  -43.9,
+  170.525
+ ],
+ "label_es": "Lago Tékapo",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 713.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 87.0,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 30.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q23397"
+ ],
+ "p17": [
+  "Q664"
+ ],
+ "unesco": false,
+ "eswiki": "Lago Tékapo",
+ "extracto_es": "Para la población a orillas del lago, véase Lake Tekapo\n\nEl lago Tékapo es uno de tres lagos situados aproximadamente en paralelo al norte de la cuenca de Mackenzie en la isla Sur de Nueva Zelanda (los otros son el lago Pukaki y el lago Ohau). Ocupa un área de 83 km², y se encuentra a 700 metros sobre el nivel del mar.\nEl río Godley, cuyas fuentes se encuentran en los Alpes Meridionales, al norte, vierte sus aguas en el lago. \nExiste un observatorio astronómico en el monte John, al norte de la población y al sur del pequeño Lago Alexandrina.",
+ "candidatas": [
+  {
+   "file": "File:LakeTekapoNov242024 01.jpg",
+   "w": 7482,
+   "h": 4991,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/LakeTekapoNov242024_01.jpg/330px-LakeTekapoNov242024_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/LakeTekapoNov242024_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:LakeTekapoNov242024_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-11-24 00:08:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:LakeTekapoNov242024 05.jpg",
+   "w": 7424,
+   "h": 4952,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/LakeTekapoNov242024_05.jpg/330px-LakeTekapoNov242024_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/LakeTekapoNov242024_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:LakeTekapoNov242024_05.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-11-24 01:23:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Tekapo-Pukaki canal.jpg",
+   "w": 3072,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Tekapo-Pukaki_canal.jpg/330px-Tekapo-Pukaki_canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tekapo-Pukaki_canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tekapo-Pukaki_canal.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Avenue",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-12-18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Lupin Lake Tekapo.jpg",
+   "w": 1847,
+   "h": 2629,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Lupin_Lake_Tekapo.jpg/330px-Lupin_Lake_Tekapo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lupin_Lake_Tekapo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lupin_Lake_Tekapo.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Vincent60030",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-11-20 11:42:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Church of the Good Shepherd on the shore of Lake Tekapo.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Church_of_the_Good_Shepherd_on_the_shore_of_Lake_Tekapo.jpg/330px-Church_of_the_Good_Shepherd_on_the_shore_of_Lake_Tekapo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Church_of_the_Good_Shepherd_on_the_shore_of_Lake_Tekapo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Church_of_the_Good_Shepherd_on_the_shore_of_Lake_Tekapo.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Steve Collis from Melbourne, Australia",
+   "credito": "Lake Tekapo",
+   "nonfree": "",
+   "fecha": "Taken on 1 June 2011",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lake Tekapo, lake and mountains .jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Lake_Tekapo%2C_lake_and_mountains_.jpg/330px-Lake_Tekapo%2C_lake_and_mountains_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Lake_Tekapo%2C_lake_and_mountains_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Tekapo,_lake_and_mountains_.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Sky_xe",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "11 December 2017 (ac",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lake Tekapo in New Zealand (53724091225 a897db05fa o).jpg",
+   "w": 8256,
+   "h": 5504,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lake_Tekapo_in_New_Zealand_%2853724091225_a897db05fa_o%29.jpg/330px-Lake_Tekapo_in_New_Zealand_%2853724091225_a897db05fa_o%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lake_Tekapo_in_New_Zealand_%2853724091225_a897db05fa_o%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lake_Tekapo_in_New_Zealand_(53724091225_a897db05fa_o).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "NASA Johnson Space Center",
+   "credito": "This image or video was catalogued by Lyndon B. Johnson Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: 53724091225_a897db05fa_o.",
+   "nonfree": "",
+   "fecha": "Taken on 5 May 2024",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Tekapo 27.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tekapo_27.jpg/330px-Tekapo_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Tekapo_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tekapo_27.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Wildman NZ",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-07-10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

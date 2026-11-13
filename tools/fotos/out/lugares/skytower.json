@@ -1,0 +1,193 @@
+{
+ "id": "skytower",
+ "enwiki": "Sky Tower (Auckland)",
+ "endesc": "Observation and communication tower in Auckland, New Zealand",
+ "qid": "Q722125",
+ "coord": [
+  -36.84847222222222,
+  174.76230555555554
+ ],
+ "label_es": "Sky Tower",
+ "desc_es": "torre de telecomunicaciones y difusión de radio y televisión situada en Auckland (Nueva Zelanda)",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1997-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1997-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 328.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q11166728"
+ ],
+ "p17": [
+  "Q664"
+ ],
+ "unesco": false,
+ "eswiki": "Sky Tower",
+ "extracto_es": "Sky Tower (traducido al español, la Torre del Cielo) es una torre de telecomunicaciones y difusión de radio y televisión situada en Auckland (Nueva Zelanda).",
+ "candidatas": [
+  {
+   "file": "File:2023 New Year's Eve Firework Display Auckland.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2023_New_Year%27s_Eve_Firework_Display_Auckland.jpg/330px-2023_New_Year%27s_Eve_Firework_Display_Auckland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/2023_New_Year%27s_Eve_Firework_Display_Auckland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2023_New_Year%27s_Eve_Firework_Display_Auckland.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "James Shih",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-01-01 12:00:04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:A view of Auckland from the Sky Tower.jpg",
+   "w": 5712,
+   "h": 4284,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/A_view_of_Auckland_from_the_Sky_Tower.jpg/330px-A_view_of_Auckland_from_the_Sky_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/A_view_of_Auckland_from_the_Sky_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_view_of_Auckland_from_the_Sky_Tower.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Civil10",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-03-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Auckland skyline (24045221962).jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Auckland_skyline_%2824045221962%29.jpg/330px-Auckland_skyline_%2824045221962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Auckland_skyline_%2824045221962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Auckland_skyline_(24045221962).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Marco Klapper",
+   "credito": "Auckland skyline",
+   "nonfree": "",
+   "fecha": "2015-12-08 12:11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sky Tower u Aucklandu.jpg",
+   "w": 5152,
+   "h": 3864,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Tower_u_Aucklandu.jpg/330px-Sky_Tower_u_Aucklandu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sky_Tower_u_Aucklandu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sky_Tower_u_Aucklandu.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "August Dominus",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-11-12 23:12:38",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sky Tower, Auckland, Novi Zeland.jpg",
+   "w": 5152,
+   "h": 3864,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sky_Tower%2C_Auckland%2C_Novi_Zeland.jpg/330px-Sky_Tower%2C_Auckland%2C_Novi_Zeland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sky_Tower%2C_Auckland%2C_Novi_Zeland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sky_Tower,_Auckland,_Novi_Zeland.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "August Dominus",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-11-12 23:06:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sky Tower from the base, Auckland, New Zealand.jpg",
+   "w": 3472,
+   "h": 4640,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sky_Tower_from_the_base%2C_Auckland%2C_New_Zealand.jpg/330px-Sky_Tower_from_the_base%2C_Auckland%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sky_Tower_from_the_base%2C_Auckland%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sky_Tower_from_the_base,_Auckland,_New_Zealand.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Jonathan Harker",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "1 November 2022 (acc",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Auckland Sky Tower on St. Patrick's Day.jpg",
+   "w": 3024,
+   "h": 4032,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Auckland_Sky_Tower_on_St._Patrick%27s_Day.jpg/330px-Auckland_Sky_Tower_on_St._Patrick%27s_Day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Auckland_Sky_Tower_on_St._Patrick%27s_Day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Auckland_Sky_Tower_on_St._Patrick%27s_Day.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Civil10",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-03-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Skytower Coronation 2023.jpg",
+   "w": 3015,
+   "h": 3015,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Skytower_Coronation_2023.jpg/330px-Skytower_Coronation_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Skytower_Coronation_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Skytower_Coronation_2023.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Paora",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 3,
+   "origen": "art-en"
+  }
+ ]
+}

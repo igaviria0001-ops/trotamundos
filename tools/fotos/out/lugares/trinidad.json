@@ -1,0 +1,146 @@
+{
+ "id": "trinidad",
+ "enwiki": "Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue",
+ "endesc": "UNESCO World Heritage Site in Itapúa Department, Paraguay",
+ "qid": "Q15727363",
+ "coord": [
+  -27.056,
+  -55.753
+ ],
+ "label_es": "Misiones jesuíticas de La Santísima Trinidad de Paraná y Jesús de Tavarangüé",
+ "desc_es": "Patrimonio Mundial ubicado en Paraguay",
+ "inicio": [],
+ "area": [
+  {
+   "v": 27.88,
+   "u": "Q35852"
+  },
+  {
+   "v": 37.31,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q1497375"
+ ],
+ "p17": [
+  "Q733"
+ ],
+ "unesco": true,
+ "candidatas": [
+  {
+   "file": "File:J37 730 Jesús de Tavarangüe, colegio.jpg",
+   "w": 5599,
+   "h": 3821,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/J37_730_Jes%C3%BAs_de_Tavarang%C3%BCe%2C_colegio.jpg/330px-J37_730_Jes%C3%BAs_de_Tavarang%C3%BCe%2C_colegio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/J37_730_Jes%C3%BAs_de_Tavarang%C3%BCe%2C_colegio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:J37_730_Jes%C3%BAs_de_Tavarang%C3%BCe,_colegio.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Falk2",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-24 17:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Trinidad (Paraguay).JPG",
+   "w": 1280,
+   "h": 960,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Trinidad_%28Paraguay%29.JPG/330px-Trinidad_%28Paraguay%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Trinidad_%28Paraguay%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trinidad_(Paraguay).JPG",
+   "licencia": "GFDL",
+   "licurl": "",
+   "autor": "",
+   "credito": "",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Horse near Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue.JPG",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Horse_near_Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue.JPG/330px-Horse_near_Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Horse_near_Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Horse_near_Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue.JPG",
+   "licencia": "CC BY-SA 3.0 nl",
+   "licurl": "cc-by-sa-3.0-nl",
+   "autor": "Lars Curfs (Grashoofd)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-02-19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ruinas de Jesús. Altar Mayor.jpg",
+   "w": 2816,
+   "h": 2112,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ruinas_de_Jes%C3%BAs._Altar_Mayor.jpg/330px-Ruinas_de_Jes%C3%BAs._Altar_Mayor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ruinas_de_Jes%C3%BAs._Altar_Mayor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ruinas_de_Jes%C3%BAs._Altar_Mayor.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Patty P",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Corn near the Jesuit Missions in Paraguay.JPG",
+   "w": 3456,
+   "h": 5184,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Corn_near_the_Jesuit_Missions_in_Paraguay.JPG/330px-Corn_near_the_Jesuit_Missions_in_Paraguay.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Corn_near_the_Jesuit_Missions_in_Paraguay.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Corn_near_the_Jesuit_Missions_in_Paraguay.JPG",
+   "licencia": "CC BY-SA 3.0 nl",
+   "licurl": "cc-by-sa-3.0-nl",
+   "autor": "Lars Curfs (Grashoofd)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-02-19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ruinas jesuiticas Paraguay Acceso.jpg",
+   "w": 2112,
+   "h": 2816,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ruinas_jesuiticas_Paraguay_Acceso.jpg/330px-Ruinas_jesuiticas_Paraguay_Acceso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ruinas_jesuiticas_Paraguay_Acceso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ruinas_jesuiticas_Paraguay_Acceso.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Patty P",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 2,
+   "origen": "art-en"
+  }
+ ]
+}

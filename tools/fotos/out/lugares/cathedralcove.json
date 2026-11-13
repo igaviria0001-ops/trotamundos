@@ -1,0 +1,189 @@
+{
+ "id": "cathedralcove",
+ "enwiki": "Whanganui A Hei (Cathedral Cove) Marine Reserve",
+ "endesc": "Beach and marine reserve in New Zealand",
+ "qid": "Q914581",
+ "coord": [
+  -36.827628,
+  175.790087
+ ],
+ "label_es": null,
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1992-01-01T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 8.87,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q2616170"
+ ],
+ "p17": [
+  "Q664"
+ ],
+ "unesco": false,
+ "candidatas": [
+  {
+   "file": "File:Cathedral Cove 06.jpg",
+   "w": 4484,
+   "h": 2899,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Cathedral_Cove_06.jpg/330px-Cathedral_Cove_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cathedral_Cove_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cathedral_Cove_06.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Krzysztof Golik",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-03-17 15:36:13",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 21,
+   "origen": "en"
+  },
+  {
+   "file": "File:Cathedral Cove, Coromandel.JPG",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Cathedral_Cove%2C_Coromandel.JPG/330px-Cathedral_Cove%2C_Coromandel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Cathedral_Cove%2C_Coromandel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cathedral_Cove,_Coromandel.JPG",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Mike Bordignon",
+   "credito": "Own work (Original text: self-made)",
+   "nonfree": "",
+   "fecha": "17 January 2008 (ori",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:00 23 0984 NZ Coromandel Penisula - Cathedral Cove.jpg",
+   "w": 3150,
+   "h": 2100,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/00_23_0984_NZ_Coromandel_Penisula_-_Cathedral_Cove.jpg/330px-00_23_0984_NZ_Coromandel_Penisula_-_Cathedral_Cove.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/00_23_0984_NZ_Coromandel_Penisula_-_Cathedral_Cove.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:00_23_0984_NZ_Coromandel_Penisula_-_Cathedral_Cove.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "W. Bulach",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-03-23 15:16:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:00 23 0989 Neuseeland - Coromandel Halbinsel.jpg",
+   "w": 3150,
+   "h": 2100,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/00_23_0989_Neuseeland_-_Coromandel_Halbinsel.jpg/330px-00_23_0989_Neuseeland_-_Coromandel_Halbinsel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/00_23_0989_Neuseeland_-_Coromandel_Halbinsel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:00_23_0989_Neuseeland_-_Coromandel_Halbinsel.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "W. Bulach",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-03-23 15:27:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Plage de Cathedral Cove.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Plage_de_Cathedral_Cove.jpg/330px-Plage_de_Cathedral_Cove.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Plage_de_Cathedral_Cove.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Plage_de_Cathedral_Cove.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Superjul",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2007-11-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Coromandel, Cathedral Cove.jpg",
+   "w": 4128,
+   "h": 3096,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Coromandel%2C_Cathedral_Cove.jpg/330px-Coromandel%2C_Cathedral_Cove.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Coromandel%2C_Cathedral_Cove.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Coromandel,_Cathedral_Cove.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Misaochan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "25 October 2014 (acc",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cathedral Cove (entrance).jpg",
+   "w": 4096,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Cathedral_Cove_%28entrance%29.jpg/330px-Cathedral_Cove_%28entrance%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cathedral_Cove_%28entrance%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cathedral_Cove_(entrance).jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Ulrich Lange, Bochum, Germany",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-01-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cathedral Cove 1 - Coromandel.JPG",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Cathedral_Cove_1_-_Coromandel.JPG/330px-Cathedral_Cove_1_-_Coromandel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cathedral_Cove_1_-_Coromandel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cathedral_Cove_1_-_Coromandel.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Vitoria B Assis",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-08-26 12:12:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

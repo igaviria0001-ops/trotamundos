@@ -1,0 +1,194 @@
+{
+ "id": "tresermanas",
+ "enwiki": "Three Sisters (Australia)",
+ "endesc": "Rock formation in New South Wales, Australia",
+ "qid": "Q2007217",
+ "label_es": "Tres hermanas (Australia)",
+ "desc_es": null,
+ "coord": [
+  -33.735555555556,
+  150.31444444444
+ ],
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 922.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 918.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 906.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q631305"
+ ],
+ "p17": [
+  "Q408"
+ ],
+ "unesco": false,
+ "eswiki": "Tres hermanas (Australia)",
+ "extracto_es": "Las Tres Hermanas son una formación rocosa inusual en las Montañas Azules de Nueva Gales del Sur, Australia, en la escarpa norte del Valle Jamison. Están ubicadas cerca de la ciudad de Katoomba y son uno de los sitios más conocidos de las Montañas Azules, que se elevan sobre el valle de Jamison.​ Sus nombres son Meehni (922 m), Wimlah (918 m) y Gunnedoo (906 m).​\nLa formación recibe más de 600.000 visitantes al año.​",
+ "candidatas": [
+  {
+   "file": "File:Blue Mountains National Park (AU), Three Sisters -- 2019 -- 1983.jpg",
+   "w": 6720,
+   "h": 4480,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Blue_Mountains_National_Park_%28AU%29%2C_Three_Sisters_--_2019_--_1983.jpg/330px-Blue_Mountains_National_Park_%28AU%29%2C_Three_Sisters_--_2019_--_1983.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Blue_Mountains_National_Park_%28AU%29%2C_Three_Sisters_--_2019_--_1983.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Blue_Mountains_National_Park_(AU),_Three_Sisters_--_2019_--_1983.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Dietmar Rabich",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 22 October ",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Blue mountains - three sisters.jpg",
+   "w": 3200,
+   "h": 1780,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Blue_mountains_-_three_sisters.jpg/330px-Blue_mountains_-_three_sisters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Blue_mountains_-_three_sisters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Blue_mountains_-_three_sisters.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "",
+   "credito": "Photographed by User:Diliff",
+   "nonfree": "",
+   "fecha": "17th of June, 2005 s",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Three Sisters from echo point.jpg",
+   "w": 2988,
+   "h": 3984,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Three_Sisters_from_echo_point.jpg/330px-Three_Sisters_from_echo_point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Three_Sisters_from_echo_point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Three_Sisters_from_echo_point.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "MrActiniuM",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-03-31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Three Sisters Sunset.jpg",
+   "w": 1424,
+   "h": 2136,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Three_Sisters_Sunset.jpg/330px-Three_Sisters_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Three_Sisters_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Three_Sisters_Sunset.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "JJ Harrison (https://www.jjharrison.com.au/)",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-01-28",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Three sisters with three sisters.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Three_sisters_with_three_sisters.jpg/330px-Three_sisters_with_three_sisters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Three_sisters_with_three_sisters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Three_sisters_with_three_sisters.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "M0okiepeet",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-04-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:The Rock Peak Meehni of the Three Sisters.jpeg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Rock_Peak_Meehni_of_the_Three_Sisters.jpeg/330px-The_Rock_Peak_Meehni_of_the_Three_Sisters.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/The_Rock_Peak_Meehni_of_the_Three_Sisters.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Rock_Peak_Meehni_of_the_Three_Sisters.jpeg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Prof. Chen Hualin",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-04-30 09:58:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Three Sisters (Australia) - Borskin.jpg",
+   "w": 3072,
+   "h": 2304,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Three_Sisters_%28Australia%29_-_Borskin.jpg/330px-Three_Sisters_%28Australia%29_-_Borskin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Three_Sisters_%28Australia%29_-_Borskin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Three_Sisters_(Australia)_-_Borskin.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Borskin at English Wikipedia",
+   "credito": "Transferred from en.wikipedia to Commons.",
+   "nonfree": "",
+   "fecha": "4 September 2006 (or",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Three Sisters (5640103930).jpg",
+   "w": 2560,
+   "h": 1920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Three_Sisters_%285640103930%29.jpg/330px-Three_Sisters_%285640103930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Three_Sisters_%285640103930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Three_Sisters_(5640103930).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Catherine from Australia",
+   "credito": "Three Sisters",
+   "nonfree": "",
+   "fecha": "2011-04-14 13:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "busqueda"
+  }
+ ]
+}

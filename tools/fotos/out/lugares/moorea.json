@@ -1,0 +1,199 @@
+{
+ "id": "moorea",
+ "enwiki": "Moʼorea",
+ "endesc": "Island in French Polynesia",
+ "qid": "Q673400",
+ "coord": [
+  -17.535,
+  -149.835
+ ],
+ "label_es": "Moorea",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 1207.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 133.5,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 19.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q23442",
+  "Q1161185"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": false,
+ "eswiki": "Moorea",
+ "extracto_es": "Moorea​​ (en tahitiano: Mo’orea)​​ antiguamente también llamada Aimeho​​ o Eimeo (Cook), Santo Domingo (Boenechea)​​ e Isla York (Wallis), es una isla volcánica del grupo de las Islas de Barlovento en el archipiélago de la Sociedad en la Polinesia Francesa.​​ A tan sólo 17 km al noroeste de Tahití es denominada a veces como «la isla hermana».\nEl nombre de Moorea quiere decir 'lagarto dorado'. Una leyenda explica que un lagarto gigante partió con la cola las dos bahías al norte. Estas bahías son las de Opunohu y la de Cook o Paopao. Curiosamente James Cook en 1777, ancló en la bahía de Opunohu y no a la de Paopao. El mirador de Belvedere (o Roto Nui) es un punto de atracción con espléndidas vistas a las dos bahías.",
+ "candidatas": [
+  {
+   "file": "File:Green sea turtle (Chelonia mydas) Moorea.jpg",
+   "w": 6671,
+   "h": 4448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg/330px-Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Charles J. Sharp",
+   "credito": "Own work, from Sharp Photography, sharpphotography.co.uk",
+   "nonfree": "",
+   "fecha": "2024-10-09 13:38:37",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 18,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:DSC00042 Polynésia Mooréa Island Motu Moéa Lagoon and transportation Boat (8076082190).jpg",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/DSC00042_Polyn%C3%A9sia_Moor%C3%A9a_Island_Motu_Mo%C3%A9a_Lagoon_and_transportation_Boat_%288076082190%29.jpg/330px-DSC00042_Polyn%C3%A9sia_Moor%C3%A9a_Island_Motu_Mo%C3%A9a_Lagoon_and_transportation_Boat_%288076082190%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/DSC00042_Polyn%C3%A9sia_Moor%C3%A9a_Island_Motu_Mo%C3%A9a_Lagoon_and_transportation_Boat_%288076082190%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:DSC00042_Polyn%C3%A9sia_Moor%C3%A9a_Island_Motu_Mo%C3%A9a_Lagoon_and_transportation_Boat_(8076082190).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "DANIEL JULIE from Paris, France",
+   "credito": "DSC00042/Polynésia/Mooréa Island/Motu Moéa/Lagoon and transportation Boat",
+   "nonfree": "",
+   "fecha": "2012-09-07 23:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Moorea - Vue avion (1).JPG",
+   "w": 1280,
+   "h": 853,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Moorea_-_Vue_avion_%281%29.JPG/330px-Moorea_-_Vue_avion_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Moorea_-_Vue_avion_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moorea_-_Vue_avion_(1).JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Remi Jouan",
+   "credito": "Photo taken by Remi Jouan",
+   "nonfree": "",
+   "fecha": "2009-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Baie de Cook à Moorea.jpg",
+   "w": 4724,
+   "h": 3546,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Baie_de_Cook_%C3%A0_Moorea.jpg/330px-Baie_de_Cook_%C3%A0_Moorea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Baie_de_Cook_%C3%A0_Moorea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Baie_de_Cook_%C3%A0_Moorea.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alain.martre",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-10 14:47:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Marae Ti'i-rua, Mo'orea, French Polynesia.jpg",
+   "w": 5312,
+   "h": 2988,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Marae_Ti%27i-rua%2C_Mo%27orea%2C_French_Polynesia.jpg/330px-Marae_Ti%27i-rua%2C_Mo%27orea%2C_French_Polynesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Marae_Ti%27i-rua%2C_Mo%27orea%2C_French_Polynesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Marae_Ti%27i-rua,_Mo%27orea,_French_Polynesia.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Pi3.124",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-07-02 19:45:37",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Soleil sur Moorea.jpg",
+   "w": 3936,
+   "h": 2624,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Soleil_sur_Moorea.jpg/330px-Soleil_sur_Moorea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Soleil_sur_Moorea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Soleil_sur_Moorea.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Garegnani Denis",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-24 18:01:29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Un prédateur curieux.jpg",
+   "w": 4000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Un_pr%C3%A9dateur_curieux.jpg/330px-Un_pr%C3%A9dateur_curieux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Un_pr%C3%A9dateur_curieux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Un_pr%C3%A9dateur_curieux.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Enzo Eymenier",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-07-07 10:19:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Moorea ISS006.jpg",
+   "w": 2400,
+   "h": 1600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Moorea_ISS006.jpg/330px-Moorea_ISS006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Moorea_ISS006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Moorea_ISS006.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "NASA",
+   "credito": "http://www.oceandots.com/pacific/society/moorea.php",
+   "nonfree": "",
+   "fecha": "2003-03-19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}
