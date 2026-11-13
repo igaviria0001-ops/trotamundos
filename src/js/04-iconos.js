@@ -20,24 +20,25 @@ I.tiquete = ic('<path d="M3 8a2 2 0 002-2h14a2 2 0 002 2v2a2 2 0 000 4v2a2 2 0 0
 I.estrella = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.6l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.4l-5.8 3.1 1.1-6.5-4.7-4.6 6.5-.9z" stroke-width="1.4" stroke-linejoin="round"/></svg>';
 
 // Quinde: el colibrí guía (con su bufanda de viajero)
-I.quinde = `<svg viewBox="0 0 110 90" aria-hidden="true">
+I.quinde = `<svg viewBox="0 0 124 100" aria-hidden="true">
 <defs>
- <linearGradient id="qc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#55D3A6"/><stop offset="1" stop-color="#1E9C86"/></linearGradient>
- <linearGradient id="qg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF7AB8"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
- <linearGradient id="qa" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E6FBF4" stop-opacity=".95"/><stop offset="1" stop-color="#9BE6CF" stop-opacity=".55"/></linearGradient>
+ <linearGradient id="qc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4FD1A5"/><stop offset="1" stop-color="#169383"/></linearGradient>
+ <linearGradient id="qg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6FAE"/><stop offset="1" stop-color="#9B5CF6"/></linearGradient>
+ <linearGradient id="qa" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#7FE0C2"/><stop offset="1" stop-color="#E8FFF7"/></linearGradient>
 </defs>
 <g class="cuerpo">
- <path d="M30 52 L6 66 L12 56 L2 54 L16 48 Z" fill="#1B7F72"/>
- <ellipse cx="44" cy="48" rx="22" ry="13" transform="rotate(-22 44 48)" fill="url(#qc)"/>
- <ellipse cx="46" cy="54" rx="13" ry="6.5" transform="rotate(-22 46 54)" fill="#E9FBF4" opacity=".85"/>
- <circle cx="66" cy="33" r="12" fill="url(#qc)"/>
- <path d="M58 40 q8 9 18 0 q-3 -6 -9 -6 q-6 0 -9 6z" fill="url(#qg)"/>
- <path d="M52 44 q10 7 22 -2 l3 4 q-12 10 -27 2z" fill="#EF6F5E"/>
- <path d="M54 47 l-5 12 l6 -3 l1 6 l4 -13z" fill="#EF6F5E"/>
- <path d="M55 51 l3 -1 M53 55 l3 -1" stroke="#fff" stroke-width="1.4"/>
- <path d="M76 31 L106 27" stroke="#2B3A42" stroke-width="2.6" stroke-linecap="round"/>
- <circle cx="70" cy="30" r="4.4" fill="#fff"/><circle cx="71" cy="30" r="2.7" fill="#1E2A33"/><circle cx="72" cy="29" r=".9" fill="#fff"/>
- <g class="ala"><ellipse cx="40" cy="26" rx="20" ry="9" transform="rotate(-38 46 38)" fill="url(#qa)" stroke="#7FD9BE" stroke-width="1"/></g>
+ <path class="ala ala-atras" d="M60 50 C44 40 34 22 34 6 C46 12 58 28 66 46 Z" fill="#2BA88E"/>
+ <path d="M38 70 L14 82 L22 74 L10 74 L30 64 Z" fill="#127466"/>
+ <ellipse cx="56" cy="60" rx="25" ry="14" transform="rotate(-28 56 60)" fill="url(#qc)"/>
+ <ellipse cx="59" cy="66" rx="15" ry="7" transform="rotate(-28 59 66)" fill="#EFFFF8" opacity=".9"/>
+ <circle cx="82" cy="38" r="14" fill="url(#qc)"/>
+ <path d="M80 46 C84 52 93 50 95 44 C91 41 85 41 80 46 Z" fill="url(#qg)"/>
+ <path d="M70 48 C78 54 88 53 94 47 L96 51 C88 59 76 59 68 52 Z" fill="#EF6F5E"/>
+ <path d="M70 51 C62 56 56 58 48 58 C54 62 62 62 70 56 Z" fill="#EF6F5E"/>
+ <path d="M56 58.5 l4 -1.4 M62 57 l3 -1.6" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/>
+ <path d="M95 35 L121 30" stroke="#24333C" stroke-width="2.8" stroke-linecap="round"/>
+ <circle cx="87" cy="34" r="5" fill="#fff"/><circle cx="88.3" cy="34.2" r="3.1" fill="#16222B"/><circle cx="89.4" cy="33" r="1.1" fill="#fff"/>
+ <path class="ala ala-frente" d="M62 52 C50 38 46 20 50 4 C60 14 66 32 70 48 Z" fill="url(#qa)" stroke="#5BCFAF" stroke-width="1.2"/>
 </g>
 </svg>`;
 

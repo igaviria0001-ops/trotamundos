@@ -166,9 +166,11 @@
 /* ---------- Quinde, el colibrí guía ---------- */
 .quinde { position: relative; width: 84px; height: 84px; flex: none; }
 .quinde svg { width: 100%; height: 100%; overflow: visible; }
-.quinde .ala { transform-origin: 46px 38px; animation: aleteo .09s linear infinite alternate; }
+.quinde .ala { transform-box: view-box; animation: aleteo .085s linear infinite alternate; }
+.quinde .ala-atras { transform-origin: 62px 48px; animation-delay: -.04s; }
+.quinde .ala-frente { transform-origin: 66px 50px; }
 .quinde .cuerpo { animation: flota 2.4s ease-in-out infinite; }
-@keyframes aleteo { from { transform: scaleY(1) rotate(-6deg); } to { transform: scaleY(.25) rotate(4deg); } }
+@keyframes aleteo { from { transform: rotate(-8deg) scale(1, 1); } to { transform: rotate(14deg) scale(1, .55); } }
 @keyframes flota { 50% { transform: translateY(-4px); } }
 .globo-texto {
   position: relative; background: #fff; border-radius: 18px; padding: 10px 14px;

@@ -252,3 +252,12 @@ button.asa::before { content: ''; position: absolute; left: 10px; right: 10px; t
   .hoja.abierta { transform: none; }
   .hoja .asa { display: none; }
 }
+
+/* créditos */
+.creditos h3 { font-size: 1.6rem; margin: 4px 0 10px; }
+.creditos h4 { font-size: 1.15rem; margin: 14px 0 6px; }
+.creditos p { color: var(--tinta2); margin-bottom: 8px; font-size: .92rem; }
+.creditos-lista { margin: 0; padding: 0 0 0 18px; font-size: .82rem; color: var(--tinta2); display: grid; gap: 6px; user-select: text; }
+.creditos-lista b { color: var(--tinta); }
+.creditos-lista a { color: var(--azul2); }
+.creditos-btn { margin-top: 14px; min-height: 46px; font-size: 1rem; }

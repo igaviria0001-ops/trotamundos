@@ -83,6 +83,24 @@ function abrirAjustes() {
     h('div.dialogo.ajustes', h('h3', 'Ajustes'),
       fila('sonido', 'Sonidos'), fila('vibrar', 'Vibración', 'En celulares que la tienen'),
       fila('letra', 'Letra más grande'), fila('menosMov', 'Menos animaciones'),
+      h('button.btn.blanco.ancho.creditos-btn', { onclick: () => { cerrar(); abrirCreditos(); } }, 'Créditos de fotos y datos'),
       h('p.version', `Versión ${window.TMD_VERSION || ''}`),
       h('div.botones', h('button.btn', { onclick: cerrar }, 'Listo'))));
+}
+
+// ===== créditos: fotos y datos abiertos =====
+function abrirCreditos() {
+  const cerrar = () => { $('#capa').innerHTML = ''; };
+  const fotos = LUGARES.filter(l => l.fotos.length).sort((a, b) => a.n.localeCompare(b.n, 'es'));
+  const lista = h('ul.creditos-lista', fotos.flatMap(l => l.fotos.map((f, i) =>
+    h('li', h('b', l.n + (l.fotos.length > 1 ? ` (${i + 1})` : '')), ' — ', f.a || 'autor desconocido', ', ', f.l || '', ' · ',
+      h('a', { href: f.u, target: '_blank', rel: 'noopener' }, 'ver en Wikimedia Commons')))));
+  $('#capa').append(h('div.fondo-capa', { onclick: cerrar }),
+    h('div.ficha-capa.creditos',
+      h('button.icono-btn.cerrar', { 'aria-label': 'Cerrar', html: I.cerrar, onclick: cerrar }),
+      h('h3', 'Créditos'),
+      h('p', 'Las fotos son de Wikimedia Commons y se usan con licencias libres; cada una lleva el nombre de quien la tomó y su licencia.'),
+      h('p', 'Mapa: Natural Earth (dominio público). Países: world-countries (ODbL) y Wikidata (CC0). Banderas: flag-icons (MIT). Datos de lugares: Wikidata y Wikipedia. Letras: Baloo 2, Nunito y Caveat (SIL OFL).'),
+      h('h4', `Fotos (${fotos.reduce((a, l) => a + l.fotos.length, 0)})`),
+      lista));
 }
