@@ -1,0 +1,191 @@
+id	enwiki	iso	cont	nivel	cat	nombre
+eiffel	Eiffel Tower	FR	EU	1	monumento	Torre Eiffel
+coliseo	Colosseum	IT	EU	1	antiguo	Coliseo de Roma
+pisa	Leaning Tower of Pisa	IT	EU	1	monumento	Torre de Pisa
+sagrada	Sagrada Família	ES	EU	1	sagrado	Sagrada Familia
+bigben	Big Ben	GB	EU	1	monumento	Big Ben
+stonehenge	Stonehenge	GB	EU	1	antiguo	Stonehenge
+partenon	Parthenon	GR	EU	1	antiguo	Partenón
+santorini	Santorini	GR	EU	1	ciudad	Santorini
+venecia	Grand Canal (Venice)	IT	EU	1	ciudad	Gran Canal de Venecia
+neuschwanstein	Neuschwanstein Castle	DE	EU	1	monumento	Castillo de Neuschwanstein
+sanbasilio	Saint Basil's Cathedral	RU	EU	1	sagrado	Catedral de San Basilio
+notredame	Notre-Dame de Paris	FR	EU	1	sagrado	Catedral de Notre Dame
+sanpedro	St. Peter's Basilica	VA	EU	1	sagrado	Basílica de San Pedro
+louvre	Louvre	FR	EU	1	monumento	Museo del Louvre
+santasofia	Hagia Sophia	TR	EU	1	sagrado	Santa Sofía
+arcotriunfo	Arc de Triomphe	FR	EU	2	monumento	Arco del Triunfo
+montsaintmichel	Mont-Saint-Michel	FR	EU	2	monumento	Monte Saint-Michel
+alhambra	Alhambra	ES	EU	2	monumento	La Alhambra
+trevi	Trevi Fountain	IT	EU	2	monumento	Fontana de Trevi
+towerbridge	Tower Bridge	GB	EU	2	monumento	Puente de la Torre
+brandeburgo	Brandenburg Gate	DE	EU	2	monumento	Puerta de Brandeburgo
+puentecarlos	Charles Bridge	CZ	EU	2	monumento	Puente de Carlos
+matterhorn	Matterhorn	CH	EU	2	naturaleza	Monte Cervino
+dubrovnik	Dubrovnik	HR	EU	2	ciudad	Dubrovnik
+moher	Cliffs of Moher	IE	EU	2	naturaleza	Acantilados de Moher
+edimburgo	Edinburgh Castle	GB	EU	2	monumento	Castillo de Edimburgo
+amsterdam	Canals of Amsterdam	NL	EU	2	ciudad	Canales de Ámsterdam
+belem	Belém Tower	PT	EU	2	monumento	Torre de Belém
+cinqueterre	Cinque Terre	IT	EU	2	ciudad	Cinque Terre
+pompeya	Pompeii	IT	EU	2	antiguo	Pompeya
+florencia	Florence Cathedral	IT	EU	2	sagrado	Catedral de Florencia
+versalles	Palace of Versailles	FR	EU	2	monumento	Palacio de Versalles
+kremlin	Moscow Kremlin	RU	EU	2	monumento	Kremlin de Moscú
+budapest	Hungarian Parliament Building	HU	EU	2	monumento	Parlamento de Budapest
+parkguell	Park Güell	ES	EU	2	ciudad	Park Güell
+colonia	Cologne Cathedral	DE	EU	2	sagrado	Catedral de Colonia
+buckingham	Buckingham Palace	GB	EU	2	monumento	Palacio de Buckingham
+meteora	Meteora	GR	EU	3	sagrado	Meteora
+plitvice	Plitvice Lakes National Park	HR	EU	3	naturaleza	Lagos de Plitvice
+hallstatt	Hallstatt	AT	EU	3	ciudad	Hallstatt
+bled	Lake Bled	SI	EU	3	naturaleza	Lago Bled
+calzada	Giant's Causeway	GB	EU	3	naturaleza	Calzada del Gigante
+kinderdijk	Kinderdijk	NL	EU	3	monumento	Molinos de Kinderdijk
+pena	Pena Palace	PT	EU	3	monumento	Palacio da Pena
+cordoba	Mosque–Cathedral of Córdoba	ES	EU	3	sagrado	Mezquita de Córdoba
+segovia	Aqueduct of Segovia	ES	EU	3	antiguo	Acueducto de Segovia
+matera	Sassi di Matera	IT	EU	3	ciudad	Sassi de Matera
+alberobello	Alberobello	IT	EU	3	ciudad	Trulli de Alberobello
+chambord	Château de Chambord	FR	EU	3	monumento	Castillo de Chambord
+geiranger	Geirangerfjord	NO	EU	3	naturaleza	Fiordo de Geiranger
+preikestolen	Preikestolen	NO	EU	3	naturaleza	Preikestolen
+nyhavn	Nyhavn	DK	EU	3	ciudad	Nyhavn
+gullfoss	Gullfoss	IS	EU	3	naturaleza	Cascada Gullfoss
+jokulsarlon	Jökulsárlón	IS	EU	3	naturaleza	Laguna Jökulsárlón
+schonbrunn	Schönbrunn Palace	AT	EU	3	monumento	Palacio de Schönbrunn
+atomium	Atomium	BE	EU	3	moderno	Atomium
+kotor	Kotor	ME	EU	3	ciudad	Kotor
+dolomitas	Tre Cime di Lavaredo	IT	EU	3	naturaleza	Tres Picos de Lavaredo
+starimost	Stari Most	BA	EU	3	monumento	Puente de Mostar
+bran	Bran Castle	RO	EU	3	monumento	Castillo de Bran
+granmuralla	Great Wall of China	CN	AS	1	antiguo	Gran Muralla China
+tajmahal	Taj Mahal	IN	AS	1	monumento	Taj Mahal
+fuji	Mount Fuji	JP	AS	1	naturaleza	Monte Fuji
+angkor	Angkor Wat	KH	AS	1	sagrado	Angkor Wat
+petra	Petra	JO	AS	1	antiguo	Petra
+burjkhalifa	Burj Khalifa	AE	AS	1	moderno	Burj Khalifa
+everest	Mount Everest	NP,CN	AS	1	naturaleza	Monte Everest
+terracota	Terracotta Army	CN	AS	1	antiguo	Guerreros de terracota
+ciudadprohibida	Forbidden City	CN	AS	2	monumento	Ciudad Prohibida
+fushimi	Fushimi Inari-taisha	JP	AS	2	sagrado	Fushimi Inari
+capadocia	Cappadocia	TR	AS	2	naturaleza	Capadocia
+zayed	Sheikh Zayed Grand Mosque	AE	AS	2	sagrado	Gran Mezquita Sheikh Zayed
+petronas	Petronas Towers	MY	AS	2	moderno	Torres Petronas
+marinabay	Marina Bay Sands	SG	AS	2	moderno	Marina Bay Sands
+halong	Ha Long Bay	VN	AS	2	naturaleza	Bahía de Ha Long
+borobudur	Borobudur	ID	AS	2	sagrado	Borobudur
+granpalacio	Grand Palace	TH	AS	2	monumento	Gran Palacio de Bangkok
+potala	Potala Palace	CN	AS	2	monumento	Palacio de Potala
+templooro	Golden Temple	IN	AS	2	sagrado	Templo Dorado de Amritsar
+taipei101	Taipei 101	TW	AS	2	moderno	Taipei 101
+skytree	Tokyo Skytree	JP	AS	2	moderno	Tokyo Skytree
+kinkakuji	Kinkaku-ji	JP	AS	3	sagrado	Pabellón Dorado
+himeji	Himeji Castle	JP	AS	3	monumento	Castillo de Himeji
+itsukushima	Itsukushima Shrine	JP	AS	3	sagrado	Santuario de Itsukushima
+gardensbay	Gardens by the Bay	SG	AS	3	moderno	Gardens by the Bay
+hoian	Hội An	VN	AS	3	ciudad	Hoi An
+tanahlot	Tanah Lot	ID	AS	3	sagrado	Tanah Lot
+bromo	Mount Bromo	ID	AS	3	naturaleza	Monte Bromo
+bagan	Bagan	MM	AS	3	antiguo	Bagan
+shwedagon	Shwedagon Pagoda	MM	AS	3	sagrado	Pagoda de Shwedagon
+watarun	Wat Arun	TH	AS	3	sagrado	Wat Arun
+zhangjiajie	Zhangjiajie National Forest Park	CN	AS	3	naturaleza	Montañas de Zhangjiajie
+rioli	Li River	CN	AS	3	naturaleza	Río Li
+hawamahal	Hawa Mahal	IN	AS	3	monumento	Hawa Mahal
+puertaindia	Gateway of India	IN	AS	3	monumento	Puerta de la India
+taktsang	Paro Taktsang	BT	AS	3	sagrado	Nido del Tigre
+sigiriya	Sigiriya	LK	AS	3	antiguo	Sigiriya
+registan	Registan	UZ	AS	3	monumento	Registán de Samarcanda
+naqshjahan	Naqsh-e Jahan Square	IR	AS	3	monumento	Plaza Naqsh-e Jahan
+persepolis	Persepolis	IR	AS	3	antiguo	Persépolis
+pamukkale	Pamukkale	TR	AS	3	naturaleza	Pamukkale
+wadirum	Wadi Rum	JO	AS	3	naturaleza	Wadi Rum
+gyeongbokgung	Gyeongbokgung	KR	AS	3	monumento	Palacio Gyeongbokgung
+chocolate	Chocolate Hills	PH	AS	3	naturaleza	Colinas de Chocolate
+banaue	Banaue Rice Terraces	PH	AS	3	naturaleza	Terrazas de arroz de Banaue
+baikal	Lake Baikal	RU	AS	3	naturaleza	Lago Baikal
+perlaoriental	Oriental Pearl Tower	CN	AS	3	moderno	Torre Perla Oriental
+giza	Giza pyramid complex	EG	AF	1	antiguo	Pirámides de Guiza
+esfinge	Great Sphinx of Giza	EG	AF	1	antiguo	Gran Esfinge de Guiza
+kilimanjaro	Mount Kilimanjaro	TZ	AF	1	naturaleza	Kilimanjaro
+abusimbel	Abu Simbel	EG	AF	2	antiguo	Abu Simbel
+victoria	Victoria Falls	ZM,ZW	AF	2	naturaleza	Cataratas Victoria
+mesa	Table Mountain	ZA	AF	2	naturaleza	Montaña de la Mesa
+serengeti	Serengeti National Park	TZ	AF	2	naturaleza	Serengueti
+karnak	Karnak	EG	AF	3	antiguo	Templo de Karnak
+chefchaouen	Chefchaouen	MA	AF	3	ciudad	Chefchaouen
+jemaa	Jemaa el-Fnaa	MA	AF	3	ciudad	Plaza Jemaa el-Fna
+hassan2	Hassan II Mosque	MA	AF	3	sagrado	Mezquita Hassan II
+baobabs	Avenue of the Baobabs	MG	AF	3	naturaleza	Avenida de los Baobabs
+sossusvlei	Sossusvlei	NA	AF	3	naturaleza	Sossusvlei
+lalibela	Church of Saint George, Lalibela	ET	AF	3	sagrado	Iglesia de San Jorge de Lalibela
+djenne	Great Mosque of Djenné	ML	AF	3	sagrado	Gran Mezquita de Djenné
+okavango	Okavango Delta	BW	AF	3	naturaleza	Delta del Okavango
+ngorongoro	Ngorongoro Conservation Area	TZ	AF	3	naturaleza	Cráter del Ngorongoro
+eljem	Amphitheatre of El Jem	TN	AF	3	antiguo	Anfiteatro de El Djem
+zimbabue	Great Zimbabwe	ZW	AF	3	antiguo	Gran Zimbabue
+buenaesperanza	Cape of Good Hope	ZA	AF	3	naturaleza	Cabo de Buena Esperanza
+meroe	Pyramids of Meroë	SD	AF	3	antiguo	Pirámides de Meroe
+libertad	Statue of Liberty	US	NA	1	monumento	Estatua de la Libertad
+goldengate	Golden Gate Bridge	US	NA	1	monumento	Puente Golden Gate
+grancanon	Grand Canyon	US	NA	1	naturaleza	Gran Cañón
+niagara	Niagara Falls	US,CA	NA	1	naturaleza	Cataratas del Niágara
+chichenitza	Chichen Itza	MX	NA	1	antiguo	Chichén Itzá
+rushmore	Mount Rushmore	US	NA	1	monumento	Monte Rushmore
+timessquare	Times Square	US	NA	2	ciudad	Times Square
+empirestate	Empire State Building	US	NA	2	moderno	Empire State
+hollywood	Hollywood Sign	US	NA	2	moderno	Letrero de Hollywood
+casablanca	White House	US	NA	2	monumento	Casa Blanca
+cntower	CN Tower	CA	NA	2	moderno	Torre CN
+teotihuacan	Teotihuacan	MX	NA	2	antiguo	Teotihuacán
+canalpanama	Panama Canal	PA	NA	2	moderno	Canal de Panamá
+spaceneedle	Space Needle	US	NA	3	moderno	Space Needle
+prismatic	Grand Prismatic Spring	US	NA	3	naturaleza	Gran Fuente Prismática
+antelope	Antelope Canyon	US	NA	3	naturaleza	Cañón del Antílope
+monumentvalley	Monument Valley	US	NA	3	naturaleza	Monument Valley
+horseshoe	Horseshoe Bend (Arizona)	US	NA	3	naturaleza	Horseshoe Bend
+halfdome	Half Dome	US	NA	3	naturaleza	Half Dome
+gatewayarch	Gateway Arch	US	NA	3	moderno	Arco Gateway
+moraine	Moraine Lake	CA	NA	3	naturaleza	Lago Moraine
+frontenac	Château Frontenac	CA	NA	3	monumento	Château Frontenac
+tulum	Tulum	MX	NA	3	antiguo	Tulum
+palenque	Palenque	MX	NA	3	antiguo	Palenque
+tikal	Tikal	GT	NA	3	antiguo	Tikal
+arenal	Arenal Volcano	CR	NA	3	naturaleza	Volcán Arenal
+habana	Old Havana	CU	NA	3	ciudad	La Habana Vieja
+agujeroazul	Great Blue Hole	BZ	NA	3	naturaleza	Gran Agujero Azul
+machupicchu	Machu Picchu	PE	SA	1	antiguo	Machu Picchu
+cristo	Christ the Redeemer (statue)	BR	SA	1	monumento	Cristo Redentor
+iguazu	Iguazu Falls	AR,BR	SA	1	naturaleza	Cataratas del Iguazú
+moai	Moai	CL	SA	1	antiguo	Moáis de Isla de Pascua
+panazucar	Sugarloaf Mountain	BR	SA	2	naturaleza	Pan de Azúcar
+uyuni	Salar de Uyuni	BO	SA	2	naturaleza	Salar de Uyuni
+peritomoreno	Perito Moreno Glacier	AR	SA	2	naturaleza	Glaciar Perito Moreno
+torrespaine	Torres del Paine National Park	CL	SA	2	naturaleza	Torres del Paine
+galapagos	Galápagos Islands	EC	SA	2	naturaleza	Islas Galápagos
+saltoangel	Angel Falls	VE	SA	2	naturaleza	Salto Ángel
+titicaca	Lake Titicaca	PE,BO	SA	2	naturaleza	Lago Titicaca
+amazonas	Amazon River	BR,PE,CO	SA	2	naturaleza	Río Amazonas
+cartagena	Cartagena, Colombia	CO	SA	2	ciudad	Ciudad amurallada de Cartagena
+vinicunca	Vinicunca	PE	SA	3	naturaleza	Montaña de Siete Colores
+nazca	Nazca Lines	PE	SA	3	antiguo	Líneas de Nazca
+lencois	Lençóis Maranhenses National Park	BR	SA	3	naturaleza	Lençóis Maranhenses
+valleluna	Valle de la Luna (Chile)	CL	SA	3	naturaleza	Valle de la Luna
+fitzroy	Monte Fitz Roy	AR	SA	3	naturaleza	Monte Fitz Roy
+obelisco	Obelisco de Buenos Aires	AR	SA	3	monumento	Obelisco de Buenos Aires
+cotopaxi	Cotopaxi	EC	SA	3	naturaleza	Volcán Cotopaxi
+canocristales	Caño Cristales	CO	SA	3	naturaleza	Caño Cristales
+laslajas	Las Lajas Sanctuary	CO	SA	3	sagrado	Santuario de Las Lajas
+ciudadperdida	Ciudad Perdida	CO	SA	3	antiguo	Ciudad Perdida
+cocora	Cocora Valley	CO	SA	3	naturaleza	Valle de Cocora
+kaieteur	Kaieteur Falls	GY	SA	3	naturaleza	Cataratas Kaieteur
+operasydney	Sydney Opera House	AU	OC	1	moderno	Ópera de Sídney
+uluru	Uluru	AU	OC	2	naturaleza	Uluru
+barrera	Great Barrier Reef	AU	OC	2	naturaleza	Gran Barrera de Coral
+harbour	Sydney Harbour Bridge	AU	OC	2	monumento	Puente de la Bahía de Sídney
+apostoles	Twelve Apostles (Victoria)	AU	OC	3	naturaleza	Los Doce Apóstoles
+milford	Milford Sound	NZ	OC	3	naturaleza	Milford Sound
+borabora	Bora Bora	PF	OC	3	naturaleza	Bora Bora
+aoraki	Aoraki / Mount Cook	NZ	OC	3	naturaleza	Aoraki / Monte Cook
+bondi	Bondi Beach	AU	OC	3	ciudad	Playa Bondi

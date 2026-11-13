@@ -1,0 +1,38 @@
+name: Fotos 1 - candidatas y datos
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/fotos/lugares.tsv'
+      - 'tools/fotos/candidatas.py'
+      - 'tools/fotos/paises.txt'
+      - 'tools/fotos/rehacer.txt'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fotos
+  cancel-in-progress: false
+jobs:
+  candidatas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests pillow
+      - name: Rehacer los lugares de rehacer.txt
+        run: |
+          if [ -f tools/fotos/rehacer.txt ]; then
+            for id in $(cat tools/fotos/rehacer.txt); do rm -f "tools/fotos/out/lugares/$id.json"; done
+          fi
+      - run: python tools/fotos/candidatas.py
+      - name: Guardar
+        run: |
+          git config user.name "trotamundos-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add tools/fotos/out
+          git commit -m "Fotos: candidatas y datos [bot]" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep 5; done

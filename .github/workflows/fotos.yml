@@ -1,0 +1,31 @@
+name: Fotos 2 - bajar las elegidas
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/fotos/elegidas.json'
+      - 'tools/fotos/fotos.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fotos
+  cancel-in-progress: false
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests pillow
+      - run: python tools/fotos/fotos.py
+      - name: Guardar
+        run: |
+          git config user.name "trotamundos-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add fotos
+          git commit -m "Fotos: elegidas en buena resolucion [bot]" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep 5; done
