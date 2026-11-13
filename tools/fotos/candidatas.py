@@ -23,14 +23,14 @@ CM = 'https://commons.wikimedia.org/w/api.php'
 FORCE = os.environ.get('FORCE', '') == '1'
 
 
-def get(url, params=None, tries=7, raw=False):
+def get(url, params=None, tries=9, raw=False):
     last = None
     for i in range(tries):
         try:
             r = S.get(url, params=params, timeout=40)
             if r.status_code in (429, 502, 503, 504):
-                wait = int(r.headers.get('Retry-After', '0') or 0) or 3 * (i + 1)
-                time.sleep(min(wait, 60))
+                wait = int(r.headers.get('Retry-After', '0') or 0) or 4 * (i + 1)
+                time.sleep(min(wait, 90))
                 continue
             r.raise_for_status()
             if raw:
@@ -185,7 +185,7 @@ def place_data(row):
     # busqueda en Commons por si las del articulo no alcanzan
     try:
         sr = api(CM, action='query', list='search', srnamespace=6, srlimit=12,
-                 srsearch=f'{d["enwiki"]} filetype:bitmap -map -plan -logo')
+                 srsearch=f'{row.get("buscar") or d["enwiki"]} filetype:bitmap -map -plan -logo')
         for i, h in enumerate(sr.get('query', {}).get('search', [])):
             add(h['title'], 1 if i < 4 else 0, 'busqueda')
     except Exception as e:
