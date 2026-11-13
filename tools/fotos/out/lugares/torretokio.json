@@ -1,0 +1,206 @@
+{
+ "id": "torretokio",
+ "enwiki": "Tokyo Tower",
+ "endesc": "Communications and observation tower in Japan",
+ "qid": "Q183536",
+ "coord": [
+  35.658611111111114,
+  139.74555555555557
+ ],
+ "label_es": "Torre de Tokio",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1957-05-08T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1958-12-23T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 332.6,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q1440300",
+  "Q1068623",
+  "Q1440476",
+  "Q2319498"
+ ],
+ "p17": [
+  "Q17"
+ ],
+ "unesco": false,
+ "eswiki": "Torre de Tokio",
+ "extracto_es": "La Torre de Tokio (東京タワー, Tōkyō tawā?, llamada oficialmente 日本電波塔 Nippon denpatō, literalmente «Torre de Radio de Japón») es una torre de telecomunicaciones y de observación situada en la zona del Parque Shiba de Minato, Tokio, Japón. Con 332.9 m de altura, es la segunda estructura más alta de Japón. Es una torre de celosía inspirada en la Torre Eiffel que está pintada de color blanco y naranja internacional para cumplir las regulaciones de seguridad aérea.\nConstruida en 1958, sus principales fuentes de ingresos son el turismo y el alquiler de la antena. Más de 150 millones de personas han visitado la torre desde su inauguración. FootTown, un edificio de cuatro plantas situado justo debajo de la torre, alberga museos, restaurantes y tiendas. Desde allí, los visitantes también pueden acceder a los dos miradores: el mirador principal (Main Deck), que tiene dos plantas y se encuentra a 150 m de altura; y el Top Deck, más pequeño, que se encuentra a una altura de 249.6 m.​\nLa torre actúa como estructura de soporte de una antena de telecomunicaciones. Destinada inicialmente a la radiodifusión de televisión, en 1961 se instalaron también antenas de radio, pero actualmente la torre emite señales de cadenas de televisión japonesas como NHK, TBS y Fuji TV. Tras la transición a la televisión digital en Japón, planificada para julio de 2011, la altura de la Torre de Tokio no resultaba suficiente para soportar una completa radiodifusión de televisión digital terrestre a la zona, por lo que el 29 de febrero de 2012 se construyó una torre de radiodifusión digital más alta, llamada Tokyo Skytree.\nDesde su finalización en 1958, la Torre de Tokio se ha convertido en uno de los símbolos de la ciudad, y aparece frecuentemente en las producciones audiovisuales ambientadas en Tokio.",
+ "candidatas": [
+  {
+   "file": "File:Tokyo Tower, Minato City.jpg",
+   "w": 5991,
+   "h": 3370,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tokyo_Tower%2C_Minato_City.jpg/330px-Tokyo_Tower%2C_Minato_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tokyo_Tower%2C_Minato_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower,_Minato_City.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "David Kernan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-12-03 08:04:36",
+   "calidad": [
+    "FP",
+    "QI",
+    "VI"
+   ],
+   "qpts": 12,
+   "puntos": 18,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Tokyo Tower 2023.jpg",
+   "w": 3456,
+   "h": 4608,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Tokyo_Tower_2023.jpg/330px-Tokyo_Tower_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Tokyo_Tower_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_2023.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Akonnchiroll",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-05-16 17:46:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Minato City, Tokyo, Japan (Night).jpg",
+   "w": 4622,
+   "h": 2600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Minato_City%2C_Tokyo%2C_Japan_%28Night%29.jpg/330px-Minato_City%2C_Tokyo%2C_Japan_%28Night%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Minato_City%2C_Tokyo%2C_Japan_%28Night%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan_(Night).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "David Kernan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "4 December 2023, 16:",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Tokyo Tower-20091017-RM-103413.jpg",
+   "w": 2793,
+   "h": 3913,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tokyo_Tower-20091017-RM-103413.jpg/330px-Tokyo_Tower-20091017-RM-103413.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tokyo_Tower-20091017-RM-103413.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower-20091017-RM-103413.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Reinhold Möller Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-10-17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Tokyo Tower-20091017-RM-102813.jpg",
+   "w": 2691,
+   "h": 3803,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Tokyo_Tower-20091017-RM-102813.jpg/330px-Tokyo_Tower-20091017-RM-102813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Tokyo_Tower-20091017-RM-102813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower-20091017-RM-102813.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Reinhold Möller Ermell",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-10-17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:TaroTokyo20110213-TokyoTower-01.jpg",
+   "w": 3264,
+   "h": 4912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/TaroTokyo20110213-TokyoTower-01.jpg/330px-TaroTokyo20110213-TokyoTower-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/TaroTokyo20110213-TokyoTower-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:TaroTokyo20110213-TokyoTower-01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "東京太郎",
+   "credito": "自身で撮影",
+   "nonfree": "",
+   "fecha": "2011-02-13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Shiba-koen, aerial view on Tokyo Tower at dusk (Unsplash).jpg",
+   "w": 5760,
+   "h": 3840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Shiba-koen%2C_aerial_view_on_Tokyo_Tower_at_dusk_%28Unsplash%29.jpg/330px-Shiba-koen%2C_aerial_view_on_Tokyo_Tower_at_dusk_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Shiba-koen%2C_aerial_view_on_Tokyo_Tower_at_dusk_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Shiba-koen,_aerial_view_on_Tokyo_Tower_at_dusk_(Unsplash).jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Kazuend",
+   "credito": "https://unsplash.com/photos/r61cOIjDf3o\n\narchive copy at the Wayback Machine",
+   "nonfree": "",
+   "fecha": "2015-07-14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Tokyo Tower and Tokyo Sky Tree 2011 January.jpg",
+   "w": 3840,
+   "h": 2360,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg/330px-Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_and_Tokyo_Sky_Tree_2011_January.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Morio",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-01-18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

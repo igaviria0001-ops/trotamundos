@@ -1,0 +1,195 @@
+{
+ "id": "jiuzhaigou",
+ "enwiki": "Jiuzhaigou",
+ "endesc": "Nature reserve and national park in Sichuan, China",
+ "qid": "Q4111",
+ "coord": [
+  33.2,
+  103.9
+ ],
+ "label_es": "Jiuzhaigou",
+ "desc_es": "región de interés panorámico e histórico de China",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1978-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 72000.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q473972",
+  "Q39816",
+  "Q46169",
+  "Q6838244"
+ ],
+ "p17": [
+  "Q148"
+ ],
+ "unesco": true,
+ "eswiki": "Jiuzhaigou",
+ "extracto_es": "Jiuzhaigou (Chino simplificado: 九寨沟; Chino tradicional: 九寨溝; pinyin: Jiǔzhàigōu; literalmente: \"Valle de Nueve Aldeas\"; Tibetano: གཟི་རྩ་སྡེ་དགུ) es una reserva natural y parque nacional situado en el cantón de Nanping, en la provincia de Sichuan, China.\nLas aldeas son de etnia tibetana. La Región de interés panorámico e histórico del Valle de Jiuzhaigou fueron declaradas Patrimonio de la Humanidad por la Unesco en el año 1992 y Reserva Mundial de la Biosfera en 1997. Abarca una superficie protegida de 72.000 ha.\nEl valle de Jiuzhaigou es parte de las montañas Min y es famoso por sus cascadas, coloridos lagos y picos nevados. Su elevación varía entre los 2.000 y 4.500 metros.",
+ "candidatas": [
+  {
+   "file": "File:1 jiuzhaigou valley wu hua hai 2011b.jpg",
+   "w": 4180,
+   "h": 2781,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/330px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Chensiyuan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 15,
+   "origen": "en"
+  },
+  {
+   "file": "File:1 nuorilang jiuzhaigou 2023.jpg",
+   "w": 10734,
+   "h": 8448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/1_nuorilang_jiuzhaigou_2023.jpg/330px-1_nuorilang_jiuzhaigou_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/1_nuorilang_jiuzhaigou_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_nuorilang_jiuzhaigou_2023.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Chensiyuan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-08-24 00:06:23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Jiuzhaigou Sichuan China Panda-Lake-02.jpg",
+   "w": 3782,
+   "h": 2449,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Jiuzhaigou_Sichuan_China_Panda-Lake-02.jpg/330px-Jiuzhaigou_Sichuan_China_Panda-Lake-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Jiuzhaigou_Sichuan_China_Panda-Lake-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Jiuzhaigou_Sichuan_China_Panda-Lake-02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "CEphoto, Uwe Aranas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-05-30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Jiuzhaigou Pearl Waterfall 2005-08-21.jpeg",
+   "w": 1280,
+   "h": 960,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jiuzhaigou_Pearl_Waterfall_2005-08-21.jpeg/330px-Jiuzhaigou_Pearl_Waterfall_2005-08-21.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Jiuzhaigou_Pearl_Waterfall_2005-08-21.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Jiuzhaigou_Pearl_Waterfall_2005-08-21.jpeg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Noé Lecocq",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Jiuzhaigou Valley.jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Jiuzhaigou_Valley.jpg/330px-Jiuzhaigou_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jiuzhaigou_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Jiuzhaigou_Valley.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Utoper",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Pagodas in in Jiuzhaigou Valley 20260511-1.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Pagodas_in_in_Jiuzhaigou_Valley_20260511-1.jpg/330px-Pagodas_in_in_Jiuzhaigou_Valley_20260511-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pagodas_in_in_Jiuzhaigou_Valley_20260511-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pagodas_in_in_Jiuzhaigou_Valley_20260511-1.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Suicasmo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-05-11 14:23:17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:1 jiuzhaigou valley five colour pond 2011.JPG",
+   "w": 4912,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1_jiuzhaigou_valley_five_colour_pond_2011.JPG/330px-1_jiuzhaigou_valley_five_colour_pond_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1_jiuzhaigou_valley_five_colour_pond_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_five_colour_pond_2011.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "chensiyuan",
+   "credito": "chensiyuan",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:1 jiuzhaigou valley nuorilang falls 2011.jpg",
+   "w": 4256,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/1_jiuzhaigou_valley_nuorilang_falls_2011.jpg/330px-1_jiuzhaigou_valley_nuorilang_falls_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/1_jiuzhaigou_valley_nuorilang_falls_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_nuorilang_falls_2011.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "chensiyuan",
+   "credito": "chensiyuan",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "id": "taprohm",
+ "enwiki": "Ta Prohm",
+ "endesc": "Buddhist temple in Siem Reap, Cambodia",
+ "qid": "Q592846",
+ "coord": [
+  13.435,
+  103.88916666667
+ ],
+ "label_es": "Ta Prohm",
+ "desc_es": null,
+ "inicio": [],
+ "p31": [
+  "Q839954"
+ ],
+ "p17": [
+  "Q424"
+ ],
+ "unesco": false,
+ "eswiki": "Ta Prohm",
+ "extracto_es": "Ta Prohm es un templo jemer de finales del siglo XII, ubicado en el complejo de Angkor (Camboya), declarado Patrimonio de la Humanidad por la Unesco en 1992.​\nDenominado originalmente Rajavihara (\"monasterio real\"),​ el templo sirvió como monasterio budista, llegando a alojar al menos a 12.640 personas.​ En la actualidad la fama de este templo se debe al hecho de ser uno de los pocos monumentos que todavía no ha sido \"rescatado de la selva\", pues fue el templo elegido por la École française d'Extrême-Orient para mostrar el estado en el que se encontraban los templos de Angkor a finales del siglo XIX, cuando fueron descubiertos por los occidentales.​ A raíz de esta falta de intervención, el lugar ofrece una impactante combinación de ruinas y naturaleza que lo han convertido en una de las principales atracciones turísticas de Camboya.",
+ "candidatas": [
+  {
+   "file": "File:Ta Phrom, Angkor, Camboya, 2013-08-16, DD 41.JPG",
+   "w": 3538,
+   "h": 5078,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_41.JPG/330px-Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_41.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_41.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_41.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-16 13:15:18",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 13,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ta Prohm (III).jpg",
+   "w": 5071,
+   "h": 3381,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ta_Prohm_%28III%29.jpg/330px-Ta_Prohm_%28III%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ta_Prohm_%28III%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ta_Prohm_(III).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-21 13:40:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Ta Phrom, Angkor, Camboya, 2013-08-16, DD 14.JPG",
+   "w": 4575,
+   "h": 3050,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_14.JPG/330px-Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_14.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-16 12:45:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ta Phrom, Angkor, Camboya, 2013-08-16, DD 01.JPG",
+   "w": 5042,
+   "h": 2834,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_01.JPG/330px-Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_01.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-16 12:33:01",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ta Phrom, Angkor, Camboya, 2013-08-16, DD 03.JPG",
+   "w": 5098,
+   "h": 3398,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_03.JPG/330px-Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_03.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-16 12:34:33",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ta Phrom, Angkor, Camboya, 2013-08-16, DD 39.JPG",
+   "w": 5573,
+   "h": 3307,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_39.JPG/330px-Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_39.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_39.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_39.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-16 13:13:28",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ta Phrom, Angkor, Camboya, 2013-08-16, DD 50.JPG",
+   "w": 5130,
+   "h": 2734,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_50.JPG/330px-Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_50.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_50.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_50.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-16 13:21:37",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Ta Phrom, Angkor, Camboya, 2013-08-16, DD 53.JPG",
+   "w": 5524,
+   "h": 3683,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_53.JPG/330px-Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_53.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_53.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_53.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-16 13:25:24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "id": "hiroshima",
+ "enwiki": "Hiroshima Peace Memorial",
+ "endesc": "Preserved ruins of the atomic bombing of Hiroshima, Japan",
+ "qid": "Q231140",
+ "coord": [
+  34.395555555556,
+  132.45361111111
+ ],
+ "label_es": "Monumento de la Paz de Hiroshima",
+ "desc_es": "monumento Conmemorativo tras la devastación nuclear",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1915-04-05T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1915-08-05T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "altura": [
+  {
+   "v": 25.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 0.4,
+   "u": "Q35852"
+  },
+  {
+   "v": 42.7,
+   "u": "Q35852"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 1981617.0,
+   "u": "1"
+  },
+  {
+   "v": 2264543.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q95652804",
+  "Q5003624"
+ ],
+ "p17": [
+  "Q17"
+ ],
+ "unesco": true,
+ "eswiki": "Monumento de la Paz de Hiroshima",
+ "extracto_es": "La Conmemoración de la Paz de Hiroshima o Memorial de la Paz de Hiroshima, llamada también Cúpula Genbaku (原爆ドーム, Genbaku Dōmu?) o Cúpula de la Bomba Atómica por los japoneses, se encuentra en Hiroshima, Japón.\nEl edificio fue originalmente proyectado por el arquitecto checo Jan Letzel para la Exposición Comercial de la Prefectura de Hiroshima (HMI). Fue terminado en abril de 1915 e inaugurado oficialmente en agosto de ese año. Es una construcción de ladrillo y hormigón con una cúpula de estructura de acero. Desde 1996 está en la lista del Patrimonio de la Humanidad de la Unesco.​\nEl hipocentro de la explosión de la primera bomba atómica arrojada sobre una población civil de 6 de agosto de 1945 se situó a una distancia de apenas 150 metros en la horizontal y 600 metros en la vertical del edificio, fue la estructura más próxima que resistió al impacto. El edificio fue inmediatamente preservado exactamente como se encontraba después del bombardeo, sirve hoy como un monumento conmemorativo de la devastación nuclear y un símbolo de esperanza en la paz mundial y la eliminación de todas las armas nucleares.",
+ "candidatas": [
+  {
+   "file": "File:Genbaku Dome04-r.JPG",
+   "w": 5040,
+   "h": 3360,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Genbaku_Dome04-r.JPG/330px-Genbaku_Dome04-r.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Genbaku_Dome04-r.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Genbaku_Dome04-r.JPG",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "Oilstreet",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-12-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:A-bomb dome at night.jpg",
+   "w": 3580,
+   "h": 2685,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/A-bomb_dome_at_night.jpg/330px-A-bomb_dome_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/A-bomb_dome_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A-bomb_dome_at_night.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "FrottingPencil",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-06-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hiroshima A-bomb dome.jpg",
+   "w": 4622,
+   "h": 3081,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hiroshima_A-bomb_dome.jpg/330px-Hiroshima_A-bomb_dome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hiroshima_A-bomb_dome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hiroshima_A-bomb_dome.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Geertchaos",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hiroshima Peace Memorial9.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Hiroshima_Peace_Memorial9.jpg/330px-Hiroshima_Peace_Memorial9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Hiroshima_Peace_Memorial9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial9.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tripog",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-05-09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hiroshima Peace Memorial Park - HiroshimaPeace128.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hiroshima_Peace_Memorial_Park_-_HiroshimaPeace128.jpg/330px-Hiroshima_Peace_Memorial_Park_-_HiroshimaPeace128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Hiroshima_Peace_Memorial_Park_-_HiroshimaPeace128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Park_-_HiroshimaPeace128.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "lumoplank",
+   "credito": "https://www.flickr.com/photos/199350666@N08/53268177340",
+   "nonfree": "",
+   "fecha": "before 18 October 20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hiroshima Peace Memorial Park - HiroshimaPeace132.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Hiroshima_Peace_Memorial_Park_-_HiroshimaPeace132.jpg/330px-Hiroshima_Peace_Memorial_Park_-_HiroshimaPeace132.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hiroshima_Peace_Memorial_Park_-_HiroshimaPeace132.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Park_-_HiroshimaPeace132.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "lumoplank",
+   "credito": "https://www.flickr.com/photos/199350666@N08/53266817697",
+   "nonfree": "",
+   "fecha": "before 18 October 20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Hiroshima UNODA (cropped).jpg",
+   "w": 2833,
+   "h": 1888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Hiroshima_UNODA_%28cropped%29.jpg/330px-Hiroshima_UNODA_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Hiroshima_UNODA_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hiroshima_UNODA_(cropped).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hhc1984",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-06-30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Hiroshima dome.JPG",
+   "w": 4928,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Hiroshima_dome.JPG/330px-Hiroshima_dome.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Hiroshima_dome.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hiroshima_dome.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Dariusz Jemielniak (\"Pundit\")",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-07-04 00:13:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

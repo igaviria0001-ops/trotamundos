@@ -1,0 +1,196 @@
+{
+ "id": "todaiji",
+ "enwiki": "Tōdai-ji",
+ "endesc": "Buddhist temple in Nara, Japan",
+ "qid": "Q460367",
+ "coord": [
+  34.689166666667,
+  135.83972222222
+ ],
+ "label_es": "Tōdai-ji",
+ "desc_es": "templo budista en Nara, Japón",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0752-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 68.9,
+   "u": "Q35852"
+  },
+  {
+   "v": 327.9,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q5393308",
+  "Q1207757",
+  "Q10901138"
+ ],
+ "p17": [
+  "Q17"
+ ],
+ "unesco": false,
+ "eswiki": "Tōdai-ji",
+ "extracto_es": "Tōdai-ji (東大寺, Tōdai-ji?   gran templo oriental) es un templo budista que se encuentra en Nara, Japón. Alberga una estatua gigante del Buda Vairocana (llamado dainichi en japonés; significa \"Buda que brilla a lo largo del mundo como el sol\"), conocido simplemente como daibutsu (Gran Buda), al igual que otras grandes figuras de Buda en Japón. Esta gran figura se encuentra ahora mismo en una piscina ubicada dentro del templo. Se cree que esta “piscina” es un manantial con cualidades curativas. El templo también sirve como los cuarteles japoneses de la escuela Kegon del budismo. Aun habiendo sido reconstruido 2 veces por causa de incendios provocados por la guerra siendo así un 33% más pequeño que el original, ostenta el récord mundial siendo la construcción de madera más grande del mundo.\nLos ciervos sika, protegidos oficialmente como tesoros nacionales y considerados como mensajeros de los dioses  por el sintoísmo, vagan por el terreno libremente. Son utilizados como reclamo turístico y se les puede alimentar, previa compra de una especie de obleas que venden dentro del recinto, además ellos se dejan tocar y llegan a oler las obleas desde metros para luego acompañarte para que les des obleas, en cambio hay otras veces que cuando no les das las obleas te llegan a morder empujar o atacar, por lo que no muestran ningún temor hacia las personas.\nEl templo y su área circundante, junto a otros edificios, fueron declarados por la Unesco como Patrimonio de la Humanidad como parte de los \"Monumentos históricos de la antigua Nara\" en 1998.​",
+ "candidatas": [
+  {
+   "file": "File:Daibutsu-den in Todaiji Nara02bs3200.jpg",
+   "w": 3200,
+   "h": 2130,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Daibutsu-den_in_Todaiji_Nara02bs3200.jpg/330px-Daibutsu-den_in_Todaiji_Nara02bs3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Daibutsu-den_in_Todaiji_Nara02bs3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Daibutsu-den_in_Todaiji_Nara02bs3200.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "663highland",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-07-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Nara 2020 at Chūmon, Todaiji.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Nara_2020_at_Ch%C5%ABmon%2C_Todaiji.jpg/330px-Nara_2020_at_Ch%C5%ABmon%2C_Todaiji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nara_2020_at_Ch%C5%ABmon%2C_Todaiji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Nara_2020_at_Ch%C5%ABmon,_Todaiji.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Chainwit.",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-04 08:48:44",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Aerial perspective of Tōdai-ji Buddhist Temple.jpg",
+   "w": 4032,
+   "h": 2268,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Aerial_perspective_of_T%C5%8Ddai-ji_Buddhist_Temple.jpg/330px-Aerial_perspective_of_T%C5%8Ddai-ji_Buddhist_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Aerial_perspective_of_T%C5%8Ddai-ji_Buddhist_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_perspective_of_T%C5%8Ddai-ji_Buddhist_Temple.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bob Tan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-01 01:15:46",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Daibutsu-den in Todaiji Nara01bs3200.jpg",
+   "w": 3200,
+   "h": 2130,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Daibutsu-den_in_Todaiji_Nara01bs3200.jpg/330px-Daibutsu-den_in_Todaiji_Nara01bs3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Daibutsu-den_in_Todaiji_Nara01bs3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Daibutsu-den_in_Todaiji_Nara01bs3200.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "663highland",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-07-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Tōdai-ji Kon-dō.jpg",
+   "w": 2500,
+   "h": 2000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/T%C5%8Ddai-ji_Kon-d%C5%8D.jpg/330px-T%C5%8Ddai-ji_Kon-d%C5%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/T%C5%8Ddai-ji_Kon-d%C5%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_Kon-d%C5%8D.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Wiiii",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-09-01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Tōdai-ji hdsr IMG 3869.jpg",
+   "w": 5039,
+   "h": 3359,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/T%C5%8Ddai-ji_hdsr_IMG_3869.jpg/330px-T%C5%8Ddai-ji_hdsr_IMG_3869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/T%C5%8Ddai-ji_hdsr_IMG_3869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_hdsr_IMG_3869.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hyppolyte de Saint-Rambert",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-02-11 08:54:54",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Tōdai-ji hdsr IMG 3862.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/T%C5%8Ddai-ji_hdsr_IMG_3862.jpg/330px-T%C5%8Ddai-ji_hdsr_IMG_3862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/T%C5%8Ddai-ji_hdsr_IMG_3862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_hdsr_IMG_3862.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Hyppolyte de Saint-Rambert",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-02-11 08:53:16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:200604 Model of Todaiji Kondo of its foundation.jpg",
+   "w": 7360,
+   "h": 4140,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg/330px-200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "名古屋太郎",
+   "credito": "Own work PENTAX K-1 + smc PENTAX-A MACRO 1:2.8 100mm",
+   "nonfree": "",
+   "fecha": "2020-06-04",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

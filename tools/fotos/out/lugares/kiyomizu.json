@@ -1,0 +1,198 @@
+{
+ "id": "kiyomizu",
+ "enwiki": "Kiyomizu-dera",
+ "endesc": "Buddhist temple in Kyoto, Japan",
+ "qid": "Q221716",
+ "coord": [
+  34.994830555556,
+  135.78500277778
+ ],
+ "label_es": null,
+ "desc_es": "templo budista en Kioto, Japón",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0778-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 12.3,
+   "u": "Q35852"
+  },
+  {
+   "v": 161.1,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q5393308"
+ ],
+ "p17": [
+  "Q17"
+ ],
+ "unesco": false,
+ "eswiki": "Kiyomizu-dera",
+ "extracto_es": "Kiyomizu-dera (o Kiyomizudera, 清水寺,(en japonés templo del agua pura) denomina a varios templos budistas, y más comúnmente se refiere al templo Otowasan Kiyomizudera (音羽山清水寺) en la ciudad de Kioto, Japón. El conjunto forma parte de los Monumentos históricos de la antigua Kioto, pertenecientes al Patrimonio de la Humanidad declarado por la Unesco.​",
+ "candidatas": [
+  {
+   "file": "File:Kiyomizu-dera, Kyoto, November 2016 -02.jpg",
+   "w": 5659,
+   "h": 3738,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg/330px-Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-11-16 14:09:27",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Kiyomizu-dera, Kyoto, November 2016 -06.jpg",
+   "w": 5756,
+   "h": 3362,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kiyomizu-dera%2C_Kyoto%2C_November_2016_-06.jpg/330px-Kiyomizu-dera%2C_Kyoto%2C_November_2016_-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kiyomizu-dera%2C_Kyoto%2C_November_2016_-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-06.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Martin Falbisoner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-11-18 18:35:18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Nio-mon, Kiyomizu-dera Temple, Kyoto, West view 20190416 1.jpg",
+   "w": 7000,
+   "h": 4670,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Nio-mon%2C_Kiyomizu-dera_Temple%2C_Kyoto%2C_West_view_20190416_1.jpg/330px-Nio-mon%2C_Kiyomizu-dera_Temple%2C_Kyoto%2C_West_view_20190416_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nio-mon%2C_Kiyomizu-dera_Temple%2C_Kyoto%2C_West_view_20190416_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Nio-mon,_Kiyomizu-dera_Temple,_Kyoto,_West_view_20190416_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "DXR",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-04-16",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Kyoto-Kiyomizudera, Japan.jpg",
+   "w": 2560,
+   "h": 1920,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Kyoto-Kiyomizudera%2C_Japan.jpg/330px-Kyoto-Kiyomizudera%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kyoto-Kiyomizudera%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kyoto-Kiyomizudera,_Japan.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Alberto Carrasco Casado",
+   "credito": "Flickr: Kyoto-Kiyomizudera, Japan (2008)",
+   "nonfree": "",
+   "fecha": "2008-08-13 14:48:16",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:Kiyomizu.jpg",
+   "w": 1452,
+   "h": 969,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Kiyomizu.jpg/330px-Kiyomizu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kiyomizu.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jordy Meow",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-07-30 13:13:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Kiyoumizudera2.JPG",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Kiyoumizudera2.JPG/330px-Kiyoumizudera2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Kiyoumizudera2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kiyoumizudera2.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Haibo Lu",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "28 November 2015",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:清水寺 Kiyomizu-dera Temple.jpg",
+   "w": 4080,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%E6%B8%85%E6%B0%B4%E5%AF%BA_Kiyomizu-dera_Temple.jpg/330px-%E6%B8%85%E6%B0%B4%E5%AF%BA_Kiyomizu-dera_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/%E6%B8%85%E6%B0%B4%E5%AF%BA_Kiyomizu-dera_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%E6%B8%85%E6%B0%B4%E5%AF%BA_Kiyomizu-dera_Temple.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Takipoint123",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "19 August 2024, 15:4",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Kiyomizu-dera autumn night.jpg",
+   "w": 5538,
+   "h": 3829,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Kiyomizu-dera_autumn_night.jpg/330px-Kiyomizu-dera_autumn_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Kiyomizu-dera_autumn_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera_autumn_night.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "lumoplank",
+   "credito": "https://www.flickr.com/photos/199350666@N08/55128811750/",
+   "nonfree": "",
+   "fecha": "before 4 March 2026d",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

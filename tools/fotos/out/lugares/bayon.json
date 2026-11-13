@@ -1,0 +1,192 @@
+{
+ "id": "bayon",
+ "enwiki": "Bayon",
+ "endesc": "Khmer temple in Angkor Thom, Cambodia",
+ "qid": "Q654024",
+ "coord": [
+  13.441252,
+  103.858738
+ ],
+ "label_es": "Bayón",
+ "desc_es": null,
+ "inicio": [],
+ "p31": [
+  "Q44539",
+  "Q839954"
+ ],
+ "p17": [
+  "Q424"
+ ],
+ "unesco": false,
+ "eswiki": "Bayón",
+ "extracto_es": "El templo de Bayón es un complejo de culto en el centro de la antigua ciudad de Angkor Thom, que se encuentra en la región de Angkor, Camboya. El complejo de Angkor, incluido Angkor Thom, fue declarado Patrimonio de la Humanidad por la Unesco en 1992.​\nConstruido a finales del siglo XII, se terminó durante el reinado de Jayavarman VII. Fue creado en estilo budista. Es sobre todo conocido por sus 54 torres y cerca de 200 enigmáticas caras sonrientes.",
+ "candidatas": [
+  {
+   "file": "File:Bayon, Angkor Thom, Camboya, 2013-08-17, DD 37.JPG",
+   "w": 5533,
+   "h": 2499,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG/330px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bayon,_Angkor_Thom,_Camboya,_2013-08-17,_DD_37.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-17 15:17:46",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 18,
+   "origen": "en"
+  },
+  {
+   "file": "File:Das Lächeln von Angkor.jpg",
+   "w": 3872,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Das_L%C3%A4cheln_von_Angkor.jpg/330px-Das_L%C3%A4cheln_von_Angkor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Das_L%C3%A4cheln_von_Angkor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Das_L%C3%A4cheln_von_Angkor.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Hans Stieglitz",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2008-02-07",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:2016 Angkor, Angkor Thom, Bajon (09).jpg",
+   "w": 4830,
+   "h": 3220,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2016_Angkor%2C_Angkor_Thom%2C_Bajon_%2809%29.jpg/330px-2016_Angkor%2C_Angkor_Thom%2C_Bajon_%2809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/2016_Angkor%2C_Angkor_Thom%2C_Bajon_%2809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2016_Angkor,_Angkor_Thom,_Bajon_(09).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marcin Konsek",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-02-24 07:28",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:2016 Angkor, Angkor Thom, Bajon (14).jpg",
+   "w": 4763,
+   "h": 3128,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2016_Angkor%2C_Angkor_Thom%2C_Bajon_%2814%29.jpg/330px-2016_Angkor%2C_Angkor_Thom%2C_Bajon_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/2016_Angkor%2C_Angkor_Thom%2C_Bajon_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2016_Angkor,_Angkor_Thom,_Bajon_(14).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marcin Konsek",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-02-24 07:30",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:2016 Angkor, Angkor Thom, Bajon (51).jpg",
+   "w": 4852,
+   "h": 3235,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/2016_Angkor%2C_Angkor_Thom%2C_Bajon_%2851%29.jpg/330px-2016_Angkor%2C_Angkor_Thom%2C_Bajon_%2851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/2016_Angkor%2C_Angkor_Thom%2C_Bajon_%2851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2016_Angkor,_Angkor_Thom,_Bajon_(51).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Marcin Konsek",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-02-24 07:57",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Angkor Wat.- Battle of Devas and Asuras (4).jpg",
+   "w": 4635,
+   "h": 3081,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Angkor_Wat.-_Battle_of_Devas_and_Asuras_%284%29.jpg/330px-Angkor_Wat.-_Battle_of_Devas_and_Asuras_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Angkor_Wat.-_Battle_of_Devas_and_Asuras_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.-_Battle_of_Devas_and_Asuras_(4).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "PIERRE ANDRE LECLERCQ",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-01-28 10:39:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Bayon, Angkor Thom, Camboya, 2013-08-16, DD 09.jpg",
+   "w": 3253,
+   "h": 4659,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-16%2C_DD_09.jpg/330px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-16%2C_DD_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-16%2C_DD_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bayon,_Angkor_Thom,_Camboya,_2013-08-16,_DD_09.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-08-16 07:47:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Trusty Tuk Tuk .jpg",
+   "w": 2448,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Trusty_Tuk_Tuk_.jpg/330px-Trusty_Tuk_Tuk_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Trusty_Tuk_Tuk_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trusty_Tuk_Tuk_.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Trusty Tuk Tuk",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-10-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "P18"
+  }
+ ]
+}

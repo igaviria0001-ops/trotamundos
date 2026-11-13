@@ -1,0 +1,199 @@
+{
+ "id": "kinabalu",
+ "enwiki": "Mount Kinabalu",
+ "endesc": "Highest mountain in Malaysia",
+ "qid": "Q60967",
+ "coord": [
+  6.075,
+  116.5586111111111
+ ],
+ "label_es": "Monte Kinabalu",
+ "desc_es": "montaña en el Sudeste Asiático",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 4095.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q8502",
+  "Q6617741"
+ ],
+ "p17": [
+  "Q833"
+ ],
+ "unesco": false,
+ "eswiki": "Monte Kinabalu",
+ "extracto_es": "El monte Kinabalu (en malayo Gunung Kinabalu) es una destacada montaña de Malasia, en el Sudeste Asiático. Se encuentra en el parque nacional de Kinabalu (declarado Patrimonio de la Humanidad en 2000) en el estado de Sabah situado en Malasia Oriental, que ocupa la zona septentrional de Borneo, en el trópico. Es la mayor montaña de Insulindia. Tiene una altura de 4095 m s. n. m. por lo que es el punto más alto de Malasia.​",
+ "candidatas": [
+  {
+   "file": "File:Kinabalu Sabah Borneo Kampong Kundasang 2.jpg",
+   "w": 5400,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kinabalu_Sabah_Borneo_Kampong_Kundasang_2.jpg/330px-Kinabalu_Sabah_Borneo_Kampong_Kundasang_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kinabalu_Sabah_Borneo_Kampong_Kundasang_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kinabalu_Sabah_Borneo_Kampong_Kundasang_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-01-26 23:50",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Victoria Peak Mount Kinabalu 1.jpg",
+   "w": 5040,
+   "h": 3440,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Victoria_Peak_Mount_Kinabalu_1.jpg/330px-Victoria_Peak_Mount_Kinabalu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Victoria_Peak_Mount_Kinabalu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Victoria_Peak_Mount_Kinabalu_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-01-25 23:43:12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Laban Rata Mount Kinabalu 2.jpg",
+   "w": 5000,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Laban_Rata_Mount_Kinabalu_2.jpg/330px-Laban_Rata_Mount_Kinabalu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Laban_Rata_Mount_Kinabalu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Laban_Rata_Mount_Kinabalu_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-01-26 02:26",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Trail Mount Kinabalu 8.jpg",
+   "w": 5400,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Trail_Mount_Kinabalu_8.jpg/330px-Trail_Mount_Kinabalu_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Trail_Mount_Kinabalu_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Trail_Mount_Kinabalu_8.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-01-26 00:06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:St. John's Peak Mount Kinabalu 4.jpg",
+   "w": 5400,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/St._John%27s_Peak_Mount_Kinabalu_4.jpg/330px-St._John%27s_Peak_Mount_Kinabalu_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/St._John%27s_Peak_Mount_Kinabalu_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St._John%27s_Peak_Mount_Kinabalu_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-01-25 23:33",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:South Peak Mount Kinabalu 2.jpg",
+   "w": 5400,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/South_Peak_Mount_Kinabalu_2.jpg/330px-South_Peak_Mount_Kinabalu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/South_Peak_Mount_Kinabalu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:South_Peak_Mount_Kinabalu_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-01-26 00:00",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:St. John's Peak Mount Kinabalu 3.jpg",
+   "w": 6000,
+   "h": 3000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/St._John%27s_Peak_Mount_Kinabalu_3.jpg/330px-St._John%27s_Peak_Mount_Kinabalu_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/St._John%27s_Peak_Mount_Kinabalu_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:St._John%27s_Peak_Mount_Kinabalu_3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-01-25 23:04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Victoria Peak Mount Kinabalu 2.jpg",
+   "w": 6000,
+   "h": 3020,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Victoria_Peak_Mount_Kinabalu_2.jpg/330px-Victoria_Peak_Mount_Kinabalu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Victoria_Peak_Mount_Kinabalu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Victoria_Peak_Mount_Kinabalu_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-01-25 23:43",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  }
+ ]
+}

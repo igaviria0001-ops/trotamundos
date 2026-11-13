@@ -1,0 +1,192 @@
+{
+ "id": "shirakawago",
+ "enwiki": "Shirakawa, Gifu (village)",
+ "endesc": "Village in Chūbu, Japan",
+ "qid": "Q1203744",
+ "coord": [
+  36.270944444444446,
+  136.89855555555556
+ ],
+ "label_es": "Shirakawa",
+ "desc_es": "pueblo en el distrito Ono, prefectura Gifu, Japón",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1889-07-01T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "area": [
+  {
+   "v": 356.64,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q4174776"
+ ],
+ "p17": [
+  "Q17"
+ ],
+ "unesco": false,
+ "eswiki": "Shirakawa (distrito de Ōno, Gifu)",
+ "extracto_es": "Este artículo hace referencia a la villa de Shirakawa, situado en la prefectura de Gifu, Japón. No debe confundirse con el pueblo homónimo del distrito de Kamo, también ubicado en la prefectura de Gifu, ni con la ciudad de Shirakawa de la prefectura de Fukushima.\n\nShirakawa (白川村, Shirakawa-mura?) es una villa situada en el distrito de Ono, en la prefectura de Gifu, Japón. Tiene una población estimada, a inicios de mayo de 2026, de 1445 habitantes.​\nSu superficie total es de 356.64 km².​ Es conocida por Shirakawa-gō (白川郷), una pequeña villa en las que se encuentran casas del estilo tradicional gasshō-zukuri, que junto con Gokayama, ubicada en Nanto, Toyama, fue declarada como Patrimonio de la Humanidad por la UNESCO en 1995.​​\nLas casas se denominan gasshō-zukuri (manos unidas en oración), por sus tejados verticales con protección al agua y nieve.​",
+ "candidatas": [
+  {
+   "file": "File:Ogi Shirakawa-gō, Gifu, Japan.jpg",
+   "w": 3200,
+   "h": 2133,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ogi_Shirakawa-g%C5%8D%2C_Gifu%2C_Japan.jpg/330px-Ogi_Shirakawa-g%C5%8D%2C_Gifu%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ogi_Shirakawa-g%C5%8D%2C_Gifu%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ogi_Shirakawa-g%C5%8D,_Gifu,_Japan.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "663highland",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "en"
+  },
+  {
+   "file": "File:Shirakawago.jpg",
+   "w": 4200,
+   "h": 2803,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Shirakawago.jpg/330px-Shirakawago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Shirakawago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Shirakawago.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jordy Meow",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-02-02 17:54:19",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 13,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Shirakawa 0195.JPG",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shirakawa_0195.JPG/330px-Shirakawa_0195.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Shirakawa_0195.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Shirakawa_0195.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Esculapio",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-04-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Valley in Shirakawa village, Gifu.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Valley_in_Shirakawa_village%2C_Gifu.jpg/330px-Valley_in_Shirakawa_village%2C_Gifu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Valley_in_Shirakawa_village%2C_Gifu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Valley_in_Shirakawa_village,_Gifu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tbatb",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-01-26 13:52:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Shirakawa village - 白川郷 007.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Shirakawa_village_-_%E7%99%BD%E5%B7%9D%E9%83%B7_007.jpg/330px-Shirakawa_village_-_%E7%99%BD%E5%B7%9D%E9%83%B7_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Shirakawa_village_-_%E7%99%BD%E5%B7%9D%E9%83%B7_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Shirakawa_village_-_%E7%99%BD%E5%B7%9D%E9%83%B7_007.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Emran Kassim",
+   "credito": "https://www.flickr.com/photos/emrank/7005814141/",
+   "nonfree": "",
+   "fecha": "2011-06-04 14:40:51",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Shirakawa village - 白川郷 003.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Shirakawa_village_-_%E7%99%BD%E5%B7%9D%E9%83%B7_003.jpg/330px-Shirakawa_village_-_%E7%99%BD%E5%B7%9D%E9%83%B7_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Shirakawa_village_-_%E7%99%BD%E5%B7%9D%E9%83%B7_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Shirakawa_village_-_%E7%99%BD%E5%B7%9D%E9%83%B7_003.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Emran Kassim",
+   "credito": "https://www.flickr.com/photos/emrank/7005821377/",
+   "nonfree": "",
+   "fecha": "2011-06-04 14:57:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ogi Shirakawa06n3200.jpg",
+   "w": 3200,
+   "h": 2133,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ogi_Shirakawa06n3200.jpg/330px-Ogi_Shirakawa06n3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ogi_Shirakawa06n3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ogi_Shirakawa06n3200.jpg",
+   "licencia": "CC BY 2.5",
+   "licurl": "cc-by-2.5",
+   "autor": "663highland",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Shirakawa-go - Shirakawa156.jpg",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Shirakawa-go_-_Shirakawa156.jpg/330px-Shirakawa-go_-_Shirakawa156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shirakawa-go_-_Shirakawa156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Shirakawa-go_-_Shirakawa156.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "lumoplank",
+   "credito": "https://www.flickr.com/photos/199350666@N08/53273141812",
+   "nonfree": "",
+   "fecha": "before 21 October 20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}
