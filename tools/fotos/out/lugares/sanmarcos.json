@@ -1,0 +1,191 @@
+{
+ "id": "sanmarcos",
+ "enwiki": "St Mark's Basilica",
+ "endesc": "Cathedral church in Venice, Italy",
+ "qid": "Q172988",
+ "coord": [
+  45.434444444444,
+  12.339722222222
+ ],
+ "label_es": "basílica de San Marcos",
+ "desc_es": "basílica menor en Venecia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0828-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "largo": [
+  {
+   "v": 76.5,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q2977",
+  "Q120560"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Basílica de San Marcos",
+ "extracto_es": "La basílica de San Marcos es el principal templo católico de la ciudad de Venecia (Italia) y la obra maestra de la arquitectura bizantina en el Véneto. Posee el rango de catedral y también el de iglesia patriarcal, además del de basílica.\n\n",
+ "candidatas": [
+  {
+   "file": "File:Venezia Basilica di San Marco Fassade 2.jpg",
+   "w": 4574,
+   "h": 3066,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Venezia_Basilica_di_San_Marco_Fassade_2.jpg/330px-Venezia_Basilica_di_San_Marco_Fassade_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Venezia_Basilica_di_San_Marco_Fassade_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Venezia_Basilica_di_San_Marco_Fassade_2.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Zairon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-09-27 18:26:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Venice - St. Marc's Basilica 01.jpg",
+   "w": 3072,
+   "h": 2048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Venice_-_St._Marc%27s_Basilica_01.jpg/330px-Venice_-_St._Marc%27s_Basilica_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Venice_-_St._Marc%27s_Basilica_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Venice_-_St._Marc%27s_Basilica_01.jpg",
+   "licencia": "CC BY-SA 2.5",
+   "licurl": "cc-by-sa-2.5",
+   "autor": "Nino Barbieri",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2004-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Santa Maria dei Miracoli facciata sud Venezia notte.jpg",
+   "w": 8000,
+   "h": 9610,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Santa_Maria_dei_Miracoli_facciata_sud_Venezia_notte.jpg/330px-Santa_Maria_dei_Miracoli_facciata_sud_Venezia_notte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Santa_Maria_dei_Miracoli_facciata_sud_Venezia_notte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santa_Maria_dei_Miracoli_facciata_sud_Venezia_notte.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-04-26",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Venezia- Piazza San Marco - 50337056581.jpg",
+   "w": 4430,
+   "h": 2954,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Venezia-_Piazza_San_Marco_-_50337056581.jpg/330px-Venezia-_Piazza_San_Marco_-_50337056581.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Venezia-_Piazza_San_Marco_-_50337056581.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Venezia-_Piazza_San_Marco_-_50337056581.jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Jorge Franganillo",
+   "credito": "https://www.flickr.com/photos/franganillo/50337056581/",
+   "nonfree": "",
+   "fecha": "2017-06-06 22:50:23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Statue of Saint Mark Apostle and Evangelist in Venice (Patriarchal Cathedral Basilica of Saint Mark), July 2011.jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Statue_of_Saint_Mark_Apostle_and_Evangelist_in_Venice_%28Patriarchal_Cathedral_Basilica_of_Saint_Mark%29%2C_July_2011.jpg/330px-Statue_of_Saint_Mark_Apostle_and_Evangelist_in_Venice_%28Patriarchal_Cathedral_Basilica_of_Saint_Mark%29%2C_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Statue_of_Saint_Mark_Apostle_and_Evangelist_in_Venice_%28Patriarchal_Cathedral_Basilica_of_Saint_Mark%29%2C_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Mark_Apostle_and_Evangelist_in_Venice_(Patriarchal_Cathedral_Basilica_of_Saint_Mark),_July_2011.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "MichalPL",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-07-20 12:08:31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Venice - St Mark's Basilica - 20170919122430.jpg",
+   "w": 4928,
+   "h": 3264,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Venice_-_St_Mark%27s_Basilica_-_20170919122430.jpg/330px-Venice_-_St_Mark%27s_Basilica_-_20170919122430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Venice_-_St_Mark%27s_Basilica_-_20170919122430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Venice_-_St_Mark%27s_Basilica_-_20170919122430.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rob Hurson",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-09-19 12:24:30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Interior de la basílica de sant Marc de Venècia.JPG",
+   "w": 3664,
+   "h": 2748,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Interior_de_la_bas%C3%ADlica_de_sant_Marc_de_Ven%C3%A8cia.JPG/330px-Interior_de_la_bas%C3%ADlica_de_sant_Marc_de_Ven%C3%A8cia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Interior_de_la_bas%C3%ADlica_de_sant_Marc_de_Ven%C3%A8cia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Interior_de_la_bas%C3%ADlica_de_sant_Marc_de_Ven%C3%A8cia.JPG",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Joanbanjo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-04-05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Prayer in the Garden of Olives (San Marco).jpg",
+   "w": 4996,
+   "h": 2654,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Prayer_in_the_Garden_of_Olives_%28San_Marco%29.jpg/330px-Prayer_in_the_Garden_of_Olives_%28San_Marco%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Prayer_in_the_Garden_of_Olives_%28San_Marco%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Prayer_in_the_Garden_of_Olives_(San_Marco).jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "anonimous master",
+   "credito": "Basilica di San Marco, turistic book",
+   "nonfree": "",
+   "fecha": "13th centurydate QS:",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

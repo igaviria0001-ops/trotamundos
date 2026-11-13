@@ -1,0 +1,201 @@
+{
+ "id": "giralda",
+ "enwiki": "Giralda",
+ "endesc": "Bell tower of Seville Cathedral in Seville, Spain",
+ "qid": "Q834479",
+ "coord": [
+  37.38614,
+  -5.99238
+ ],
+ "label_es": "Giralda",
+ "desc_es": "torre en Sevilla, España",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1198-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 104.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 16.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q5191724",
+  "Q907116"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Giralda",
+ "extracto_es": "La Giralda es la torre campanario de la catedral de Santa María de la Sede de la ciudad de Sevilla, en Andalucía (España). La parte inferior de la torre corresponde al alminar de la antigua mezquita de la ciudad, de finales del siglo XII, levantado en época almohade, mientras que la parte superior es una construcción sobrepuesta en el siglo XVI, en época cristiana, para albergar el cuerpo de campanas. En su cúspide se halla una estatua de bronce que representa el Triunfo de la Fe y que tiene función de veleta, el Giraldillo.​ Mide 94,69 m metros de altura.​\nEl 29 de diciembre de 1928 la catedral, incluida la Giralda, fue declarada Monumento Nacional.​ En 1987 el conjunto del Alcázar, el Archivo de Indias y la catedral, con su torre, fueron considerados Patrimonio de la Humanidad.​\nExisten réplicas y edificios inspirados en ella en España y en varios países del mundo.​\n\n",
+ "candidatas": [
+  {
+   "file": "File:Giralda de Sevilla (3).jpg",
+   "w": 4671,
+   "h": 6998,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Giralda_de_Sevilla_%283%29.jpg/330px-Giralda_de_Sevilla_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Giralda_de_Sevilla_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Giralda_de_Sevilla_(3).jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Alberto-g-rovi",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-09-16 13:27:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Sevilla Cathedral - Giralda.jpg",
+   "w": 3602,
+   "h": 3816,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Sevilla_Cathedral_-_Giralda.jpg/330px-Sevilla_Cathedral_-_Giralda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Sevilla_Cathedral_-_Giralda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sevilla_Cathedral_-_Giralda.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ingo Mehling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-11-15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:Seville April 2019-1.jpg",
+   "w": 4912,
+   "h": 7360,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Seville_April_2019-1.jpg/330px-Seville_April_2019-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Seville_April_2019-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Seville_April_2019-1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-04-13 00:41:02",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Seville April 2019-3.jpg",
+   "w": 4777,
+   "h": 7111,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Seville_April_2019-3.jpg/330px-Seville_April_2019-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Seville_April_2019-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Seville_April_2019-3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-04-13 15:32:29",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Seville April 2019-8.jpg",
+   "w": 4637,
+   "h": 7201,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Seville_April_2019-8.jpg/330px-Seville_April_2019-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Seville_April_2019-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Seville_April_2019-8.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-04-13 16:15:12",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Columnas en la Giralda.JPG",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Columnas_en_la_Giralda.JPG/330px-Columnas_en_la_Giralda.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Columnas_en_la_Giralda.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Columnas_en_la_Giralda.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "CarlosVdeHabsburgo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-06-18 16:51:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Giralda Tower toward Plaza de Toros.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Giralda_Tower_toward_Plaza_de_Toros.jpg/330px-Giralda_Tower_toward_Plaza_de_Toros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Giralda_Tower_toward_Plaza_de_Toros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Giralda_Tower_toward_Plaza_de_Toros.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Ajonesish344",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-27 17:09:38",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Giralda view to Real Alcazar.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Giralda_view_to_Real_Alcazar.jpg/330px-Giralda_view_to_Real_Alcazar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Giralda_view_to_Real_Alcazar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Giralda_view_to_Real_Alcazar.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Ajonesish344",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-27 17:13:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

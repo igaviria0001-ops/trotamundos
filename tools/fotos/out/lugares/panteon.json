@@ -1,0 +1,243 @@
+{
+ "id": "panteon",
+ "enwiki": "Pantheon, Rome",
+ "endesc": "Roman temple, later church, in Rome",
+ "qid": "Q99309",
+ "coord": [
+  41.89861111111111,
+  12.476944444444445
+ ],
+ "label_es": "Panteón de Agripa",
+ "desc_es": "templo de planta circular erigido en Roma",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0128-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "altura": [
+  {
+   "v": 43.3,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 2000.0,
+   "u": "Q25343"
+  },
+  {
+   "v": 1500.0,
+   "u": "Q25343"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 30000000.0,
+   "u": "1"
+  },
+  {
+   "v": 1737735.0,
+   "u": "1"
+  },
+  {
+   "v": 9330835.0,
+   "u": "1"
+  },
+  {
+   "v": 8955569.0,
+   "u": "1"
+  },
+  {
+   "v": 972714.0,
+   "u": "1"
+  },
+  {
+   "v": 4926809.0,
+   "u": "1"
+  }
+ ],
+ "largo": [
+  {
+   "v": 35.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q867143",
+  "Q21752084",
+  "Q120560",
+  "Q96376684",
+  "Q14752696",
+  "Q92755865",
+  "Q3867560",
+  "Q112132548",
+  "Q112132522",
+  "Q124830411"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Panteón de Agripa",
+ "extracto_es": "El Panteón de Agripa o Panteón de Roma es un antiguo templo romano —en la actualidad, consagrado como iglesia católica—, situado en la ciudad de Roma, Italia, en el lugar de un templo construido por Marco Agripa durante el gobierno de Augusto y que resultó destruido por un incendio acaecido en el año 80. Más tarde, lo volvió a levantar el emperador Adriano, aunque la fecha  de construcción es incierta porque optó por mantener la inscripción del edificio primitivo en el que figuraba Agripa como promotor.​\nEl nombre procede del griego Pántheion (en griego: Πάνθειον), que significa «templo de todos los dioses». La mayoría de los autores latinos emplean la forma latina de su transliteración, Pantheon. Mientras que su forma del latín Pantheum está atestiguada por el estudioso escritor Plinio el Viejo.[cita requerida]\nEl edificio es circular con un pórtico de grandes columnas corintias de granito —ocho en la primera fila y dos grupos de cuatro detrás— bajo un frontón. Un vestíbulo rectangular une el pórtico con la rotonda, que se encuentra bajo una cúpula de hormigón artesonado con una abertura central (óculo) hacia el cielo. Casi dos mil años después de su construcción, la del Panteón sigue siendo la cúpula de hormigón sin armar más grande del mundo. La altura hasta el óculo y el diámetro del círculo interior son los mismos: cuarenta y tres metros. Su cella circular abovedada con un pórtico convencional fue única en la arquitectura romana. Sin embargo, se convirtió en un ejemplo estándar cuando se revivieron los estilos clásicos y fue copiada en numerosas ocasiones por los arquitectos posteriores.\nEs uno de los edificios de la Antigua Roma mejor conservados, principalmente porque ha estado en uso continuo durante toda su historia. Desde el siglo vii se ha utilizado como iglesia, recibiendo el nombre de basílica de Santa María y los Mártires, pero siendo informalmente conocida por Santa María Rotonda. La plaza frente al Panteón se llama piazza della Rotonda y da nombre a un distrito de la ciudad.\nEs propiedad estatal, gestionado por el Ministerio de Bienes y Actividades Culturales a través del Museo Central del Lacio. En 2013 fue visitado por seis millones de personas.",
+ "candidatas": [
+  {
+   "file": "File:Pantheon (Rome) - Right side and front.jpg",
+   "w": 7512,
+   "h": 6048,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/330px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "NikonZ7II",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-03-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Pantheon (Rome) - Dome interior.jpg",
+   "w": 4240,
+   "h": 3227,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Pantheon_%28Rome%29_-_Dome_interior.jpg/330px-Pantheon_%28Rome%29_-_Dome_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pantheon_%28Rome%29_-_Dome_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Dome_interior.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Livioandronico2013",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-05-07 15:16:20",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Pantheon Rom 1 cropped.jpg",
+   "w": 4109,
+   "h": 3034,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Pantheon_Rom_1_cropped.jpg/330px-Pantheon_Rom_1_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pantheon_Rom_1_cropped.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Rabax63",
+   "credito": "File:Pantheon_Rom_1.jpg",
+   "nonfree": "",
+   "fecha": "2018-11-18 07:38:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 10,
+   "origen": "es"
+  },
+  {
+   "file": "File:Pantheon (Rome), Dome interior.jpg",
+   "w": 5698,
+   "h": 4875,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pantheon_%28Rome%29%2C_Dome_interior.jpg/330px-Pantheon_%28Rome%29%2C_Dome_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pantheon_%28Rome%29%2C_Dome_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome),_Dome_interior.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Wilfredor",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-02-09 08:23:53",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:20190406-DSC5193 Panteon.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/20190406-DSC5193_Panteon.jpg/330px-20190406-DSC5193_Panteon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/20190406-DSC5193_Panteon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20190406-DSC5193_Panteon.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jfabrix101",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-04-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:20160422 107 Roma - Pantheon (26078747133).jpg",
+   "w": 5180,
+   "h": 3368,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/20160422_107_Roma_-_Pantheon_%2826078747133%29.jpg/330px-20160422_107_Roma_-_Pantheon_%2826078747133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/20160422_107_Roma_-_Pantheon_%2826078747133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20160422_107_Roma_-_Pantheon_(26078747133).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Sjaak Kempe from Groningen, The Netherlands",
+   "credito": "20160422 107 Roma - Pantheon",
+   "nonfree": "",
+   "fecha": "2016-04-22 14:08",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Anonymus B, Pantheon SMB 1.jpg",
+   "w": 4000,
+   "h": 2655,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Anonymus_B%2C_Pantheon_SMB_1.jpg/330px-Anonymus_B%2C_Pantheon_SMB_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Anonymus_B%2C_Pantheon_SMB_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anonymus_B,_Pantheon_SMB_1.jpg",
+   "licencia": "PDM-owner",
+   "licurl": "",
+   "autor": "Unknown authorUnknown author",
+   "credito": "https://id.smb.museum/object/782813/pantheon",
+   "nonfree": "",
+   "fecha": "c. 1538-1540",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Anonymus B, Pantheon SMB 2.jpg",
+   "w": 4000,
+   "h": 2744,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Anonymus_B%2C_Pantheon_SMB_2.jpg/330px-Anonymus_B%2C_Pantheon_SMB_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Anonymus_B%2C_Pantheon_SMB_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Anonymus_B,_Pantheon_SMB_2.jpg",
+   "licencia": "PDM-owner",
+   "licurl": "",
+   "autor": "Unknown authorUnknown author",
+   "credito": "https://id.smb.museum/object/999293/vorhalle-des-pantheon",
+   "nonfree": "",
+   "fecha": "c. 1538-1540",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

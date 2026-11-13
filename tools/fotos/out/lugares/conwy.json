@@ -1,0 +1,206 @@
+{
+ "id": "conwy",
+ "enwiki": "Conwy Castle",
+ "endesc": "Grade I listed building in Conwy, Wales",
+ "qid": "Q756830",
+ "coord": [
+  53.28014877959824,
+  -3.825629332607958
+ ],
+ "label_es": "Castillo de Conwy",
+ "desc_es": null,
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1283-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 30.0,
+   "u": "Q11573"
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 21.8,
+   "u": "Q11573"
+  },
+  {
+   "v": 23.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 6.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q23413"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": false,
+ "eswiki": "Castillo de Conwy",
+ "extracto_es": "El castillo de Conwy (en galés: Castell Conwy) es una fortificación de la época medieval situada en Conwy, en la costa norte de Gales, Reino Unido.\nFue construido por Eduardo I durante la conquista de Gales, entre 1283 y 1289. Como muchos otros castillos de la zona, fue diseñado por James de St. George. El castillo está dividido en dos patios, uno exterior y otro interior rodeados por cuatro torres cada uno. Se estima que se gastaron 15 000 libras esterlinas en construir el castillo y las defensas de la ciudad, la mayor suma gastada por Eduardo en ninguno de sus castillos entre 1277 y 1304.",
+ "candidatas": [
+  {
+   "file": "File:Conwy Castle, water view1.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Conwy_Castle%2C_water_view1.jpg/330px-Conwy_Castle%2C_water_view1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Conwy_Castle%2C_water_view1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Conwy_Castle,_water_view1.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Andrew Woodvine",
+   "credito": "https://www.flickr.com/photos/awoodvine/52237268726/",
+   "nonfree": "",
+   "fecha": "2022-07-11 07:12:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Conwy Castle (7989).jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Conwy_Castle_%287989%29.jpg/330px-Conwy_Castle_%287989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Conwy_Castle_%287989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Conwy_Castle_(7989).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Nilfanion",
+   "credito": "Wikimedia UK",
+   "nonfree": "",
+   "fecha": "2012-10-17 15:54:43",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Conwy-Castle-0006.jpg",
+   "w": 1466,
+   "h": 893,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Conwy-Castle-0006.jpg/330px-Conwy-Castle-0006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Conwy-Castle-0006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Conwy-Castle-0006.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Source: Llywelyn2000Derivative: User:MathKnight",
+   "credito": "File:Awyrlun o Gastell Conwy - Aerial photograph of Castell Conwy, Conwy County Borough, Cymru (Wales)1.jpg",
+   "nonfree": "",
+   "fecha": "2022-07-30 17:56:53",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Awyrlun o Gastell Conwy - Aerial photograph of Castell Conwy, Conwy County Borough, Cymru (Wales).jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Awyrlun_o_Gastell_Conwy_-_Aerial_photograph_of_Castell_Conwy%2C_Conwy_County_Borough%2C_Cymru_%28Wales%29.jpg/330px-Awyrlun_o_Gastell_Conwy_-_Aerial_photograph_of_Castell_Conwy%2C_Conwy_County_Borough%2C_Cymru_%28Wales%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Awyrlun_o_Gastell_Conwy_-_Aerial_photograph_of_Castell_Conwy%2C_Conwy_County_Borough%2C_Cymru_%28Wales%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Awyrlun_o_Gastell_Conwy_-_Aerial_photograph_of_Castell_Conwy,_Conwy_County_Borough,_Cymru_(Wales).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Llywelyn2000",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-07-30 17:56:53",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:Conwy - Conwy Castle - 20190720135715.jpg",
+   "w": 4032,
+   "h": 2268,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Conwy_-_Conwy_Castle_-_20190720135715.jpg/330px-Conwy_-_Conwy_Castle_-_20190720135715.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Conwy_-_Conwy_Castle_-_20190720135715.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Conwy_-_Conwy_Castle_-_20190720135715.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "IanChristopherWeston",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-20 13:57:15",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Conwy Castle - geograph.org.uk - 2784147.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Conwy_Castle_-_geograph.org.uk_-_2784147.jpg/330px-Conwy_Castle_-_geograph.org.uk_-_2784147.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Conwy_Castle_-_geograph.org.uk_-_2784147.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Conwy_Castle_-_geograph.org.uk_-_2784147.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Jeff Buck",
+   "credito": "Geograph Britain and Ireland",
+   "nonfree": "",
+   "fecha": "2012-01-28",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Conwy Castle - panoramio (10).jpg",
+   "w": 3840,
+   "h": 2160,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Conwy_Castle_-_panoramio_%2810%29.jpg/330px-Conwy_Castle_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Conwy_Castle_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Conwy_Castle_-_panoramio_(10).jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Robin Tinsley",
+   "credito": "https://web.archive.org/web/20161031175335/http://www.panoramio.com/photo/122427276",
+   "nonfree": "",
+   "fecha": "10 August 2015 (orig",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Conwy Castle 9.jpg",
+   "w": 8645,
+   "h": 3690,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Conwy_Castle_9.jpg/330px-Conwy_Castle_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Conwy_Castle_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Conwy_Castle_9.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Photograph by Mike Peel (www.mikepeel.net).",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-05-27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P4291"
+  }
+ ]
+}

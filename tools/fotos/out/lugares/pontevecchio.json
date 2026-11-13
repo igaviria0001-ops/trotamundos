@@ -1,0 +1,205 @@
+{
+ "id": "pontevecchio",
+ "enwiki": "Ponte Vecchio",
+ "endesc": "Bridge in Florence, Italy",
+ "qid": "Q208633",
+ "coord": [
+  43.767988888889,
+  11.253191666667
+ ],
+ "label_es": "Ponte Vecchio",
+ "desc_es": "puente en Florencia, Italia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1335-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1345-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "largo": [
+  {
+   "v": 95.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q14276458",
+  "Q3397526",
+  "Q3397551",
+  "Q1250323",
+  "Q1068842"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Ponte Vecchio (Florencia)",
+ "extracto_es": "El Ponte Vecchio (pronunciación: [ˈpɔnte ˈvɛkkio]) es un puente medieval sobre el río Arno en Florencia (Italia). Es un símbolo de la ciudad y uno de los puentes más famosos del mundo, uno de los pocos puentes habitados que se conservan. Atraviesa el río Arno en su punto más estrecho.\nEl puente se sostiene sobre tres arcos; el principal tiene una luz de 30 metros y los otros dos de 27 metros. El alzado de los arcos varía entre 3,5 y 4,4 metros.\nEl puente pertenece al \"centro histórico de Florencia\", que en 1982 fue inscrito Patrimonio Mundial por la Unesco con el código 174quater.​",
+ "candidatas": [
+  {
+   "file": "File:Ponte Vecchio from Ponte alle Grazie.jpg",
+   "w": 6000,
+   "h": 3340,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ponte_Vecchio_from_Ponte_alle_Grazie.jpg/330px-Ponte_Vecchio_from_Ponte_alle_Grazie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ponte_Vecchio_from_Ponte_alle_Grazie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_alle_Grazie.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ingo Mehling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-09-21 08:40:00",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Ponte Vecchio sobre el río Arno, Florencia, Italia, 2022-09-19, DD 02.jpg",
+   "w": 8032,
+   "h": 5355,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Ponte_Vecchio_sobre_el_r%C3%ADo_Arno%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_02.jpg/330px-Ponte_Vecchio_sobre_el_r%C3%ADo_Arno%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ponte_Vecchio_sobre_el_r%C3%ADo_Arno%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_sobre_el_r%C3%ADo_Arno,_Florencia,_Italia,_2022-09-19,_DD_02.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-09-19 11:00:47",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Ponte Vecchio from Ponte Santa Trinita Blue hour.jpg",
+   "w": 4908,
+   "h": 3339,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg/330px-Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_Santa_Trinita_Blue_hour.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Commonists",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-07-31 19:47:11",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ponte Vecchio from Ponte Santa Trinita.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Ponte_Vecchio_from_Ponte_Santa_Trinita.jpg/330px-Ponte_Vecchio_from_Ponte_Santa_Trinita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ponte_Vecchio_from_Ponte_Santa_Trinita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_Santa_Trinita.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ingo Mehling",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-09-19 16:41:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ponte Vecchio (Florencia).jpg",
+   "w": 2583,
+   "h": 1859,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Ponte_Vecchio_%28Florencia%29.jpg/330px-Ponte_Vecchio_%28Florencia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ponte_Vecchio_%28Florencia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_(Florencia).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Canaan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-09-29 16:51:25",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "es"
+  },
+  {
+   "file": "File:BL Ponte Vecchio Sud.jpg",
+   "w": 3543,
+   "h": 2362,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/BL_Ponte_Vecchio_Sud.jpg/330px-BL_Ponte_Vecchio_Sud.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/BL_Ponte_Vecchio_Sud.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:BL_Ponte_Vecchio_Sud.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "AquiFoto",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-09-11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Lungarno degli archibugieri (corridoio vasariano) visto dal fiume 01.JPG",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Lungarno_degli_archibugieri_%28corridoio_vasariano%29_visto_dal_fiume_01.JPG/330px-Lungarno_degli_archibugieri_%28corridoio_vasariano%29_visto_dal_fiume_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Lungarno_degli_archibugieri_%28corridoio_vasariano%29_visto_dal_fiume_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Lungarno_degli_archibugieri_(corridoio_vasariano)_visto_dal_fiume_01.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "sailko",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "26 July 2013, 17:13:",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:View of Ponte Vecchio from Ponte alle Grazie.jpg",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/View_of_Ponte_Vecchio_from_Ponte_alle_Grazie.jpg/330px-View_of_Ponte_Vecchio_from_Ponte_alle_Grazie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/View_of_Ponte_Vecchio_from_Ponte_alle_Grazie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_Ponte_Vecchio_from_Ponte_alle_Grazie.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "John Samuel",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2018-09-01 16:20:58",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

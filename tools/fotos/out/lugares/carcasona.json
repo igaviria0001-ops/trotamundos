@@ -1,0 +1,202 @@
+{
+ "id": "carcasona",
+ "enwiki": "Cité de Carcassonne",
+ "endesc": "Medieval citadel of Carcassonne, France",
+ "qid": "Q389269",
+ "coord": [
+  43.206439,
+  2.363788
+ ],
+ "label_es": "Ciudadela de Carcasona",
+ "desc_es": "Conjunto urbano y arquitectónico",
+ "inicio": [],
+ "area": [
+  {
+   "v": 11.0,
+   "u": "Q35852"
+  },
+  {
+   "v": 1358.0,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q57831",
+  "Q677678",
+  "Q88291"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": true,
+ "eswiki": "Ciudadela de Carcasona",
+ "extracto_es": "La ciudadela o ciudad histórica fortificada de Carcasona es un conjunto urbano y arquitectónico fortificado singular que constituye la parte más antigua del núcleo poblacional de la comuna francesa de Carcasona, también conocida en francés como Cité de Carcassonne o simplemente la Cité y en occitano como Ciutat de Carcassona. \nConstituida en gran parte por elementos conservados desde la Edad Media, tras un período de abandono la ciudad fue restaurada con fines monumentales a partir de la segunda mitad del siglo XIX, con intervención de Eugène Viollet-le-Duc; fue declarada Patrimonio de la Humanidad por el programa de la Unesco en 1997, está catalogada como Gran Sitio de Francia, y su castillo y murallas como Monumento histórico​ por el Estado francés, siendo uno de los centros turísticos más visitados de Francia. \nLa ciudad fortificada está situada sobre una elevación en la orilla derecha del río Aude, frente a la ciudad moderna, y muestra en sus diferentes edificios y elementos arquitectónicos defensivos la huella entre el período prerromano, su abandono en el siglo XVII y su posterior recuperación, su pasado en el que ha sido sucesivamente un enclave protohistórico, una ciudad galo-romana, una plaza fuerte visigoda, ocupada por los musulmanes, capital del Condado de Carcasona, del Vizcondado de Carcasona, para pasar finalmente a ser cuartel general del ejército real francés, en tanto que senescalía de Carcasona.​\nRodeada por una doble muralla de 3 km de longitud, en su interior se conserva el aspecto de las ciudades medievales europeas con calles angostas y tortuosas, edificaciones de fachadas con entramados, barrios de artesanos y gremistas, junto con elementos propios, como el castillo de los condes de Carcasona y la basílica de Saint-Nazaire.",
+ "candidatas": [
+  {
+   "file": "File:1 carcassonne aerial 2016.jpg",
+   "w": 7007,
+   "h": 4134,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/1_carcassonne_aerial_2016.jpg/330px-1_carcassonne_aerial_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/1_carcassonne_aerial_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_carcassonne_aerial_2016.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Chensiyuan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-06-27 05:59:53",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:Cité de Carcassonne – Porte de l'Est (1).jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Cit%C3%A9_de_Carcassonne_%E2%80%93_Porte_de_l%27Est_%281%29.jpg/330px-Cit%C3%A9_de_Carcassonne_%E2%80%93_Porte_de_l%27Est_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cit%C3%A9_de_Carcassonne_%E2%80%93_Porte_de_l%27Est_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_de_Carcassonne_%E2%80%93_Porte_de_l%27Est_(1).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-25 08:09:07",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cité de Carcassonne – Porte de l'Est (3).jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Cit%C3%A9_de_Carcassonne_%E2%80%93_Porte_de_l%27Est_%283%29.jpg/330px-Cit%C3%A9_de_Carcassonne_%E2%80%93_Porte_de_l%27Est_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Cit%C3%A9_de_Carcassonne_%E2%80%93_Porte_de_l%27Est_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_de_Carcassonne_%E2%80%93_Porte_de_l%27Est_(3).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-25 10:28:51",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cité de Carcassonne et Pont-Vieux.jpg",
+   "w": 5184,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Cit%C3%A9_de_Carcassonne_et_Pont-Vieux.jpg/330px-Cit%C3%A9_de_Carcassonne_et_Pont-Vieux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cit%C3%A9_de_Carcassonne_et_Pont-Vieux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_de_Carcassonne_et_Pont-Vieux.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-24 20:10:09",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cité de Carcassonne – Tour de la Charpenterie (1).jpg",
+   "w": 4803,
+   "h": 3202,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Cit%C3%A9_de_Carcassonne_%E2%80%93_Tour_de_la_Charpenterie_%281%29.jpg/330px-Cit%C3%A9_de_Carcassonne_%E2%80%93_Tour_de_la_Charpenterie_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cit%C3%A9_de_Carcassonne_%E2%80%93_Tour_de_la_Charpenterie_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_de_Carcassonne_%E2%80%93_Tour_de_la_Charpenterie_(1).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-25 11:10:13",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cité de Carcassonne et Église Saint-Gimer (2).jpg",
+   "w": 4492,
+   "h": 2995,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Cit%C3%A9_de_Carcassonne_et_%C3%89glise_Saint-Gimer_%282%29.jpg/330px-Cit%C3%A9_de_Carcassonne_et_%C3%89glise_Saint-Gimer_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Cit%C3%A9_de_Carcassonne_et_%C3%89glise_Saint-Gimer_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_de_Carcassonne_et_%C3%89glise_Saint-Gimer_(2).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-24 19:52:06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cité de Carcassonne et Église Saint-Gimer (1).jpg",
+   "w": 4164,
+   "h": 2776,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cit%C3%A9_de_Carcassonne_et_%C3%89glise_Saint-Gimer_%281%29.jpg/330px-Cit%C3%A9_de_Carcassonne_et_%C3%89glise_Saint-Gimer_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cit%C3%A9_de_Carcassonne_et_%C3%89glise_Saint-Gimer_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_de_Carcassonne_et_%C3%89glise_Saint-Gimer_(1).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-24 19:50:38",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Cité de Carcassonne – Tour de la Vade et Tour de la Peyre.jpg",
+   "w": 4575,
+   "h": 3050,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Cit%C3%A9_de_Carcassonne_%E2%80%93_Tour_de_la_Vade_et_Tour_de_la_Peyre.jpg/330px-Cit%C3%A9_de_Carcassonne_%E2%80%93_Tour_de_la_Vade_et_Tour_de_la_Peyre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cit%C3%A9_de_Carcassonne_%E2%80%93_Tour_de_la_Vade_et_Tour_de_la_Peyre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_de_Carcassonne_%E2%80%93_Tour_de_la_Vade_et_Tour_de_la_Peyre.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Lynx1211",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-25 07:53:59",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  }
+ ]
+}

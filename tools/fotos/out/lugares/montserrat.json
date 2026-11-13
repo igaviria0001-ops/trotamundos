@@ -1,0 +1,192 @@
+{
+ "id": "montserrat",
+ "enwiki": "Santa Maria de Montserrat Abbey",
+ "endesc": "Abbey in Catalonia, Spain",
+ "qid": "Q771935",
+ "coord": [
+  41.593194,
+  1.837139
+ ],
+ "label_es": "Monasterio de Montserrat",
+ "desc_es": "monasterio de la provincia de Barcelona, (España)",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1100-00-00T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 720.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q817056"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Monasterio de Montserrat",
+ "extracto_es": "El monasterio de Santa María de Montserrat (en catalán: monestir de Santa Maria de Montserrat) es una abadía benedictina situada en la montaña de Montserrat, perteneciente a la comarca del Bages, provincia de Barcelona, España. A una altitud de 720 metros sobre el nivel del mar. Administrativamente pertenece al municipio de Monistrol de Montserrat, aunque algunos de sus terrenos colindantes entran en el término de Collbató. Es un símbolo para Cataluña y España. Se ha convertido en un punto de peregrinaje para creyentes y de visita obligada para los turistas.\nDentro de las diferentes acciones que se desarrollan en Montserrat destaca la escolanía, que es uno de los coros de niños cantores más antiguos de Europa.\nEl santuario de Montserrat, junto con los santuarios de Torreciudad (Huesca), El Pilar (Zaragoza), Meritxell (Andorra) y Lourdes (Francia) conforman la Ruta mariana, itinerario guiado por la espiritualidad y devoción mariana, poseedor de una gran riqueza patrimonial, gastronómica y natural.",
+ "candidatas": [
+  {
+   "file": "File:Montserrat Natural Park 4.jpg",
+   "w": 4900,
+   "h": 3285,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Montserrat_Natural_Park_4.jpg/330px-Montserrat_Natural_Park_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Montserrat_Natural_Park_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Montserrat_Natural_Park_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-02-14 14:54",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Abbey of Montserrat 02.jpg",
+   "w": 3377,
+   "h": 2330,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abbey_of_Montserrat_02.jpg/330px-Abbey_of_Montserrat_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Abbey_of_Montserrat_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Abbey_of_Montserrat_02.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-21",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "en"
+  },
+  {
+   "file": "File:Gothic Cloister in the monastery of Montserrat 04.jpg",
+   "w": 5472,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Gothic_Cloister_in_the_monastery_of_Montserrat_04.jpg/330px-Gothic_Cloister_in_the_monastery_of_Montserrat_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Gothic_Cloister_in_the_monastery_of_Montserrat_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gothic_Cloister_in_the_monastery_of_Montserrat_04.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kritzolina",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-07-13 17:29:57",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Monistrol de Montserrat yeonu.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Monistrol_de_Montserrat_yeonu.jpg/330px-Monistrol_de_Montserrat_yeonu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Monistrol_de_Montserrat_yeonu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monistrol_de_Montserrat_yeonu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Yeonu0407",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-01-11 10:31:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monastery, Montserrat.jpg",
+   "w": 3264,
+   "h": 2448,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Monastery%2C_Montserrat.jpg/330px-Monastery%2C_Montserrat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Monastery%2C_Montserrat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monastery,_Montserrat.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Orlith1",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-05-20",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Monastery of Montserrat, Plaça de Santa Maria 01.jpg",
+   "w": 5211,
+   "h": 3475,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Monastery_of_Montserrat%2C_Pla%C3%A7a_de_Santa_Maria_01.jpg/330px-Monastery_of_Montserrat%2C_Pla%C3%A7a_de_Santa_Maria_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Monastery_of_Montserrat%2C_Pla%C3%A7a_de_Santa_Maria_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monastery_of_Montserrat,_Pla%C3%A7a_de_Santa_Maria_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Kritzolina",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-07-13 17:25:27",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Pope Leo XIV blessing the crowd at Montserrat, 10 June 2026.jpg",
+   "w": 4032,
+   "h": 2268,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Pope_Leo_XIV_blessing_the_crowd_at_Montserrat%2C_10_June_2026.jpg/330px-Pope_Leo_XIV_blessing_the_crowd_at_Montserrat%2C_10_June_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Pope_Leo_XIV_blessing_the_crowd_at_Montserrat%2C_10_June_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pope_Leo_XIV_blessing_the_crowd_at_Montserrat,_10_June_2026.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sergio López Prieto",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-06-10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Escolania de Montserrat.jpg",
+   "w": 2200,
+   "h": 1547,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Escolania_de_Montserrat.jpg/330px-Escolania_de_Montserrat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Escolania_de_Montserrat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Escolania_de_Montserrat.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-21",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  }
+ ]
+}

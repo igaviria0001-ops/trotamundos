@@ -1,0 +1,207 @@
+{
+ "id": "sacrecoeur",
+ "enwiki": "Sacré-Cœur, Paris",
+ "endesc": "Catholic basilica and landmark in Paris, France",
+ "qid": "Q28785",
+ "label_es": "basílica del Sacré Cœur de Montmartre",
+ "desc_es": "basílica y monumento de París",
+ "coord": [
+  48.88665,
+  2.34295
+ ],
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1875-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 83.0,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 11000000.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q16970",
+  "Q120560",
+  "Q693842",
+  "Q133747929"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": false,
+ "eswiki": "Basílica del Sagrado Corazón (París)",
+ "extracto_es": "La Basílica del Sagrado Corazón de Montmartre (en francés: Basilique du Sacré-Cœur de Montmartre) conocida también como Basílica del Voto Nacional, es una basílica menor, templo expiatorio y santuario de adoración eucarística situado en la colina de Montmartre, en Clignancourt, XVIII distrito de París.\nSu construcción, a petición de varios notables parisinos y en colaboración con el arzobispo de París, fue aprobada por la Asamblea Nacional en 1873​ como edificio religioso a perpetuidad, en homenaje a la memoria de los numerosos ciudadanos franceses que habían perdido la vida durante la Guerra franco-prusiana,​ y su construcción se inscribe en un discurso del restablecimiento de la autoridad y el orden moral.​ tras los sucesos de la Comuna de París,​ en la que Montmartre desempeñó un papel destacado.\nSu situación, a 130 m de altura, a poca distancia de uno de los puntos de mayor altura de París, y su cúpula que se alza 83 m, la hacen visible desde muy lejos. Con cerca de 11 millones de peregrinos y visitantes anuales, es el segundo monumento religioso más visitado de París, tras la catedral de Notre Dame.​",
+ "candidatas": [
+  {
+   "file": "File:04-2017. París-4.jpg",
+   "w": 5333,
+   "h": 3555,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/04-2017._Par%C3%ADs-4.jpg/330px-04-2017._Par%C3%ADs-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/04-2017._Par%C3%ADs-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:04-2017._Par%C3%ADs-4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+   "credito": "Own work and https://www.flickr.com/photos/iesmgb/33175879934/in/album-72157679116545274/",
+   "nonfree": "",
+   "fecha": "2017-04-02 18:55:22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Paris - Sacré-Cœur de Montmartre 0693.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Paris_-_Sacr%C3%A9-C%C5%93ur_de_Montmartre_0693.jpg/330px-Paris_-_Sacr%C3%A9-C%C5%93ur_de_Montmartre_0693.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Paris_-_Sacr%C3%A9-C%C5%93ur_de_Montmartre_0693.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Paris_-_Sacr%C3%A9-C%C5%93ur_de_Montmartre_0693.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Phyrexian",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 11 August 2",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Basílica del Sagrado Corazón, París, Francia, 2026-04-06, DD 36-38 HDR.jpg",
+   "w": 5266,
+   "h": 8248,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bas%C3%ADlica_del_Sagrado_Coraz%C3%B3n%2C_Par%C3%ADs%2C_Francia%2C_2026-04-06%2C_DD_36-38_HDR.jpg/330px-Bas%C3%ADlica_del_Sagrado_Coraz%C3%B3n%2C_Par%C3%ADs%2C_Francia%2C_2026-04-06%2C_DD_36-38_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bas%C3%ADlica_del_Sagrado_Coraz%C3%B3n%2C_Par%C3%ADs%2C_Francia%2C_2026-04-06%2C_DD_36-38_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_del_Sagrado_Coraz%C3%B3n,_Par%C3%ADs,_Francia,_2026-04-06,_DD_36-38_HDR.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Diego Delso",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-04-06 06:21:51",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Le sacre coeur.jpg",
+   "w": 2304,
+   "h": 2598,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Le_sacre_coeur.jpg/330px-Le_sacre_coeur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Le_sacre_coeur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Le_sacre_coeur.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Tonchino",
+   "credito": "File:Le sacre coeur (paris - france).jpg",
+   "nonfree": "",
+   "fecha": "2011-10-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "P18"
+  },
+  {
+   "file": "File:View of Paris North west from the dome of Sacré Coeur DSC 0047.JPG",
+   "w": 3258,
+   "h": 4893,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/View_of_Paris_North_west_from_the_dome_of_Sacr%C3%A9_Coeur_DSC_0047.JPG/330px-View_of_Paris_North_west_from_the_dome_of_Sacr%C3%A9_Coeur_DSC_0047.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/View_of_Paris_North_west_from_the_dome_of_Sacr%C3%A9_Coeur_DSC_0047.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_Paris_North_west_from_the_dome_of_Sacr%C3%A9_Coeur_DSC_0047.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Pline",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-04-22",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Paris - Sacré-Cœur - Kuppel zur blauen Stunde.jpg",
+   "w": 2167,
+   "h": 3520,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Paris_-_Sacr%C3%A9-C%C5%93ur_-_Kuppel_zur_blauen_Stunde.jpg/330px-Paris_-_Sacr%C3%A9-C%C5%93ur_-_Kuppel_zur_blauen_Stunde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Paris_-_Sacr%C3%A9-C%C5%93ur_-_Kuppel_zur_blauen_Stunde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Paris_-_Sacr%C3%A9-C%C5%93ur_-_Kuppel_zur_blauen_Stunde.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Taxiarchos228",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-10-10",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Close up view of of Sacre-Coeur Basilica.jpg",
+   "w": 6264,
+   "h": 4180,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Close_up_view_of_of_Sacre-Coeur_Basilica.jpg/330px-Close_up_view_of_of_Sacre-Coeur_Basilica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Close_up_view_of_of_Sacre-Coeur_Basilica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Close_up_view_of_of_Sacre-Coeur_Basilica.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "OliveiraTP",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-05-01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Intérieur Basilique Sacré Cœur Montmartre - Paris XVIII (FR75) - 2022-04-30 - 65.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Int%C3%A9rieur_Basilique_Sacr%C3%A9_C%C5%93ur_Montmartre_-_Paris_XVIII_%28FR75%29_-_2022-04-30_-_65.jpg/330px-Int%C3%A9rieur_Basilique_Sacr%C3%A9_C%C5%93ur_Montmartre_-_Paris_XVIII_%28FR75%29_-_2022-04-30_-_65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Int%C3%A9rieur_Basilique_Sacr%C3%A9_C%C5%93ur_Montmartre_-_Paris_XVIII_%28FR75%29_-_2022-04-30_-_65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_Basilique_Sacr%C3%A9_C%C5%93ur_Montmartre_-_Paris_XVIII_(FR75)_-_2022-04-30_-_65.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Chabe01",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-04-30 18:47:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

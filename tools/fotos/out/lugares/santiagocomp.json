@@ -1,0 +1,206 @@
+{
+ "id": "santiagocomp",
+ "enwiki": "Santiago de Compostela Cathedral",
+ "endesc": "Catholic cathedral in Galicia, Spain",
+ "qid": "Q205136",
+ "coord": [
+  42.88055555555555,
+  -8.544444444444444
+ ],
+ "label_es": "Catedral Basílica Metropolitana de Santiago de Compostela",
+ "desc_es": "templo católico de Galicia (España)",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+0801-01-17T00:00:00Z",
+   "prec": 7
+  }
+ ],
+ "altura": [
+  {
+   "v": 75.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 100.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q56242215",
+  "Q811165",
+  "Q10631691",
+  "Q120560",
+  "Q16970"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Catedral de Santiago de Compostela",
+ "extracto_es": "La Santa Apostólica y Metropolitana Iglesia Catedral de Santiago de Compostela es un templo de culto católico situado en Santiago de Compostela, en la provincia de La Coruña, en Galicia, España. Acoge el que, según la tradición, es el sepulcro del Apóstol Santiago, hecho que convirtió a este templo en uno de los principales destinos de peregrinación de Europa durante la Edad Media a través del llamado Camino de Santiago, una ruta religiosa que comunicaba la península ibérica con el resto del continente. Esta vía de comunicación fue determinante para que los reinos hispánicos medievales participaran en los movimientos culturales de la época, y en la actualidad, tras haber sido revitalizada a lo largo del siglo XX, sigue siendo un importante itinerario internacional de peregrinación. Un privilegio concedido en 1122 por el papa Calixto II declaró que serían «Año Santo» o «Año Jubilar» en Compostela todos los años en que el día 25 de julio, día de Santiago, coincidieran en domingo; este privilegio fue confirmado por el papa Alejandro III en su bula Regis aeterni en 1179.​\nFue declarada bien de interés cultural en 1896,​ y la ciudad vieja de Santiago de Compostela, que se concentra en torno a la catedral, fue declarada bien cultural Patrimonio de la Humanidad por la Unesco en 1985.​\nEn 2015, en la aprobación por la Unesco de la ampliación del Camino de Santiago en España a «Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España», fue incluido como uno de los bienes individuales (n.º ref. 669bis-010).​",
+ "candidatas": [
+  {
+   "file": "File:Santiago cathedral 2021.jpg",
+   "w": 3507,
+   "h": 4384,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Santiago_cathedral_2021.jpg/330px-Santiago_cathedral_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Santiago_cathedral_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santiago_cathedral_2021.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fernando",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-07-09 20:04:01",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 13,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Santiago Compostela Cathedral 2023 - View from Alameda Park.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Santiago_Compostela_Cathedral_2023_-_View_from_Alameda_Park.jpg/330px-Santiago_Compostela_Cathedral_2023_-_View_from_Alameda_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Santiago_Compostela_Cathedral_2023_-_View_from_Alameda_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santiago_Compostela_Cathedral_2023_-_View_from_Alameda_Park.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fernando Pascullo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-04-30 20:43:58",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:2026. Altar dunha das capelas do deambulatorio da Catedral de Santiago de Compostela.jpg",
+   "w": 3416,
+   "h": 5124,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2026._Altar_dunha_das_capelas_do_deambulatorio_da_Catedral_de_Santiago_de_Compostela.jpg/330px-2026._Altar_dunha_das_capelas_do_deambulatorio_da_Catedral_de_Santiago_de_Compostela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/2026._Altar_dunha_das_capelas_do_deambulatorio_da_Catedral_de_Santiago_de_Compostela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2026._Altar_dunha_das_capelas_do_deambulatorio_da_Catedral_de_Santiago_de_Compostela.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Luis Miguel Bugallo Sánchez",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-06-27 11:08:17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Santiago Compostela Cathedral 2023 - Former portico of A Corticela.jpg",
+   "w": 2982,
+   "h": 3728,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Santiago_Compostela_Cathedral_2023_-_Former_portico_of_A_Corticela.jpg/330px-Santiago_Compostela_Cathedral_2023_-_Former_portico_of_A_Corticela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Santiago_Compostela_Cathedral_2023_-_Former_portico_of_A_Corticela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santiago_Compostela_Cathedral_2023_-_Former_portico_of_A_Corticela.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fernando Pascullo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-04-29 15:52:06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Santiago Compostela Cathedral 2023 - Main Altar 2.jpg",
+   "w": 5199,
+   "h": 3977,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Santiago_Compostela_Cathedral_2023_-_Main_Altar_2.jpg/330px-Santiago_Compostela_Cathedral_2023_-_Main_Altar_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Santiago_Compostela_Cathedral_2023_-_Main_Altar_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santiago_Compostela_Cathedral_2023_-_Main_Altar_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fernando Pascullo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-04-29 15:30:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Santiago Compostela Cathedral 2023 - Praterias.jpg",
+   "w": 4610,
+   "h": 3073,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Santiago_Compostela_Cathedral_2023_-_Praterias.jpg/330px-Santiago_Compostela_Cathedral_2023_-_Praterias.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Santiago_Compostela_Cathedral_2023_-_Praterias.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santiago_Compostela_Cathedral_2023_-_Praterias.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fernando Pascullo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-04-29 15:11:18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Cathedral Santiago de Compostela by Santiago Turismo (26612721896).jpg",
+   "w": 4641,
+   "h": 3007,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Cathedral_Santiago_de_Compostela_by_Santiago_Turismo_%2826612721896%29.jpg/330px-Cathedral_Santiago_de_Compostela_by_Santiago_Turismo_%2826612721896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cathedral_Santiago_de_Compostela_by_Santiago_Turismo_%2826612721896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Cathedral_Santiago_de_Compostela_by_Santiago_Turismo_(26612721896).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "WOMEX",
+   "credito": "Cathedral_Santiago_de_Compostela_by_Santiago_Turismo",
+   "nonfree": "",
+   "fecha": "2016-04-25 17:30",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Santiago-Cathedral-St-James.jpg",
+   "w": 4589,
+   "h": 3648,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Santiago-Cathedral-St-James.jpg/330px-Santiago-Cathedral-St-James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Santiago-Cathedral-St-James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Santiago-Cathedral-St-James.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Bjørn Christian Tørrissen",
+   "credito": "Own work by uploader, https://bjornfree.com/",
+   "nonfree": "",
+   "fecha": "2021-10-27 17:41:47",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 4,
+   "origen": "art-en"
+  }
+ ]
+}

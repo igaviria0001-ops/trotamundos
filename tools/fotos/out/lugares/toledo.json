@@ -1,0 +1,191 @@
+{
+ "id": "toledo",
+ "enwiki": "Toledo, Spain",
+ "endesc": "City in Castilla–La Mancha, Spain",
+ "qid": "Q5836",
+ "coord": [
+  39.866666666667,
+  -4.0333333333333
+ ],
+ "label_es": "Toledo",
+ "desc_es": "municipio de España, capital de la provincia homónima",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 523.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 232.1,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q2074737"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Toledo",
+ "extracto_es": "Toledo es un municipio y ciudad española, capital de la provincia homónima, en la comunidad autónoma de Castilla-La Mancha. Su término municipal cuenta con una población de 87 216  habitantes (INE 2025). El casco histórico está situado en la margen derecha del Tajo, en una colina rodeada por un pronunciado meandro. El término municipal incluye dos barrios muy separados del núcleo principal: el de Azucaica, en la orilla derecha del río, y el de Santa María de Benquerencia, situado prácticamente enfrente del anterior en la margen izquierda.\nLa ciudad fue un importante centro carpetano hasta la conquista romana en 193 a. C. Tras las invasiones germánicas, Toledo se convertiría en capital del Reino visigodo y, posteriormente, en su principal sede eclesiástica. En el año 711, Toledo fue conquistada por los musulmanes, cuyo dominio finalizó con la toma de la ciudad en 1085 por Alfonso VI. Es conocida como «la ciudad imperial» por haber sido la sede principal de la corte de Carlos I​ y también como «la ciudad de las tres culturas»,​ por haber estado poblada durante siglos por cristianos, judíos y musulmanes. En el siglo XVI tuvieron lugar la guerra de las Comunidades de Castilla y el traslado en 1561 de la corte a Madrid, tras el cual la ciudad entró en decadencia, acentuada por la crisis económica del momento. Ya en época contemporánea, se recuerda el asedio y defensa del alcázar durante la guerra civil. En 1983, Toledo pasó a ser sede de las Cortes regionales y de la Junta de Comunidades de Castilla-La Mancha​ y en 1986 su casco histórico fue declarado Patrimonio de la Humanidad.\nEn la actualidad la gran mayoría de la población se dedica al sector servicios, existiendo tradición local en la fabricación de espadas. Una línea de ferrocarril Avant conecta Toledo y Madrid en 33 minutos. Cuenta con diversas infraestructuras sanitarias, incluido el Hospital Nacional de Parapléjicos, y con la presencia de la Academia de Infantería.",
+ "candidatas": [
+  {
+   "file": "File:Toledo (37737041515).jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Toledo_%2837737041515%29.jpg/330px-Toledo_%2837737041515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Toledo_%2837737041515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Toledo_(37737041515).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Dmitry Dzhus from London",
+   "credito": "Toledo",
+   "nonfree": "",
+   "fecha": "2017-09-30 18:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Castillo de san Servando - 01.jpg",
+   "w": 4658,
+   "h": 3105,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Castillo_de_san_Servando_-_01.jpg/330px-Castillo_de_san_Servando_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Castillo_de_san_Servando_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_san_Servando_-_01.jpg",
+   "licencia": "CC BY-SA 3.0 es",
+   "licurl": "cc-by-sa-3.0-es",
+   "autor": "Carlos Delgado",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-09-17 16:23:15",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 12,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:1 toledo spain night 2014.jpg",
+   "w": 7248,
+   "h": 4697,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1_toledo_spain_night_2014.jpg/330px-1_toledo_spain_night_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/1_toledo_spain_night_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:1_toledo_spain_night_2014.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Chensiyuan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-05-14 12:35:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Toledo 4.jpg",
+   "w": 5472,
+   "h": 3300,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Toledo_4.jpg/330px-Toledo_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Toledo_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Toledo_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Adam Cli",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-06-21 20:21:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:AVE class 112 Toledo.jpg",
+   "w": 3648,
+   "h": 2736,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/AVE_class_112_Toledo.jpg/330px-AVE_class_112_Toledo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/AVE_class_112_Toledo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:AVE_class_112_Toledo.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Adbar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-02-14 10:44:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Alcázar de Toledo (52142644675).jpg",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Alc%C3%A1zar_de_Toledo_%2852142644675%29.jpg/330px-Alc%C3%A1zar_de_Toledo_%2852142644675%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Alc%C3%A1zar_de_Toledo_%2852142644675%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alc%C3%A1zar_de_Toledo_(52142644675).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "ajay_suresh",
+   "credito": "Alcázar de Toledo",
+   "nonfree": "",
+   "fecha": "2022-05-12 08:53",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Alcázar of Toledo, Spain. May, morning.jpg",
+   "w": 5146,
+   "h": 3208,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Alc%C3%A1zar_of_Toledo%2C_Spain._May%2C_morning.jpg/330px-Alc%C3%A1zar_of_Toledo%2C_Spain._May%2C_morning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Alc%C3%A1zar_of_Toledo%2C_Spain._May%2C_morning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Alc%C3%A1zar_of_Toledo,_Spain._May,_morning.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Ввласенко",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-05-24 10:51:48",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Civic Centers in Toledo yeonu.jpg",
+   "w": 4032,
+   "h": 3024,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Civic_Centers_in_Toledo_yeonu.jpg/330px-Civic_Centers_in_Toledo_yeonu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Civic_Centers_in_Toledo_yeonu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Civic_Centers_in_Toledo_yeonu.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Yeonu0407",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-01-15 13:31:55",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

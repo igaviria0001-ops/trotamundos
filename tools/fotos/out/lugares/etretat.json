@@ -1,0 +1,201 @@
+{
+ "id": "etretat",
+ "enwiki": "Étretat",
+ "endesc": "Commune in Normandy, France",
+ "qid": "Q290936",
+ "coord": [
+  49.706388888889,
+  0.20666666666667
+ ],
+ "label_es": "Étretat",
+ "desc_es": "comuna francesa",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 0.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 102.0,
+   "u": "Q11573"
+  },
+  {
+   "v": 63.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 4.07,
+   "u": "Q712226"
+  }
+ ],
+ "p31": [
+  "Q484170"
+ ],
+ "p17": [
+  "Q142"
+ ],
+ "unesco": false,
+ "eswiki": "Étretat",
+ "extracto_es": "Étretat es una localidad en el departamento Sena Marítimo, Normandía, Francia, que en 2020 contaba con una población de 1.238 habitantes.​ Está situada en la línea de la costa Pays de Caux, en las coordenadas 0°12′27″ longitud Este, 49°42'26\" latitud Norte.",
+ "candidatas": [
+  {
+   "file": "File:Porte d'Aval (Vue depuis la Manneporte).jpg",
+   "w": 9311,
+   "h": 5000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Porte_d%27Aval_%28Vue_depuis_la_Manneporte%29.jpg/330px-Porte_d%27Aval_%28Vue_depuis_la_Manneporte%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Porte_d%27Aval_%28Vue_depuis_la_Manneporte%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Porte_d%27Aval_(Vue_depuis_la_Manneporte).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jörg Braukmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-14 13:22:00",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:00 7495 Étretat - Normandie.jpg",
+   "w": 4368,
+   "h": 2912,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/00_7495_%C3%89tretat_-_Normandie.jpg/330px-00_7495_%C3%89tretat_-_Normandie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/00_7495_%C3%89tretat_-_Normandie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:00_7495_%C3%89tretat_-_Normandie.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "W. Bulach",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-03 10:38:31",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Porte d'Amont (Étretat).jpg",
+   "w": 4890,
+   "h": 3668,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Porte_d%27Amont_%28%C3%89tretat%29.jpg/330px-Porte_d%27Amont_%28%C3%89tretat%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Porte_d%27Amont_%28%C3%89tretat%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Porte_d%27Amont_(%C3%89tretat).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jörg Braukmann",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-14 15:28:18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Entlang der Küste von Étretat im Spätsommer 06.jpg",
+   "w": 8160,
+   "h": 6120,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_06.jpg/330px-Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_06.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "JensKunstfreund",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-09-11 13:18:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Entlang der Küste von Étretat im Spätsommer 07.jpg",
+   "w": 8160,
+   "h": 5800,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_07.jpg/330px-Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_07.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "JensKunstfreund",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-09-11 13:18:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Entlang der Küste von Étretat im Spätsommer 23.jpg",
+   "w": 4000,
+   "h": 2678,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_23.jpg/330px-Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_23.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "JensKunstfreund",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-09-11 13:18:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Entlang der Küste von Étretat im Spätsommer 08.jpg",
+   "w": 4080,
+   "h": 3060,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_08.jpg/330px-Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Entlang_der_K%C3%BCste_von_%C3%89tretat_im_Sp%C3%A4tsommer_08.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "JensKunstfreund",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-09-11 13:18:35",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Etretat Chapelle Notre-Dame de la Garde.jpg",
+   "w": 4928,
+   "h": 3280,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Etretat_Chapelle_Notre-Dame_de_la_Garde.jpg/330px-Etretat_Chapelle_Notre-Dame_de_la_Garde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Etretat_Chapelle_Notre-Dame_de_la_Garde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Etretat_Chapelle_Notre-Dame_de_la_Garde.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ladislaus Hoffner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-09-28 11:21:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

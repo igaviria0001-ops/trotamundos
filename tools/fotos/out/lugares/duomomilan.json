@@ -1,0 +1,208 @@
+{
+ "id": "duomomilan",
+ "enwiki": "Milan Cathedral",
+ "endesc": "Cathedral church of Milan, Italy",
+ "qid": "Q18068",
+ "coord": [
+  45.463968,
+  9.190578
+ ],
+ "label_es": "Catedral de Milán",
+ "desc_es": "catedral gótica, neogótica, neoclásica en la ciudad italiana de Milán",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1386-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 108.5,
+   "u": "Q11573"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 2140786.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q56242215",
+  "Q1200957",
+  "Q16970",
+  "Q1497375",
+  "Q16966"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Catedral de Milán",
+ "extracto_es": "La catedral de Milán (en italiano Duomo di Milano; en lombardo Domm de Milan) es una catedral gótica emplazada en la ciudad homónima. Es la sede episcopal de la archidiócesis de Milán. Es una de las iglesias de culto católico más grandes del mundo, tiene 157 metros de largo pudiendo albergar hasta 40 000 personas en su interior. Las ventanas del coro tienen la reputación de ser las mayores que se conocen.",
+ "candidatas": [
+  {
+   "file": "File:View west along Duomo roof, Milan.jpg",
+   "w": 3998,
+   "h": 3308,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/View_west_along_Duomo_roof%2C_Milan.jpg/330px-View_west_along_Duomo_roof%2C_Milan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/View_west_along_Duomo_roof%2C_Milan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:View_west_along_Duomo_roof,_Milan.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Daniel Case",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-06-21",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 14,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:20110724 Milan Cathedral 5260.jpg",
+   "w": 3140,
+   "h": 2728,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/20110724_Milan_Cathedral_5260.jpg/330px-20110724_Milan_Cathedral_5260.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/20110724_Milan_Cathedral_5260.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20110724_Milan_Cathedral_5260.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 24 July 201",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 14,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Milan Cathedral from Piazza del Duomo.jpg",
+   "w": 4164,
+   "h": 3129,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/330px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Milan_Cathedral_from_Piazza_del_Duomo.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Jiuguang Wang",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "en"
+  },
+  {
+   "file": "File:20110724 Milan Cathedral 5266.jpg",
+   "w": 3921,
+   "h": 2604,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/20110724_Milan_Cathedral_5266.jpg/330px-20110724_Milan_Cathedral_5266.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/20110724_Milan_Cathedral_5266.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20110724_Milan_Cathedral_5266.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jakub Hałun",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-07-24",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Portale - Duomo (Milano) 2022.jpg",
+   "w": 3550,
+   "h": 5550,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Portale_-_Duomo_%28Milano%29_2022.jpg/330px-Portale_-_Duomo_%28Milano%29_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Portale_-_Duomo_%28Milano%29_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Portale_-_Duomo_(Milano)_2022.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Terragio67",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2022-09-29",
+   "calidad": [
+    "QI",
+    "VI"
+   ],
+   "qpts": 6,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Duomo cathedral Milan Italy.jpg",
+   "w": 5152,
+   "h": 3864,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Duomo_cathedral_Milan_Italy.jpg/330px-Duomo_cathedral_Milan_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Duomo_cathedral_Milan_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Duomo_cathedral_Milan_Italy.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Reem Al-Kashif",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-06-27 02:06:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Milan cathedral 29-07-19.jpg",
+   "w": 5567,
+   "h": 3711,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Milan_cathedral_29-07-19.jpg/330px-Milan_cathedral_29-07-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Milan_cathedral_29-07-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Milan_cathedral_29-07-19.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Øyvind Holmstad",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-07-29 23:33:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Chancel and Altar of Milan Cathedral.jpg",
+   "w": 5778,
+   "h": 3852,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Chancel_and_Altar_of_Milan_Cathedral.jpg/330px-Chancel_and_Altar_of_Milan_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chancel_and_Altar_of_Milan_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chancel_and_Altar_of_Milan_Cathedral.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Julian Lupyan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-06-04 06:55:50",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

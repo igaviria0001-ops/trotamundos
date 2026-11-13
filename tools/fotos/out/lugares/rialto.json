@@ -1,0 +1,225 @@
+{
+ "id": "rialto",
+ "enwiki": "Rialto Bridge",
+ "endesc": "Bridge in Venice, Italy",
+ "qid": "Q52505",
+ "coord": [
+  45.438008,
+  12.335639
+ ],
+ "label_es": "puente de Rialto",
+ "desc_es": "puente de Venecia",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1588-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P580",
+   "time": "+1588-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P580",
+   "time": "+1591-00-00T00:00:00Z",
+   "prec": 9
+  },
+  {
+   "p": "P1619",
+   "time": "+1591-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "altura": [
+  {
+   "v": 6.7,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 48.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q3397526",
+  "Q158438",
+  "Q1068842",
+  "Q1825472",
+  "Q3397551",
+  "Q132775089"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Puente de Rialto",
+ "extracto_es": "El puente de Rialto (del italiano: Ponte di Rialto) es el más antiguo de los cuatro puentes de Venecia (Véneto, Italia) que cruzan el Gran Canal y probablemente el más famoso de la ciudad.",
+ "candidatas": [
+  {
+   "file": "File:Rialto Gondoliers.jpg",
+   "w": 3592,
+   "h": 2512,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Rialto_Gondoliers.jpg/330px-Rialto_Gondoliers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rialto_Gondoliers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rialto_Gondoliers.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Saffron Blaze",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-04-17",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 17,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rialto 2025 4.jpg",
+   "w": 5100,
+   "h": 3400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Rialto_2025_4.jpg/330px-Rialto_2025_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Rialto_2025_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rialto_2025_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-06-13 17:45",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Ponte di Rialto Canal Grande Venezia Rilievo San Marco.jpg",
+   "w": 7501,
+   "h": 5126,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ponte_di_Rialto_Canal_Grande_Venezia_Rilievo_San_Marco.jpg/330px-Ponte_di_Rialto_Canal_Grande_Venezia_Rilievo_San_Marco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ponte_di_Rialto_Canal_Grande_Venezia_Rilievo_San_Marco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ponte_di_Rialto_Canal_Grande_Venezia_Rilievo_San_Marco.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copy",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-05-17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Rialto Bridge Grand Canal.jpg",
+   "w": 3000,
+   "h": 2143,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Rialto_Bridge_Grand_Canal.jpg/330px-Rialto_Bridge_Grand_Canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rialto_Bridge_Grand_Canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rialto_Bridge_Grand_Canal.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Saffron Blaze",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ponte di Rialto Venice 2.jpg",
+   "w": 5090,
+   "h": 3400,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Ponte_di_Rialto_Venice_2.jpg/330px-Ponte_di_Rialto_Venice_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ponte_di_Rialto_Venice_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ponte_di_Rialto_Venice_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-12-11 18:14:06",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Rialto Bridge at night2.jpg",
+   "w": 5568,
+   "h": 3712,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Rialto_Bridge_at_night2.jpg/330px-Rialto_Bridge_at_night2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Rialto_Bridge_at_night2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rialto_Bridge_at_night2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Livioandronico2013",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2017-11-22 00:50:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:Ponte di Rialto, Venezia.JPG",
+   "w": 4320,
+   "h": 3240,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ponte_di_Rialto%2C_Venezia.JPG/330px-Ponte_di_Rialto%2C_Venezia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ponte_di_Rialto%2C_Venezia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ponte_di_Rialto,_Venezia.JPG",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Lyaju",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-05-04 13:09:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Venice, Canal Grande, Ponte di Rialto, apex 2.jpg",
+   "w": 5943,
+   "h": 3960,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Venice%2C_Canal_Grande%2C_Ponte_di_Rialto%2C_apex_2.jpg/330px-Venice%2C_Canal_Grande%2C_Ponte_di_Rialto%2C_apex_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Venice%2C_Canal_Grande%2C_Ponte_di_Rialto%2C_apex_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Venice,_Canal_Grande,_Ponte_di_Rialto,_apex_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Armin Kleiner",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-12 08:49:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  }
+ ]
+}

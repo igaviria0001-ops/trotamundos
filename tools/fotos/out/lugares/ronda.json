@@ -1,0 +1,194 @@
+{
+ "id": "ronda",
+ "enwiki": "Puente Nuevo",
+ "endesc": "Bridge in Ronda, Spain",
+ "qid": "Q2004707",
+ "coord": [
+  36.740633,
+  -5.165853
+ ],
+ "label_es": "puente Nuevo",
+ "desc_es": "puente de Ronda, España",
+ "inicio": [],
+ "altura": [
+  {
+   "v": 98.0,
+   "u": "Q11573"
+  }
+ ],
+ "largo": [
+  {
+   "v": 66.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q3397526",
+  "Q537127",
+  "Q158438"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Puente Nuevo (Ronda)",
+ "extracto_es": "El puente Nuevo es el monumento más emblemático de la ciudad de Ronda (provincia de Málaga, España). Construido entre 1751-1793,  con una altura de 98 metros. Une las zonas histórica y moderna de la ciudad salvando el tajo de Ronda, una garganta excavada por el río Guadalevín.",
+ "candidatas": [
+  {
+   "file": "File:Ronda - View from Puente Nuevo - 5.jpg",
+   "w": 5967,
+   "h": 3982,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ronda_-_View_from_Puente_Nuevo_-_5.jpg/330px-Ronda_-_View_from_Puente_Nuevo_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Ronda_-_View_from_Puente_Nuevo_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ronda_-_View_from_Puente_Nuevo_-_5.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benjamin Smith",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-04-10 14:52:05",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Ronda Spain Puente-Nuevo-de-Ronda-01.jpg",
+   "w": 3879,
+   "h": 2771,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Ronda_Spain_Puente-Nuevo-de-Ronda-01.jpg/330px-Ronda_Spain_Puente-Nuevo-de-Ronda-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ronda_Spain_Puente-Nuevo-de-Ronda-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ronda_Spain_Puente-Nuevo-de-Ronda-01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "CEphoto, Uwe Aranas",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2010-02-15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 10,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Punte Nuevo Bridge, Ronda - Spain.jpg",
+   "w": 1919,
+   "h": 2558,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Punte_Nuevo_Bridge%2C_Ronda_-_Spain.jpg/330px-Punte_Nuevo_Bridge%2C_Ronda_-_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Punte_Nuevo_Bridge%2C_Ronda_-_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Punte_Nuevo_Bridge,_Ronda_-_Spain.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Mark Gilbert",
+   "credito": "Ronda, Spain",
+   "nonfree": "",
+   "fecha": "2007-08-14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "en"
+  },
+  {
+   "file": "File:\"Puente Nuevo\" de Ronda.jpg",
+   "w": 2347,
+   "h": 3518,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/%22Puente_Nuevo%22_de_Ronda.jpg/330px-%22Puente_Nuevo%22_de_Ronda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/%22Puente_Nuevo%22_de_Ronda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Puente_Nuevo%22_de_Ronda.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Andbog",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-04-06 16:14:54",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Puente de Montoro.jpg",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Puente_de_Montoro.jpg/330px-Puente_de_Montoro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Puente_de_Montoro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puente_de_Montoro.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Roroto",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2013-12-29",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:20120111- DSC0407.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/20120111-_DSC0407.jpg/330px-20120111-_DSC0407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/20120111-_DSC0407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20120111-_DSC0407.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Ricardo GRRicardo García",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "11 January 2012, 18:",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:El Tajo de Ronda (1).jpg",
+   "w": 5783,
+   "h": 3488,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/El_Tajo_de_Ronda_%281%29.jpg/330px-El_Tajo_de_Ronda_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/El_Tajo_de_Ronda_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Tajo_de_Ronda_(1).jpg",
+   "licencia": "CC BY-SA 3.0 es",
+   "licurl": "cc-by-sa-3.0-es",
+   "autor": "Pedro J Pacheco",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-06-21 14:05:07",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Puente Nuevo and homes in Ronda Spain in 2019.jpg",
+   "w": 4928,
+   "h": 3280,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Puente_Nuevo_and_homes_in_Ronda_Spain_in_2019.jpg/330px-Puente_Nuevo_and_homes_in_Ronda_Spain_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Puente_Nuevo_and_homes_in_Ronda_Spain_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Puente_Nuevo_and_homes_in_Ronda_Spain_in_2019.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Tim Adams",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-16 18:12:43",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

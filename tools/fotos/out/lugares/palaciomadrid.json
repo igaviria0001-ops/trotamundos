@@ -1,0 +1,199 @@
+{
+ "id": "palaciomadrid",
+ "enwiki": "Royal Palace of Madrid",
+ "endesc": "Official residence of the Spanish royal family",
+ "qid": "Q171517",
+ "coord": [
+  40.417955,
+  -3.714312
+ ],
+ "label_es": "Palacio Real de Madrid",
+ "desc_es": "residencia oficial del rey de España y bien de interés cultural",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1735-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "area": [
+  {
+   "v": 135000.0,
+   "u": "Q25343"
+  }
+ ],
+ "p31": [
+  "Q53536964",
+  "Q907116",
+  "Q16560",
+  "Q481289",
+  "Q33506",
+  "Q15848826"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Palacio Real de Madrid",
+ "extracto_es": "El Palacio Real de Madrid es la residencia oficial del rey de España; no obstante, la familia real no habita en él, sino en el Palacio de la Zarzuela, por lo que es utilizado para ceremonias de Estado y actos solemnes.​\nCon una extensión de 135 000 m² y 3418 habitaciones (casi el doble que el Palacio de Buckingham o el Palacio de Versalles​), es el palacio real más grande de Europa Occidental​ y uno de los más grandes del mundo. Alberga un valioso patrimonio histórico-artístico, destacando el conjunto de instrumentos musicales conocido como los Stradivarius Palatinos, y colecciones muy relevantes de otras disciplinas como pintura, escultura y tapicería. Las salas de Estado y las colecciones artísticas están abiertas a las visitas siempre que no haya actos oficiales.​\nDesde la dictadura de Francisco Franco también se le conoce con el sobrenombre de Palacio de Oriente, a pesar de estar situado en la parte más occidental de Madrid, debido a su ubicación en la plaza de Oriente, llamada así al estar situada al este del palacio. A eje con el palacio, y enfrentado, se encuentra al otro extremo de la plaza el Teatro Real.​\nEl palacio fue construido por orden del rey Felipe V, sobre el solar dejado por el Real Alcázar, destruido casi del todo por un incendio en 1734. Tanto los cimientos del antiguo alcázar como alguna de sus estructuras fueron utilizadas para la construcción del nuevo palacio. El episodio del incendio sirvió para justificar la sustitución del viejo edificio por un palacio acorde al gusto de la época. Su construcción comenzó en 1738, según trazas del arquitecto Filippo Juvara, quien proponía un palacio mayor, pero en una ubicación diferente. Al morir Juvara, se encomendó el proyecto a su discípulo Juan Bautista Sachetti, a quien se exigió adaptar los planos de Juvara al solar del antiguo Alcázar. Otros distinguidos arquitectos españoles como Ventura Rodríguez participaron y se formaron en la cantera del nuevo palacio, a él se debe la configuración de la Real Capilla.​ Francesco Sabatini se encargó de la conclusión del edificio, así como de obras secundarias de reforma, ampliación y decoración. Carlos III fue el primer monarca que habitó de forma continua el palacio.​\nEl último monarca que vivió en palacio fue Alfonso XIII, aunque Manuel Azaña, presidente de la Segunda República, también habitó en el mismo, ocupando las habitaciones que anteriormente había ocupado la reina María Cristina y siendo, por tanto, el último jefe de Estado que lo hizo. Dura",
+ "candidatas": [
+  {
+   "file": "File:Palacio Real de Madrid Julio 2016 (cropped).jpg",
+   "w": 2784,
+   "h": 2104,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Palacio_Real_de_Madrid_Julio_2016_%28cropped%29.jpg/330px-Palacio_Real_de_Madrid_Julio_2016_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Palacio_Real_de_Madrid_Julio_2016_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Tim Adams",
+   "credito": "Wikipedia Cropped photo",
+   "nonfree": "",
+   "fecha": "2016-07-23 20:49:19",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Royal Palace of Madrid east facade 1.jpg",
+   "w": 5410,
+   "h": 3560,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Royal_Palace_of_Madrid_east_facade_1.jpg/330px-Royal_Palace_of_Madrid_east_facade_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Royal_Palace_of_Madrid_east_facade_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Royal_Palace_of_Madrid_east_facade_1.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-12-03 12:00:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Royal Palace of Madrid 01.jpg",
+   "w": 3348,
+   "h": 2373,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Royal_Palace_of_Madrid_01.jpg/330px-Royal_Palace_of_Madrid_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Royal_Palace_of_Madrid_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Royal_Palace_of_Madrid_01.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Bernard Gagnon",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-09-23",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 9,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Madrid - Palacio Real 01.jpg",
+   "w": 3077,
+   "h": 4646,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Madrid_-_Palacio_Real_01.jpg/330px-Madrid_-_Palacio_Real_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Madrid_-_Palacio_Real_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Madrid_-_Palacio_Real_01.jpg",
+   "licencia": "CC BY-SA 3.0 es",
+   "licurl": "cc-by-sa-3.0-es",
+   "autor": "Selbymay",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-08-08 18:23:26",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Main Staircase of the Royal Palace of Madrid.jpg",
+   "w": 4000,
+   "h": 2666,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Main_Staircase_of_the_Royal_Palace_of_Madrid.jpg/330px-Main_Staircase_of_the_Royal_Palace_of_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Main_Staircase_of_the_Royal_Palace_of_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Main_Staircase_of_the_Royal_Palace_of_Madrid.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "European Commission - Dati Bendo",
+   "credito": "https://audiovisual.ec.europa.eu/en/media/photo/P-061531/00-56",
+   "nonfree": "",
+   "fecha": "2023-07-03",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Royal Palace of Madrid Panorama.jpg",
+   "w": 12000,
+   "h": 5059,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Royal_Palace_of_Madrid_Panorama.jpg/330px-Royal_Palace_of_Madrid_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Royal_Palace_of_Madrid_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Royal_Palace_of_Madrid_Panorama.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Fernando",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-07-23 19:22:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "P4291"
+  },
+  {
+   "file": "File:Royal Palace of Madrid viewed from a distance.jpg",
+   "w": 5184,
+   "h": 3888,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Royal_Palace_of_Madrid_viewed_from_a_distance.jpg/330px-Royal_Palace_of_Madrid_viewed_from_a_distance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Royal_Palace_of_Madrid_viewed_from_a_distance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Royal_Palace_of_Madrid_viewed_from_a_distance.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sheila1988",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-06-04 16:28:47",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:20210109 Royal Palace of Madrid after snowstorm.jpg",
+   "w": 4146,
+   "h": 2764,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/20210109_Royal_Palace_of_Madrid_after_snowstorm.jpg/330px-20210109_Royal_Palace_of_Madrid_after_snowstorm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/20210109_Royal_Palace_of_Madrid_after_snowstorm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20210109_Royal_Palace_of_Madrid_after_snowstorm.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Tim Adams",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-01-09 17:00",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

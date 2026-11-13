@@ -1,0 +1,199 @@
+{
+ "id": "casabatllo",
+ "enwiki": "Casa Batlló",
+ "endesc": "Building by Antoni Gaudí in Barcelona, Spain",
+ "qid": "Q461371",
+ "coord": [
+  41.39158,
+  2.16492
+ ],
+ "label_es": "Casa Batlló",
+ "desc_es": "edificio modernista en Barcelona",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1877-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "elevacion": [
+  {
+   "v": 33.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 0.46,
+   "u": "Q35852"
+  },
+  {
+   "v": 1.02,
+   "u": "Q35852"
+  }
+ ],
+ "p31": [
+  "Q1498804",
+  "Q11755880"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Casa Batlló",
+ "extracto_es": "La Casa Batlló es un edificio obra del arquitecto Antoni Gaudí, máximo representante del modernismo catalán. Se trata de una remodelación integral de un edificio previamente existente en el solar, obra de Emilio Sala Cortés. Está situado en el número 43 del paseo de Gracia de Barcelona, la ancha avenida que atraviesa el distrito del Ensanche (Eixample), en la llamada Manzana de la discordia, porque alberga además de este edificio otras obras de arquitectos modernistas: la Casa Amatller, que colinda con la de Gaudí, obra de Josep Puig i Cadafalch; la Casa Lleó Morera, obra de Lluís Domènech i Montaner; la Casa Mulleras, de Enric Sagnier; y la Casa Josefina Bonet, de Marceliano Coquillat. La construcción se realizó entre los años 1904 y 1906.​ \nLa Casa Batlló es un reflejo de la plenitud artística de Gaudí: pertenece a su etapa naturalista (primera década del siglo XX), periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada. A ello añade el artista catalán una gran libertad creativa y una imaginativa creación ornamental: partiendo de cierto barroquismo sus obras adquieren gran riqueza estructural, de formas y volúmenes desprovistos de rigidez racionalista o de cualquier premisa clásica.​",
+ "candidatas": [
+  {
+   "file": "File:Casa Batllo Overview Barcelona Spain cut.jpg",
+   "w": 2244,
+   "h": 2765,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg/330px-Casa_Batllo_Overview_Barcelona_Spain_cut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "ChristianSchd",
+   "credito": "This file was derived from:  Casa Batllo Overview Barcelona Spain.jpg",
+   "nonfree": "",
+   "fecha": "2013-09-23 19:47:36",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Casa Batlló, Antoni Gaudí.jpg",
+   "w": 2992,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Casa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg/330px-Casa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Casa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3,_Antoni_Gaud%C3%AD.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Canaan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-05-01 11:22:05",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "es"
+  },
+  {
+   "file": "File:Chimneys of Casa Batlló, Barcelona.jpg",
+   "w": 6000,
+   "h": 4000,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chimneys_of_Casa_Batll%C3%B3%2C_Barcelona.jpg/330px-Chimneys_of_Casa_Batll%C3%B3%2C_Barcelona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Chimneys_of_Casa_Batll%C3%B3%2C_Barcelona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Chimneys_of_Casa_Batll%C3%B3,_Barcelona.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Julian Lupyan",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2023-08-03 10:07:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:CasaBatllo NobleFloor saloon.jpg",
+   "w": 4288,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/CasaBatllo_NobleFloor_saloon.jpg/330px-CasaBatllo_NobleFloor_saloon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/CasaBatllo_NobleFloor_saloon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:CasaBatllo_NobleFloor_saloon.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sara Terrones",
+   "credito": "Viajar lo cura todo",
+   "nonfree": "",
+   "fecha": "2016-04-27 07:30:10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:CasaBatllo attic arcs.jpg",
+   "w": 4272,
+   "h": 2856,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/CasaBatllo_attic_arcs.jpg/330px-CasaBatllo_attic_arcs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CasaBatllo_attic_arcs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:CasaBatllo_attic_arcs.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sara Terrones",
+   "credito": "Viajar lo cura todo",
+   "nonfree": "",
+   "fecha": "2016-04-27 07:38:18",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:CasaBatllo dragon stairs.jpg",
+   "w": 4272,
+   "h": 2856,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/CasaBatllo_dragon_stairs.jpg/330px-CasaBatllo_dragon_stairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/CasaBatllo_dragon_stairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:CasaBatllo_dragon_stairs.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sara Terrones",
+   "credito": "Viajar lo cura todo",
+   "nonfree": "",
+   "fecha": "2016-04-27 07:09:12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:CasaBatllo inner courtyard.jpg",
+   "w": 4272,
+   "h": 2856,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/CasaBatllo_inner_courtyard.jpg/330px-CasaBatllo_inner_courtyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CasaBatllo_inner_courtyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:CasaBatllo_inner_courtyard.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sara Terrones",
+   "credito": "Viajar lo cura todo",
+   "nonfree": "",
+   "fecha": "2016-04-27 07:33:38",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:CasaBatllo inner courtyard bottom.jpg",
+   "w": 4272,
+   "h": 2856,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/CasaBatllo_inner_courtyard_bottom.jpg/330px-CasaBatllo_inner_courtyard_bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/CasaBatllo_inner_courtyard_bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:CasaBatllo_inner_courtyard_bottom.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Sara Terrones",
+   "credito": "Viajar lo cura todo",
+   "nonfree": "",
+   "fecha": "2016-04-27 07:24:44",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

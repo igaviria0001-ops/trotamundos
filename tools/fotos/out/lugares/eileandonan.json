@@ -1,0 +1,193 @@
+{
+ "id": "eileandonan",
+ "enwiki": "Eilean Donan",
+ "endesc": "Small tidal island in the western Highlands of Scotland",
+ "qid": "Q79182",
+ "coord": [
+  57.274166666666666,
+  -5.516111111111111
+ ],
+ "label_es": "Eilean Donan",
+ "desc_es": null,
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 3.0,
+   "u": "Q11573"
+  }
+ ],
+ "p31": [
+  "Q555937"
+ ],
+ "p17": [
+  "Q145"
+ ],
+ "unesco": false,
+ "eswiki": "Eilean Donan",
+ "extracto_es": "Eilean Donan (en gaélico escocés: Eilean Donnain) es una pequeña isla de marea situada en la confluencia de tres lagos marinos ( Loch Duich, Loch Long y Loch Alsh ) en las Tierras Altas occidentales de Escocia, aproximadamente a 1 kilómetro (0,6 mi)  del pueblo de Dornie. Está conectada con el continente por un puente peatonal que se instaló a principios del siglo XX y está dominada por un pintoresco castillo homónimo que aparece con frecuencia en fotografías, películas y en la televisión. El castillo original de la isla fue construido en el siglo XIII; se convirtió en un bastión del Clan Mackenzie y sus aliados, el Clan MacRae. Sin embargo, en respuesta a la participación de los Mackenzie en las rebeliones jacobitas de principios del siglo XVIII, los barcos del gobierno destruyeron el castillo en 1719. La versión actual Eilean Donan es la de la reconstrucción del antiguo castillo por el teniente coronel John Macrae-Gilstrap en el siglo XX.​\nEilean Donan es parte del Área escénica nacional de Kintail, una de las 40 en Escocia.​ En 2001, la isla tenía una población registrada de una sola persona,  pero no había \"residentes habituales\" en el momento del censo de 2011. \nEilean Donan, que significa simplemente \"isla de Donnán\", lleva el nombre de Donnán de Eigg, un santo celta que fue martirizado en 617. Se dice que Donnán estableció una iglesia en la isla, aunque no queda rastro de ello.​",
+ "candidatas": [
+  {
+   "file": "File:Eilean Donan Castle, Scotland - Jan 2011.jpg",
+   "w": 6980,
+   "h": 4108,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Eilean_Donan_Castle%2C_Scotland_-_Jan_2011.jpg/330px-Eilean_Donan_Castle%2C_Scotland_-_Jan_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Eilean_Donan_Castle%2C_Scotland_-_Jan_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_Castle,_Scotland_-_Jan_2011.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "licurl": "cc-by-sa-3.0",
+   "autor": "Diliff",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-01-06",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 18,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Eilean Donan castle - 95mm.jpg",
+   "w": 4188,
+   "h": 2792,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Eilean_Donan_castle_-_95mm.jpg/330px-Eilean_Donan_castle_-_95mm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Eilean_Donan_castle_-_95mm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_castle_-_95mm.jpg",
+   "licencia": "CC BY 3.0",
+   "licurl": "cc-by-3.0",
+   "autor": "Eusebius",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2009-08-07",
+   "calidad": [
+    "FP",
+    "QI"
+   ],
+   "qpts": 10,
+   "puntos": 16,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Eilean Donan at Dusk.jpg",
+   "w": 2600,
+   "h": 1462,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Eilean_Donan_at_Dusk.jpg/330px-Eilean_Donan_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Eilean_Donan_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_at_Dusk.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Syxaxis Photography",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "Taken on 20 August 2",
+   "calidad": [
+    "FP"
+   ],
+   "qpts": 6,
+   "puntos": 11,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Eilean Donan Castle from South.jpg",
+   "w": 7565,
+   "h": 4255,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Eilean_Donan_Castle_from_South.jpg/330px-Eilean_Donan_Castle_from_South.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Eilean_Donan_Castle_from_South.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_Castle_from_South.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-03-13 16:19:04",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Eilean Donan Castle - Keep.jpg",
+   "w": 6240,
+   "h": 4160,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Eilean_Donan_Castle_-_Keep.jpg/330px-Eilean_Donan_Castle_-_Keep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Eilean_Donan_Castle_-_Keep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_Castle_-_Keep.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Christian David",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-03-13 15:34:01",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Eilean Donan castle from car park.jpg",
+   "w": 9185,
+   "h": 5741,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Eilean_Donan_castle_from_car_park.jpg/330px-Eilean_Donan_castle_from_car_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Eilean_Donan_castle_from_car_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_castle_from_car_park.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alexbrn",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2012-04-12 13:09:56",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Eilan Donan Castle Entrance.jpg",
+   "w": 2800,
+   "h": 2100,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Eilan_Donan_Castle_Entrance.jpg/330px-Eilan_Donan_Castle_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Eilan_Donan_Castle_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Eilan_Donan_Castle_Entrance.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Cayetano -",
+   "credito": "Eilean Donan frontdoor",
+   "nonfree": "",
+   "fecha": "2008-08-03 18:33",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:EileanDonanInsideView.jpg",
+   "w": 2304,
+   "h": 1536,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/EileanDonanInsideView.jpg/330px-EileanDonanInsideView.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/EileanDonanInsideView.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:EileanDonanInsideView.jpg",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "No machine-readable author provided. Adam Cuerden assumed (based on copyright claims).",
+   "credito": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "nonfree": "",
+   "fecha": "7 January 2004 (acco",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 5,
+   "origen": "art-en"
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "id": "guggenheim",
+ "enwiki": "Guggenheim Museum Bilbao",
+ "endesc": "Modern and contemporary art museum in Bilbao, Spain",
+ "qid": "Q179199",
+ "coord": [
+  43.26883,
+  -2.934099
+ ],
+ "label_es": "Museo Guggenheim Bilbao",
+ "desc_es": "museo en el País Vasco",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1997-10-18T00:00:00Z",
+   "prec": 11
+  },
+  {
+   "p": "P1619",
+   "time": "+1997-10-18T00:00:00Z",
+   "prec": 11
+  }
+ ],
+ "area": [
+  {
+   "v": 24000.0,
+   "u": "Q25343"
+  }
+ ],
+ "visitantes": [
+  {
+   "v": 530967.0,
+   "u": "1"
+  }
+ ],
+ "p31": [
+  "Q24699794",
+  "Q33506"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Museo Guggenheim Bilbao",
+ "extracto_es": "El Museo Guggenheim Bilbao (en euskera, Guggenheim Bilbao Museoa; en inglés, Guggenheim Museum Bilbao) es un museo de arte contemporáneo diseñado por el arquitecto canadiense Frank O. Gehry y localizado en la villa de Bilbao (País Vasco), España. Es uno de los museos vinculados en régimen de franquicia o colaboración con la Fundación Solomon R. Guggenheim. Fue inaugurado el 18 de octubre de 1997 por el rey Juan Carlos I de España. \nLas negociaciones para la construcción del museo entre las autoridades públicas de la comunidad autónoma del País Vasco y los directivos de la Fundación Guggenheim comenzaron en febrero de 1991. El acuerdo se firmó a finales de ese año, seleccionándose el arquitecto y el emplazamiento del edificio a mediados de 1992. Desde su inauguración en 1997, el museo ha recibido una media superior al millón de visitantes anuales, causando un impacto extraordinario en la economía y la sociedad vasca, impulsando el turismo en la región y promoviendo la revitalización de múltiples espacios públicos y privados en la villa, además de mejorar la imagen de la ciudad.​ Todo este fenómeno, bautizado por los medios de comunicación como «efecto Guggenheim» o «efecto Bilbao»,​ ha puesto de relieve la importancia del turismo cultural, y ha generado un efecto de emulación en otros países, con desiguales resultados.\nEl Efecto Guggenheim o Efecto Bilbao se puede explicar como un notable cambio en el pensamiento de una ciudad tan industrial como es Bilbao por la construcción de un edificio como fue la del museo, lo que generó una ampliación de hospitalidad que no se veía reflejada en la ciudad hasta antes de dicha construcción. La misión de ésta también fue la limpieza de cara de la ciudad, de forma que Bilbao pasó a ser interés cultural para toda la nación e incluso para el extranjero, y sobre todo podemos ver cuán eficaz fue su propaganda a través de internet teniendo un museo muy contemporáneo y moderno. Eso impulsó la difusión de las imágenes digitales del singular edificio Guggenheim Bilbao en todo el mundo. La atención mediática masiva generada por el edificio singular de Frank Gehry, y la acumulación de noticias e imágenes, reposicionó la ciudad de Bilbao globalmente. En términos de Geografía Económica, siendo Bilbao una ciudad de segundo nivel, el GMB alcanzó una alta centralidad en los medios de comunicación global. Además, esa alta centralidad genera muchos de los beneficios de la Economía de Redes (Economías de Aglomeración).​\nLa característica ",
+ "candidatas": [
+  {
+   "file": "File:Museo Guggenheim, Bilbao (31273245344).jpg",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg/330px-Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Museo_Guggenheim,_Bilbao_(31273245344).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Naotake Murayama",
+   "credito": "Flickr",
+   "nonfree": "",
+   "fecha": "2016-11-17",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 12,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Guggenheim Museum Bilbao 6.jpg",
+   "w": 5400,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Guggenheim_Museum_Bilbao_6.jpg/330px-Guggenheim_Museum_Bilbao_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Guggenheim_Museum_Bilbao_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Guggenheim_Museum_Bilbao_6.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-02-24 12:17",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Guggenheim Museum Bilbao 2.jpg",
+   "w": 5400,
+   "h": 3600,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Guggenheim_Museum_Bilbao_2.jpg/330px-Guggenheim_Museum_Bilbao_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Guggenheim_Museum_Bilbao_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Guggenheim_Museum_Bilbao_2.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2025-02-24 12:15",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Guggenheim Bilbao aerial view.jpg",
+   "w": 4256,
+   "h": 2832,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Guggenheim_Bilbao_aerial_view.jpg/330px-Guggenheim_Bilbao_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Guggenheim_Bilbao_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Guggenheim_Bilbao_aerial_view.jpg",
+   "licencia": "CC BY 3.0 es",
+   "licurl": "cc-by-3.0-es",
+   "autor": "Mikel Arrazola",
+   "credito": "Argazki Irekia",
+   "nonfree": "",
+   "fecha": "2007-05-06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 9,
+   "origen": "P8592"
+  },
+  {
+   "file": "File:A Bibao - Puppy - de Jeff Koons.jpg",
+   "w": 3532,
+   "h": 2458,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/A_Bibao_-_Puppy_-_de_Jeff_Koons.jpg/330px-A_Bibao_-_Puppy_-_de_Jeff_Koons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/A_Bibao_-_Puppy_-_de_Jeff_Koons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Bibao_-_Puppy_-_de_Jeff_Koons.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Archaeodontosaurus",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2011-09-22",
+   "calidad": [
+    "VI"
+   ],
+   "qpts": 2,
+   "puntos": 8,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:BilGug.jpg",
+   "w": 4991,
+   "h": 3331,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/BilGug.jpg/330px-BilGug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/BilGug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:BilGug.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "PA",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-10-10",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Urdaibai, Bizkaia, Euskal Herria.jpg",
+   "w": 5511,
+   "h": 2906,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Urdaibai%2C_Bizkaia%2C_Euskal_Herria.jpg/330px-Urdaibai%2C_Bizkaia%2C_Euskal_Herria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Urdaibai%2C_Bizkaia%2C_Euskal_Herria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Urdaibai,_Bizkaia,_Euskal_Herria.jpg",
+   "licencia": "CC BY 3.0 es",
+   "licurl": "cc-by-3.0-es",
+   "autor": "Mikel Arrazola",
+   "credito": "Argazki Irekia",
+   "nonfree": "",
+   "fecha": "2000-12-12",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Museo Guggenheim (Bilbao).jpg",
+   "w": 4608,
+   "h": 3072,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Museo_Guggenheim_%28Bilbao%29.jpg/330px-Museo_Guggenheim_%28Bilbao%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Museo_Guggenheim_%28Bilbao%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Museo_Guggenheim_(Bilbao).jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Manuel Portero",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-10-10 19:49:14",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "busqueda"
+  }
+ ]
+}

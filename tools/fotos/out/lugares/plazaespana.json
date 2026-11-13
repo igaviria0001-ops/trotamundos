@@ -1,0 +1,192 @@
+{
+ "id": "plazaespana",
+ "enwiki": "Plaza de España, Seville",
+ "endesc": "Building in Seville, Spain",
+ "qid": "Q956018",
+ "coord": [
+  37.3770803987887,
+  -5.98690073028303
+ ],
+ "label_es": "plaza de España",
+ "desc_es": "plaza de Sevilla",
+ "inicio": [
+  {
+   "p": "P571",
+   "time": "+1928-00-00T00:00:00Z",
+   "prec": 9
+  }
+ ],
+ "p31": [
+  "Q174782"
+ ],
+ "p17": [
+  "Q29"
+ ],
+ "unesco": false,
+ "eswiki": "Plaza de España (Sevilla)",
+ "extracto_es": "La plaza de España es un conjunto arquitectónico enclavado en el parque de María Luisa de la ciudad de Sevilla (Andalucía, España). Fue proyectada por el arquitecto Aníbal González. Se levantó entre 1914 y 1929 y es la construcción más grande de la Exposición Iberoamericana de 1929.​​\nEs una plaza semicircular con un gran edificio central que alberga un cuartel general del Ejército de Tierra, galerías con estructuras que albergan escaleras monumentales y, en los extremos, dos edificios con torres que albergan organismos estatales.​ Tiene una ría atravesada por cuatro puentes y una fuente central. Está decorada con 48 bancos dedicados a las provincias españolas,​ 52 medallones personajes ilustres de la historia de España​ y escudos heráldicos.​​\nEn una de las galerías está la entrada al Museo Histórico Militar de Sevilla.​\nEn julio de 2023 fue declarada bien de interés cultural.​",
+ "candidatas": [
+  {
+   "file": "File:Plaza de España (Sevilla) - 01.jpg",
+   "w": 3888,
+   "h": 2592,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg/330px-Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Carlos Delgado",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-10-03 17:02:03",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 16,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Plaza de España, Seville 4.jpg",
+   "w": 5000,
+   "h": 3333,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Plaza_de_Espa%C3%B1a%2C_Seville_4.jpg/330px-Plaza_de_Espa%C3%B1a%2C_Seville_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Plaza_de_Espa%C3%B1a%2C_Seville_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a,_Seville_4.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-12-26 14:46",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Plaza de España, Seville 3.jpg",
+   "w": 5200,
+   "h": 3155,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Plaza_de_Espa%C3%B1a%2C_Seville_3.jpg/330px-Plaza_de_Espa%C3%B1a%2C_Seville_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Plaza_de_Espa%C3%B1a%2C_Seville_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a,_Seville_3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "kallerna",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2020-12-26 14:43",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Sevilla - Plaza de España - 3.jpg",
+   "w": 6320,
+   "h": 3520,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Sevilla_-_Plaza_de_Espa%C3%B1a_-_3.jpg/330px-Sevilla_-_Plaza_de_Espa%C3%B1a_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sevilla_-_Plaza_de_Espa%C3%B1a_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sevilla_-_Plaza_de_Espa%C3%B1a_-_3.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Benjamin Smith",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2024-04-07 19:00:18",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 11,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Seville April 2019-24a.jpg",
+   "w": 4912,
+   "h": 6676,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Seville_April_2019-24a.jpg/330px-Seville_April_2019-24a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Seville_April_2019-24a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Seville_April_2019-24a.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Alvesgaspar",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-11-30 13:38:43",
+   "calidad": [
+    "QI"
+   ],
+   "qpts": 4,
+   "puntos": 8,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Plaza de España, Sevilla. Iluminada de noche.jpg",
+   "w": 4272,
+   "h": 2848,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Plaza_de_Espa%C3%B1a%2C_Sevilla._Iluminada_de_noche.jpg/330px-Plaza_de_Espa%C3%B1a%2C_Sevilla._Iluminada_de_noche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Plaza_de_Espa%C3%B1a%2C_Sevilla._Iluminada_de_noche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a,_Sevilla._Iluminada_de_noche.jpg",
+   "licencia": "CC BY-SA 3.0 es",
+   "licurl": "cc-by-sa-3.0-es",
+   "autor": "Noelia Campillo",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2014-09-27 21:36:01",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "P3451"
+  },
+  {
+   "file": "File:9. Mai 1929, an diesem Tag wurde die Iberoamerikanische Ausstellung in Sevilla eröffnet. 19.jpg",
+   "w": 5385,
+   "h": 3714,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/9._Mai_1929%2C_an_diesem_Tag_wurde_die_Iberoamerikanische_Ausstellung_in_Sevilla_er%C3%B6ffnet._19.jpg/330px-9._Mai_1929%2C_an_diesem_Tag_wurde_die_Iberoamerikanische_Ausstellung_in_Sevilla_er%C3%B6ffnet._19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/9._Mai_1929%2C_an_diesem_Tag_wurde_die_Iberoamerikanische_Ausstellung_in_Sevilla_er%C3%B6ffnet._19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:9._Mai_1929,_an_diesem_Tag_wurde_die_Iberoamerikanische_Ausstellung_in_Sevilla_er%C3%B6ffnet._19.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Holger Uwe Schmitt",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-12-30 16:38:09",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Sevilla-3-2 (48040415303).jpg",
+   "w": 4608,
+   "h": 3456,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Sevilla-3-2_%2848040415303%29.jpg/330px-Sevilla-3-2_%2848040415303%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sevilla-3-2_%2848040415303%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sevilla-3-2_(48040415303).jpg",
+   "licencia": "CC BY 2.0",
+   "licurl": "cc-by-2.0",
+   "autor": "Ajay Suresh from New York, NY, USA",
+   "credito": "Sevilla-3-2",
+   "nonfree": "",
+   "fecha": "2019-05-30 12:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}

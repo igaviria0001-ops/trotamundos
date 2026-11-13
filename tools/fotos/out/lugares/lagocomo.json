@@ -1,0 +1,194 @@
+{
+ "id": "lagocomo",
+ "enwiki": "Lake Como",
+ "endesc": "Lake in Lombardy, Italy",
+ "qid": "Q15523",
+ "coord": [
+  46,
+  9.2666666666667
+ ],
+ "label_es": "Lago de Como",
+ "desc_es": "lago de Como",
+ "inicio": [],
+ "elevacion": [
+  {
+   "v": 198.0,
+   "u": "Q11573"
+  }
+ ],
+ "area": [
+  {
+   "v": 145.0,
+   "u": "Q712226"
+  }
+ ],
+ "largo": [
+  {
+   "v": 46.0,
+   "u": "Q828224"
+  }
+ ],
+ "p31": [
+  "Q211302"
+ ],
+ "p17": [
+  "Q38"
+ ],
+ "unesco": false,
+ "eswiki": "Lago de Como",
+ "extracto_es": "El lago de Como o Lario (del italiano: lago di Como o Lario) es un lago situado en la región de Lombardia, en Italia, específicamente en las provincias de Como y Lecco. Está situado a 199 metros de altitud sobre el nivel del mar y tiene una superficie de 146 km². Con sus 416 metros de profundidad (en la presa de Argegno) es uno de los lagos más profundos de Europa. Es el tercer lago más grande de Italia, después del lago de Garda (1º) y el lago Mayor. Tiene forma de una \"Y\" invertida.\nEl lago está compuesto por tres brazos: al oeste el de Como, al este el de Lecco y al norte el brazo de Cólico. El lago también es llamado a veces Lago de Lario, su nombre en latín. Los brazos de Lecco y Como delimitan dos lados del Triángulo Lariano.\nA su vez, el brazo de Como está dividido en tres partes: la primera es la que parte de la ciudad de Como y llega a los pueblos de Moltrasio y Torno, de donde nace el segundo \"bracito\" para ir a parar a Laglio. Por último el tercero llega a Balbianello, donde se encuentra la localidad de Bellagio.\nJusto en este último pequeño brazo se encuentra la Isla Comacina, la única del lago en la que se han encontrado restos romanos.\nDurante la Edad Media y el Renacimiento, las aguas del lago también fueron escenario de enfrentamientos militares, como en el siglo XII durante la guerra de los diez años, que vio a la flota de Como en acción contra los barcos de los milaneses y sus aliados.  También entre 1525 y 1532, a causa de las guerras de Musso desatadas por Gian Giacomo Medici.​\nSubiendo por la ribera occidental del brazo de Cólico, se encuentra el pueblo de Dongo, donde la Resistencia italiana capturó a Benito Mussolini en 1945; no lejos de allí se encuentra también Giulino di Mezzegra, la localidad donde fue ejecutado.\nSus pueblos son famosos (la novela Los Novios de Alessandro Manzoni trascurre en un pueblecito del lago) y atraen muchos turistas de todo el mundo, también muy célebres, como por ejemplo George Clooney, dueño de dos maravillosas villas situadas en el pueblo de Laglio (Villa Oleandra y Villa Margherita), Madonna, Matt Bellamy (vocalista del grupo Muse) y Raúl Barceló.  En épocas más antiguas lo visitaron Leonardo da Vinci, Napoleón Bonaparte, Stendhal, Franz Liszt, Giuseppe Verdi, Vincenzo Bellini, Gioacchino Rossini y Winston Churchill. El área de Lierna es un sitio encantador histórico del lago con una playa blanca y un castillo famoso.\nGracias a su clima mediterráneo, crecen allí muchas plantas subtropicales; entre otr",
+ "candidatas": [
+  {
+   "file": "File:Panoramic view of Como Lake (Lago di Como), seen from the mountain Monte Grona - Plesio (Como) 2015-10-25.JPG",
+   "w": 3632,
+   "h": 2020,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panoramic_view_of_Como_Lake_%28Lago_di_Como%29%2C_seen_from_the_mountain_Monte_Grona_-_Plesio_%28Como%29_2015-10-25.JPG/330px-Panoramic_view_of_Como_Lake_%28Lago_di_Como%29%2C_seen_from_the_mountain_Monte_Grona_-_Plesio_%28Como%29_2015-10-25.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Panoramic_view_of_Como_Lake_%28Lago_di_Como%29%2C_seen_from_the_mountain_Monte_Grona_-_Plesio_%28Como%29_2015-10-25.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Como_Lake_(Lago_di_Como),_seen_from_the_mountain_Monte_Grona_-_Plesio_(Como)_2015-10-25.JPG",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Mænsard vokser",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2015-10-25 10:02:11",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 11,
+   "origen": "P18"
+  },
+  {
+   "file": "File:Sentiero del Viandante DSC 6340 (14020554463).jpg",
+   "w": 2048,
+   "h": 1280,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Sentiero_del_Viandante_DSC_6340_%2814020554463%29.jpg/330px-Sentiero_del_Viandante_DSC_6340_%2814020554463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Sentiero_del_Viandante_DSC_6340_%2814020554463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sentiero_del_Viandante_DSC_6340_(14020554463).jpg",
+   "licencia": "CC BY-SA 2.0",
+   "licurl": "cc-by-sa-2.0",
+   "autor": "Luca Casartelli",
+   "credito": "DSC_6340.jpg",
+   "nonfree": "",
+   "fecha": "2014-04-23 12:42",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 8,
+   "origen": "en"
+  },
+  {
+   "file": "File:L'Adda si immette nel Lago di Como visto dal Monte Legnone.jpg",
+   "w": 3940,
+   "h": 2216,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Adda_si_immette_nel_Lago_di_Como_visto_dal_Monte_Legnone.jpg/330px-L%27Adda_si_immette_nel_Lago_di_Como_visto_dal_Monte_Legnone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Adda_si_immette_nel_Lago_di_Como_visto_dal_Monte_Legnone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:L%27Adda_si_immette_nel_Lago_di_Como_visto_dal_Monte_Legnone.jpg",
+   "licencia": "CC0",
+   "licurl": "cc0",
+   "autor": "Matnick1410",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2026-07-18 09:53:13",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 7,
+   "origen": "busqueda"
+  },
+  {
+   "file": "File:Como lake in Italy.jpg",
+   "w": 5000,
+   "h": 3333,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Como_lake_in_Italy.jpg/330px-Como_lake_in_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Como_lake_in_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Como_lake_in_Italy.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "[[User:KhrystynaMogyliuk]]",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2019-08-23",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Monte San Primo - lago di Como.jpg",
+   "w": 5120,
+   "h": 3840,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Monte_San_Primo_-_lago_di_Como.jpg/330px-Monte_San_Primo_-_lago_di_Como.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Monte_San_Primo_-_lago_di_Como.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Monte_San_Primo_-_lago_di_Como.jpg",
+   "licencia": "CC BY 4.0",
+   "licurl": "cc-by-4.0",
+   "autor": "Mario Falcetti",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2021-06-13 11:32:24",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Varenna Italy, waterfront at sunset.jpg",
+   "w": 3776,
+   "h": 2520,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Varenna_Italy%2C_waterfront_at_sunset.jpg/330px-Varenna_Italy%2C_waterfront_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Varenna_Italy%2C_waterfront_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Varenna_Italy,_waterfront_at_sunset.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "licurl": "cc-by-sa-4.0",
+   "autor": "Jmatazzoni",
+   "credito": "Own work",
+   "nonfree": "",
+   "fecha": "2016-06-21 11:16:49",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Villa Carlotta (Tremezzo) - DSC02504.JPG",
+   "w": 4320,
+   "h": 3240,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Villa_Carlotta_%28Tremezzo%29_-_DSC02504.JPG/330px-Villa_Carlotta_%28Tremezzo%29_-_DSC02504.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Villa_Carlotta_%28Tremezzo%29_-_DSC02504.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Villa_Carlotta_(Tremezzo)_-_DSC02504.JPG",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Daderot",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "2011-04-15 11:49:41",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  },
+  {
+   "file": "File:Villa Melzi (Bellagio) - DSC02854.JPG",
+   "w": 4320,
+   "h": 3240,
+   "mime": "image/jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Villa_Melzi_%28Bellagio%29_-_DSC02854.JPG/330px-Villa_Melzi_%28Bellagio%29_-_DSC02854.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Villa_Melzi_%28Bellagio%29_-_DSC02854.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Villa_Melzi_(Bellagio)_-_DSC02854.JPG",
+   "licencia": "Public domain",
+   "licurl": "pd",
+   "autor": "Daderot",
+   "credito": "Self-photographed",
+   "nonfree": "",
+   "fecha": "2011-04-16 10:07:06",
+   "calidad": [],
+   "qpts": 0,
+   "puntos": 6,
+   "origen": "art-en"
+  }
+ ]
+}
