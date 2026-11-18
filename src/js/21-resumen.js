@@ -18,7 +18,7 @@ Pantallas.resumen = (d) => {
         d.logros && d.logros.length ? h('div.cad-logros', d.logros.map(l => h('div.cad-logro', h('span', { html: medallaSVG(l, true) }), h('b', l.n)))) : null,
         h('div.resumen-stats',
           d.modo === 'postal' ? h('div', h('b', fmt.km(d.viaje)), h('small', 'de vuelo entre postales')) : h('div', h('b', String(d.res.filter(r => r.est > 0).length) + ' de ' + d.res.length), h('small', 'aciertos')),
-          h('div', h('b', String(subieron)), h('small', esPais ? (subieron === 1 ? 'país subió de dominio' : 'países subieron de dominio') : (subieron === 1 ? 'lugar subió de dominio' : 'lugares subieron de dominio'))))),
+          h('div', h('b', String(subieron)), h('small', (() => { const t = esPais ? ((d.res[0].l.tipo === 'b') ? ['bandera', 'banderas'] : (d.res[0].l.tipo === 'c') ? ['capital', 'capitales'] : ['país', 'países']) : ['lugar', 'lugares']; return subieron === 1 ? `${t[0]} subió de dominio` : `${t[1]} subieron de dominio`; })())))),
       h('section.resumen-lista',
         d.res.map((r, k) => h('button.res-item', { onclick: () => r.l.esPais ? abrirFichaPais(r.l.pais) : abrirFicha(r.l), style: { animationDelay: (k * 70 + 300) + 'ms' } },
           r.l.esPais && r.l.tipo !== 'p' ? h('div.res-bandera', Banderas.el(r.l.iso[0]))
