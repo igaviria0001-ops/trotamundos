@@ -18,9 +18,9 @@ const MODOS = [
   { id: 'silueta', n: 'Silueta y rumbo', g: 'mapa', fase: 3, d: 'Deduce el país por su forma', datos: 'paises', escalas: { 5: [5, 'siluetas'], 10: [10, 'siluetas'], 15: [15, 'siluetas'] } },
   { id: 'brujula', n: 'Brújula', g: 'mapa', fase: 3, d: '¿Hacia dónde queda?', escalas: { 5: [5, 'rumbos'], 10: [10, 'rumbos'], 15: [15, 'rumbos'] } },
   { id: 'nortesur', n: 'De norte a sur', g: 'mapa', fase: 3, d: 'Ordena por posición', escalas: { 5: [5, 'rondas'], 10: [8, 'rondas'], 15: [12, 'rondas'] } },
-  { id: 'pintabandera', n: 'Pinta la bandera', g: 'banderas', fase: 4, d: 'Cada franja con su color' },
-  { id: 'banderasviento', n: 'Banderas al viento', g: 'banderas', fase: 4, d: 'Iza la bandera correcta' },
-  { id: 'capitales', n: 'Capitales: conecta', g: 'banderas', fase: 4, d: 'Une país y capital' },
+  { id: 'pintabandera', n: 'Pinta la bandera', g: 'banderas', fase: 4, d: 'Cada franja con su color', datos: 'paises', escalas: { 5: [5, 'banderas'], 10: [8, 'banderas'], 15: [12, 'banderas'] } },
+  { id: 'banderasviento', n: 'Banderas al viento', g: 'banderas', fase: 4, d: 'Iza la bandera correcta', datos: 'paises', escalas: { 5: [6, 'banderas'], 10: [10, 'banderas'], 15: [14, 'banderas'] } },
+  { id: 'capitales', n: 'Capitales: conecta', g: 'banderas', fase: 4, d: 'Une país y capital', datos: 'paises', escalas: { 5: [4, 'tableros'], 10: [6, 'tableros'], 15: [9, 'tableros'] } },
   { id: 'lineatiempo', n: 'Línea del tiempo', g: 'tiempo', fase: 5, d: 'De las pirámides a hoy' },
   { id: 'masalto', n: '¿Cuál es más alto?', g: 'tiempo', fase: 5, d: 'Ordena por altura' },
   { id: 'explorar', n: 'Explorar', g: 'aventuras', fase: 5, d: 'El globo libre, sin prisa' },
@@ -43,6 +43,8 @@ const escalaModo = (id, r) => { const e = MODO[id].escalas; return e ? e[r || 5]
 function poolModo(id, cfg) {
   if (id === 'silueta') return filtrarPaises(cfg, { minArea: 9000 });
   if (id === 'rompepaises') return filtrarPaises(cfg, { excluir: ['RU'] });
+  if (id === 'pintabandera') return filtrarPaises(cfg).filter(p => Banderas.data ? analizarBandera(p.iso) : true);
+  if (id === 'capitales') return filtrarPaises(cfg, { excluir: ['IL', 'PS'] }).filter(p => p.cap && p.capLat != null);
   if (MODO[id].datos === 'paises') return filtrarPaises(cfg);
   return filtrarLugares(cfg);
 }

@@ -9,20 +9,23 @@ const PAISES_JUEGO = PAISES.filter(p => p.un && CON_FORMA.has(p.iso) && p.c !== 
     const ps = PAISES_JUEGO.filter(p => p.c === c).sort((a, b) => fama(b) - fama(a));
     ps.forEach((p, i) => { const f = i / ps.length; p.t = f < .4 ? 1 : f < .72 ? 2 : 3; });
   }
+  // para "todo el mundo" el nivel se mide entre todos los países
+  const todos = PAISES_JUEGO.slice().sort((a, b) => fama(b) - fama(a));
+  todos.forEach((p, i) => { const f = i / todos.length; p.tg = f < .34 ? 1 : f < .68 ? 2 : 3; });
 })();
 
-const idPais = iso => 'p:' + iso;
+const idPais = (iso, pref = 'p') => pref + ':' + iso;
 function filtrarPaises(cfg, { minArea = 0, excluir = [] } = {}) {
   return PAISES_JUEGO.filter(p =>
     (!cfg.cont || cfg.cont === 'todo' || p.c === cfg.cont) &&
-    (!cfg.nivel || cfg.nivel === 'mezcla' || String(p.t) === String(cfg.nivel)) &&
+    (!cfg.nivel || cfg.nivel === 'mezcla' || String(cfg.cont === 'todo' || !cfg.cont ? p.tg : p.t) === String(cfg.nivel)) &&
     (p.area || 0) >= minArea && !excluir.includes(p.iso));
 }
 // un país con la forma de un lugar, para reusar resultados y resumen
-function paisComoLugar(p) { return { id: idPais(p.iso), n: p.n, iso: [p.iso], c: p.c, t: p.t, fotos: [], datos: [], esPais: true, pais: p }; }
+function paisComoLugar(p, tipo = 'p') { return { id: idPais(p.iso, tipo), n: p.n, iso: [p.iso], c: p.c, t: p.t, fotos: [], datos: [], esPais: true, pais: p, tipo }; }
 // elige países mezclando nuevos y repaso, igual que con los lugares
-function elegirPaises(pool, n, rnd) {
-  const como = pool.map(p => ({ id: idPais(p.iso), p }));
+function elegirPaises(pool, n, rnd, pref = 'p') {
+  const como = pool.map(p => ({ id: idPais(p.iso, pref), p }));
   return Progreso.elegir(como, Math.min(n, como.length), rnd).map(x => x.p);
 }
 

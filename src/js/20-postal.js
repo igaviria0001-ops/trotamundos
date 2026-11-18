@@ -13,7 +13,7 @@ function mensajePostal(km) {
   if (km <= 5000) return 'Te faltó un poco';
   return '¡Estaba lejos de ahí!';
 }
-const esAncho = () => matchMedia('(min-width: 900px) and (min-aspect-ratio: 5/4)').matches;
+const esAncho = () => matchMedia('(min-width: 900px) and (min-height: 560px) and (min-aspect-ratio: 5/4)').matches;
 
 Pantallas.juego_postal = (cfg) => {
   Progreso.load();
@@ -42,7 +42,8 @@ Pantallas.juego_postal = (cfg) => {
   const ayuda = h('div.ayuda-toque', 'Toca el globo donde crees que está');
   const controles = h('div.zoom-ctrl',
     h('button.icono-btn', { 'aria-label': 'Acercar', html: I.mas, onclick: () => globo.vuela(globo.centro, globo.zoom * 1.8, 350) }),
-    h('button.icono-btn', { 'aria-label': 'Alejar', html: I.menos, onclick: () => globo.vuela(globo.centro, globo.zoom / 1.8, 350) }));
+    h('button.icono-btn', { 'aria-label': 'Alejar', html: I.menos, onclick: () => globo.vuela(globo.centro, globo.zoom / 1.8, 350) }),
+    h('button.icono-btn', { 'aria-label': 'Ver todo el mundo', html: I.centrar, onclick: () => globo.vuela([globo.centro[0], 15], 1, 600) }));
   const accion = h('div.accion', btnPista, btnAqui);
   const hojaCont = h('div.contenido');
   const hojaPie = h('div.pie');

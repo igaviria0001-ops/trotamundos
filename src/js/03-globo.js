@@ -133,7 +133,8 @@ class Globo {
   eventos() {
     const cv = this.cv, ptrs = new Map();
     let arrastre = false, inicio = null, ult = null, pinch = null;
-    cv.style.touchAction = 'none';
+    const pagina = !!this.op.paginable;
+    cv.style.touchAction = pagina ? 'pan-y' : 'none';
     const xy = e => { const r = cv.getBoundingClientRect(); return [e.clientX - r.left, e.clientY - r.top]; };
     cv.addEventListener('pointerdown', e => {
       cv.setPointerCapture(e.pointerId);
@@ -147,7 +148,7 @@ class Globo {
       if (!ptrs.has(e.pointerId)) { this.hover(xy(e)); return; }
       const p = xy(e), prev = ptrs.get(e.pointerId);
       ptrs.set(e.pointerId, p);
-      if (ptrs.size === 2 && pinch) {
+      if (ptrs.size === 2 && pinch && !pagina) {
         const [a, b] = [...ptrs.values()];
         const d = Math.hypot(a[0] - b[0], a[1] - b[1]);
         this.setZoom(pinch.z * d / pinch.d);
@@ -158,7 +159,7 @@ class Globo {
       if (!inicio) return;
       if (!arrastre && Math.hypot(p[0] - inicio.p[0], p[1] - inicio.p[1]) > 7) { arrastre = true; this.emit('arrastra'); }
       if (arrastre) {
-        const dx = p[0] - prev[0], dy = p[1] - prev[1];
+        const dx = p[0] - prev[0], dy = pagina ? 0 : p[1] - prev[1];
         this.girarPx(dx, dy);
         const now = performance.now(), dt = Math.max(1, now - ult.t);
         this.vel = [dx / dt * 16, dy / dt * 16]; ult = { p, t: now };
@@ -171,7 +172,7 @@ class Globo {
       if (ptrs.size > 0) return;
       pinch = null;
       const p = xy(e);
-      if (!arrastre && inicio && performance.now() - inicio.t < 600) {
+      if (e.type !== 'pointercancel' && !arrastre && inicio && performance.now() - inicio.t < 600) {
         const now = performance.now();
         const ll = this.invertir(p[0], p[1]);
         const pin = this.pinEn(p);
@@ -183,7 +184,7 @@ class Globo {
     cv.addEventListener('pointerup', fin);
     cv.addEventListener('pointercancel', fin);
     cv.addEventListener('pointerleave', () => { this.hoverLL = null; });
-    cv.addEventListener('wheel', e => {
+    if (!pagina) cv.addEventListener('wheel', e => {
       e.preventDefault(); this.parar();
       const f = Math.exp(-e.deltaY * (e.deltaMode ? .05 : .0016));
       this.zoomEn(xy(e), this.zoom * f);

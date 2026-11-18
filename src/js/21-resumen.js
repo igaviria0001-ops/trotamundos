@@ -20,7 +20,8 @@ Pantallas.resumen = (d) => {
           h('div', h('b', String(subieron)), h('small', esPais ? (subieron === 1 ? 'país subió de dominio' : 'países subieron de dominio') : (subieron === 1 ? 'lugar subió de dominio' : 'lugares subieron de dominio'))))),
       h('section.resumen-lista',
         d.res.map((r, k) => h('button.res-item', { onclick: () => r.l.esPais ? abrirFichaPais(r.l.pais) : abrirFicha(r.l), style: { animationDelay: (k * 70 + 300) + 'ms' } },
-          r.l.esPais ? h('div.res-silueta', { html: siluetaSVG(r.l.iso[0], { w: 64, h: 64, pad: 4, color: CONTINENTES[r.l.c].color }) })
+          r.l.esPais && r.l.tipo !== 'p' ? h('div.res-bandera', Banderas.el(r.l.iso[0]))
+          : r.l.esPais ? h('div.res-silueta', { html: siluetaSVG(r.l.iso[0], { w: 64, h: 64, pad: 4, color: CONTINENTES[r.l.c].color }) })
             : h('img', { src: Foto.url(r.l, 0, true) || Foto.respaldo(r.l), alt: '', loading: 'lazy' }),
           h('div.res-item-txt', h('b', r.l.n), r.l.esPais ? h('small', Banderas.el(r.l.iso[0]), ' ', CONTINENTES[r.l.c].n) : h('small', ...r.l.iso.map(i => Banderas.el(i)), ' ', paisesDe(r.l))),
           h('div.res-item-der', UI.estrellas(r.est), h('small', r.det || (r.km <= 25 ? '¡exacto!' : `a ${fmt.km(r.km)}`)))))),

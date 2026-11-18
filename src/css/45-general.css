@@ -1,0 +1,16 @@
+/* ===== detalles generales: celular acostado, gestos ===== */
+#girar { display: none; }
+@media (orientation: landscape) and (max-height: 520px) and (pointer: coarse) {
+  body[data-p^="juego"] #girar {
+    display: flex; position: fixed; inset: 0; z-index: 100; flex-direction: column; align-items: center; justify-content: center; gap: 8px; text-align: center;
+    background: radial-gradient(circle at 50% 40%, #FFFFFF 0%, #DDF1FB 60%, #B9E2F6 100%); color: var(--tinta);
+  }
+  body[data-p^="juego"] #girar b { font-family: var(--f-titulo); font-size: 1.5rem; }
+  body[data-p^="juego"] #girar small { font-weight: 700; color: var(--tinta2); }
+  .girar-cel { width: 86px; height: 86px; animation: girarCel 2.4s ease-in-out infinite; filter: drop-shadow(0 8px 10px rgba(20, 60, 110, .2)); }
+  .girar-cel svg { width: 100%; height: 100%; }
+}
+@keyframes girarCel { 0%, 20% { transform: rotate(-90deg); } 55%, 100% { transform: rotate(0deg); } }
+/* nada se selecciona ni se arrastra como imagen por accidente */
+img { -webkit-user-drag: none; user-select: none; }
+canvas { -webkit-user-select: none; user-select: none; }

@@ -3,15 +3,24 @@ function crearPartida({ modo, cfg, n, onSalir }) {
   const numPuntos = h('span.num', '0');
   const sub = h('div.sub');
   // con muchas rondas, en vez de sellitos va una barrita que se llena
-  const continuo = n > 12;
+  let continuo = n > 12;
   const relleno = h('b');
-  const progreso = continuo ? h('div.progreso.continuo', relleno) : h('div.progreso', Array.from({ length: n }, () => h('i')));
+  const progreso = h('div.progreso');
+  const armarProgreso = () => {
+    continuo = n > 12;
+    progreso.className = 'progreso' + (continuo ? ' continuo' : '');
+    progreso.innerHTML = '';
+    if (continuo) progreso.append(relleno); else progreso.append(...Array.from({ length: n }, () => h('i')));
+  };
+  armarProgreso();
   const escena = h('div.escena');
   const hojaCont = h('div.contenido');
   const hojaPie = h('div.pie');
   const hoja = h('div.hoja', h('button.asa', { 'aria-label': 'Agrandar o achicar', onclick: () => { hoja.classList.toggle('grande'); Sonido.play('papel'); } }), h('div.scroll.hoja-scroll', hojaCont), hojaPie);
   const P = {
     puntos: 0, i: 0, res: [], fin: false,
+    get n() { return n; },
+    reiniciar(nn) { n = nn; armarProgreso(); },
     el: h('div.juego.juego-' + modo,
       h('div.barra',
         h('button.icono-btn', { 'aria-label': 'Salir', html: I.cerrar, onclick: () => P.salir() }),

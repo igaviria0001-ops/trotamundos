@@ -32,7 +32,8 @@ Pantallas.juego_silueta = (cfg) => {
   const ayuda = h('div.ayuda-toque', 'Toca en el globo el país de la silueta');
   const controles = h('div.zoom-ctrl',
     h('button.icono-btn', { 'aria-label': 'Acercar', html: I.mas, onclick: () => globo.vuela(globo.centro, globo.zoom * 1.7, 350) }),
-    h('button.icono-btn', { 'aria-label': 'Alejar', html: I.menos, onclick: () => globo.vuela(globo.centro, globo.zoom / 1.7, 350) }));
+    h('button.icono-btn', { 'aria-label': 'Alejar', html: I.menos, onclick: () => globo.vuela(globo.centro, globo.zoom / 1.7, 350) }),
+    h('button.icono-btn', { 'aria-label': 'Ver todo el mundo', html: I.centrar, onclick: () => globo.vuela([globo.centro[0], 15], 1, 600) }));
   P.escena.append(globoCont, h('div.silueta-zona', carta, lista), ayuda, controles, h('div.accion', btnPista, btnEste), P.hoja);
 
   let globo;

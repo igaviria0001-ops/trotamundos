@@ -30,7 +30,7 @@ Pantallas.inicio = () => {
   // globo de portada con fotos de lugares famosos
   let globo;
   requestAnimationFrame(() => {
-    globo = new Globo(heroe, { giro: 6, centro: [-40, 18], zoomMax: 3, margen: .92, zoomDoble: false });
+    globo = new Globo(heroe, { giro: 6, centro: [-40, 18], zoomMax: 3, margen: .92, zoomDoble: false, paginable: true });
     const famosos = shuffle(LUGARES.filter(l => l.t === 1 && l.fotos.length)).slice(0, 18);
     famosos.forEach((l, i) => Foto.cargar(Foto.url(l, 0, true)).then(img => {
       if (img) setTimeout(() => globo.pin([l.lon, l.lat], { tipo: 'foto', img, lugar: l, tocable: true, esc: .9 }), i * 90);

@@ -5,6 +5,9 @@
   Progreso.load();
   Mapa.init();
   Banderas.cargar();
+  // en celulares acostados el juego pide girarlo (las pantallas de juego están hechas para vertical)
+  document.body.append(h('div#girar', h('div.girar-cel', { html: '<svg viewBox="0 0 64 64" aria-hidden="true"><rect x="20" y="6" width="24" height="44" rx="6" fill="#fff" stroke="#24476B" stroke-width="3"/><circle cx="32" cy="43" r="2.4" fill="#24476B"/><path d="M50 30a18 18 0 0 1-12 22" fill="none" stroke="#EF6F5E" stroke-width="3.4" stroke-linecap="round"/><path d="M36 48l2 5 5-2" fill="none" stroke="#EF6F5E" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg>' }),
+    h('b', 'Gira el celular'), h('small', 'Este juego se ve mejor en vertical')));
   // el primer toque despierta el audio (los navegadores lo exigen)
   const despertar = () => { Sonido.init(); document.removeEventListener('pointerdown', despertar); };
   document.addEventListener('pointerdown', despertar);

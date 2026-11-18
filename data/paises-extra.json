@@ -1,0 +1,97 @@
+{
+ "ZA": {
+  "capital": "Pretoria",
+  "capLat": -25.746,
+  "capLon": 28.188
+ },
+ "YE": {
+  "capital": "Saná",
+  "capLat": 15.369,
+  "capLon": 44.191
+ },
+ "NO": {
+  "capLat": 59.913,
+  "capLon": 10.752,
+  "idiomas": [
+   "noruego"
+  ]
+ },
+ "SZ": {
+  "capital": "Mbabane",
+  "capLat": -26.317,
+  "capLon": 31.133,
+  "nombre": "Esuatini"
+ },
+ "GQ": {
+  "capital": "Malabo",
+  "capLat": 3.75,
+  "capLon": 8.783
+ },
+ "CH": {
+  "idiomas": [
+   "alemán",
+   "francés",
+   "italiano",
+   "romanche"
+  ]
+ },
+ "PS": {
+  "moneda": "séquel israelí"
+ },
+ "BO": {
+  "idiomas": [
+   "español",
+   "quechua",
+   "aimara",
+   "guaraní"
+  ]
+ },
+ "IR": {
+  "nombre": "Irán"
+ },
+ "SL": {
+  "nombre": "Sierra Leona"
+ },
+ "GD": {
+  "nombre": "Granada"
+ },
+ "DJ": {
+  "nombre": "Yibuti"
+ },
+ "BW": {
+  "nombre": "Botsuana"
+ },
+ "LS": {
+  "nombre": "Lesoto"
+ },
+ "MW": {
+  "nombre": "Malaui"
+ },
+ "ML": {
+  "nombre": "Malí"
+ },
+ "BH": {
+  "nombre": "Baréin"
+ },
+ "KG": {
+  "nombre": "Kirguistán"
+ },
+ "CD": {
+  "nombre": "R. D. del Congo"
+ },
+ "CG": {
+  "nombre": "República del Congo"
+ },
+ "KN": {
+  "nombre": "San Cristóbal y Nieves"
+ },
+ "TL": {
+  "nombre": "Timor Oriental"
+ },
+ "MM": {
+  "nombre": "Myanmar"
+ },
+ "SA": {
+  "nombre": "Arabia Saudita"
+ }
+}

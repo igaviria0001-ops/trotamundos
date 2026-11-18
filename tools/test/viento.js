@@ -1,0 +1,28 @@
+const { chromium } = require('/opt/npm-tools/node_modules/playwright');
+(async () => {
+  const b = await chromium.launch({ executablePath: '/usr/bin/google-chrome', args: ['--use-gl=swiftshader', '--enable-unsafe-swiftshader'] });
+  const vp = process.argv[2] === 'pc' ? { width: 1440, height: 900 } : { width: 390, height: 844 };
+  const p = await (await b.newContext({ viewport: vp, deviceScaleFactor: 2, isMobile: vp.width < 500, hasTouch: true })).newPage();
+  const errs = []; p.on('pageerror', e => errs.push(e.message));
+  const suf = vp.width < 500 ? '' : '-pc';
+  await p.goto('http://localhost:8765/index.html'); await p.waitForTimeout(1000);
+  await p.evaluate(() => TMD.UI.ir('juego_banderasviento', { cont: 'todo', nivel: '1', rondas: 5 }));
+  await p.waitForTimeout(1600);
+  await p.screenshot({ path: `scratch/viento-1${suf}.png` });
+  const xy = await p.evaluate(() => { const g = TMD.globo; const q = g.pantalla(TMD.centroPais('BR')); const r = g.cv.getBoundingClientRect(); return [q[0] + r.left, q[1] + r.top]; });
+  await p.evaluate(() => TMD.globo.vuela(TMD.centroPais('BR'), 1, 10)); await p.waitForTimeout(200);
+  const xy2 = await p.evaluate(() => { const g = TMD.globo; const q = g.pantalla(TMD.centroPais('BR')); const r = g.cv.getBoundingClientRect(); return [q[0] + r.left, q[1] + r.top]; });
+  await p.mouse.click(xy2[0], xy2[1]); await p.waitForTimeout(300);
+  await p.click('.bv-accion .aqui'); await p.waitForTimeout(400);
+  await p.screenshot({ path: `scratch/viento-2${suf}.png` });
+  await p.evaluate(() => TMD.globo.vuela(TMD.centroPais('IN'), 1, 10)); await p.waitForTimeout(200);
+  const xy3 = await p.evaluate(() => { const g = TMD.globo; const q = g.pantalla(TMD.centroPais('IN')); const r = g.cv.getBoundingClientRect(); return [q[0] + r.left, q[1] + r.top]; });
+  await p.mouse.click(xy3[0], xy3[1]); await p.waitForTimeout(300); await p.click('.bv-accion .aqui'); await p.waitForTimeout(2200);
+  await p.screenshot({ path: `scratch/viento-3${suf}.png` });
+  await p.click('.hoja .pie .btn'); await p.waitForTimeout(1800);
+  await p.screenshot({ path: `scratch/viento-4${suf}.png` });
+  await p.click('.bv-colgada >> nth=0', { force: true }); await p.waitForTimeout(1600);
+  await p.screenshot({ path: `scratch/viento-5${suf}.png` });
+  console.log('errores', errs);
+  await b.close();
+})();
