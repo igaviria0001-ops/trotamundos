@@ -75,7 +75,7 @@ const esTactil = () => matchMedia('(pointer: coarse)').matches;
 
 // ajustes del jugador
 const Ajustes = {
-  def: { sonido: true, vibrar: true, letra: false, menosMov: false },
+  def: { sonido: true, musica: true, vibrar: true, letra: false, menosMov: false },
   v: null,
   load() { this.v = Object.assign({}, this.def, Store.get('ajustes', {})); this.apply(); },
   get(k) { if (!this.v) this.load(); return this.v[k]; },

@@ -26,6 +26,9 @@ Pantallas.inicio = () => {
         h('button.ini-atajo.reto' + (Reto.hechoHoy() ? '.hecho' : ''), { onclick: () => { Sonido.play('tap'); Cadena.iniciar(retoDelDia()); } },
           h('span.ini-atajo-ico', { html: Reto.hechoHoy() ? I.check : llamaSVG() }),
           h('span', h('b', 'Reto del día'), h('small', Reto.hechoHoy() ? `¡Hecho! Racha: ${Reto.get().racha}` : Reto.get().racha ? `Racha de ${Reto.get().racha} ${Reto.get().racha === 1 ? 'día' : 'días'}` : '6 paradas nuevas'))),
+        h('button.ini-atajo.expe', { onclick: () => { Sonido.play('tap'); UI.ir('expedicion'); } },
+          h('span.ini-atajo-ico', { html: I.m.expedicion }),
+          h('span', h('b', 'Expedición'), h('small', `Capítulo ${Math.max(1, CAPITULOS.filter((c, i) => Expedicion.abierto(i)).length)}`))),
         h('button.ini-atajo.album', { onclick: () => { Sonido.play('tap'); UI.ir('album'); } },
           h('span.ini-atajo-ico', { html: albumSVG() }),
           h('span', h('b', 'Mi álbum'), h('small', `${LUGARES.filter(l => Progreso.de(l.id).v > 0 || Visitados.get().has(l.id)).length} sellos`)))),
@@ -37,6 +40,7 @@ Pantallas.inicio = () => {
   // globo de portada con fotos de lugares famosos
   let globo;
   requestAnimationFrame(() => {
+    if (!Store.get('bienvenida')) setTimeout(bienvenida, 900);
     globo = new Globo(heroe, { giro: 6, centro: [-40, 18], zoomMax: 3, margen: .92, zoomDoble: false, paginable: true });
     const famosos = shuffle(LUGARES.filter(l => l.t === 1 && l.fotos.length)).slice(0, 18);
     famosos.forEach((l, i) => Foto.cargar(Foto.url(l, 0, true)).then(img => {
@@ -50,6 +54,13 @@ Pantallas.inicio = () => {
   return { el, salir: () => globo && globo.destruir() };
 };
 
+// primera vez: Quinde explica cómo aprender paso a paso
+async function bienvenida() {
+  if (Store.get('bienvenida') || UI.actual.dataset.pantalla !== 'inicio') return;
+  Store.set('bienvenida', 1);
+  const v = await UI.dialogo({ titulo: '¡Hola! Soy Quinde', texto: 'Vamos a conocer el mundo jugando: fotos reales, mapas, banderas y pistas. Te recomiendo empezar por la gran expedición: va de los lugares más famosos a los menos conocidos, paso a paso.', botones: [{ texto: 'Empezar la expedición', valor: 'exp' }, { texto: 'Ver todos los modos', valor: 'modos', clase: 'blanco' }] });
+  if (v === 'exp') UI.ir('expedicion', 0); else if (v === 'modos') UI.ir('modos');
+}
 function albumSVG() { return '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="3" fill="#fff" stroke="currentColor" stroke-width="2"/><rect x="6" y="7" width="5" height="5" rx="1" fill="#FFC94D"/><rect x="13" y="7" width="5" height="5" rx="1" fill="#7FD49E"/><rect x="6" y="13.5" width="5" height="4" rx="1" fill="#8EC5F2"/><rect x="13" y="13.5" width="5" height="4" rx="1" fill="#FF9C8C"/></svg>'; }
 
 // configuración guardada de cada modo
@@ -84,15 +95,26 @@ Pantallas.modos = () => {
 // ===== ajustes =====
 function abrirAjustes() {
   const fila = (k, txt, sub) => {
-    const b = h('button.interruptor', { role: 'switch', 'aria-checked': String(!!Ajustes.get(k)), onclick: () => { Ajustes.set(k, !Ajustes.get(k)); b.setAttribute('aria-checked', String(!!Ajustes.get(k))); Sonido.play('tap'); } }, h('i'));
+    const b = h('button.interruptor', { role: 'switch', 'aria-checked': String(!!Ajustes.get(k)), onclick: () => {
+      Ajustes.set(k, !Ajustes.get(k)); b.setAttribute('aria-checked', String(!!Ajustes.get(k))); Sonido.play('tap');
+      if (k === 'musica') Ajustes.get('musica') ? Musica.iniciar() : Musica.parar();
+    } }, h('i'));
     return h('label.ajuste', h('span', h('b', txt), sub ? h('small', sub) : null), b);
   };
   const cerrar = () => { $('#capa').innerHTML = ''; };
   $('#capa').append(h('div.fondo-capa', { onclick: cerrar }),
     h('div.dialogo.ajustes', h('h3', 'Ajustes'),
-      fila('sonido', 'Sonidos'), fila('vibrar', 'Vibración', 'En celulares que la tienen'),
+      fila('musica', 'Música', 'Una melodía suave de fondo'), fila('sonido', 'Sonidos'), fila('vibrar', 'Vibración', 'En celulares que la tienen'),
       fila('letra', 'Letra más grande'), fila('menosMov', 'Menos animaciones'),
       h('button.btn.blanco.ancho.creditos-btn', { onclick: () => { cerrar(); abrirCreditos(); } }, 'Créditos de fotos y datos'),
+      h('button.btn.blanco.ancho.creditos-btn.borrar', { onclick: async () => {
+        cerrar();
+        const v = await UI.dialogo({ titulo: '¿Empezar de cero?', texto: 'Se borra todo lo aprendido, tus sellos, logros, rachas y la expedición. No se puede deshacer.', botones: [{ texto: 'No, mejor no', valor: false }, { texto: 'Sí, borrar todo', valor: true, clase: 'blanco' }] });
+        if (!v) return;
+        ['prog', 'stats', 'logros', 'hazanas', 'visitados', 'reto', 'expedicion', 'bienvenida', 'nombre'].forEach(k => Store.del(k));
+        Progreso.load(); Logros.load(); Visitados.d = null;
+        UI.toast('Listo: tu pasaporte está como nuevo'); UI.ir('inicio');
+      } }, 'Borrar mi progreso'),
       h('p.version', `Versión ${window.TMD_VERSION || ''}`),
       h('div.botones', h('button.btn', { onclick: cerrar }, 'Listo'))));
 }

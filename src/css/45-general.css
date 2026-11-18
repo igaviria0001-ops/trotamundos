@@ -52,3 +52,4 @@ input, textarea { user-select: text; -webkit-user-select: text; }
 .ex-cerca-item span { display: flex; flex-direction: column; min-width: 0; }
 .ex-cerca-item b { font-size: .82rem; line-height: 1.1; }
 .ex-cerca-item small { font-weight: 700; font-size: .74rem; color: var(--tinta2); }
+.creditos-btn.borrar { color: #B8483A; }
