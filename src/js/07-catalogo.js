@@ -25,8 +25,8 @@ const MODOS = [
   { id: 'masalto', n: '¿Más alto o más bajo?', g: 'tiempo', fase: 5, d: 'Adivina cuál se eleva más', escalas: { 5: [8, 'comparaciones'], 10: [12, 'comparaciones'], 15: [18, 'comparaciones'] } },
   { id: 'explorar', n: 'Explorar', g: 'aventuras', fase: 5, d: 'El globo libre, sin prisa', sinTiquete: true },
   { id: 'reto', n: 'Reto del día', g: 'aventuras', fase: 6, d: 'Seis paradas nuevas cada día', sinTiquete: true },
-  { id: 'expedicion', n: 'La gran expedición', g: 'aventuras', fase: 7, d: 'El mundo por capítulos' },
-  { id: 'maleta', n: 'La maleta perdida', g: 'aventuras', fase: 7, d: 'Sigue las pistas por el mundo' },
+  { id: 'expedicion', n: 'La gran expedición', g: 'aventuras', fase: 7, d: 'El mundo por capítulos', sinTiquete: true },
+  { id: 'maleta', n: 'La maleta perdida', g: 'aventuras', fase: 7, d: 'Sigue las pistas por el mundo', escalas: { 5: [4, 'paradas'], 10: [5, 'paradas'], 15: [7, 'paradas'] } },
 ];
 const MODO = Object.fromEntries(MODOS.map(m => [m.id, m]));
 const ICO_MODO = { postal: 'postal', raspa: 'raspa', lupa: 'lupa', pistas: 'pistas', parejas: 'parejas', rompepostal: 'rompepostal', colorea: 'colorea', rompepaises: 'rompepaises', silueta: 'silueta', brujula: 'brujula', nortesur: 'nortesur', pintabandera: 'pintabandera', banderasviento: 'banderasviento', capitales: 'capitales', lineatiempo: 'lineatiempo', masalto: 'masalto', explorar: 'explorar', reto: 'reto', expedicion: 'expedicion', maleta: 'maleta' };
@@ -55,8 +55,8 @@ function poolModo(id, cfg) {
 function filtrarLugares(cfg, { conFoto = true } = {}) {
   const hayFotos = LUGARES.some(l => l.fotos.length);
   return LUGARES.filter(l =>
-    (!cfg.cont || cfg.cont === 'todo' || l.c === cfg.cont) &&
-    (!cfg.nivel || cfg.nivel === 'mezcla' || String(l.t) === String(cfg.nivel)) &&
+    (cfg.conts ? cfg.conts.includes(l.c) : (!cfg.cont || cfg.cont === 'todo' || l.c === cfg.cont)) &&
+    (cfg.niveles ? cfg.niveles.includes(l.t) : (!cfg.nivel || cfg.nivel === 'mezcla' || String(l.t) === String(cfg.nivel))) &&
     (!conFoto || !hayFotos || l.fotos.length));
 }
 

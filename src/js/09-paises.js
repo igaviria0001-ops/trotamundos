@@ -17,8 +17,8 @@ const PAISES_JUEGO = PAISES.filter(p => p.un && CON_FORMA.has(p.iso) && p.c !== 
 const idPais = (iso, pref = 'p') => pref + ':' + iso;
 function filtrarPaises(cfg, { minArea = 0, excluir = [] } = {}) {
   return PAISES_JUEGO.filter(p =>
-    (!cfg.cont || cfg.cont === 'todo' || p.c === cfg.cont) &&
-    (!cfg.nivel || cfg.nivel === 'mezcla' || String(cfg.cont === 'todo' || !cfg.cont ? p.tg : p.t) === String(cfg.nivel)) &&
+    (cfg.conts ? cfg.conts.includes(p.c) : (!cfg.cont || cfg.cont === 'todo' || p.c === cfg.cont)) &&
+    (cfg.niveles ? cfg.niveles.includes(cfg.conts && cfg.conts.length > 2 ? p.tg : p.t) : (!cfg.nivel || cfg.nivel === 'mezcla' || String(cfg.cont === 'todo' || !cfg.cont ? p.tg : p.t) === String(cfg.nivel))) &&
     (p.area || 0) >= minArea && !excluir.includes(p.iso));
 }
 // un país con la forma de un lugar, para reusar resultados y resumen

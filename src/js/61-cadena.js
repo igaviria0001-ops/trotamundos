@@ -14,7 +14,7 @@ const Cadena = {
   },
   jugar() {
     const a = this.activa, p = a.pasos[a.i];
-    UI.ir('juego_' + p.modo, Object.assign({ cont: 'todo', nivel: a.nivel || '1' }, p.cfg, { rondas: PASO_CORTO[p.modo], cadena: true }));
+    UI.ir('juego_' + p.modo, Object.assign({ cont: 'todo', nivel: a.nivel || '1' }, p.cfg, { rondas: (p.cfg && p.cfg.rondas) || PASO_CORTO[p.modo], cadena: true }));
   },
   termino(d) {
     const a = this.activa; if (!a) return UI.ir('resumen', d);
@@ -91,6 +91,8 @@ Pantallas.cadena_fin = () => {
   const f = a.puntos / Math.max(1, a.max);
   let racha = null;
   if (a.tipo === 'reto') racha = Reto.completar(a.puntos);
+  if (a.tipo === 'expedicion') Expedicion.guardar(CAPITULOS[a.cap].id, a.parada, estrellasDe(f));
+  const abrioCap = a.tipo === 'expedicion' && a.parada === 5 && estrellasDe(f) >= 1 && a.cap + 1 < CAPITULOS.length;
   const nuevos = Logros.revisar();
   const titulo = f >= .8 ? '¡Viaje de leyenda!' : f >= .55 ? '¡Gran viaje!' : f >= .3 ? '¡Buen viaje!' : '¡Viaje terminado!';
   const num = h('b.res-total', '0');
@@ -102,6 +104,7 @@ Pantallas.cadena_fin = () => {
       h('section.resumen-cabeza',
         h('div.sello-grande', { html: selloFinSVG(titulo) }),
         h('div.resumen-puntos', num, h('span', `de ${fmt.n(a.max)} puntos`)),
+        a.tipo === 'expedicion' ? h('div.cad-racha', h('span.cad-fuego', { html: I.estrella }), h('div', h('b', estrellasDe(f) ? `¡${estrellasDe(f)} ${estrellasDe(f) === 1 ? 'estrella' : 'estrellas'}!` : 'Sin estrellas esta vez'), h('small', abrioCap ? `¡Abriste el capítulo ${a.cap + 2}: ${CAPITULOS[a.cap + 1].n}!` : estrellasDe(f) ? 'La siguiente parada ya está abierta' : 'Inténtalo otra vez para abrir la siguiente parada'))) : null,
         racha ? h('div.cad-racha', h('span.cad-fuego', { html: llamaSVG() }), h('div', h('b', racha.r.racha === 1 ? '1 día seguido' : `${racha.r.racha} días seguidos`), h('small', racha.nuevo ? '¡Vuelve mañana para seguir la racha!' : 'Ya hiciste el reto de hoy'))) : null,
         nuevos.length ? h('div.cad-logros', nuevos.map(l => h('div.cad-logro', h('span', { html: medallaSVG(l, true) }), h('b', l.n)))) : null),
       h('section.resumen-lista',
@@ -110,7 +113,8 @@ Pantallas.cadena_fin = () => {
           h('div.res-item-txt', h('b', MODO[x.modo].n), h('small', `${fmt.n(x.puntos)} de ${fmt.n(x.max)} puntos`)),
           h('div.res-item-der', UI.estrellas(x.est))))),
       h('section.resumen-botones',
-        a.tipo !== 'reto' ? h('button.btn.grande.ancho', { onclick: () => Cadena.iniciar(a.tipo === 'rapido' ? viajeRapido() : Object.assign({}, a, { i: 0, puntos: 0, max: 0, res: [], hechos: [] })) }, h('span', { html: I.repetir }), 'Otro viaje así') : null,
+        a.tipo === 'expedicion' ? h('button.btn.grande.ancho', { onclick: () => UI.ir('expedicion', abrioCap ? a.cap + 1 : a.cap) }, h('span', { html: I.avion }), 'Volver a la expedición') : null,
+        a.tipo !== 'reto' && a.tipo !== 'expedicion' ? h('button.btn.grande.ancho', { onclick: () => Cadena.iniciar(a.tipo === 'rapido' ? viajeRapido() : Object.assign({}, a, { i: 0, puntos: 0, max: 0, res: [], hechos: [] })) }, h('span', { html: I.repetir }), 'Otro viaje así') : null,
         h('div.fila-btns',
           h('button.btn.blanco', { onclick: () => UI.ir('pasaporte') }, h('span', { html: I.tiquete }), 'Mi pasaporte'),
           h('button.btn.blanco', { onclick: () => UI.ir('inicio') }, h('span', { html: I.casa }), 'Inicio')))));
