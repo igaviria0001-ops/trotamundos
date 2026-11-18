@@ -13,6 +13,7 @@
   document.addEventListener('pointerdown', despertar);
   const inicio = (location.hash || '').slice(1);
   UI.ir(inicio === 'modos' ? 'modos' : 'inicio');
+  Instalar.preparar();
   window.TMD = { UI, Progreso, LUGARES, PAISES, PAISES_JUEGO, Mapa, centroPais, globo: null }; // para pruebas
 })();
 
@@ -27,3 +28,4 @@ function decorarCielo() {
   try { const c = document.createElement('canvas'); c.width = c.height = 96; const g = c.getContext('2d'); g.fillStyle = patronOlas(g); g.fillRect(0, 0, 96, 96); r.setProperty('--olas', `url(${c.toDataURL()})`); } catch (e) { }
   r.setProperty('--colinas', `url("data:image/svg+xml;utf8,${encodeURIComponent(colinas)}")`);
 }
+

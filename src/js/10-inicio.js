@@ -13,7 +13,9 @@ Pantallas.inicio = () => {
   const el = h('div.inicio',
     h('header.cabecera',
       LOGO(),
-      h('button.icono-btn', { 'aria-label': 'Ajustes', html: I.ajustes, onclick: () => abrirAjustes() })),
+      h('div.cab-botones',
+        h('button.btn-instalar', { onclick: () => Instalar.pedir() }, h('span', { html: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7.5 10.5L12 15l4.5-4.5" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 19h14" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/></svg>' }), 'Instalar'),
+        h('button.icono-btn', { 'aria-label': 'Ajustes', html: I.ajustes, onclick: () => abrirAjustes() }))),
     heroe,
     h('section.panel-inicio',
       h('div.saludo', h('div.quinde', { html: I.quinde }),
@@ -106,6 +108,7 @@ function abrirAjustes() {
     h('div.dialogo.ajustes', h('h3', 'Ajustes'),
       fila('musica', 'Música', 'Una melodía suave de fondo'), fila('sonido', 'Sonidos'), fila('vibrar', 'Vibración', 'En celulares que la tienen'),
       fila('letra', 'Letra más grande'), fila('menosMov', 'Menos animaciones'),
+      h('button.btn.blanco.ancho.creditos-btn.solo-sin-instalar', { onclick: () => { cerrar(); Instalar.pedir(); } }, 'Instalar en este dispositivo'),
       h('button.btn.blanco.ancho.creditos-btn', { onclick: () => { cerrar(); abrirCreditos(); } }, 'Créditos de fotos y datos'),
       h('button.btn.blanco.ancho.creditos-btn.borrar', { onclick: async () => {
         cerrar();

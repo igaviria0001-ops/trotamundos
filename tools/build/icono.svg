@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="cielo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7FCBF2"/><stop offset="1" stop-color="#D9F2FC"/></linearGradient>
+    <radialGradient id="mar" cx="38%" cy="32%" r="75%"><stop offset="0" stop-color="#9BE6FC"/><stop offset=".55" stop-color="#45B5E8"/><stop offset="1" stop-color="#1F7FC2"/></radialGradient>
+    <radialGradient id="pin" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#FFB3A6"/><stop offset=".45" stop-color="#EF5A47"/><stop offset="1" stop-color="#A93224"/></radialGradient>
+    <clipPath id="esfera"><circle cx="256" cy="282" r="150"/></clipPath>
+  </defs>
+  <rect width="512" height="512" fill="url(#cielo)"/>
+  <g fill="#fff" opacity=".95">
+    <circle cx="96" cy="120" r="30"/><circle cx="130" cy="108" r="38"/><circle cx="168" cy="124" r="28"/><rect x="70" y="120" width="120" height="30" rx="15"/>
+    <circle cx="398" cy="420" r="26"/><circle cx="430" cy="404" r="34"/><circle cx="462" cy="422" r="24"/><rect x="376" y="420" width="104" height="26" rx="13"/>
+  </g>
+  <ellipse cx="256" cy="452" rx="120" ry="16" fill="rgba(20,70,120,.22)"/>
+  <circle cx="256" cy="282" r="150" fill="url(#mar)"/>
+  <g clip-path="url(#esfera)">
+    <path d="M150 190c30-28 80-34 104-16 18 14 6 40 24 52 20 14 54-2 62 22 8 26-30 40-56 44-30 4-40 30-66 34-32 4-58-24-74-52-14-26-18-62 6-84z" fill="#86D77E"/>
+    <path d="M300 300c26-8 60 2 74 28 12 24 0 60-26 74-24 12-48-4-54-30-4-20-18-24-14-44 2-14 8-24 20-28z" fill="#F79A6E"/>
+    <path d="M330 170c22-6 50 6 58 26 6 16-10 26-28 24-20-2-46-30-30-50z" fill="#FFD45E"/>
+    <path d="M160 360c20-8 46 4 50 22 4 16-12 28-30 26-22-2-38-36-20-48z" fill="#4FCB9E"/>
+    <g fill="none" stroke="rgba(255,255,255,.22)" stroke-width="3"><ellipse cx="256" cy="282" rx="150" ry="52"/><ellipse cx="256" cy="282" rx="62" ry="150"/></g>
+  </g>
+  <ellipse cx="200" cy="200" rx="56" ry="28" fill="rgba(255,255,255,.45)" transform="rotate(-35 200 200)"/>
+  <path d="M256 140 C232 100 196 74 196 36 a60 60 0 0 1 120 0 c0 38 -36 64 -60 104z" fill="url(#pin)" transform="translate(70 92) scale(.9)"/>
+  <circle cx="300.4" cy="124.4" r="20" fill="#7E2318" opacity=".55"/>
+  <circle cx="300.4" cy="124.4" r="13" fill="#fff"/>
+  <ellipse cx="282" cy="108" rx="14" ry="8" fill="rgba(255,255,255,.75)" transform="rotate(-35 282 108)"/>
+</svg>

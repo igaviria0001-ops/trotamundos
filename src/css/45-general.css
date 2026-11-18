@@ -58,3 +58,15 @@ input, textarea { user-select: text; -webkit-user-select: text; }
 .hoja.mini .asa::after { content: 'Ver más'; position: absolute; left: 50%; top: 14px; transform: translateX(-50%); font-weight: 800; font-size: .7rem; color: var(--tinta3); white-space: nowrap; }
 .hoja.mini .asa { height: 32px; }
 button.asa { touch-action: none; }
+/* botón para instalar como app */
+.cab-botones { display: flex; align-items: center; gap: 8px; }
+.btn-instalar {
+  display: none; align-items: center; gap: 6px; height: 40px; padding: 0 14px 0 10px; border: 0; border-radius: 999px; font-weight: 800; font-size: .88rem; color: #fff;
+  background: linear-gradient(180deg, #7FDBA4, #3E9F6C); box-shadow: inset 0 2px 0 rgba(255, 255, 255, .45), 0 3px 0 #2E7D53, 0 8px 14px rgba(20, 90, 50, .25);
+  animation: latido 2.6s ease-in-out infinite;
+}
+.btn-instalar span { width: 20px; height: 20px; }
+.btn-instalar span svg { width: 100%; height: 100%; display: block; }
+.btn-instalar:active { transform: translateY(2px); }
+body.se-puede-instalar:not(.instalada) .btn-instalar { display: inline-flex; }
+body.instalada .solo-sin-instalar { display: none; }

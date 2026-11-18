@@ -65,6 +65,18 @@ function build() {
   fs.writeFileSync(path.join(OUT, 'datos', 'mapa-hi.json'), read('data/mapa-hi.json'));
   fs.writeFileSync(path.join(OUT, 'datos', 'banderas.json'), JSON.stringify(flags()));
   fs.writeFileSync(path.join(OUT, '.nojekyll'), '');
+  // instalable: manifiesto y service worker (la versión cambia en cada armado para que llegue lo nuevo)
+  fs.writeFileSync(path.join(OUT, 'manifest.webmanifest'), JSON.stringify({
+    name: 'Trotamundos', short_name: 'Trotamundos', description: 'Aprende los lugares del mundo jugando',
+    lang: 'es', start_url: './', scope: './', display: 'standalone', orientation: 'portrait',
+    background_color: '#CDEBFA', theme_color: '#7FCBF2',
+    icons: [
+      { src: 'iconos/icono-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
+      { src: 'iconos/icono-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
+      { src: 'iconos/icono-mascara-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+    ],
+  }, null, 1));
+  fs.writeFileSync(path.join(OUT, 'sw.js'), read('src/sw.js').replace('__VERSION__', version.replace(/\W/g, '')));
   const nf = fs.readdirSync(R('fotos')).filter(n => n.endsWith('.webp')).length;
   console.log('index.html', (html.length / 1024).toFixed(0) + ' KB', '| fotos', nf, '| lugares', data.embed.lugares.length);
 }
