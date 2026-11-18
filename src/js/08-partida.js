@@ -63,12 +63,14 @@ function crearPartida({ modo, cfg, n, onSalir }) {
     },
     terminar(extra = {}) {
       P.fin = true;
-      Progreso.sumar(extra.viaje || 0, n);
-      const rec = Progreso.record(modo + '_' + n, P.puntos);
-      UI.ir('resumen', Object.assign({ modo, cfg, puntos: P.puntos, max: n * 1000, res: P.res, viaje: extra.viaje || 0, record: rec }, extra));
+      finDeJuego({ modo, cfg, puntos: P.puntos, max: n * 1000, res: P.res, viaje: extra.viaje || 0, n, extra });
     },
     async salir() {
-      if (P.res.length && !P.fin) {
+      if (cfg.cadena && Cadena.activa) {
+        const v = await UI.dialogo({ titulo: `¿Dejar el ${Cadena.activa.titulo.toLowerCase()}?`, texto: 'Lo que aprendiste se guarda.', botones: [{ texto: 'Seguir jugando', valor: false }, { texto: 'Salir', valor: true, clase: 'blanco' }] });
+        if (!v) return;
+        Cadena.salir();
+      } else if (P.res.length && !P.fin) {
         const v = await UI.dialogo({ titulo: '¿Terminar el viaje?', texto: 'Lo que aprendiste se guarda, pero esta partida no cuenta para tus récords.', botones: [{ texto: 'Seguir jugando', valor: false }, { texto: 'Salir', valor: true, clase: 'blanco' }] });
         if (!v) return;
       }
@@ -77,6 +79,14 @@ function crearPartida({ modo, cfg, n, onSalir }) {
     },
   };
   return P;
+}
+
+// fin de cualquier juego: suma kilómetros, récords y logros; sigue la cadena o muestra el resumen
+function finDeJuego({ modo, cfg, puntos, max, res, viaje = 0, n, extra = {} }) {
+  Progreso.sumar(viaje, n);
+  const rec = Progreso.record(modo + '_' + n, puntos);
+  if (cfg.cadena && Cadena.activa) return Cadena.termino({ modo, puntos, max, res });
+  UI.ir('resumen', Object.assign({ modo, cfg, puntos, max, res, viaje, record: rec, logros: Logros.revisar() }, extra));
 }
 
 // opciones de respuesta: el correcto y otros parecidos según el nivel

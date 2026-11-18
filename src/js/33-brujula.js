@@ -137,6 +137,7 @@ Pantallas.juego_brujula = (cfg) => {
     const b = destinos[P.i], a = S.desde;
     const real = Geo.rumbo([a.lon, a.lat], [b.lon, b.lat]);
     const err = Math.round(difAngulo(S.ang, real));
+    if (err <= 5) Logros.evento('rumboPerfecto');
     const km = dist(a, b);
     // aguja verde con el rumbo real y la cuña del error
     const re = $('.bj-real', brujula);

@@ -18,14 +18,21 @@ Pantallas.inicio = () => {
     h('section.panel-inicio',
       h('div.saludo', h('div.quinde', { html: I.quinde }),
         h('div.globo-texto', pick(['¿A dónde viajamos hoy?', '¡Hola! ¿Qué conocemos hoy?', 'Tengo postales nuevas para ti', '¿Listo para despegar?']))),
-      h('div.pasaporte-mini',
+      h('button.pasaporte-mini', { 'aria-label': 'Abrir mi pasaporte', onclick: () => { Sonido.play('papel'); UI.ir('pasaporte'); } },
         h('div', h('b', r.n), h('small', `${fmt.n(Progreso.st.km)} km recorridos`)),
         h('div.barra-rango', h('i', { style: { width: (r.prog * 100).toFixed(1) + '%' } })),
         h('div', h('b', `${aprend} / ${total}`), h('small', 'lugares aprendidos'))),
+      h('div.ini-atajos',
+        h('button.ini-atajo.reto' + (Reto.hechoHoy() ? '.hecho' : ''), { onclick: () => { Sonido.play('tap'); Cadena.iniciar(retoDelDia()); } },
+          h('span.ini-atajo-ico', { html: Reto.hechoHoy() ? I.check : llamaSVG() }),
+          h('span', h('b', 'Reto del día'), h('small', Reto.hechoHoy() ? `¡Hecho! Racha: ${Reto.get().racha}` : Reto.get().racha ? `Racha de ${Reto.get().racha} ${Reto.get().racha === 1 ? 'día' : 'días'}` : '6 paradas nuevas'))),
+        h('button.ini-atajo.album', { onclick: () => { Sonido.play('tap'); UI.ir('album'); } },
+          h('span.ini-atajo-ico', { html: albumSVG() }),
+          h('span', h('b', 'Mi álbum'), h('small', `${LUGARES.filter(l => Progreso.de(l.id).v > 0 || Visitados.get().has(l.id)).length} sellos`)))),
       h('button.btn.grande.ancho', { onclick: () => { Sonido.play('tap'); UI.ir('modos'); } }, 'Jugar'),
       h('div.fila-btns',
-        h('button.btn.blanco', { onclick: () => { Sonido.play('tap'); UI.ir('juego_postal', Object.assign(cfgModo('postal'), { rapido: true })); } }, h('span', { html: I.avion }), 'Viaje rápido'),
-        h('button.btn.blanco', { onclick: () => { Sonido.play('tap'); UI.ir('tiquete', 'postal'); } }, h('span', { html: I.tiquete }), 'A la medida'))));
+        h('button.btn.blanco', { onclick: () => { Sonido.play('tap'); Cadena.iniciar(viajeRapido()); } }, h('span', { html: I.avion }), 'Viaje rápido'),
+        h('button.btn.blanco', { onclick: () => { Sonido.play('tap'); UI.ir('medida'); } }, h('span', { html: I.tiquete }), 'A la medida'))));
 
   // globo de portada con fotos de lugares famosos
   let globo;
@@ -42,6 +49,8 @@ Pantallas.inicio = () => {
   });
   return { el, salir: () => globo && globo.destruir() };
 };
+
+function albumSVG() { return '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="3" fill="#fff" stroke="currentColor" stroke-width="2"/><rect x="6" y="7" width="5" height="5" rx="1" fill="#FFC94D"/><rect x="13" y="7" width="5" height="5" rx="1" fill="#7FD49E"/><rect x="6" y="13.5" width="5" height="4" rx="1" fill="#8EC5F2"/><rect x="13" y="13.5" width="5" height="4" rx="1" fill="#FF9C8C"/></svg>'; }
 
 // configuración guardada de cada modo
 function cfgModo(id) {

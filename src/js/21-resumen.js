@@ -15,6 +15,7 @@ Pantallas.resumen = (d) => {
         h('div.sello-grande', { html: selloFinSVG(titulo) }),
         h('div.resumen-puntos', num, h('span', `de ${fmt.n(d.max)} puntos`)),
         d.record.nuevo && d.record.antes != null ? h('p.insignia', '¡Nuevo récord personal!') : null,
+        d.logros && d.logros.length ? h('div.cad-logros', d.logros.map(l => h('div.cad-logro', h('span', { html: medallaSVG(l, true) }), h('b', l.n)))) : null,
         h('div.resumen-stats',
           d.modo === 'postal' ? h('div', h('b', fmt.km(d.viaje)), h('small', 'de vuelo entre postales')) : h('div', h('b', String(d.res.filter(r => r.est > 0).length) + ' de ' + d.res.length), h('small', 'aciertos')),
           h('div', h('b', String(subieron)), h('small', esPais ? (subieron === 1 ? 'país subió de dominio' : 'países subieron de dominio') : (subieron === 1 ? 'lugar subió de dominio' : 'lugares subieron de dominio'))))),

@@ -24,7 +24,7 @@ const MODOS = [
   { id: 'lineatiempo', n: 'Línea del tiempo', g: 'tiempo', fase: 5, d: 'De las pirámides a hoy', escalas: { 5: [5, 'rondas'], 10: [8, 'rondas'], 15: [12, 'rondas'] } },
   { id: 'masalto', n: '¿Más alto o más bajo?', g: 'tiempo', fase: 5, d: 'Adivina cuál se eleva más', escalas: { 5: [8, 'comparaciones'], 10: [12, 'comparaciones'], 15: [18, 'comparaciones'] } },
   { id: 'explorar', n: 'Explorar', g: 'aventuras', fase: 5, d: 'El globo libre, sin prisa', sinTiquete: true },
-  { id: 'reto', n: 'Reto del día', g: 'aventuras', fase: 6, d: 'Seis retos nuevos cada día' },
+  { id: 'reto', n: 'Reto del día', g: 'aventuras', fase: 6, d: 'Seis paradas nuevas cada día', sinTiquete: true },
   { id: 'expedicion', n: 'La gran expedición', g: 'aventuras', fase: 7, d: 'El mundo por capítulos' },
   { id: 'maleta', n: 'La maleta perdida', g: 'aventuras', fase: 7, d: 'Sigue las pistas por el mundo' },
 ];
@@ -38,7 +38,7 @@ const NIVELES_PAIS = {
   3: { n: 'Pequeños', d: 'Islas y países chiquitos' },
 };
 // cuántos elementos usa un modo según la escala elegida en el tiquete
-const escalaModo = (id, r) => { const e = MODO[id].escalas; return e ? e[r || 5][0] : (r || 5); };
+const escalaModo = (id, r) => { if (typeof r === 'string' && r[0] === 'n') return +r.slice(1); const e = MODO[id].escalas; return e ? (e[r] || e[5])[0] : (r || 5); };
 // lo que entra en juego para un modo (lugares o países)
 function poolModo(id, cfg) {
   if (id === 'silueta') return filtrarPaises(cfg, { minArea: 9000 });

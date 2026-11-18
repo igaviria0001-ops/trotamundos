@@ -130,6 +130,7 @@ Pantallas.juego_postal = (cfg) => {
     const l = rondas[S.i];
     const real = [l.lon, l.lat], tu = S.pin.ll;
     const km = Geo.km(tu, real);
+    if (km <= 25) Logros.evento('postalExacta');
     let pts = puntosPostal(km); if (S.pista) pts = Math.round(pts * .7);
     const est = estrellasPostal(km);
     const q = S.pista ? Math.min(.7, calidadPostal(km)) : calidadPostal(km);
@@ -194,13 +195,15 @@ Pantallas.juego_postal = (cfg) => {
     S.estado = 'fin';
     let viaje = 0;
     for (let k = 1; k < S.res.length; k++) viaje += Geo.km([S.res[k - 1].l.lon, S.res[k - 1].l.lat], [S.res[k].l.lon, S.res[k].l.lat]);
-    Progreso.sumar(viaje, N);
-    const rec = Progreso.record('postal_' + N, S.puntos);
-    UI.ir('resumen', { modo: 'postal', cfg, puntos: S.puntos, max: N * 1000, res: S.res, viaje, record: rec });
+    finDeJuego({ modo: 'postal', cfg, puntos: S.puntos, max: N * 1000, res: S.res, viaje, n: N });
   }
 
   async function salir() {
-    if (S.res.length && S.estado !== 'fin') {
+    if (cfg.cadena && Cadena.activa) {
+      const v = await UI.dialogo({ titulo: `¿Dejar el ${Cadena.activa.titulo.toLowerCase()}?`, texto: 'Lo que aprendiste se guarda.', botones: [{ texto: 'Seguir jugando', valor: false }, { texto: 'Salir', valor: true, clase: 'blanco' }] });
+      if (!v) return;
+      Cadena.salir();
+    } else if (S.res.length && S.estado !== 'fin') {
       const v = await UI.dialogo({ titulo: '¿Terminar el viaje?', texto: 'Lo que aprendiste se guarda, pero esta partida no cuenta para tus récords.', botones: [{ texto: 'Seguir jugando', valor: false }, { texto: 'Salir', valor: true, clase: 'blanco' }] });
       if (!v) return;
     }

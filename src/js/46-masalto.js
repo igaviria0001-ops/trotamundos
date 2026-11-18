@@ -87,7 +87,7 @@ Pantallas.juego_masalto = (cfg) => {
     Sonido.play('cuenta');
     await UI.contar(num, 0, vb, 900);
     cartaB.classList.add(ok ? 'bien' : 'mal');
-    if (ok) { S.racha++; S.mejor = Math.max(S.mejor, S.racha); } else S.racha = 0;
+    if (ok) { S.racha++; S.mejor = Math.max(S.mejor, S.racha); if (S.racha === 5) Logros.evento('rachaAltura'); } else S.racha = 0;
     $('b', racha).textContent = String(S.racha);
     racha.classList.remove('sube'); void racha.offsetWidth; if (ok) racha.classList.add('sube');
     Sonido.play(ok ? (S.racha >= 3 ? 'genial' : 'bien') : 'lejos');
