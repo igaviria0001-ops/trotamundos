@@ -61,7 +61,7 @@ Pantallas.modos = () => {
           const listo = modoListo(m);
           return h('button.sello-wrap.modo' + (listo ? '' : '.cerrado'), {
             onclick: () => {
-              if (listo) { Sonido.play('tap'); UI.ir('tiquete', m.id); }
+              if (listo) { Sonido.play('tap'); m.sinTiquete ? UI.ir('juego_' + m.id) : UI.ir('tiquete', m.id); }
               else { Sonido.play('pop'); UI.toast(`«${m.n}» llega en la fase ${m.fase}`); }
             },
           }, h('div.sello', h('div.dentro',

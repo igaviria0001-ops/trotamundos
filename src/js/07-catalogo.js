@@ -12,7 +12,7 @@ const MODOS = [
   { id: 'lupa', n: 'Lupa viajera', g: 'lugares', fase: 2, d: 'De un detalle a la foto completa' },
   { id: 'pistas', n: 'Pistas de Quinde', g: 'lugares', fase: 2, d: 'Adivina con las menos pistas' },
   { id: 'parejas', n: 'Parejas del mundo', g: 'lugares', fase: 2, d: 'Une foto, país y bandera' },
-  { id: 'rompepostal', n: 'Rompecabezas postal', g: 'lugares', fase: 5, d: 'Arma la foto pieza a pieza' },
+  { id: 'rompepostal', n: 'Rompecabezas postal', g: 'lugares', fase: 5, d: 'Arma la foto pieza a pieza', escalas: { 5: [4, 'postales'], 10: [6, 'postales'], 15: [9, 'postales'] } },
   { id: 'colorea', n: 'Colorea el mapa', g: 'mapa', fase: 3, d: 'Toca el país y píntalo', datos: 'paises', escalas: { 5: [8, 'países'], 10: [15, 'países'], 15: [25, 'países'] } },
   { id: 'rompepaises', n: 'Rompecabezas de países', g: 'mapa', fase: 3, d: 'Cada país en su sitio', datos: 'paises', escalas: { 5: [8, 'piezas'], 10: [15, 'piezas'], 15: [25, 'piezas'] } },
   { id: 'silueta', n: 'Silueta y rumbo', g: 'mapa', fase: 3, d: 'Deduce el país por su forma', datos: 'paises', escalas: { 5: [5, 'siluetas'], 10: [10, 'siluetas'], 15: [15, 'siluetas'] } },
@@ -21,9 +21,9 @@ const MODOS = [
   { id: 'pintabandera', n: 'Pinta la bandera', g: 'banderas', fase: 4, d: 'Cada franja con su color', datos: 'paises', escalas: { 5: [5, 'banderas'], 10: [8, 'banderas'], 15: [12, 'banderas'] } },
   { id: 'banderasviento', n: 'Banderas al viento', g: 'banderas', fase: 4, d: 'Iza la bandera correcta', datos: 'paises', escalas: { 5: [6, 'banderas'], 10: [10, 'banderas'], 15: [14, 'banderas'] } },
   { id: 'capitales', n: 'Capitales: conecta', g: 'banderas', fase: 4, d: 'Une país y capital', datos: 'paises', escalas: { 5: [4, 'tableros'], 10: [6, 'tableros'], 15: [9, 'tableros'] } },
-  { id: 'lineatiempo', n: 'Línea del tiempo', g: 'tiempo', fase: 5, d: 'De las pirámides a hoy' },
-  { id: 'masalto', n: '¿Cuál es más alto?', g: 'tiempo', fase: 5, d: 'Ordena por altura' },
-  { id: 'explorar', n: 'Explorar', g: 'aventuras', fase: 5, d: 'El globo libre, sin prisa' },
+  { id: 'lineatiempo', n: 'Línea del tiempo', g: 'tiempo', fase: 5, d: 'De las pirámides a hoy', escalas: { 5: [5, 'rondas'], 10: [8, 'rondas'], 15: [12, 'rondas'] } },
+  { id: 'masalto', n: '¿Más alto o más bajo?', g: 'tiempo', fase: 5, d: 'Adivina cuál se eleva más', escalas: { 5: [8, 'comparaciones'], 10: [12, 'comparaciones'], 15: [18, 'comparaciones'] } },
+  { id: 'explorar', n: 'Explorar', g: 'aventuras', fase: 5, d: 'El globo libre, sin prisa', sinTiquete: true },
   { id: 'reto', n: 'Reto del día', g: 'aventuras', fase: 6, d: 'Seis retos nuevos cada día' },
   { id: 'expedicion', n: 'La gran expedición', g: 'aventuras', fase: 7, d: 'El mundo por capítulos' },
   { id: 'maleta', n: 'La maleta perdida', g: 'aventuras', fase: 7, d: 'Sigue las pistas por el mundo' },
@@ -43,6 +43,8 @@ const escalaModo = (id, r) => { const e = MODO[id].escalas; return e ? e[r || 5]
 function poolModo(id, cfg) {
   if (id === 'silueta') return filtrarPaises(cfg, { minArea: 9000 });
   if (id === 'rompepaises') return filtrarPaises(cfg, { excluir: ['RU'] });
+  if (id === 'lineatiempo') { const l = lugaresConAnio(cfg); return l.length >= 8 ? l : lugaresConAnio(Object.assign({}, cfg, { nivel: 'mezcla' })); }
+  if (id === 'masalto') return lugaresAltura(cfg);
   if (id === 'pintabandera') return filtrarPaises(cfg).filter(p => Banderas.data ? analizarBandera(p.iso) : true);
   if (id === 'capitales') return filtrarPaises(cfg, { excluir: ['IL', 'PS'] }).filter(p => p.cap && p.capLat != null);
   if (MODO[id].datos === 'paises') return filtrarPaises(cfg);

@@ -448,6 +448,15 @@ class Globo {
   pintaPin(p, now) {
     const ctx = this.ctx;
     const [x, y0] = this.proj(p.ll);
+    if (p.tipo === 'punto') {
+      const r = (p.r || 5) * (p.esc || 1);
+      ctx.beginPath(); ctx.arc(x, y0 + 1.2, r + 1.6, 0, 7); ctx.fillStyle = 'rgba(20,50,80,.25)'; ctx.fill();
+      ctx.beginPath(); ctx.arc(x, y0, r + 1.8, 0, 7); ctx.fillStyle = '#fff'; ctx.fill();
+      ctx.beginPath(); ctx.arc(x, y0, r, 0, 7); ctx.fillStyle = p.color || '#EF6F5E'; ctx.fill();
+      ctx.beginPath(); ctx.arc(x - r * .3, y0 - r * .35, r * .38, 0, 7); ctx.fillStyle = 'rgba(255,255,255,.7)'; ctx.fill();
+      if (p.texto) this.pintaEtiqueta({ ll: p.ll, texto: p.texto, dy: -18 }, x, y0);
+      return;
+    }
     let y = y0, esc = p.esc || 1;
     if (p.t0) {
       const t = clamp((now - p.t0) / 600, 0, 1);
@@ -559,7 +568,7 @@ class Globo {
     for (const pin of this.pines.slice().reverse()) {
       if (!pin.tocable || !this.visible(pin.ll)) continue;
       const [x, y] = this.proj(pin.ll);
-      if (Math.hypot(p[0] - x, p[1] - (y - 28)) < 26) return pin;
+      if (pin.tipo === 'punto' ? Math.hypot(p[0] - x, p[1] - y) < 15 : Math.hypot(p[0] - x, p[1] - (y - 28)) < 26) return pin;
     }
     return null;
   }
