@@ -47,7 +47,7 @@ Pantallas.juego_postal = (cfg) => {
   const accion = h('div.accion', btnPista, btnAqui);
   const hojaCont = h('div.contenido');
   const hojaPie = h('div.pie');
-  const hoja = h('div.hoja', h('button.asa', { 'aria-label': 'Agrandar o achicar', onclick: () => { hoja.classList.toggle('grande'); Sonido.play('papel'); } }), h('div.scroll.hoja-scroll', hojaCont), hojaPie);
+  const hoja = hojaConAsa(hojaCont, hojaPie, '', () => reacomodar(300));
   escena.append(globoCont, postal, ayuda, controles, accion, hoja);
   const el = h('div.juego.postal-juego',
     h('div.barra',

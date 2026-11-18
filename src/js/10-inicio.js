@@ -73,7 +73,7 @@ Pantallas.modos = () => {
   const el = h('div.modos',
     h('div.barra',
       h('button.icono-btn', { 'aria-label': 'Volver', html: I.atras, onclick: () => UI.ir('inicio') }),
-      h('div.titulo', h('h2', 'Modos de juego'), h('div.sub', (n => `${n} ${n === 1 ? 'listo' : 'listos'} para jugar y ${MODOS.length - n} en camino`)(MODOS.filter(modoListo).length)))),
+      h('div.titulo', h('h2', 'Modos de juego'), h('div.sub', (n => n === MODOS.length ? `${n} modos para jugar y aprender` : `${n} listos para jugar y ${MODOS.length - n} en camino`)(MODOS.filter(modoListo).length)))),
     h('div.scroll.modos-lista',
       Object.entries(GRUPOS).map(([g, info]) => h('section.grupo',
         h('h3', info.n), h('p.grupo-d', info.d),

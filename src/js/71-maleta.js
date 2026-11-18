@@ -59,6 +59,7 @@ Pantallas.juego_maleta = (cfg) => {
   P.escena.append(globoCont, h('div.orden-zona', etiqueta), ayuda, controles, h('div.accion', btnPista, btnAqui), P.hoja);
 
   let globo;
+  P.onHoja = () => globo && globo.setPad(pads(), 300);
   const ahora = () => ruta[P.i];
   const pads = () => {
     const res = P.escena.classList.contains('con-resultado');

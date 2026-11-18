@@ -37,6 +37,7 @@ Pantallas.juego_silueta = (cfg) => {
   P.escena.append(globoCont, h('div.silueta-zona', carta, lista), ayuda, controles, h('div.accion', btnPista, btnEste), P.hoja);
 
   let globo;
+  P.onHoja = () => globo && globo.setPad(pads(), 300);
   const ahora = () => rondas[P.i];
   const pads = () => {
     const res = P.escena.classList.contains('con-resultado');

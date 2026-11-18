@@ -17,7 +17,7 @@ Pantallas.juego_explorar = () => {
   const filtros = h('div.ex-filtros', Object.entries(CATEGORIAS).map(([k, n]) => h('button.chip.ex-chip', { 'data-k': k, 'aria-pressed': 'true', style: { '--cc': COLOR_CAT[k] }, onclick: e => filtrar(k, e.currentTarget) }, h('span.punto', { style: { background: COLOR_CAT[k] } }), n)));
   const cuenta = h('b');
   const hojaCont = h('div.contenido'), hojaPie = h('div.pie');
-  const hoja = h('div.hoja.ex-hoja', h('button.asa', { 'aria-label': 'Agrandar o achicar', onclick: () => { hoja.classList.toggle('grande'); Sonido.play('papel'); } }), h('div.scroll.hoja-scroll', hojaCont), hojaPie);
+  const hoja = hojaConAsa(hojaCont, hojaPie, '.ex-hoja', () => globo && globo.setPad({ bottom: hoja.classList.contains('abierta') ? hoja.offsetHeight * .92 : 76 }, 300));
   const controles = h('div.zoom-ctrl',
     h('button.icono-btn', { 'aria-label': 'Acercar', html: I.mas, onclick: () => globo.vuela(globo.centro, globo.zoom * 1.8, 350) }),
     h('button.icono-btn', { 'aria-label': 'Alejar', html: I.menos, onclick: () => globo.vuela(globo.centro, globo.zoom / 1.8, 350) }),

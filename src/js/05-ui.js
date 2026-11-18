@@ -1,4 +1,33 @@
 // ===== pantallas y piezas comunes =====
+// hoja inferior con asa: tocar alterna tamaño; arrastrar hacia arriba la agranda y hacia abajo la achica
+// (así siempre se puede ver el globo que queda detrás). alCambiar se llama cuando cambia su alto.
+function hojaConAsa(contenido, pie, clase = '', alCambiar) {
+  const asa = h('button.asa', { 'aria-label': 'Agrandar o achicar' });
+  const hoja = h('div.hoja' + clase, asa, h('div.scroll.hoja-scroll', contenido), pie);
+  let y0 = null, movio = false;
+  const poner = est => {
+    hoja.classList.toggle('grande', est === 'grande'); hoja.classList.toggle('mini', est === 'mini');
+    Sonido.play('papel');
+    setTimeout(() => alCambiar && alCambiar(), 420);
+  };
+  asa.addEventListener('pointerdown', e => { y0 = e.clientY; movio = false; asa.setPointerCapture(e.pointerId); });
+  asa.addEventListener('pointermove', e => { if (y0 != null && Math.abs(e.clientY - y0) > 8) movio = true; });
+  asa.addEventListener('pointerup', e => {
+    if (y0 == null) return;
+    const dy = e.clientY - y0; y0 = null;
+    const est = hoja.classList.contains('grande') ? 'grande' : hoja.classList.contains('mini') ? 'mini' : 'normal';
+    if (!movio) return poner(est === 'normal' ? 'grande' : 'normal');
+    if (dy < -20) poner(est === 'mini' ? 'normal' : 'grande');
+    else if (dy > 20) poner(est === 'grande' ? 'normal' : 'mini');
+  });
+  asa.addEventListener('pointercancel', () => { y0 = null; });
+  // al abrir de nuevo la hoja vuelve a su tamaño normal
+  new MutationObserver(() => {
+    const c = hoja.classList;
+    if (!c.contains('abierta') && (c.contains('mini') || c.contains('grande'))) c.remove('mini', 'grande');
+  }).observe(hoja, { attributes: true, attributeFilter: ['class'] });
+  return hoja;
+}
 const UI = {
   actual: null, limpieza: null,
   // cambia de pantalla; cada pantalla es una función que devuelve {el, salir?}

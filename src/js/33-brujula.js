@@ -72,6 +72,7 @@ Pantallas.juego_brujula = (cfg) => {
   P.escena.append(globoCont, capa, h('div.orden-zona', tarjeta, salida), ayuda, h('div.accion', btnAqui), P.hoja);
 
   let globo;
+  P.onHoja = () => globo && S.estado !== 'jugando' && globo.setPad({ top: 8, bottom: P.hoja.offsetHeight }, 300);
   const geomCompas = () => {
     const g = globo.geom();
     return { x: g.cx, y: g.cy, r: Math.min(150, g.R * .62, (P.escena.clientWidth - 24) / 2) };

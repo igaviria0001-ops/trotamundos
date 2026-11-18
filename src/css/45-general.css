@@ -53,3 +53,8 @@ input, textarea { user-select: text; -webkit-user-select: text; }
 .ex-cerca-item b { font-size: .82rem; line-height: 1.1; }
 .ex-cerca-item small { font-weight: 700; font-size: .74rem; color: var(--tinta2); }
 .creditos-btn.borrar { color: #B8483A; }
+/* hoja achicada: solo el asa y el botón, para ver el globo de atrás */
+.hoja.mini .hoja-scroll { display: none; }
+.hoja.mini .asa::after { content: 'Ver más'; position: absolute; left: 50%; top: 14px; transform: translateX(-50%); font-weight: 800; font-size: .7rem; color: var(--tinta3); white-space: nowrap; }
+.hoja.mini .asa { height: 32px; }
+button.asa { touch-action: none; }

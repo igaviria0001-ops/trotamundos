@@ -35,6 +35,7 @@ Pantallas.juego_banderasviento = (cfg) => {
   P.escena.append(globoCont, h('div.orden-zona', carta), ayuda, controles, accion, tendedero, P.hoja);
 
   let globo;
+  P.onHoja = () => globo && globo.setPad(pads(), 300);
   const ahora = () => rondas[P.i];
   const pads = () => {
     const res = P.escena.classList.contains('con-resultado'), r = ahora();

@@ -16,7 +16,7 @@ function crearPartida({ modo, cfg, n, onSalir }) {
   const escena = h('div.escena');
   const hojaCont = h('div.contenido');
   const hojaPie = h('div.pie');
-  const hoja = h('div.hoja', h('button.asa', { 'aria-label': 'Agrandar o achicar', onclick: () => { hoja.classList.toggle('grande'); Sonido.play('papel'); } }), h('div.scroll.hoja-scroll', hojaCont), hojaPie);
+  const hoja = hojaConAsa(hojaCont, hojaPie, '', () => P.onHoja && P.onHoja());
   const P = {
     puntos: 0, i: 0, res: [], fin: false,
     get n() { return n; },
